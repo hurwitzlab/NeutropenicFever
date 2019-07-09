@@ -72,7 +72,7 @@ bplot_vap
 panel <- bplot_vap + facet_grid(Patient ~ .,scales="free_y",space="free")
 panel
 
-out_file="/Users/aponsero/Desktop/jimmy_figures/vap/ggsave_vapfacet_TIFF.tiff"
+out_file="/Users/aponsero/Desktop/jimmy_figures/vap/ggsave_vapfacet_TIFF.pdf"
 ggsave(out_file, width = 25, height = 17, units = "cm")
 
 out_file="/Users/aponsero/Desktop/jimmy_figures/vap/ggsave_vapfacet.pdf"
@@ -143,22 +143,26 @@ data_plot <- bind_rows(true_pos,false_pos) %>% mutate(tax_name = fct_reorder(tax
 data_plot <- data_plot %>% mutate(abundance=pct*100)
 
 #fix order of the facets
-names_experiments=c('E. coli - S. flexneri', 'E. coli - S. saprophyticus', 'S. saprophyticus - S. pyogenes')
+names_experiments=c('E. coli - S. flexneri', 'S. saprophyticus - S. pyogenes', 'E. coli - S. saprophyticus')
 data_plot$Experiment_f = factor(data_plot$Experiment, levels=names_experiments)
 
 bplot_all = ggplot(data_plot, aes(mixture, tax_name)) + 
   geom_point(aes(size = abundance)) +
-  labs("abundance", y = "Organism", x = "mixture") + 
+  labs("abundance", y = "Organism", x = "expected ratios") + 
   geom_text(label=round(data_plot$abundance,1), nudge_y = -0.3)+
-  theme_classic(base_size = 10)+
-  theme(axis.text.y = element_text(face = "italic"))
+  scale_size(limits=c(0,100),breaks=c(0.1,1,5,10,25,50,75,100), labels=c("0.1","1","5","10","25","50","75","100"))+
+  theme_classic(base_size = 15)+
+  theme(axis.text.y = element_text(face = "italic",size = 15), 
+        axis.text.x = element_text(angle = 50, size = 15, hjust = 1),
+        strip.text.x = element_text(size = 15),
+        strip.text.y = element_text(size = 8))
 bplot_all
 
 panel <- bplot_all + facet_grid(data_plot$Experiment_f ~ tool,scales="free_y",space="free")
 panel
 
-out_file="/Users/aponsero/Desktop/jimmy_figures/all_bug_mix.tiff"
-ggsave(out_file, width = 40, height = 15, units = "cm")
+out_file="/Users/aponsero/Desktop/jimmy_figures/all_bug_mix.pdf"
+ggsave(out_file, width = 40, height = 18, units = "cm")
 
 ### get R2 for Centrifuge
 R2_cent <-  readr::read_csv("/Users/aponsero/Desktop/jimmy_figures/bugmix/R2_cent.csv")
@@ -188,7 +192,7 @@ bugs <- c("Rhodobacter sphaeroides","Staphylococcus epidermidis",
           "Lactobacillus gasseri","Deinococcus radiodurans",
           "Enterococcus faecalis","Streptococcus pneumoniae","Bacteroides vulgatus")
 
-data_plot <- data_mock %>% filter(name %in% bugs) %>% gather(tool, abundance, Centrifuge:KrakenUnique)
+data_plot <- data_mock %>% select(-Centrifuge_std) %>% filter(name %in% bugs) %>% gather(tool, abundance, Centrifuge:KrakenUnique)
 
 #calculate the R2 coeficients
 R_label<-"R-squared = "
@@ -225,5 +229,5 @@ bplot_all = ggplot(data_plot, aes(abundance, Expected, color=tool)) +
   annotate("text", x = 1.00, y = 15.00, label = kraken_label, color = "#619CFF", size = 4)
 bplot_all
 
-out_file="/Users/aponsero/Desktop/jimmy_figures/R2.png"
+out_file="/Users/aponsero/Desktop/jimmy_figures/R2.pdf"
 ggsave(out_file, width = 17, height = 12, units = "cm")
