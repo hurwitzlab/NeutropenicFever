@@ -1,3 +1,0 @@
-Contains Centrifuge report files using the phv prebuilt index which consists of bacteria, viral, and human sequences. Used in order to quantify the amount of human reads found in each of the samples.
-
-Also included is a R script detailing the steps taken to determine the amount of human, microbial, and unknown sequences of each sample. The Centrifuge hits files were used for this analysis, but due to the large size of these files they are not included in this repository.

@@ -1,0 +1,717 @@
+TaxaName,Lineage,Count,Proportion_All(%),Proportion_Classified(%)
+Acanthamoeba castellanii,Eukaryota;;;Longamoebia;;Acanthamoeba,1,3.58379e-06,4.4417e-06
+Acetobacter pasteurianus,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acetobacter,5,1.79189e-05,2.22085e-05
+Acetobacterium woodii,Bacteria;Firmicutes;Clostridia;Clostridiales;Eubacteriaceae;Acetobacterium,10,3.58379e-05,4.4417e-05
+Acetohalobium arabaticum,Bacteria;Firmicutes;Clostridia;Halanaerobiales;Halobacteroidaceae;Acetohalobium,5,1.79189e-05,2.22085e-05
+Acholeplasma brassicae,Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma,1,3.58379e-06,4.4417e-06
+Acholeplasma laidlawii,Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma,1,3.58379e-06,4.4417e-06
+Achromobacter piechaudii,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter,3,1.07514e-05,1.33251e-05
+Achromobacter xylosoxidans,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter,4,1.43351e-05,1.77668e-05
+Acidovorax delafieldii,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax,1,3.58379e-06,4.4417e-06
+Acidovorax sp. JS42,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax,5,1.79189e-05,2.22085e-05
+Acinetobacter baumannii,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,80012,0.286746,0.35539
+Acinetobacter calcoaceticus,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,150,0.000537568,0.000666255
+Acinetobacter haemolyticus,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,145,0.000519649,0.000644047
+Acinetobacter johnsonii,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,7,2.50865e-05,3.10919e-05
+Acinetobacter junii,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,59,0.000211443,0.00026206
+Acinetobacter lwoffii,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,23,8.24271e-05,0.000102159
+Acinetobacter oleivorans,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,418,0.00149802,0.00185663
+Acinetobacter pittii,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,1216,0.00435788,0.00540111
+Acinetobacter radioresistens,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,16,5.73406e-05,7.10672e-05
+Acinetobacter sp. ADP1,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,13,4.65892e-05,5.77421e-05
+Actinobacillus pleuropneumoniae,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Actinobacillus,3,1.07514e-05,1.33251e-05
+Actinobacillus succinogenes,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Actinobacillus,1,3.58379e-06,4.4417e-06
+Actinomyces odontolyticus,Bacteria;Actinobacteria;Actinobacteria;Actinomycetales;Actinomycetaceae;Actinomyces,6198,0.0222123,0.0275297
+Actinoplanes friuliensis,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinoplanes,2,7.16757e-06,8.88341e-06
+Actinosynnema mirum,Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Actinosynnema,4,1.43351e-05,1.77668e-05
+Advenella kashmirensis,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Advenella,1,3.58379e-06,4.4417e-06
+Aerococcus urinae,Bacteria;Firmicutes;Bacilli;Lactobacillales;Aerococcaceae;Aerococcus,3,1.07514e-05,1.33251e-05
+Aerococcus viridans,Bacteria;Firmicutes;Bacilli;Lactobacillales;Aerococcaceae;Aerococcus,4,1.43351e-05,1.77668e-05
+Aeromonas hydrophila,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas,14,5.0173e-05,6.21838e-05
+Aeromonas salmonicida,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas,3,1.07514e-05,1.33251e-05
+Aeromonas veronii,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas,6,2.15027e-05,2.66502e-05
+Agathobacter rectalis,Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Agathobacter,1,3.58379e-06,4.4417e-06
+Aggregatibacter actinomycetemcomitans,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Aggregatibacter,2,7.16757e-06,8.88341e-06
+Aggregatibacter aphrophilus,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Aggregatibacter,13,4.65892e-05,5.77421e-05
+Agrobacterium tumefaciens,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Agrobacterium,1,3.58379e-06,4.4417e-06
+Akkermansia muciniphila,Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia,1,3.58379e-06,4.4417e-06
+Alcanivorax dieselolei,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae;Alcanivorax,3,1.07514e-05,1.33251e-05
+Alcanivorax sp. DG881,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae;Alcanivorax,5,1.79189e-05,2.22085e-05
+Alicyclobacillus acidocaldarius,Bacteria;Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;Alicyclobacillus,3,1.07514e-05,1.33251e-05
+Aliivibrio salmonicida,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Aliivibrio,1,3.58379e-06,4.4417e-06
+Alkaliphilus oremlandii,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Alkaliphilus,1,3.58379e-06,4.4417e-06
+Allochromatium vinosum,Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Allochromatium,2,7.16757e-06,8.88341e-06
+Alteromonadales bacterium TW-7,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;;,1,3.58379e-06,4.4417e-06
+Alteromonas mediterranea,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas,11,3.94216e-05,4.88587e-05
+Alteromonas sp. SN2,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas,9,3.22541e-05,3.99753e-05
+Aminobacterium colombiense,Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae;Aminobacterium,1,3.58379e-06,4.4417e-06
+Ammonifex degensii,Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Ammonifex,1,3.58379e-06,4.4417e-06
+Amphibacillus xylanus,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Amphibacillus,3,1.07514e-05,1.33251e-05
+Anaerobaculum mobile,Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae;Anaerobaculum,1,3.58379e-06,4.4417e-06
+Anaerococcus hydrogenalis,Bacteria;Firmicutes;Tissierellia;Tissierellales;Peptoniphilaceae;Anaerococcus,5,1.79189e-05,2.22085e-05
+Anaerococcus prevotii,Bacteria;Firmicutes;Tissierellia;Tissierellales;Peptoniphilaceae;Anaerococcus,1,3.58379e-06,4.4417e-06
+Anaerolinea thermophila,Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;Anaerolinea,2,7.16757e-06,8.88341e-06
+Anaplasma marginale,Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Anaplasma,1,3.58379e-06,4.4417e-06
+Anaplasma phagocytophilum,Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Anaplasma,8,2.86703e-05,3.55336e-05
+Anoxybacillus flavithermus,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Anoxybacillus,9,3.22541e-05,3.99753e-05
+Arcobacter nitrofigilis,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Arcobacter,1,3.58379e-06,4.4417e-06
+Arthrobacter arilaitensis,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter,1,3.58379e-06,4.4417e-06
+Aspergillus oryzae,Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus,3,1.07514e-05,1.33251e-05
+Azoarcus sp. BH72,Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus,1,3.58379e-06,4.4417e-06
+Azoarcus sp. KH32C,Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus,14,5.0173e-05,6.21838e-05
+Azorhizobium caulinodans,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Azorhizobium,1,3.58379e-06,4.4417e-06
+Azospirillum lipoferum,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Azospirillum,3,1.07514e-05,1.33251e-05
+Azotobacter vinelandii,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Azotobacter,3,1.07514e-05,1.33251e-05
+Bacillus amyloliquefaciens,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,3,1.07514e-05,1.33251e-05
+Bacillus anthracis,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,296,0.0010608,0.00131474
+Bacillus cellulosilyticus,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,7,2.50865e-05,3.10919e-05
+Bacillus cereus,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,382289,1.37004,1.69801
+Bacillus clausii,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,3,1.07514e-05,1.33251e-05
+Bacillus coagulans,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,143,0.000512481,0.000635163
+Bacillus coahuilensis,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,28,0.000100346,0.000124368
+Bacillus cytotoxicus,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,114,0.000408552,0.000506354
+Bacillus megaterium,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,39,0.000139768,0.000173226
+Bacillus methylotrophicus,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,7,2.50865e-05,3.10919e-05
+Bacillus sp. 1NLA3E,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,4,1.43351e-05,1.77668e-05
+Bacillus sp. B14905,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,100,0.000358379,0.00044417
+Bacillus sp. JS,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,1,3.58379e-06,4.4417e-06
+Bacillus sp. NRRL B-14911,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,35,0.000125433,0.00015546
+Bacillus sp. SG-1,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,4,1.43351e-05,1.77668e-05
+Bacillus subtilis,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,34,0.000121849,0.000151018
+Bacillus thuringiensis,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,888,0.0031824,0.00394423
+Bacillus toyonensis,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,32,0.000114681,0.000142134
+Bacillus weihenstephanensis,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,203,0.000727509,0.000901666
+Bacteroides sp. 3_1_19,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides,1,3.58379e-06,4.4417e-06
+Bacteroides sp. 3_1_33FAA,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides,1,3.58379e-06,4.4417e-06
+Bacteroides vulgatus,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides,12364,0.0443099,0.0549172
+Bacteroides xylanisolvens,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides,1,3.58379e-06,4.4417e-06
+Bartonella clarridgeiae,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bartonellaceae;Bartonella,1,3.58379e-06,4.4417e-06
+Beijerinckia indica,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Beijerinckia,8,2.86703e-05,3.55336e-05
+Bifidobacterium asteroides,Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium,1,3.58379e-06,4.4417e-06
+Bifidobacterium breve,Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium,1,3.58379e-06,4.4417e-06
+Bifidobacterium pseudocatenulatum,Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium,3,1.07514e-05,1.33251e-05
+Borrelia recurrentis,Bacteria;Spirochaetes;Spirochaetia;Spirochaetales;Borreliaceae;Borrelia,1,3.58379e-06,4.4417e-06
+Brevibacillus brevis,Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Brevibacillus,2,7.16757e-06,8.88341e-06
+Brevibacterium linens,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Brevibacteriaceae;Brevibacterium,1,3.58379e-06,4.4417e-06
+Brevibacterium mcbrellneri,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Brevibacteriaceae;Brevibacterium,1,3.58379e-06,4.4417e-06
+Brucella ceti,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella,5,1.79189e-05,2.22085e-05
+Brucella melitensis,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella,3,1.07514e-05,1.33251e-05
+Brucella sp. NVSL 07-0026,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella,15,5.37568e-05,6.66255e-05
+Bryopsis hypnoides,Eukaryota;Chlorophyta;Ulvophyceae;Bryopsidales;Bryopsidaceae;Bryopsis,1,3.58379e-06,4.4417e-06
+Buchnera aphidicola,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Buchnera,20,7.16757e-05,8.88341e-05
+Burkholderia ambifaria,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,2,7.16757e-06,8.88341e-06
+Burkholderia cenocepacia,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,3,1.07514e-05,1.33251e-05
+Burkholderia gladioli,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,1,3.58379e-06,4.4417e-06
+Burkholderia graminis,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,4,1.43351e-05,1.77668e-05
+Burkholderia phenoliruptrix,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,1,3.58379e-06,4.4417e-06
+Burkholderia pseudomallei,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,25,8.95947e-05,0.000111043
+Burkholderia rhizoxinica,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,12,4.30054e-05,5.33004e-05
+Burkholderia sp. H160,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,3,1.07514e-05,1.33251e-05
+Butyrivibrio proteoclasticus,Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Butyrivibrio,1,3.58379e-06,4.4417e-06
+Caldisericum exile,Bacteria;Caldiserica;Caldisericia;Caldisericales;Caldisericaceae;Caldisericum,1,3.58379e-06,4.4417e-06
+Calditerrivibrio nitroreducens,Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;Deferribacteraceae;Calditerrivibrio,7,2.50865e-05,3.10919e-05
+Caminibacter mediatlanticus,Bacteria;Proteobacteria;Epsilonproteobacteria;Nautiliales;Nautiliaceae;Caminibacter,4,1.43351e-05,1.77668e-05
+Campylobacter coli,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter,4,1.43351e-05,1.77668e-05
+Campylobacter jejuni,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter,25,8.95947e-05,0.000111043
+Candida dubliniensis,Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida,1,3.58379e-06,4.4417e-06
+Candida glabrata,Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Nakaseomyces,4,1.43351e-05,1.77668e-05
+Candidatus Atelocyanobacterium thalassa,Bacteria;Cyanobacteria;;Chroococcales;;Candidatus Atelocyanobacterium,4,1.43351e-05,1.77668e-05
+Candidatus Babela massiliensis,Bacteria;Proteobacteria;Deltaproteobacteria;;;Candidatus Babela,2,7.16757e-06,8.88341e-06
+Candidatus Baumannia cicadellinicola,Bacteria;Proteobacteria;Gammaproteobacteria;;;,8,2.86703e-05,3.55336e-05
+Candidatus Blochmannia floridanus,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Candidatus Blochmannia,4,1.43351e-05,1.77668e-05
+Candidatus Blochmannia vafer,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Candidatus Blochmannia,2,7.16757e-06,8.88341e-06
+Candidatus Carsonella ruddii,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Candidatus Carsonella,2,7.16757e-06,8.88341e-06
+Candidatus Cloacimonas acidaminovorans,Bacteria;Cloacimonetes;;;;Candidatus Cloacimonas,3,1.07514e-05,1.33251e-05
+Candidatus Endolissoclinum faulkneri,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Candidatus Endolissoclinum,2,7.16757e-06,8.88341e-06
+Candidatus Hamiltonella defensa,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Candidatus Hamiltonella,4,1.43351e-05,1.77668e-05
+Candidatus Liberibacter asiaticus,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Candidatus Liberibacter,10,3.58379e-05,4.4417e-05
+Candidatus Liberibacter solanacearum,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Candidatus Liberibacter,1,3.58379e-06,4.4417e-06
+Candidatus Midichloria mitochondrii,Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Candidatus Midichloriaceae;Candidatus Midichloria,2,7.16757e-06,8.88341e-06
+Candidatus Moranella endobia,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Candidatus Moranella,37,0.0001326,0.000164343
+Candidatus Pantoea carbekii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pantoea,13,4.65892e-05,5.77421e-05
+Candidatus Pelagibacter sp. IMCC9063,Bacteria;Proteobacteria;Alphaproteobacteria;Pelagibacterales;Pelagibacteraceae;Candidatus Pelagibacter,1,3.58379e-06,4.4417e-06
+Candidatus Portiera aleyrodidarum,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Candidatus Portiera,1,3.58379e-06,4.4417e-06
+Candidatus Rickettsia amblyommii,Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsia,1,3.58379e-06,4.4417e-06
+Candidatus Riesia pediculicola,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Candidatus Riesia,4,1.43351e-05,1.77668e-05
+Candidatus Saccharibacteria bacterium RAAC3_TM7_1,Bacteria;Candidatus Saccharibacteria;;;;,1,3.58379e-06,4.4417e-06
+Candidatus Symbiobacter mobilis,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Candidatus Symbiobacter,1,3.58379e-06,4.4417e-06
+Capnocytophaga gingivalis,Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Capnocytophaga,4,1.43351e-05,1.77668e-05
+Carboxydothermus hydrogenoformans,Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Carboxydothermus,3,1.07514e-05,1.33251e-05
+Carnobacterium maltaromaticum,Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Carnobacterium,32,0.000114681,0.000142134
+Carnobacterium sp. AT7,Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Carnobacterium,27,9.67622e-05,0.000119926
+Catenibacterium mitsuokai,Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium,1,3.58379e-06,4.4417e-06
+Cellulomonas gilvus,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Cellulomonas,1,3.58379e-06,4.4417e-06
+Cellulosilyticum lentocellum,Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Cellulosilyticum,14,5.0173e-05,6.21838e-05
+Chitinophaga pinensis,Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Chitinophaga,1,3.58379e-06,4.4417e-06
+Chlorobaculum parvum,Bacteria;Chlorobi;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobaculum,1,3.58379e-06,4.4417e-06
+Chromerida sp. RM11,Eukaryota;Chromerida;;;;,1,3.58379e-06,4.4417e-06
+Chromohalobacter salexigens,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter,4,1.43351e-05,1.77668e-05
+Chthonomonas calidirosea,Bacteria;Armatimonadetes;Chthonomonadetes;Chthonomonadales;Chthonomonadaceae;Chthonomonas,1,3.58379e-06,4.4417e-06
+Citreicella sp. SE45,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Citreicella,5,1.79189e-05,2.22085e-05
+Citrobacter freundii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Citrobacter,77,0.000275952,0.000342011
+Citrobacter koseri,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Citrobacter,328,0.00117548,0.00145688
+Citrobacter rodentium,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Citrobacter,396,0.00141918,0.00175891
+Citrobacter youngae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Citrobacter,138,0.000494562,0.000612955
+Clavibacter michiganensis,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Clavibacter,1,3.58379e-06,4.4417e-06
+Clostridiales bacterium 1_7_47FAA,Bacteria;Firmicutes;Clostridia;Clostridiales;;,7,2.50865e-05,3.10919e-05
+Clostridium autoethanogenum,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,6,2.15027e-05,2.66502e-05
+Clostridium beijerinckii,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,483513,1.73281,2.14762
+Clostridium botulinum,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,79,0.000283119,0.000350895
+Clostridium butyricum,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,3,1.07514e-05,1.33251e-05
+Clostridium carboxidivorans,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,1,3.58379e-06,4.4417e-06
+Clostridium cellulovorans,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,1,3.58379e-06,4.4417e-06
+Clostridium kluyveri,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,2,7.16757e-06,8.88341e-06
+Clostridium pasteurianum,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,1,3.58379e-06,4.4417e-06
+Clostridium perfringens,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,104,0.000372714,0.000461937
+Clostridium saccharobutylicum,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,16,5.73406e-05,7.10672e-05
+Clostridium saccharoperbutylacetonicum,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,9,3.22541e-05,3.99753e-05
+Clostridium tetani,Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium,3,1.07514e-05,1.33251e-05
+Collinsella aerofaciens,Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella,5,1.79189e-05,2.22085e-05
+Colwellia psychrerythraea,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia,1,3.58379e-06,4.4417e-06
+Comamonas testosteroni,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas,1,3.58379e-06,4.4417e-06
+Coprothermobacter proteolyticus,Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermodesulfobiaceae;Coprothermobacter,5,1.79189e-05,2.22085e-05
+Coraliomargarita akajimensis,Bacteria;Verrucomicrobia;Opitutae;Puniceicoccales;Puniceicoccaceae;Coraliomargarita,1,3.58379e-06,4.4417e-06
+Corynebacterium accolens,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,1,3.58379e-06,4.4417e-06
+Corynebacterium argentoratense,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,1,3.58379e-06,4.4417e-06
+Corynebacterium callunae,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,1,3.58379e-06,4.4417e-06
+Corynebacterium pseudotuberculosis,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,15004,0.0537711,0.0666433
+Corynebacterium tuberculostearicum,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,13,4.65892e-05,5.77421e-05
+Corynebacterium urealyticum,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,1,3.58379e-06,4.4417e-06
+Corynebacterium variabile,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,3,1.07514e-05,1.33251e-05
+Crocosphaera watsonii,Bacteria;Cyanobacteria;;Chroococcales;;Crocosphaera,43,0.000154103,0.000190993
+Cronobacter sakazakii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter,136,0.000487395,0.000604072
+Cronobacter turicensis,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter,23,8.24271e-05,0.000102159
+Cryptomonas paramecium,Eukaryota;;Cryptophyta;Cryptomonadales;Cryptomonadaceae;Cryptomonas,1,3.58379e-06,4.4417e-06
+Cupriavidus metallidurans,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus,2,7.16757e-06,8.88341e-06
+Cupriavidus taiwanensis,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus,2,7.16757e-06,8.88341e-06
+Cyanophora paradoxa,Eukaryota;;Glaucocystophyceae;;Cyanophoraceae;Cyanophora,1,3.58379e-06,4.4417e-06
+Dechloromonas aromatica,Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Dechloromonas,3,1.07514e-05,1.33251e-05
+Deinococcus geothermalis,Bacteria;Deinococcus-Thermus;Deinococci;Deinococcales;Deinococcaceae;Deinococcus,2,7.16757e-06,8.88341e-06
+Deinococcus radiodurans,Bacteria;Deinococcus-Thermus;Deinococci;Deinococcales;Deinococcaceae;Deinococcus,8146,0.0291935,0.0361821
+Delftia sp. Cs1-4,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia,1,3.58379e-06,4.4417e-06
+Desulfarculus baarsii,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfarculales;Desulfarculaceae;Desulfarculus,1,3.58379e-06,4.4417e-06
+Desulfitobacterium hafniense,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfitobacterium,3,1.07514e-05,1.33251e-05
+Desulfobacca acetoxidans,Bacteria;Proteobacteria;Deltaproteobacteria;Syntrophobacterales;Syntrophaceae;Desulfobacca,1,3.58379e-06,4.4417e-06
+Desulfomicrobium baculatum,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfomicrobiaceae;Desulfomicrobium,1,3.58379e-06,4.4417e-06
+Desulfomonile tiedjei,Bacteria;Proteobacteria;Deltaproteobacteria;Syntrophobacterales;Syntrophaceae;Desulfomonile,2,7.16757e-06,8.88341e-06
+Desulfosporosinus meridiei,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfosporosinus,6,2.15027e-05,2.66502e-05
+Desulfosporosinus orientis,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfosporosinus,27,9.67622e-05,0.000119926
+Desulfotomaculum nigrificans,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfotomaculum,7,2.50865e-05,3.10919e-05
+Desulfotomaculum reducens,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfotomaculum,2,7.16757e-06,8.88341e-06
+Desulfovibrio africanus,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio,4,1.43351e-05,1.77668e-05
+Desulfovibrio alaskensis,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio,1,3.58379e-06,4.4417e-06
+Desulfovibrio desulfuricans,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio,5,1.79189e-05,2.22085e-05
+Desulfovibrio gigas,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio,1,3.58379e-06,4.4417e-06
+Desulfovibrio magneticus,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio,1,3.58379e-06,4.4417e-06
+Desulfovibrio vulgaris,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio,1,3.58379e-06,4.4417e-06
+Desulfurispirillum indicum,Bacteria;Chrysiogenetes;Chrysiogenetes;Chrysiogenales;Chrysiogenaceae;Desulfurispirillum,4,1.43351e-05,1.77668e-05
+Desulfuromonas acetoxidans,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Desulfuromonas,45,0.00016127,0.000199877
+Dethiobacter alkaliphilus,Bacteria;Firmicutes;Clostridia;Clostridiales;Syntrophomonadaceae;Dethiobacter,7,2.50865e-05,3.10919e-05
+Dethiosulfovibrio peptidovorans,Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae;Dethiosulfovibrio,1,3.58379e-06,4.4417e-06
+Dickeya dadantii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Dickeya,15,5.37568e-05,6.66255e-05
+Dickeya zeae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Dickeya,28,0.000100346,0.000124368
+Dinoroseobacter shibae,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Dinoroseobacter,2,7.16757e-06,8.88341e-06
+Echinicola vietnamensis,Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cyclobacteriaceae;Echinicola,2,7.16757e-06,8.88341e-06
+Ectocarpus siliculosus,Eukaryota;Phaeophyceae;;Ectocarpales;Ectocarpaceae;Ectocarpus,1,3.58379e-06,4.4417e-06
+Edwardsiella ictaluri,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Edwardsiella,17,6.09244e-05,7.55089e-05
+Edwardsiella piscicida,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Edwardsiella,3,1.07514e-05,1.33251e-05
+Edwardsiella tarda,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Edwardsiella,20,7.16757e-05,8.88341e-05
+Ehrlichia canis,Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Ehrlichia,3,1.07514e-05,1.33251e-05
+Eikenella corrodens,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Eikenella,1,3.58379e-06,4.4417e-06
+Elusimicrobium minutum,Bacteria;Elusimicrobia;Elusimicrobia;Elusimicrobiales;Elusimicrobiaceae;Elusimicrobium,1,3.58379e-06,4.4417e-06
+Enhydrobacter aerosaccus,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Enhydrobacter,46,0.000164854,0.000204318
+Enterobacter aerogenes,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter,75,0.000268784,0.000333128
+Enterobacter asburiae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter,251,0.00089953,0.00111487
+Enterobacter cloacae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter,409,0.00146577,0.00181666
+Enterobacter lignolyticus,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter,522,0.00187074,0.00231857
+Enterobacter sp. 638,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter,122,0.000437222,0.000541888
+Enterobacter sp. R4-368,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter,113,0.000404968,0.000501912
+Enterobacteriaceae bacterium strain FGI 57,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;,382,0.00136901,0.00169673
+Enterococcus casseliflavus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,2,7.16757e-06,8.88341e-06
+Enterococcus faecalis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,9209,0.0330031,0.0409036
+Enterococcus faecium,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,194,0.000695255,0.00086169
+Enterococcus gallinarum,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,2,7.16757e-06,8.88341e-06
+Enterococcus hirae,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,16,5.73406e-05,7.10672e-05
+Enterococcus mundtii,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,1,3.58379e-06,4.4417e-06
+Erwinia amylovora,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Erwinia,4,1.43351e-05,1.77668e-05
+Erwinia billingiae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Erwinia,26,9.31784e-05,0.000115484
+Erwinia pyrifoliae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Erwinia,4,1.43351e-05,1.77668e-05
+Erwinia sp. Ejp617,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Erwinia,169,0.00060566,0.000750648
+Erwinia tasmaniensis,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Erwinia,23,8.24271e-05,0.000102159
+Erysipelothrix rhusiopathiae,Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix,1,3.58379e-06,4.4417e-06
+Escherichia coli,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia,2677723,9.59639,11.8936
+Escherichia fergusonii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia,1222,0.00437939,0.00542776
+Ethanoligenens harbinense,Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens,2,7.16757e-06,8.88341e-06
+Euglena gracilis,Eukaryota;Euglenida;;Euglenales;Euglenaceae;Euglena,1,3.58379e-06,4.4417e-06
+Exiguobacterium antarcticum,Bacteria;Firmicutes;Bacilli;Bacillales;;Exiguobacterium,2,7.16757e-06,8.88341e-06
+Exiguobacterium sp. AT1b,Bacteria;Firmicutes;Bacilli;Bacillales;;Exiguobacterium,1,3.58379e-06,4.4417e-06
+Ferrimonas balearica,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Ferrimonadaceae;Ferrimonas,12,4.30054e-05,5.33004e-05
+Filifactor alocis,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Filifactor,3,1.07514e-05,1.33251e-05
+Flavobacteriaceae bacterium 3519-10,Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;,1,3.58379e-06,4.4417e-06
+Francisella noatunensis,Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella,2,7.16757e-06,8.88341e-06
+Francisella tularensis,Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella,3,1.07514e-05,1.33251e-05
+Frankia symbiont of Datisca glomerata,Bacteria;Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Frankia,1,3.58379e-06,4.4417e-06
+Frateuria aurantia,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Frateuria,3,1.07514e-05,1.33251e-05
+Fusobacterium nucleatum,Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Fusobacterium,2,7.16757e-06,8.88341e-06
+Gallibacterium anatis,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Gallibacterium,3,1.07514e-05,1.33251e-05
+Gardnerella vaginalis,Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Gardnerella,10,3.58379e-05,4.4417e-05
+Geitlerinema sp. PCC 7407,Bacteria;Cyanobacteria;;Oscillatoriales;;Geitlerinema,7,2.50865e-05,3.10919e-05
+Gemella haemolysans,Bacteria;Firmicutes;Bacilli;Bacillales;;Gemella,8,2.86703e-05,3.55336e-05
+Gemmata obscuriglobus,Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gemmata,1,3.58379e-06,4.4417e-06
+Gemmatimonas aurantiaca,Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatimonas,1,3.58379e-06,4.4417e-06
+Geobacillus sp. C56-T3,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus,3,1.07514e-05,1.33251e-05
+Geobacillus sp. G11MC16,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus,15,5.37568e-05,6.66255e-05
+Geobacillus sp. GHH01,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus,4,1.43351e-05,1.77668e-05
+Geobacillus sp. JF8,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus,1,3.58379e-06,4.4417e-06
+Geobacillus sp. WCH70,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus,2,7.16757e-06,8.88341e-06
+Geobacillus sp. Y4.1MC1,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus,1,3.58379e-06,4.4417e-06
+Geobacillus thermodenitrificans,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus,2,7.16757e-06,8.88341e-06
+Geobacillus thermoglucosidasius,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus,9,3.22541e-05,3.99753e-05
+Geobacter bemidjiensis,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter,3,1.07514e-05,1.33251e-05
+Geobacter metallireducens,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter,1,3.58379e-06,4.4417e-06
+Glaciecola nitratireducens,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Glaciecola,1,3.58379e-06,4.4417e-06
+Glaciecola sp. 4H-3-7+YE-5,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Glaciecola,10,3.58379e-05,4.4417e-05
+Gloeocapsa sp. PCC 7428,Bacteria;Cyanobacteria;;Chroococcales;;Gloeocapsa,2,7.16757e-06,8.88341e-06
+Gluconacetobacter diazotrophicus,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter,4,1.43351e-05,1.77668e-05
+Gluconobacter oxydans,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconobacter,2,7.16757e-06,8.88341e-06
+Gordonibacter pamelaeae,Bacteria;Actinobacteria;Coriobacteriia;Eggerthellales;Eggerthellaceae;Gordonibacter,1,3.58379e-06,4.4417e-06
+Gottschalkia acidurici,Bacteria;Firmicutes;Clostridia;Clostridiales;;Gottschalkia,3,1.07514e-05,1.33251e-05
+Granulicella mallensis,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella,1,3.58379e-06,4.4417e-06
+Granulicella tundricola,Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae;Granulicella,2,7.16757e-06,8.88341e-06
+Grimontia hollisae,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Grimontia,3,1.07514e-05,1.33251e-05
+Haemophilus influenzae,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus,33,0.000118265,0.000146576
+Haemophilus parainfluenzae,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus,2,7.16757e-06,8.88341e-06
+Hahella chejuensis,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella,3,1.07514e-05,1.33251e-05
+Halobacillus halophilus,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Halobacillus,4,1.43351e-05,1.77668e-05
+Haloferax volcanii,Archaea;Euryarchaeota;Halobacteria;Haloferacales;Haloferacaceae;Haloferax,1,3.58379e-06,4.4417e-06
+Halomonas elongata,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas,2,7.16757e-06,8.88341e-06
+Halorhodospira halophila,Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Halorhodospira,2,7.16757e-06,8.88341e-06
+Halothermothrix orenii,Bacteria;Firmicutes;Clostridia;Halanaerobiales;Halanaerobiaceae;Halothermothrix,1,3.58379e-06,4.4417e-06
+Halothiobacillus neapolitanus,Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Halothiobacillaceae;Halothiobacillus,9,3.22541e-05,3.99753e-05
+Helicobacter acinonychis,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter,4,1.43351e-05,1.77668e-05
+Helicobacter bizzozeronii,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter,18,6.45081e-05,7.99506e-05
+Helicobacter cetorum,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter,2,7.16757e-06,8.88341e-06
+Helicobacter hepaticus,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter,2,7.16757e-06,8.88341e-06
+Helicobacter mustelae,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter,2,7.16757e-06,8.88341e-06
+Helicobacter pylori,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter,113900,0.408193,0.50591
+Helicosporidium sp. ex Simulium jonesi,Eukaryota;Chlorophyta;Trebouxiophyceae;Chlorellales;;Helicosporidium,1,3.58379e-06,4.4417e-06
+Heliobacterium modesticaldum,Bacteria;Firmicutes;Clostridia;Clostridiales;Heliobacteriaceae;Heliobacterium,3,1.07514e-05,1.33251e-05
+Herbaspirillum seropedicae,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Herbaspirillum,1,3.58379e-06,4.4417e-06
+Heterosigma akashiwo,Eukaryota;;Raphidophyceae;Chattonellales;Chattonellaceae;Heterosigma,1,3.58379e-06,4.4417e-06
+Histophilus somni,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Histophilus,1,3.58379e-06,4.4417e-06
+Hydrogenivirga sp. 128-5-R1-1,Bacteria;Aquificae;Aquificae;Aquificales;Aquificaceae;Hydrogenivirga,1,3.58379e-06,4.4417e-06
+Hydrogenobaculum sp. HO,Bacteria;Aquificae;Aquificae;Aquificales;Aquificaceae;Hydrogenobaculum,1,3.58379e-06,4.4417e-06
+Hyphomicrobium sp. MC1,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Hyphomicrobium,1,3.58379e-06,4.4417e-06
+Hyphomonas neptunium,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Hyphomonadaceae;Hyphomonas,2,7.16757e-06,8.88341e-06
+Idiomarina baltica,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Idiomarina,2,7.16757e-06,8.88341e-06
+Idiomarina loihiensis,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Idiomarina,6,2.15027e-05,2.66502e-05
+Isoptericola variabilis,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Promicromonosporaceae;Isoptericola,1,3.58379e-06,4.4417e-06
+Jannaschia sp. CCS1,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Jannaschia,1,3.58379e-06,4.4417e-06
+Janthinobacterium sp. Marseille,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium,1,3.58379e-06,4.4417e-06
+Ketogulonicigenium vulgare,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ketogulonicigenium,1,3.58379e-06,4.4417e-06
+Klebsiella oxytoca,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella,292,0.00104647,0.00129698
+Klebsiella pneumoniae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella,379,0.00135825,0.00168341
+Klebsiella sp. 1_1_55,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella,6,2.15027e-05,2.66502e-05
+Klebsiella variicola,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella,74,0.0002652,0.000328686
+Komagataeibacter medellinensis,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Komagataeibacter,1,3.58379e-06,4.4417e-06
+Kosmotoga olearia,Bacteria;Thermotogae;Thermotogae;Kosmotogales;Kosmotogaceae;Kosmotoga,2,7.16757e-06,8.88341e-06
+Labrenzia alexandrii,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Labrenzia,1,3.58379e-06,4.4417e-06
+Lachancea thermotolerans,Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Lachancea,1,3.58379e-06,4.4417e-06
+Lacinutrix sp. 5H-3-7-4,Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Lacinutrix,2,7.16757e-06,8.88341e-06
+Lactobacillus acidophilus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,65,0.000232946,0.000288711
+Lactobacillus amylolyticus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,1,3.58379e-06,4.4417e-06
+Lactobacillus brevis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,142,0.000508898,0.000630722
+Lactobacillus casei,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,2,7.16757e-06,8.88341e-06
+Lactobacillus crispatus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,1,3.58379e-06,4.4417e-06
+Lactobacillus delbrueckii,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,1,3.58379e-06,4.4417e-06
+Lactobacillus gasseri,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,39012,0.139811,0.17328
+Lactobacillus helveticus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,71,0.000254449,0.000315361
+Lactobacillus iners,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,2,7.16757e-06,8.88341e-06
+Lactobacillus jensenii,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,33,0.000118265,0.000146576
+Lactobacillus johnsonii,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,7,2.50865e-05,3.10919e-05
+Lactobacillus paracasei,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,22,7.88433e-05,9.77175e-05
+Lactobacillus reuteri,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,3,1.07514e-05,1.33251e-05
+Lactobacillus rhamnosus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,7,2.50865e-05,3.10919e-05
+Lactobacillus ruminis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,9,3.22541e-05,3.99753e-05
+Lactobacillus sakei,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,191,0.000684503,0.000848365
+Lactobacillus salivarius,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,10,3.58379e-05,4.4417e-05
+Lactobacillus sanfranciscensis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,1,3.58379e-06,4.4417e-06
+Lactococcus garvieae,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus,5,1.79189e-05,2.22085e-05
+Lactococcus lactis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus,73,0.000261616,0.000324244
+Lactococcus phage r1t,;;;Caudovirales;Siphoviridae;,1,3.58379e-06,4.4417e-06
+Lactococcus phage ul36,;;;Caudovirales;Siphoviridae;,1,3.58379e-06,4.4417e-06
+Laribacter hongkongensis,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Chromobacteriaceae;Laribacter,3,1.07514e-05,1.33251e-05
+Lawsonia intracellularis,Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Lawsonia,1,3.58379e-06,4.4417e-06
+Legionella longbeachae,Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella,20,7.16757e-05,8.88341e-05
+Legionella pneumophila,Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella,3,1.07514e-05,1.33251e-05
+Leifsonia xyli,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Leifsonia,2,7.16757e-06,8.88341e-06
+Leisingera methylohalidivorans,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Leisingera,5,1.79189e-05,2.22085e-05
+Leptospira biflexa,Bacteria;Spirochaetes;Spirochaetia;;Leptospiraceae;Leptospira,2,7.16757e-06,8.88341e-06
+Leptotrichia goodfellowii,Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;Leptotrichia,1,3.58379e-06,4.4417e-06
+Leuconostoc carnosum,Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc,1,3.58379e-06,4.4417e-06
+Leuconostoc citreum,Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc,1,3.58379e-06,4.4417e-06
+Leuconostoc sp. C2,Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc,3,1.07514e-05,1.33251e-05
+Listeria innocua,Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria,8,2.86703e-05,3.55336e-05
+Listeria ivanovii,Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria,5,1.79189e-05,2.22085e-05
+Listeria monocytogenes,Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria,57142,0.204785,0.253808
+Listeria seeligeri,Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria,7,2.50865e-05,3.10919e-05
+Listeria welshimeri,Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria,6,2.15027e-05,2.66502e-05
+Lyngbya sp. PCC 8106,Bacteria;Cyanobacteria;;Oscillatoriales;;Lyngbya,6,2.15027e-05,2.66502e-05
+Macrococcus caseolyticus,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Macrococcus,102,0.000365546,0.000453054
+Mageeibacillus indolicus,Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Mageeibacillus,1,3.58379e-06,4.4417e-06
+Magnetococcus marinus,Bacteria;Proteobacteria;Alphaproteobacteria;Magnetococcales;Magnetococcaceae;Magnetococcus,1,3.58379e-06,4.4417e-06
+Magnetospirillum magneticum,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetospirillum,2,7.16757e-06,8.88341e-06
+Mahella australiensis,Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacterales Family IV. Incertae Sedis;Mahella,4,1.43351e-05,1.77668e-05
+Malawimonas jakobiformis,Eukaryota;;;;Malawimonadidae;Malawimonas,4,1.43351e-05,1.77668e-05
+Mannheimia haemolytica,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Mannheimia,4,1.43351e-05,1.77668e-05
+Marinobacter adhaerens,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Marinobacter,1,3.58379e-06,4.4417e-06
+Marinobacter algicola,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Marinobacter,1,3.58379e-06,4.4417e-06
+Marinobacter hydrocarbonoclasticus,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Marinobacter,2,7.16757e-06,8.88341e-06
+Marinomonas mediterranea,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Marinomonas,3,1.07514e-05,1.33251e-05
+Megasphaera elsdenii,Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera,1,3.58379e-06,4.4417e-06
+Meiothermus ruber,Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Meiothermus,1,3.58379e-06,4.4417e-06
+Meiothermus silvanus,Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Meiothermus,3,1.07514e-05,1.33251e-05
+Melissococcus plutonius,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Melissococcus,2,7.16757e-06,8.88341e-06
+Mesorhizobium ciceri,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium,1,3.58379e-06,4.4417e-06
+Mesorhizobium loti,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium,3,1.07514e-05,1.33251e-05
+Mesorhizobium opportunistum,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium,2,7.16757e-06,8.88341e-06
+Methylibium petroleiphilum,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;;Methylibium,6,2.15027e-05,2.66502e-05
+Methylobacterium extorquens,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium,1,3.58379e-06,4.4417e-06
+Methylobacterium nodulans,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium,1,3.58379e-06,4.4417e-06
+Methylobacterium populi,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium,1,3.58379e-06,4.4417e-06
+Methylobacterium radiotolerans,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium,2,7.16757e-06,8.88341e-06
+Methylobacterium sp. 4-46,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium,2,7.16757e-06,8.88341e-06
+Methylocystis sp. SC2,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae;Methylocystis,1,3.58379e-06,4.4417e-06
+Methylomonas methanica,Bacteria;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae;Methylomonas,1,3.58379e-06,4.4417e-06
+Methylophaga frappieri,Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Methylophaga,30,0.000107514,0.000133251
+Methylophaga thiooxydans,Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Methylophaga,1,3.58379e-06,4.4417e-06
+Methylotenera mobilis,Bacteria;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae;Methylotenera,1,3.58379e-06,4.4417e-06
+Microbacterium testaceum,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium,1,3.58379e-06,4.4417e-06
+Micrococcus luteus,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Micrococcus,6,2.15027e-05,2.66502e-05
+Microcystis aeruginosa,Bacteria;Cyanobacteria;;Chroococcales;;Microcystis,1,3.58379e-06,4.4417e-06
+Monomastix sp. OKE-1,Eukaryota;Chlorophyta;Mamiellophyceae;Monomastigales;Monomastigaceae;Monomastix,1,3.58379e-06,4.4417e-06
+Moraxella catarrhalis,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Moraxella,1,3.58379e-06,4.4417e-06
+Morganella morganii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Morganella,43,0.000154103,0.000190993
+Moritella sp. PE36,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Moritellaceae;Moritella,4,1.43351e-05,1.77668e-05
+Mycobacterium canettii,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium,1,3.58379e-06,4.4417e-06
+Mycoplasma arthritidis,Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma,1,3.58379e-06,4.4417e-06
+Mycoplasma penetrans,Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma,1,3.58379e-06,4.4417e-06
+Mycoplasma synoviae,Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma,1,3.58379e-06,4.4417e-06
+Natranaerobius thermophilus,Bacteria;Firmicutes;Clostridia;Natranaerobiales;Natranaerobiaceae;Natranaerobius,2,7.16757e-06,8.88341e-06
+Neisseria cinerea,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,12,4.30054e-05,5.33004e-05
+Neisseria elongata,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,100,0.000358379,0.00044417
+Neisseria flavescens,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,6,2.15027e-05,2.66502e-05
+Neisseria gonorrhoeae,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,39,0.000139768,0.000173226
+Neisseria lactamica,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,144,0.000516065,0.000639605
+Neisseria meningitidis,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,60263,0.21597,0.26767
+Neisseria mucosa,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,7,2.50865e-05,3.10919e-05
+Neisseria polysaccharea,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,42,0.000150519,0.000186552
+Neisseria sicca,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,5,1.79189e-05,2.22085e-05
+Neisseria subflava,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,3,1.07514e-05,1.33251e-05
+Nephroselmis olivacea,Eukaryota;Chlorophyta;Nephroselmidophyceae;;;Nephroselmis,1,3.58379e-06,4.4417e-06
+Niastella koreensis,Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Niastella,1,3.58379e-06,4.4417e-06
+Nitrosococcus halophilus,Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Nitrosococcus,1,3.58379e-06,4.4417e-06
+Nocardiopsis alba,Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Nocardiopsaceae;Nocardiopsis,1,3.58379e-06,4.4417e-06
+Oceanimonas sp. GK1,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Oceanimonas,5,1.79189e-05,2.22085e-05
+Oceanithermus profundus,Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Oceanithermus,8,2.86703e-05,3.55336e-05
+Oceanobacillus iheyensis,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Oceanobacillus,53,0.000189941,0.00023541
+Ochrobactrum anthropi,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum,1,3.58379e-06,4.4417e-06
+Ochrobactrum intermedium,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum,1,3.58379e-06,4.4417e-06
+Odontella sinensis,Eukaryota;Bacillariophyta;Mediophyceae;Eupodiscales;Eupodiscaceae;Odontella,65,0.000232946,0.000288711
+Olsenella uli,Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Atopobiaceae;Olsenella,2,7.16757e-06,8.88341e-06
+Opitutus terrae,Bacteria;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus,1,3.58379e-06,4.4417e-06
+Oribacterium sp. oral taxon 078,Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Oribacterium,1,3.58379e-06,4.4417e-06
+Oscillatoria acuminata,Bacteria;Cyanobacteria;;Oscillatoriales;;Oscillatoria,1,3.58379e-06,4.4417e-06
+Oscillatoria nigro-viridis,Bacteria;Cyanobacteria;;Oscillatoriales;;Oscillatoria,1,3.58379e-06,4.4417e-06
+Ostreococcus tauri,Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Ostreococcus,2,7.16757e-06,8.88341e-06
+Paenibacillus larvae,Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus,2,7.16757e-06,8.88341e-06
+Paenibacillus mucilaginosus,Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus,2,7.16757e-06,8.88341e-06
+Paenibacillus sp. JDR-2,Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus,2,7.16757e-06,8.88341e-06
+Pantoea ananatis,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pantoea,194,0.000695255,0.00086169
+Pantoea sp. At-9b,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pantoea,158,0.000566238,0.000701789
+Pantoea vagans,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pantoea,55,0.000197108,0.000244294
+Paracoccus aminophilus,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus,3,1.07514e-05,1.33251e-05
+Paracoccus denitrificans,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus,9,3.22541e-05,3.99753e-05
+Paraglaciecola psychrophila,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Paraglaciecola,2,7.16757e-06,8.88341e-06
+Pararhodospirillum photometricum,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Pararhodospirillum,1,3.58379e-06,4.4417e-06
+Pasteurella multocida,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Pasteurella,5,1.79189e-05,2.22085e-05
+Paulinella chromatophora,Eukaryota;;;Euglyphida;Paulinellidae;Paulinella,1,3.58379e-06,4.4417e-06
+Pectobacterium atrosepticum,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pectobacterium,12,4.30054e-05,5.33004e-05
+Pectobacterium carotovorum,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pectobacterium,73,0.000261616,0.000324244
+Pectobacterium sp. SCC3193,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pectobacterium,3,1.07514e-05,1.33251e-05
+Pectobacterium wasabiae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pectobacterium,3,1.07514e-05,1.33251e-05
+Pediococcus claussenii,Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus,2,7.16757e-06,8.88341e-06
+Pedobacter sp. BAL39,Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Pedobacter,16,5.73406e-05,7.10672e-05
+Peptoclostridium difficile,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Peptoclostridium,69,0.000247281,0.000306477
+Peptostreptococcus anaerobius,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Peptostreptococcus,2,7.16757e-06,8.88341e-06
+Persephonella marina,Bacteria;Aquificae;Aquificae;Aquificales;Hydrogenothermaceae;Persephonella,1,3.58379e-06,4.4417e-06
+Phaeobacter gallaeciensis,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Phaeobacter,2,7.16757e-06,8.88341e-06
+Phaeobacter inhibens,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Phaeobacter,1,3.58379e-06,4.4417e-06
+Phenylobacterium zucineum,Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Phenylobacterium,1,3.58379e-06,4.4417e-06
+Photobacterium angustum,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium,1,3.58379e-06,4.4417e-06
+Photobacterium damselae,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium,5,1.79189e-05,2.22085e-05
+Photobacterium profundum,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium,23,8.24271e-05,0.000102159
+Photorhabdus asymbiotica,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Photorhabdus,8,2.86703e-05,3.55336e-05
+Photorhabdus luminescens,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Photorhabdus,7,2.50865e-05,3.10919e-05
+Phycisphaera mikurensis,Bacteria;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae;Phycisphaera,2,7.16757e-06,8.88341e-06
+Physarum polycephalum,Eukaryota;;;Physariida;Physaraceae;Physarum,35,0.000125433,0.00015546
+Plautia stali symbiont,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;,75,0.000268784,0.000333128
+Polaribacter sp. MED152,Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Polaribacter,1,3.58379e-06,4.4417e-06
+Polaromonas naphthalenivorans,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Polaromonas,1,3.58379e-06,4.4417e-06
+Porphyromonas endodontalis,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas,11,3.94216e-05,4.88587e-05
+Porphyromonas gingivalis,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas,1,3.58379e-06,4.4417e-06
+Prevotella dentalis,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella,325,0.00116473,0.00144355
+Prevotella melaninogenica,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella,2,7.16757e-06,8.88341e-06
+Propionibacterium acidipropionici,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium,1,3.58379e-06,4.4417e-06
+Propionibacterium acnes,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium,112503,0.403187,0.499705
+Propionibacterium freudenreichii,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium,1,3.58379e-06,4.4417e-06
+Propionibacterium propionicum,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium,1,3.58379e-06,4.4417e-06
+Proteus mirabilis,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Proteus,58,0.00020786,0.000257619
+Proteus vulgaris,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Proteus,10,3.58379e-05,4.4417e-05
+Providencia alcalifaciens,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Providencia,1,3.58379e-06,4.4417e-06
+Providencia stuartii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Providencia,15,5.37568e-05,6.66255e-05
+Pseudendoclonium akinetum,Eukaryota;Chlorophyta;Ulvophyceae;Ulvales;;Pseudendoclonium,2,7.16757e-06,8.88341e-06
+Pseudoalteromonas haloplanktis,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas,2,7.16757e-06,8.88341e-06
+Pseudoalteromonas sp. SM9913,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas,3,1.07514e-05,1.33251e-05
+Pseudoalteromonas tunicata,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas,8,2.86703e-05,3.55336e-05
+Pseudoflavonifractor capillosus,Bacteria;Firmicutes;Clostridia;Clostridiales;;Pseudoflavonifractor,2,7.16757e-06,8.88341e-06
+Pseudomonas aeruginosa,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,1600830,5.73703,7.11041
+Pseudomonas brassicacearum,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,1,3.58379e-06,4.4417e-06
+Pseudomonas denitrificans,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,7,2.50865e-05,3.10919e-05
+Pseudomonas entomophila,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,6,2.15027e-05,2.66502e-05
+Pseudomonas fluorescens,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,8,2.86703e-05,3.55336e-05
+Pseudomonas fulva,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,3,1.07514e-05,1.33251e-05
+Pseudomonas mendocina,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,9,3.22541e-05,3.99753e-05
+Pseudomonas phage B3,;;;Caudovirales;Siphoviridae;,33,0.000118265,0.000146576
+Pseudomonas phage D3112,;;;Caudovirales;Siphoviridae;D3112likevirus,733,0.00262692,0.00325577
+Pseudomonas phage MP29,;;;Caudovirales;Siphoviridae;D3112likevirus,65,0.000232946,0.000288711
+Pseudomonas phage Pf1,;;;;Inoviridae;Inovirus,143,0.000512481,0.000635163
+Pseudomonas poae,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,2,7.16757e-06,8.88341e-06
+Pseudomonas protegens,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,4,1.43351e-05,1.77668e-05
+Pseudomonas putida,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,81,0.000290287,0.000359778
+Pseudomonas resinovorans,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,4,1.43351e-05,1.77668e-05
+Pseudomonas savastanoi,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,2,7.16757e-06,8.88341e-06
+Pseudomonas sp. UW4,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,7,2.50865e-05,3.10919e-05
+Pseudomonas sp. VLB120,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,2,7.16757e-06,8.88341e-06
+Pseudomonas stutzeri,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,20,7.16757e-05,8.88341e-05
+Pseudomonas syringae,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,1,3.58379e-06,4.4417e-06
+Pseudomonas syringae group genomosp. 3,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,2,7.16757e-06,8.88341e-06
+Pseudovibrio sp. FO-BEG1,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Pseudovibrio,67,0.000240114,0.000297594
+Pseudovibrio sp. JE062,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Pseudovibrio,1,3.58379e-06,4.4417e-06
+Pseudoxanthomonas spadix,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Pseudoxanthomonas,3,1.07514e-05,1.33251e-05
+Pseudoxanthomonas suwonensis,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Pseudoxanthomonas,3,1.07514e-05,1.33251e-05
+Psychromonas ingrahamii,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Psychromonadaceae;Psychromonas,1,3.58379e-06,4.4417e-06
+Pyramimonas parkeae,Eukaryota;Chlorophyta;;Pyramimonadales;;Pyramimonas,5,1.79189e-05,2.22085e-05
+Rahnella aquatilis,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Rahnella,26,9.31784e-05,0.000115484
+Ralstonia pickettii,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia,1,3.58379e-06,4.4417e-06
+Ralstonia solanacearum,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia,7,2.50865e-05,3.10919e-05
+Ramlibacter tataouinensis,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Ramlibacter,1,3.58379e-06,4.4417e-06
+Raoultella ornithinolytica,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Raoultella,85,0.000304622,0.000377545
+Raphidiopsis brookii,Bacteria;Cyanobacteria;;Nostocales;Nostocaceae;Raphidiopsis,7,2.50865e-05,3.10919e-05
+Rhizobium etli,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium,1,3.58379e-06,4.4417e-06
+Rhizobium leguminosarum,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium,2,7.16757e-06,8.88341e-06
+Rhizobium sp. IRBG74,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium,1,3.58379e-06,4.4417e-06
+Rhizobium tropici,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium,1,3.58379e-06,4.4417e-06
+Rhodobacter capsulatus,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter,2,7.16757e-06,8.88341e-06
+Rhodobacter sp. SW2,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter,3,1.07514e-05,1.33251e-05
+Rhodobacter sphaeroides,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter,7256842,26.007,32.2327
+Rhodobacteraceae bacterium KLH11,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;,2,7.16757e-06,8.88341e-06
+Rhodobacterales bacterium Y4I,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;;,1,3.58379e-06,4.4417e-06
+Rhodococcus jostii,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Rhodococcus,1,3.58379e-06,4.4417e-06
+Rhodomicrobium vannielii,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Rhodomicrobium,6,2.15027e-05,2.66502e-05
+Rhodomonas salina,Eukaryota;;Cryptophyta;Pyrenomonadales;Pyrenomonadaceae;Rhodomonas,6,2.15027e-05,2.66502e-05
+Rhodopseudomonas palustris,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Rhodopseudomonas,7,2.50865e-05,3.10919e-05
+Rhodospirillum centenum,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum,1,3.58379e-06,4.4417e-06
+Rhodospirillum rubrum,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum,1,3.58379e-06,4.4417e-06
+Rhodothermus marinus,Bacteria;Bacteroidetes;;Bacteroidetes Order II. Incertae sedis;Rhodothermaceae;Rhodothermus,1,3.58379e-06,4.4417e-06
+Robiginitalea biformata,Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Robiginitalea,3,1.07514e-05,1.33251e-05
+Roseobacter sp. CCS2,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseobacter,5,1.79189e-05,2.22085e-05
+Roseobacter sp. GAI101,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseobacter,1,3.58379e-06,4.4417e-06
+Roseomonas cervicalis,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Roseomonas,1,3.58379e-06,4.4417e-06
+Roseovarius sp. TM1035,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius,1,3.58379e-06,4.4417e-06
+Rothia dentocariosa,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Rothia,7,2.50865e-05,3.10919e-05
+Rothia mucilaginosa,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Rothia,5,1.79189e-05,2.22085e-05
+Rubinisphaera brasiliensis,Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Rubinisphaera,2,7.16757e-06,8.88341e-06
+Ruegeria lacuscaerulensis,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria,2,7.16757e-06,8.88341e-06
+Ruegeria pomeroyi,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria,3,1.07514e-05,1.33251e-05
+Ruegeria sp. TM1040,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria,1,3.58379e-06,4.4417e-06
+Ruminiclostridium thermocellum,Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium,5,1.79189e-05,2.22085e-05
+Ruminococcus champanellensis,Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus,1,3.58379e-06,4.4417e-06
+Saccharomyces cerevisiae,Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces,1,3.58379e-06,4.4417e-06
+Sagittula stellata,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sagittula,9,3.22541e-05,3.99753e-05
+Salinibacter ruber,Bacteria;Bacteroidetes;;Bacteroidetes Order II. Incertae sedis;Rhodothermaceae;Salinibacter,2,7.16757e-06,8.88341e-06
+Salinispira pacifica,Bacteria;Spirochaetes;Spirochaetia;Spirochaetales;Spirochaetaceae;Salinispira,1,3.58379e-06,4.4417e-06
+Salmonella bongori,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella,268,0.000960455,0.00119038
+Salmonella enterica,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella,1549,0.00555128,0.0068802
+Selenomonas sp. oral taxon 149,Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Selenomonas,6,2.15027e-05,2.66502e-05
+Selenomonas sputigena,Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Selenomonas,1,3.58379e-06,4.4417e-06
+Serratia liquefaciens,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia,24,8.60109e-05,0.000106601
+Serratia marcescens,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia,62,0.000222195,0.000275386
+Serratia odorifera,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia,19,6.80919e-05,8.43923e-05
+Serratia plymuthica,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia,22,7.88433e-05,9.77175e-05
+Serratia proteamaculans,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia,28,0.000100346,0.000124368
+Shewanella amazonensis,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella,1,3.58379e-06,4.4417e-06
+Shewanella baltica,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella,3,1.07514e-05,1.33251e-05
+Shewanella benthica,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella,2,7.16757e-06,8.88341e-06
+Shewanella pealeana,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella,6,2.15027e-05,2.66502e-05
+Shewanella piezotolerans,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella,1,3.58379e-06,4.4417e-06
+Shewanella sp. ANA-3,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella,1,3.58379e-06,4.4417e-06
+Shigella boydii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella,1829,0.00655474,0.00812387
+Shigella dysenteriae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella,2286,0.00819254,0.0101537
+Shigella flexneri,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella,2638,0.00945403,0.0117172
+Shigella sonnei,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella,1196,0.00428621,0.00531228
+Shimwellia blattae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shimwellia,201,0.000720341,0.000892782
+Simiduia agarivorans,Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Cellvibrionaceae;Simiduia,4,1.43351e-05,1.77668e-05
+Sinorhizobium fredii,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Sinorhizobium,3,1.07514e-05,1.33251e-05
+Sinorhizobium meliloti,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Sinorhizobium,1,3.58379e-06,4.4417e-06
+Slackia heliotrinireducens,Bacteria;Actinobacteria;Coriobacteriia;Eggerthellales;Eggerthellaceae;Slackia,2,7.16757e-06,8.88341e-06
+Sodalis glossinidius,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Sodalis,38,0.000136184,0.000168785
+Solibacillus silvestris,Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Solibacillus,107,0.000383465,0.000475262
+Sphaerochaeta globosa,Bacteria;Spirochaetes;Spirochaetia;Spirochaetales;Spirochaetaceae;Sphaerochaeta,1,3.58379e-06,4.4417e-06
+Sphingobium sp. SYK-6,Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium,2,7.16757e-06,8.88341e-06
+Sphingomonas sp. MM-1,Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas,1,3.58379e-06,4.4417e-06
+Staphylococcus argenteus,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,85,0.000304622,0.000377545
+Staphylococcus aureus,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,632079,2.26524,2.80751
+Staphylococcus capitis,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,1944,0.00696688,0.00863467
+Staphylococcus caprae,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,6545,0.0234559,0.0290709
+Staphylococcus carnosus,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,72,0.000258033,0.000319803
+Staphylococcus epidermidis,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,4349429,15.5874,19.3189
+Staphylococcus haemolyticus,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,1749,0.00626804,0.00776854
+Staphylococcus hominis,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,3573,0.0128049,0.0158702
+Staphylococcus lugdunensis,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,402,0.00144068,0.00178556
+Staphylococcus pasteuri,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,14,5.0173e-05,6.21838e-05
+Staphylococcus phage 47,;;;Caudovirales;Siphoviridae;3alikevirus,1,3.58379e-06,4.4417e-06
+Staphylococcus phage 77,;;;Caudovirales;Siphoviridae;77likevirus,1,3.58379e-06,4.4417e-06
+Staphylococcus phage Ipla35,;;;Caudovirales;Siphoviridae;3alikevirus,1,3.58379e-06,4.4417e-06
+Staphylococcus phage PVL,;;;Caudovirales;Siphoviridae;,2,7.16757e-06,8.88341e-06
+Staphylococcus phage Slt,;;;Caudovirales;Siphoviridae;3alikevirus,2,7.16757e-06,8.88341e-06
+Staphylococcus phage phi2958PVL,;;;;;,2,7.16757e-06,8.88341e-06
+Staphylococcus pseudintermedius,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,74,0.0002652,0.000328686
+Staphylococcus saprophyticus,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,36,0.000129016,0.000159901
+Staphylococcus warneri,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,1100,0.00394216,0.00488587
+Starkeya novella,Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Starkeya,3,1.07514e-05,1.33251e-05
+Stenotrophomonas maltophilia,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,3,1.07514e-05,1.33251e-05
+Streptobacillus moniliformis,Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;Streptobacillus,1,3.58379e-06,4.4417e-06
+Streptococcus agalactiae,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,372981,1.33668,1.65667
+Streptococcus anginosus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,9,3.22541e-05,3.99753e-05
+Streptococcus constellatus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,159,0.000569822,0.000706231
+Streptococcus dysgalactiae,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,124,0.000444389,0.000550771
+Streptococcus equi,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,76,0.000272368,0.000337569
+Streptococcus equinus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,29,0.00010393,0.000128809
+Streptococcus gallolyticus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,5,1.79189e-05,2.22085e-05
+Streptococcus gordonii,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,2,7.16757e-06,8.88341e-06
+Streptococcus intermedius,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,150,0.000537568,0.000666255
+Streptococcus lutetiensis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,27,9.67622e-05,0.000119926
+Streptococcus macedonicus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,1,3.58379e-06,4.4417e-06
+Streptococcus mitis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,47,0.000168438,0.00020876
+Streptococcus mutans,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,4197240,15.042,18.6429
+Streptococcus oligofermentans,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,80,0.000286703,0.000355336
+Streptococcus oralis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,2,7.16757e-06,8.88341e-06
+Streptococcus parasanguinis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,2,7.16757e-06,8.88341e-06
+Streptococcus parauberis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,5,1.79189e-05,2.22085e-05
+Streptococcus pasteurianus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,1,3.58379e-06,4.4417e-06
+Streptococcus pneumoniae,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,4746,0.0170086,0.0210803
+Streptococcus pseudopneumoniae,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,2,7.16757e-06,8.88341e-06
+Streptococcus pyogenes,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,107,0.000383465,0.000475262
+Streptococcus salivarius,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,3,1.07514e-05,1.33251e-05
+Streptococcus sanguinis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,2,7.16757e-06,8.88341e-06
+Streptococcus sp. I-G2,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,9,3.22541e-05,3.99753e-05
+Streptococcus sp. M143,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,6,2.15027e-05,2.66502e-05
+Streptococcus sp. oral taxon 071,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,3,1.07514e-05,1.33251e-05
+Streptococcus suis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,83,0.000297454,0.000368661
+Streptococcus thermophilus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,12,4.30054e-05,5.33004e-05
+Streptococcus uberis,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,8,2.86703e-05,3.55336e-05
+Streptomyces bingchenggensis,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces,1,3.58379e-06,4.4417e-06
+Streptomyces cattleya,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces,2,7.16757e-06,8.88341e-06
+Streptomyces sp. Mg1,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces,24,8.60109e-05,0.000106601
+Streptomyces sp. SPB074,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces,6,2.15027e-05,2.66502e-05
+Streptomyces venezuelae,Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces,5,1.79189e-05,2.22085e-05
+Sulfuricella denitrificans,Bacteria;Proteobacteria;Betaproteobacteria;Sulfuricellales;Sulfuricellaceae;Sulfuricella,1,3.58379e-06,4.4417e-06
+Sulfurimonas denitrificans,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Sulfurimonas,5,1.79189e-05,2.22085e-05
+Synechococcus sp. JA-3-3Ab,Bacteria;Cyanobacteria;;Chroococcales;;Synechococcus,1,3.58379e-06,4.4417e-06
+Synechococcus sp. PCC 7002,Bacteria;Cyanobacteria;;Chroococcales;;Synechococcus,1,3.58379e-06,4.4417e-06
+Synechococcus sp. WH 8102,Bacteria;Cyanobacteria;;Chroococcales;;Synechococcus,8,2.86703e-05,3.55336e-05
+Taylorella equigenitalis,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Taylorella,2,7.16757e-06,8.88341e-06
+Tepidanaerobacter acetatoxydans,Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Tepidanaerobacter,1,3.58379e-06,4.4417e-06
+Teredinibacter turnerae,Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Cellvibrionaceae;Teredinibacter,1,3.58379e-06,4.4417e-06
+Tetragenococcus halophilus,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Tetragenococcus,2,7.16757e-06,8.88341e-06
+Thalassolituus oleivorans,Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Thalassolituus,1,3.58379e-06,4.4417e-06
+Thauera sp. MZ1T,Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera,3,1.07514e-05,1.33251e-05
+Thermacetogenium phaeum,Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Thermacetogenium,1,3.58379e-06,4.4417e-06
+Thermanaerovibrio acidaminovorans,Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae;Thermanaerovibrio,1,3.58379e-06,4.4417e-06
+Thermodesulfobacterium geofontis,Bacteria;Thermodesulfobacteria;Thermodesulfobacteria;Thermodesulfobacteriales;Thermodesulfobacteriaceae;Thermodesulfobacterium,1,3.58379e-06,4.4417e-06
+Thermomonospora curvata,Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Thermomonosporaceae;Thermomonospora,1,3.58379e-06,4.4417e-06
+Thermosinus carboxydivorans,Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Thermosinus,1,3.58379e-06,4.4417e-06
+Thermus scotoductus,Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Thermus,1,3.58379e-06,4.4417e-06
+Thermus thermophilus,Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Thermus,2,7.16757e-06,8.88341e-06
+Thioalkalimicrobium cyclicum,Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Thioalkalimicrobium,4,1.43351e-05,1.77668e-05
+Thioalkalivibrio sp. K90mix,Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thioalkalivibrio,1,3.58379e-06,4.4417e-06
+Thioalkalivibrio sulfidiphilus,Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Thioalkalivibrio,1,3.58379e-06,4.4417e-06
+Thioflavicoccus mobilis,Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Thioflavicoccus,2,7.16757e-06,8.88341e-06
+Tistrella mobilis,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Tistrella,3,1.07514e-05,1.33251e-05
+Tolumonas auensis,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Tolumonas,9,3.22541e-05,3.99753e-05
+Truepera radiovictrix,Bacteria;Deinococcus-Thermus;Deinococci;Deinococcales;Trueperaceae;Truepera,8,2.86703e-05,3.55336e-05
+Turicibacter sanguinis,Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Turicibacter,3,1.07514e-05,1.33251e-05
+Variovorax paradoxus,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax,1,3.58379e-06,4.4417e-06
+Vaucheria litorea,Eukaryota;Xanthophyceae;;Vaucheriales;Vaucheriaceae;Vaucheria,2,7.16757e-06,8.88341e-06
+Verminephrobacter eiseniae,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Verminephrobacter,1,3.58379e-06,4.4417e-06
+Verrucomicrobiae bacterium DG1235,Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;;,2,7.16757e-06,8.88341e-06
+Verrucosispora maris,Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Verrucosispora,1,3.58379e-06,4.4417e-06
+Vibrio anguillarum,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,4,1.43351e-05,1.77668e-05
+Vibrio antiquarius,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,7,2.50865e-05,3.10919e-05
+Vibrio campbellii,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,106,0.000379881,0.00047082
+Vibrio cholerae,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,25,8.95947e-05,0.000111043
+Vibrio coralliilyticus,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,3,1.07514e-05,1.33251e-05
+Vibrio furnissii,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,4,1.43351e-05,1.77668e-05
+Vibrio harveyi,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,4,1.43351e-05,1.77668e-05
+Vibrio mimicus,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,2,7.16757e-06,8.88341e-06
+Vibrio nigripulchritudo,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,3,1.07514e-05,1.33251e-05
+Vibrio orientalis,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,1,3.58379e-06,4.4417e-06
+Vibrio parahaemolyticus,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,6,2.15027e-05,2.66502e-05
+Vibrio shilonii,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,2,7.16757e-06,8.88341e-06
+Vibrio sp. AND4,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,2,7.16757e-06,8.88341e-06
+Vibrio sp. EJY3,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,3,1.07514e-05,1.33251e-05
+Vibrio sp. RC341,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,4,1.43351e-05,1.77668e-05
+Vibrio sp. RC586,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,5,1.79189e-05,2.22085e-05
+Vibrio splendidus,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,3,1.07514e-05,1.33251e-05
+Vibrio tasmaniensis,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,7,2.50865e-05,3.10919e-05
+Vibrio vulnificus,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,12,4.30054e-05,5.33004e-05
+Vibrionales bacterium SWAT-3,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;;,7,2.50865e-05,3.10919e-05
+Wigglesworthia glossinidia,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Wigglesworthia,17,6.09244e-05,7.55089e-05
+Wolbachia endosymbiont of Onchocerca ochengi,Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Wolbachia,1,3.58379e-06,4.4417e-06
+Wolinella succinogenes,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Wolinella,1,3.58379e-06,4.4417e-06
+Xanthomonas campestris,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas,1,3.58379e-06,4.4417e-06
+Xenorhabdus bovienii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Xenorhabdus,3,1.07514e-05,1.33251e-05
+Xenorhabdus nematophila,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Xenorhabdus,20,7.16757e-05,8.88341e-05
+Yersinia aldovae,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,12,4.30054e-05,5.33004e-05
+Yersinia bercovieri,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,6,2.15027e-05,2.66502e-05
+Yersinia enterocolitica,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,73,0.000261616,0.000324244
+Yersinia frederiksenii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,5,1.79189e-05,2.22085e-05
+Yersinia intermedia,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,6,2.15027e-05,2.66502e-05
+Yersinia kristensenii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,9,3.22541e-05,3.99753e-05
+Yersinia mollaretii,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,6,2.15027e-05,2.66502e-05
+Yersinia pestis,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,134,0.000480227,0.000595188
+Yersinia pseudotuberculosis,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,11,3.94216e-05,4.88587e-05
+Yersinia rohdei,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,2,7.16757e-06,8.88341e-06
+Yersinia ruckeri,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia,24,8.60109e-05,0.000106601
+Zymomonas mobilis,Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas,5,1.79189e-05,2.22085e-05
+[Bacillus] selenitireducens,Bacteria;Firmicutes;Bacilli;Bacillales;Sporolactobacillaceae;,2,7.16757e-06,8.88341e-06
+[Clostridium] cellulolyticum,Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium,16,5.73406e-05,7.10672e-05
+[Clostridium] clariflavum,Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium,2,7.16757e-06,8.88341e-06
+[Clostridium] stercorarium,Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium,1,3.58379e-06,4.4417e-06
+[Eubacterium] hallii,Bacteria;Firmicutes;Clostridia;Clostridiales;Eubacteriaceae;Eubacterium,4,1.43351e-05,1.77668e-05
+[Haemophilus] ducreyi,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus,1,3.58379e-06,4.4417e-06
+[Mannheimia] succiniciproducens,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Basfia,2,7.16757e-06,8.88341e-06
+[Ruminococcus] gnavus,Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia,9,3.22541e-05,3.99753e-05
+alpha proteobacterium HIMB59,Bacteria;Proteobacteria;Alphaproteobacteria;Pelagibacterales;Pelagibacteraceae;,4,1.43351e-05,1.77668e-05
+delta proteobacterium MLMS-1,Bacteria;Proteobacteria;Deltaproteobacteria;;;,1,3.58379e-06,4.4417e-06
+delta proteobacterium NaphS2,Bacteria;Proteobacteria;Deltaproteobacteria;;;,4,1.43351e-05,1.77668e-05
+gamma proteobacterium HTCC5015,Bacteria;Proteobacteria;Gammaproteobacteria;;;,2,7.16757e-06,8.88341e-06
+gamma proteobacterium HdN1,Bacteria;Proteobacteria;Gammaproteobacteria;;;,1,3.58379e-06,4.4417e-06
+gamma proteobacterium NOR5-3,Bacteria;Proteobacteria;Gammaproteobacteria;;;,2,7.16757e-06,8.88341e-06
+marine gamma proteobacterium HTCC2143,Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Spongiibacteraceae;,1,3.58379e-06,4.4417e-06
+marine gamma proteobacterium HTCC2148,Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Halieaceae;,4,1.43351e-05,1.77668e-05
+secondary endosymbiont of Ctenarytaina eucalypti,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;,8,2.86703e-05,3.55336e-05
+secondary endosymbiont of Heteropsylla cubana,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;,2,7.16757e-06,8.88341e-06
+uncultured Termite group 1 bacterium,Bacteria;Elusimicrobia;;;;,1,3.58379e-06,4.4417e-06
+UNKNOWN,UNKNOWN,5389562,19.315,-

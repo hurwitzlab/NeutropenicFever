@@ -1,0 +1,1574 @@
+pct,reads,sample,tax_id,tax_name
+0.26189778,7271518,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1063,Rhodobacter sphaeroides
+0.158247204,4393689,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1282,Staphylococcus epidermidis
+0.145168015,4030549,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1309,Streptococcus mutans
+0.056152128,1559048,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,562,Escherichia coli
+0.022389278,621632,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1280,Staphylococcus aureus
+0.017158503,476401,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,287,Pseudomonas aeruginosa
+0.012282098,341009,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1520,Clostridium beijerinckii
+0.012161082,337649,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1396,Bacillus cereus
+0.004159055,115475,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,210,Helicobacter pylori
+0.004018409,111570,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1747,Cutibacterium acnes
+0.002208018,61305,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,487,Neisseria meningitidis
+0.002068092,57420,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1639,Listeria monocytogenes
+0.001703097,47286,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,470,Acinetobacter baumannii
+0.001316383,36549,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1596,Lactobacillus gasseri
+0.000844561,23449,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,622,Shigella dysenteriae
+0.000608218,16887,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28035,Staphylococcus lugdunensis
+0.000564457,15672,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,621,Shigella boydii
+0.000467896,12991,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,821,Bacteroides vulgatus
+0.000357828,9935,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,208962,Escherichia albertii
+0.000337983,9384,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,623,Shigella flexneri
+0.000334453,9286,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1351,Enterococcus faecalis
+0.000300345,8339,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1311,Streptococcus agalactiae
+0.000292097,8110,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1299,Deinococcus radiodurans
+0.000246464,6843,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28901,Salmonella enterica
+0.000219163,6085,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1111760,Streptococcus troglodytae
+0.000177491,4928,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1313,Streptococcus pneumoniae
+0.000149866,4161,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1286,Staphylococcus simulans
+0.000108591,3015,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,573,Klebsiella pneumoniae
+9.83E-05,2730,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,564,Escherichia fergusonii
+8.89E-05,2468,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1428,Bacillus thuringiensis
+6.51E-05,1808,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1392,Bacillus anthracis
+6.19E-05,1719,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,624,Shigella sonnei
+5.67E-05,1575,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29385,Staphylococcus saprophyticus
+5.12E-05,1422,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1283,Staphylococcus haemolyticus
+4.82E-05,1337,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2420310,Streptococcus sp. FDAARGOS_522
+4.71E-05,1307,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1978467,Pseudomonas sp. AK6U
+3.89E-05,1079,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,550,Enterobacter cloacae
+3.05E-05,846,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,548,Klebsiella aerogenes
+3.00E-05,833,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,67825,Citrobacter rodentium
+2.75E-05,763,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,61645,Enterobacter asburiae
+2.73E-05,757,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1314,Streptococcus pyogenes
+2.70E-05,750,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,985762,Staphylococcus agnetis
+2.68E-05,744,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1719,Corynebacterium pseudotuberculosis
+2.37E-05,659,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2420309,Streptococcus sp. FDAARGOS_521
+2.37E-05,657,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1499973,Escherichia marmotae
+2.28E-05,633,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,52773,Schaalia meyeri
+2.23E-05,620,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1290,Staphylococcus hominis
+2.23E-05,619,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,546,Citrobacter freundii
+2.11E-05,586,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,693444,Enterobacteriaceae bacterium strain FGI 57
+1.91E-05,529,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1338,Streptococcus intermedius
+1.71E-05,475,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,35703,Citrobacter amalonaticus
+1.67E-05,464,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,160057,Klebsiella sp. KCL-2
+1.60E-05,445,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1334193,[Enterobacter] lignolyticus
+1.55E-05,429,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,106654,Acinetobacter nosocomialis
+1.51E-05,418,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,46127,Staphylococcus felis
+1.45E-05,403,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,303,Pseudomonas putida
+1.41E-05,392,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1914861,Enterobacter sp. SA187
+1.35E-05,375,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,61646,Lelliottia amnigena
+1.35E-05,374,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,563,Shimwellia blattae
+1.34E-05,373,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1134687,Klebsiella michiganensis
+1.34E-05,372,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,158822,Cedecea neteri
+1.33E-05,368,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,294,Pseudomonas fluorescens
+1.31E-05,363,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,587753,Pseudomonas chlororaphis
+1.29E-05,357,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2026189,Bacillus albus
+1.28E-05,356,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,54736,Salmonella bongori
+1.23E-05,341,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,283734,Staphylococcus pseudintermedius
+1.22E-05,340,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,61648,Kluyvera intermedia
+1.22E-05,340,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1292,Staphylococcus warneri
+1.20E-05,333,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,577,Raoultella terrigena
+1.19E-05,330,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,316,Pseudomonas stutzeri
+1.18E-05,329,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1288,Staphylococcus xylosus
+1.18E-05,327,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,52227,Prevotella dentalis
+1.16E-05,322,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,67827,Citrobacter werkmanii
+1.15E-05,318,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,67824,Citrobacter farmeri
+1.13E-05,315,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,565,Atlantibacter hermannii
+1.13E-05,314,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,53408,Pseudomonas citronellolis
+1.11E-05,309,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2479367,Buttiauxella sp. 3AFRM03
+1.11E-05,308,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,492670,Bacillus velezensis
+1.07E-05,297,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,158836,Enterobacter hormaechei
+1.04E-05,290,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,61647,Pluralibacter gergoviae
+1.01E-05,281,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,133448,Citrobacter youngae
+9.58E-06,266,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,208223,Kosakonia cowanii
+9.44E-06,262,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2562449,Citrobacter sp. SNU WT2
+9.44E-06,262,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1405,Bacillus mycoides
+9.18E-06,255,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1890302,Bacillus wiedmannii
+9.15E-06,254,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1294143,Pseudomonas sp. ATCC 13867
+9.15E-06,254,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2420308,Streptococcus sp. FDAARGOS_520
+8.97E-06,249,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2153385,Lelliottia sp. WB101
+8.86E-06,246,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1692238,Enterobacter sp. FY-07
+8.82E-06,245,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,571,Klebsiella oxytoca
+8.54E-06,237,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,244366,Klebsiella variicola
+8.36E-06,232,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2546350,Citrobacter sp. LY-1
+8.00E-06,222,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1310,Streptococcus sobrinus
+7.96E-06,221,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1505027,Staphylococcus phage 23MRA
+7.74E-06,215,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2044912,Staphylococcus sp. SDB 2975
+7.42E-06,206,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,881260,Enterobacter bugandensis
+7.42E-06,206,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,300,Pseudomonas mendocina
+7.38E-06,205,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,69218,Enterobacter cancerogenus
+7.28E-06,202,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,65741,Pseudomonas knackmussii
+7.28E-06,202,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,10708,Pseudomonas virus D3112
+7.13E-06,198,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29380,Staphylococcus caprae
+7.13E-06,198,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1702238,Clostridium sp. MF28
+7.06E-06,196,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1307,Streptococcus suis
+6.81E-06,189,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,580165,Bacillus cytotoxicus
+6.74E-06,187,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2153354,Klebsiella sp. WCHKl090001
+6.74E-06,187,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,178339,Actinomyces hongkongensis
+6.52E-06,181,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1308,Streptococcus thermophilus
+6.48E-06,180,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1304,Streptococcus salivarius
+6.45E-06,179,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1334,Streptococcus dysgalactiae
+6.41E-06,178,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,545,Citrobacter koseri
+6.37E-06,177,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1905288,Klebsiella sp. LTGPAF-6F
+6.30E-06,175,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,45634,Streptococcus cristatus
+6.16E-06,171,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,985002,Staphylococcus argenteus
+6.01E-06,167,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1907578,Lelliottia jeotgali
+5.98E-06,166,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2066051,Enterobacteriaceae bacterium ENNIH1
+5.83E-06,162,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29388,Staphylococcus capitis
+5.83E-06,162,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1336,Streptococcus equi
+5.80E-06,161,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,54291,Raoultella ornithinolytica
+5.69E-06,158,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,399742,Enterobacter sp. 638
+5.65E-06,157,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,70255,Staphylococcus condimenti
+5.62E-06,156,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,497725,Kosakonia oryzae
+5.55E-06,154,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1423,Bacillus subtilis
+5.51E-06,153,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28141,Cronobacter sakazakii
+5.51E-06,153,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1316409,Streptococcus sp. HSISB1
+5.47E-06,152,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1639133,Citrobacter portucalensis
+5.44E-06,151,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1491,Clostridium botulinum
+5.29E-06,147,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1812935,Enterobacter roggenkampii
+5.11E-06,142,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,64104,Bacillus pseudomycoides
+5.04E-06,140,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,308354,Staphylococcus simiae
+5.01E-06,139,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1158459,Kosakonia sacchari
+4.93E-06,137,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,53412,Pseudomonas resinovorans
+4.86E-06,135,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2027919,Enterobacter cloacae complex sp.
+4.72E-06,131,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,158823,Cedecea lapagei
+4.68E-06,130,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1149133,Pseudomonas furukawaii
+4.61E-06,128,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,885040,Enterobacter soli
+4.54E-06,126,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,36745,Clostridium saccharoperbutylacetonicum
+4.50E-06,125,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29382,Staphylococcus cohnii
+4.39E-06,122,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1295,Staphylococcus schleiferi
+4.21E-06,117,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1502,Clostridium perfringens
+4.14E-06,115,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43263,Pseudomonas alcaligenes
+4.07E-06,113,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2320867,Pseudomonas sp. K2W31S-8
+4.07E-06,113,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,641107,Clostridium sp. DL-VIII
+4.03E-06,112,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1166130,Enterobacter sp. R4-368
+3.96E-06,110,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,45972,Staphylococcus pasteuri
+3.71E-06,103,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,413501,Cronobacter muytjensii
+3.71E-06,103,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,485,Neisseria gonorrhoeae
+3.67E-06,102,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2529386,Bacillus sp. SYJ
+3.57E-06,99,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1163710,Cronobacter condimenti
+3.53E-06,98,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1892404,Bacillus sp. ABP14
+3.46E-06,96,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1856685,Pseudomonas sp. TCU-HL1
+3.42E-06,95,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1654388,Staphylococcus schweitzeri
+3.31E-06,92,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47880,Pseudomonas fulva
+3.31E-06,92,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1358,Lactococcus lactis
+3.28E-06,91,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,299767,Enterobacter ludwigii
+3.28E-06,91,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,82996,Serratia plymuthica
+3.28E-06,91,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1529068,Paracoccus sp. BM15
+3.24E-06,90,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,891974,Plautia stali symbiont
+3.13E-06,87,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1316408,Streptococcus sp. HSISM1
+3.10E-06,86,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1755504,Pseudomonas sp. DY-1
+3.06E-06,85,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,575,Raoultella planticola
+3.06E-06,85,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,76860,Streptococcus constellatus
+3.03E-06,84,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1379,Gemella haemolysans
+3.03E-06,84,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1328,Streptococcus anginosus
+2.92E-06,81,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2488567,Klebsiella sp. FDAARGOS_511
+2.92E-06,81,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,380021,Pseudomonas protegens
+2.92E-06,81,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,76759,Pseudomonas monteilii
+2.88E-06,80,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2066049,Citrobacter freundii complex sp. CFNIH2
+2.88E-06,80,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,312306,Pseudomonas entomophila
+2.88E-06,80,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2053832,Bacillus sp. HBCD-sjtu
+2.85E-06,79,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1492,Clostridium butyricum
+2.81E-06,78,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1463165,Klebsiella quasipneumoniae
+2.81E-06,78,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,215689,Erwinia sp. Ejp617
+2.81E-06,78,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,680,Vibrio campbellii
+2.70E-06,75,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,83655,Leclercia adecarboxylata
+2.70E-06,75,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2033869,Rhodobacter sp. CZR27
+2.67E-06,74,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,214473,Staphylococcus nepalensis
+2.67E-06,74,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,678600,Staphylococcus sp. CDC25
+2.59E-06,72,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,633807,Vagococcus penaei
+2.56E-06,71,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,317,Pseudomonas syringae
+2.56E-06,71,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,48296,Acinetobacter pittii
+2.49E-06,69,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,74829,Pseudomonas balearica
+2.49E-06,69,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2320868,Clostridium sp. CT4
+2.38E-06,66,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,632,Yersinia pestis
+2.38E-06,66,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1316412,Streptococcus sp. HSISS3
+2.34E-06,65,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2506420,Weissella sp. 26KH-42
+2.31E-06,64,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1335,Streptococcus equinus
+2.27E-06,63,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,651,Aeromonas media
+2.23E-06,62,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1392877,Pseudomonas oryzae
+2.23E-06,62,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,62322,Shewanella baltica
+2.20E-06,61,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,413502,Cronobacter turicensis
+2.20E-06,61,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1345,Streptococcus ferus
+2.12E-06,59,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2077147,Citrobacter freundii complex sp. CFNIH3
+2.12E-06,59,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,471,Acinetobacter calcoaceticus
+2.09E-06,58,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1930532,Pseudomonas sp. CC6-YY-74
+2.05E-06,57,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,104623,Serratia sp. ATCC 39006
+2.05E-06,57,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1245526,Pseudomonas guangdongensis
+2.02E-06,56,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,246432,Staphylococcus equorum
+1.98E-06,55,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,747,Pasteurella multocida
+1.98E-06,55,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,169679,Clostridium saccharobutylicum
+1.94E-06,54,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1335048,Defluviimonas alba
+1.91E-06,53,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2492396,Kosakonia sp. CCTCC M2018092
+1.91E-06,53,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,929813,Gibbsiella quercinecans
+1.91E-06,53,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47885,Pseudomonas oryzihabitans
+1.91E-06,53,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29379,Staphylococcus auricularis
+1.91E-06,53,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1352,Enterococcus faecium
+1.87E-06,52,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,208224,Enterobacter kobei
+1.80E-06,50,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1852377,Actinomyces pacaensis
+1.76E-06,49,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1920114,Leclercia sp. LSNIH1
+1.76E-06,49,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,645,Aeromonas salmonicida
+1.73E-06,48,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,364197,Pseudomonas pohangensis
+1.69E-06,47,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,76758,Pseudomonas orientalis
+1.69E-06,47,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,157783,Pseudomonas cremoricolorata
+1.66E-06,46,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,413497,Cronobacter dublinensis
+1.66E-06,46,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,666,Vibrio cholerae
+1.66E-06,46,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,486,Neisseria lactamica
+1.62E-06,45,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,283686,Kosakonia radicincitans
+1.62E-06,45,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,69220,Lelliottia nimipressuralis
+1.62E-06,45,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,198620,Pseudomonas koreensis
+1.62E-06,45,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,237610,Pseudomonas psychrotolerans
+1.62E-06,45,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,61015,Staphylococcus succinus
+1.58E-06,44,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,197614,Streptococcus pasteurianus
+1.58E-06,44,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,82348,Streptococcus pluranimalium
+1.58E-06,44,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,187452,Pediococcus claussenii
+1.55E-06,43,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1813821,Shigella sp. PAMC 28760
+1.55E-06,43,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,535744,Cronobacter universalis
+1.55E-06,43,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,615,Serratia marcescens
+1.55E-06,43,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,67780,Edwardsiella ictaluri
+1.51E-06,42,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1048758,Candidatus Moranella endobia
+1.48E-06,41,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2282309,Leclercia sp. W17
+1.48E-06,41,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1931241,Pseudomonas sp. S-6-2
+1.48E-06,41,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1316410,Streptococcus sp. HSISS1
+1.44E-06,40,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,413503,Cronobacter malonaticus
+1.37E-06,38,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,104087,Pseudomonas frederiksbergensis
+1.37E-06,38,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1305,Streptococcus sanguinis
+1.33E-06,37,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,57706,Citrobacter braakii
+1.33E-06,37,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,630,Yersinia enterocolitica
+1.33E-06,37,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,648,Aeromonas caviae
+1.33E-06,37,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,147645,Paracoccus yeei
+1.33E-06,37,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,102684,Streptococcus infantarius
+1.30E-06,36,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,582,Morganella morganii
+1.30E-06,36,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2025492,Staphylococcus sp. M0911
+1.30E-06,36,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2058136,Planococcus sp. MB-3u-03
+1.26E-06,35,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1702170,Citrobacter sp. FDAARGOS_156
+1.26E-06,35,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2026190,Bacillus mobilis
+1.26E-06,35,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1302,Streptococcus gordonii
+1.26E-06,35,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1316411,Streptococcus sp. HSISS2
+1.22E-06,34,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,70775,Pseudomonas plecoglossicida
+1.19E-06,33,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2529121,Citrobacter sp. ABFQG
+1.19E-06,33,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,516075,Providencia sneebia
+1.19E-06,33,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47883,Pseudomonas synxantha
+1.19E-06,33,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,658630,Pseudomonas sp. CMR5c
+1.19E-06,33,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,157782,Pseudomonas parafulva
+1.19E-06,33,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1898684,Pseudomonas sp. LPH1
+1.19E-06,33,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,658629,Pseudomonas sp. CMR12a
+1.19E-06,33,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,149016,Streptococcus urinalis
+1.19E-06,33,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33959,Lactobacillus johnsonii
+1.15E-06,32,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2282310,Leclercia sp. W6
+1.15E-06,32,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2054914,Pseudomonas sp. 02C 26
+1.15E-06,32,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,9606,Homo sapiens
+1.12E-06,31,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,61652,Serratia rubidaea
+1.12E-06,31,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,584,Proteus mirabilis
+1.12E-06,31,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,554,Pectobacterium carotovorum
+1.12E-06,31,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1028989,Pseudomonas sp. StFLB209
+1.12E-06,31,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1496,Clostridioides difficile
+1.08E-06,30,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,200451,Pseudomonas poae
+1.04E-06,29,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1563222,Citrobacter pasteurii
+1.04E-06,29,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1349,Streptococcus uberis
+1.04E-06,29,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1579,Lactobacillus acidophilus
+1.01E-06,28,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,271420,Pseudomonas xanthomarina
+1.01E-06,28,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,216142,Pseudomonas rhizosphaerae
+1.01E-06,28,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2049589,Pseudomonas sp. HLS-6
+9.72E-07,27,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,70258,Staphylococcus piscifermentans
+9.72E-07,27,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33040,Streptococcus milleri
+9.36E-07,26,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2487150,Metakosakonia sp. MRY16-398
+9.36E-07,26,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1486991,Candidatus Sodalis pierantonius
+9.36E-07,26,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,35806,Rhodovulum sulfidophilum
+9.36E-07,26,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,489,Neisseria polysaccharea
+9.36E-07,26,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28037,Streptococcus mitis
+9.00E-07,25,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1920110,Citrobacter sp. CFNIH10
+9.00E-07,25,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,36746,Pseudomonas cichorii
+9.00E-07,25,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,237609,Pseudomonas alkylphenolica
+9.00E-07,25,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1348,Streptococcus parauberis
+9.00E-07,25,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43675,Rothia mucilaginosa
+8.64E-07,24,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1199245,secondary endosymbiont of Ctenarytaina eucalypti
+8.64E-07,24,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,200450,Pseudomonas trivialis
+8.64E-07,24,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,150055,Streptococcus lutetiensis
+8.64E-07,24,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,361101,Streptococcus pseudoporcinus
+8.64E-07,24,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,759620,Weissella ceti
+8.28E-07,23,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2077149,Citrobacter freundii complex sp. CFNIH9
+8.28E-07,23,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2518644,Pseudomonas sp. SNU WT1
+8.28E-07,23,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1434072,Pseudomonas salegens
+8.28E-07,23,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,170573,Staphylococcus pettenkoferi
+8.28E-07,23,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1296,Staphylococcus sciuri
+8.28E-07,23,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,76853,Solibacillus silvestris
+8.28E-07,23,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1814128,Streptococcus halotolerans
+8.28E-07,23,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1316414,Enterococcus sp. HSIEG1
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1499686,Pseudomonas saudiphocaensis
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1404,Bacillus megaterium
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2093834,Bacillus sp. ZY-1-1
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1326,Streptococcus acidominimus
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1346,Streptococcus iniae
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1584,Lactobacillus delbrueckii
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,111015,Actinomyces radicidentis
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,81459,Entomoplasma melaleucae
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,445516,Staphylococcus phage tp310-2
+7.92E-07,22,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1505026,Staphylococcus phage 3MRA
+7.56E-07,21,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,351671,Xenorhabdus doucetiae
+7.56E-07,21,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1821960,Edwardsiella anguillarum
+7.56E-07,21,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47878,Pseudomonas azotoformans
+7.56E-07,21,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1827300,Pseudomonas sp. MYb193
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,301,Pseudomonas oleovorans
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,487184,Pseudomonas xinjiangensis
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,46677,Pseudomonas agarici
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2505979,Pseudomonas sp. 11K1
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2560053,Paracoccus sp. 2251
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1849491,Auricoccus indicus
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,407035,Salinicoccus halodurans
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,155322,Bacillus toyonensis
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,86664,Bacillus flexus
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33940,Geobacillus thermodenitrificans
+7.20E-07,20,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,182710,Oceanobacillus iheyensis
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2077136,Enterobacter cloacae complex sp. FDA-CDC-AR_0164
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47884,Pseudomonas taetrolens
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1736226,Pseudomonas sp. Leaf58
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2213057,Pseudomonas sp. R2A2
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1649877,Pseudomonas sp. CCOS 191
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,143813,Pseudomonas sp. LAB-08
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1920107,Aeromonas sp. ASNIH7
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2065379,Paracoccus sp. CBA4604
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1406,Paenibacillus polymyxa
+6.84E-07,19,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1624,Lactobacillus salivarius
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2172103,Limnobaculum parvum
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2479392,Pseudomonas sp. LTJR-52
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,395598,Pseudomonas reinekei
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,654,Aeromonas veronii
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,133924,Leisingera methylohalidivorans
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1229727,Salipiger profundus
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,373067,Staphylococcus sp. 693-2
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1294,Staphylococcus muscae
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33932,Bacillus cohnii
+6.48E-07,18,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2751,Carnobacterium maltaromaticum
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1778263,Candidatus Hoaglandella endobia
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47879,Pseudomonas corrugata
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,163011,Pseudomonas lini
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1853130,Pseudomonas silesiensis
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1785128,Acinetobacter lactucae
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,670,Vibrio parahaemolyticus
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1061,Rhodobacter capsulatus
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1075,Rhodobacter blasticus
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,221822,Phaeobacter inhibens
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29384,Staphylococcus kloosii
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,643214,Staphylococcus stepanovicii
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1329,Streptococcus canis
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1340,Streptococcus porcinus
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,109790,Lactobacillus jensenii
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29341,Clostridium argentinense
+6.12E-07,17,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,388413,Algoriphagus machipongonensis
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2077148,Citrobacter freundii complex sp. CFNIH4
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1703250,Citrobacter sp. CRE-46
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,592316,Pantoea sp. At-9b
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,930166,Pseudomonas brassicacearum
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,321662,Pseudomonas moraviensis
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1283291,Pseudomonas sp. URMO17WK12:I11
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1148509,Pseudomonas prosekii
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1148157,Acinetobacter oleivorans
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1319,Streptococcus sp. 'group B'
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,315405,Streptococcus gallolyticus
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1587,Lactobacillus helveticus
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1354,Enterococcus hirae
+5.76E-07,16,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1521,Ruminiclostridium cellulolyticum
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29486,Yersinia ruckeri
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29484,Yersinia frederiksenii
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2218628,Photorhabdus laumondii
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,183795,Pseudomonas mediterranea
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,46679,Pseudomonas mucidolens
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1274359,Pseudomonas sihuiensis
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,191390,Pseudomonas palleroniana
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,515393,Pseudomonas yamanorum
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,219572,Pseudomonas antarctica
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,39765,Hydrogenovibrio crunogenus
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28450,Burkholderia pseudomallei
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1844971,Curvibacter sp. AEP1-3
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1390,Bacillus amyloliquefaciens
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1398,Bacillus coagulans
+5.40E-07,15,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,400065,Streptococcus merionis
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1972757,Klebsiella sp. PO552
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1827481,Enterobacter sp. ODB01
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1778540,Dickeya fangzhongdai
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,703,Plesiomonas shigelloides
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,198618,Pseudomonas umsongensis
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1881017,Pseudomonas sp. 7SR1
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,658644,Pseudomonas sp. R5-89-07
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,52133,Acinetobacter venetianus
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,672,Vibrio vulnificus
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,483,Neisseria cinerea
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,658666,Bacillus bombysepticus
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,561879,Bacillus safensis
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,37482,Laceyella sacchari
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1343,Streptococcus vestibularis
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2173853,Streptococcus sp. Z15
+5.04E-07,14,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1303,Streptococcus oralis
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2500132,Enterobacter sp. N18-03635
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,588,Providencia stuartii
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,82983,Obesumbacterium proteus
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,101564,Pseudomonas alcaliphila
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1636607,Aeromonas sp. ASNIH2
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,89184,Ruegeria pomeroyi
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,155085,Staphylococcus lutrae
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,678601,Staphylococcus sp. CDC3
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,293387,Bacillus altitudinis
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1888195,Streptococcus himalayensis
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2036206,Aerococcaceae bacterium ZY16052
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1216932,Clostridium bornimense
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,671223,Propionibacterium sp. oral taxon 193
+4.68E-07,13,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2047,Rothia dentocariosa
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1934254,Klebsiella sp. M5al
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2026240,Klebsiella quasivariicola
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,618,Serratia odorifera
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,633,Yersinia pseudotuberculosis
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1259844,Pseudomonas sp. FGI182
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,85404,Mannheimia varigena
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1850250,Rhodobacter sp. LPB0142
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2500532,Paracoccus sp. Arc7-R13
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,195105,Haematobacter massiliensis
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2496837,Brevibacillus sp. SCSIO 07484
+4.32E-07,12,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1811193,Streptococcus pantholopis
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1560339,Enterobacter sp. E20
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1868135,Enterobacter sp. HK169
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1977566,Enterobacter sp. Crenshaw
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,51229,Wigglesworthia glossinidia
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2054919,Pseudomonas sp. S09G 359
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2073078,Pseudomonas sp. DTU12.3
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2494374,Tabrizicola sp. K13M18
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,53344,Staphylococcus delphini
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1642,Listeria innocua
+3.96E-07,11,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,52771,Actinomyces howellii
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2015795,Klebsiella sp. LY
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1778262,Candidatus Doolittlea endobia
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,53336,Tatumella citrea
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,638,Arsenophonus nasoniae
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,129817,Pseudomonas brenneri
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,75612,Pseudomonas mandelii
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2219057,Pseudomonas sp. LG1E9
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1981174,Pseudomonas sp. M30-35
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,86265,Pseudomonas thivervalensis
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,702115,Pseudomonas arsenicoxydans
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2083054,Pseudomonas sp. LG1D9
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,472181,Pseudomonas sabulinigri
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1628086,Pseudomonas kribbensis
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2005388,Pseudomonas sp. RU47
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,644,Aeromonas hydrophila
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,465721,Steroidobacter denitrificans
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1409,Bacillus sp. (in: Bacteria)
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1471761,Novibacillus thermophilus
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,137591,Weissella cibaria
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1509,Clostridium sporogenes
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2560010,Actinomyces sp. dk561
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1656,Actinomyces viscosus
+3.60E-07,10,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,376219,Arthrospira sp. PCC 8005
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,168169,Candidatus Ishikawaella capsulata
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1878942,Candidatus Fukatsuia symbiotica
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1235990,Candidatus Pantoea carbekii
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,204038,Dickeya dadantii
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1905730,Pectobacterium parmentieri
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33069,Pseudomonas viridiflava
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,95300,Pseudomonas vancouverensis
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1500687,Pseudomonas sp. St29
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2083055,Pseudomonas sp. LH1G9
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,186490,Candidatus Baumannia cicadellinicola
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,311180,Yangia pacifica
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2033435,Rhodobacteraceae bacterium QY30
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,96942,Vitreoscilla sp. C1
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1281,Staphylococcus carnosus
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1402,Bacillus licheniformis
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1917441,Streptococcus ruminantium
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2382163,Streptococcus sp. JS71
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1750,Pseudopropionibacterium propionicum
+3.24E-07,9,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1851395,Actinomyces sp. Chiba101
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1505596,Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1070130,Candidatus Gullanella endobia
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,472834,Candidatus Purcelliella pentastirinorum
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,470934,Pantoea vagans
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,9,Buchnera aphidicola
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,204042,Dickeya zeae
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,556,Dickeya chrysanthemi
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1239307,Sodalis praecaptivus
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,76760,Pseudomonas rhodesiae
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,75588,Pseudomonas libanensis
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,253237,Pseudomonas sp. phDV1
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1611770,Pseudomonas sp. MRSN12121
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40324,Stenotrophomonas maltophilia
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,326522,Neisseria animaloris
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2049935,Bacillus sp. Lzh-5
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2080759,Bacillus sp. DU-106
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,132920,Exiguobacterium antarcticum
+2.88E-07,8,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1318,Streptococcus parasanguinis
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,138072,Candidatus Hamiltonella defensa
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1920116,Leclercia sp. LSNIH3
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,34038,Rahnella aquatilis
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2575375,Pantoea sp. SO10
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,628,Xenorhabdus nematophila
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,63612,Sodalis glossinidius
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29442,Pseudomonas tolaasii
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,78327,Pseudomonas mosselii
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,296,Pseudomonas fragi
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,50340,Pseudomonas fuscovaginae
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2320270,Pseudomonas sp. DG56-2
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,53407,Pseudomonas asplenii
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,359110,Pseudomonas extremaustralis
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40214,Acinetobacter johnsonii
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,727,Haemophilus influenzae
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1208324,Celeribacter indicus
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1609966,Confluentimicrobium sp. EMB200-NS6
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1250539,Pelagibaca abyssi
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2009329,Sagittula sp. P11
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,66821,Sulfurospirillum multivorans
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,495,Neisseria elongata
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28449,Neisseria subflava
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1215031,Bacillus thermocopriae
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1413,Bacillus cellulosilyticus
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28031,Lysinibacillus fusiformis
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1426,Parageobacillus thermoglucosidasius
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1156431,Streptococcus sp. I-G2
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1590,Lactobacillus plantarum
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,51663,Pediococcus damnosus
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,649756,Anaerostipes hadrus
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29322,[Eubacterium] cellulosolvens
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,556499,Propionibacterium acidifaciens
+2.52E-07,7,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,456827,Candidatus Cloacimonas acidaminovorans
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2500542,Salmonella sp. SSDFZ54
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1915310,Enterobacter cloacae complex sp. ECNIH7
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1619313,Erwinia gerundensis
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,553,Pantoea ananatis
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,549,Pantoea agglomerans
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1484158,Pantoea sp. PSNIH1
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1891675,Pantoea alhagi
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,82987,Tatumella ptyseos
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1929246,Sodalis endosymbiont of Henestaris halophilus
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,55213,Brenneria rubrifaciens
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1109412,Brenneria goodwinii
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2083051,Pseudomonas sp. SWI6
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2559074,Pseudomonas sp. S150
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,122355,Pseudomonas psychrophila
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,797277,Pseudomonas litoralis
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,118613,Pseudomonas sp. B10
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1534110,Pseudomonas sp. DR 5-09
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1809055,Acinetobacter sp. DUT-2
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40215,Acinetobacter junii
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1758189,Acinetobacter sp. ACNIH2
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,669,Vibrio harveyi
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,74109,Photobacterium profundum
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,38293,Photobacterium damselae
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,339,Xanthomonas campestris
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,347,Xanthomonas oryzae
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,437505,Granulosicoccus antarcticus
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,34003,Paracoccus aminophilus
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1758178,Celeribacter ethanolicus
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2483033,Sedimentitalea sp. W43
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1933908,Bartonella sp. 11B
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,197,Campylobacter jejuni
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1853278,Neisseria sp. 10023
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1855823,Macrococcus canis
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1452,Bacillus atrophaeus
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1397,Bacillus circulans
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,79883,Bacillus horikoshii
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1643,Listeria welshimeri
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,59843,Paenibacillus glucanolyticus
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1839799,Streptococcus sp. FDAARGOS_192
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,113107,Streptococcus australis
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1504,Clostridium septicum
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1561,Clostridium baratii
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,46867,Clostridium chauvoei
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,217159,Clostridium carboxidivorans
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2496867,Flaviflexus sp. H23T48
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,37928,Arthrobacter crystallopoietes
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2483799,Georgenia sp. ZLJ0423
+2.16E-07,6,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2072503,Actinoalloteichus sp. AHMU CJ021
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2052938,Enterobacteriaceae bacterium S05
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,134287,secondary endosymbiont of Heteropsylla cubana
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,631,Yersinia intermedia
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28152,Yersinia kristensenii
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2126321,Nissabacter sp. SGAir0207
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1076550,Pantoea rwandensis
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,183417,Proteus hauseri
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1207075,Pseudomonas sp. UW4
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1788301,Pseudomonas versuta
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1636610,Pseudomonas sp. PONIH3
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1500686,Pseudomonas sp. Os17
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1421430,Pseudomonas granadensis
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29430,Acinetobacter haemolyticus
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1636609,Aeromonas sp. ASNIH4
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,190893,Vibrio coralliilyticus
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,715451,Alteromonas naphthalenivorans
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1077935,Paracoccus zhejiangensis
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2259340,Paracoccus sp. SC2-6
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,308754,Rhodovulum sp. MB263
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2493671,Mesorhizobium sp. M2A.F.Ca.ET.043.05.1.1
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,235,Brucella abortus
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,493,Neisseria canis
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,488,Neisseria mucosa
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1715860,Staphylococcus sp. AntiMn-1
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1898474,Macrococcus sp. IME1552
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,152268,Bacillus litoralis
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1638,Listeria ivanovii
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,257758,Streptococcus pseudopneumoniae
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,712633,Streptococcus sp. oral taxon 431
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,59310,Streptococcus macedonicus
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1363,Lactococcus garvieae
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1534,Clostridium kluyveri
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,182773,Clostridium isatidis
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33010,Cutibacterium avidum
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,402297,Nocardioides daphniae
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,712122,Actinomyces sp. oral taxon 414
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,544580,Actinomyces oris
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1282737,Flaviflexus salsibiostraticola
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1661,Trueperella pyogenes
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,42817,Corynebacterium argentoratense
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,54571,Streptomyces venezuelae
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,379067,Streptomyces bingchenggensis
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2033437,Chitinophaga sp. MD30
+1.80E-07,5,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,648017,Staphylococcus phage phiPVL-CN125
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1778264,Candidatus Mikella endobia
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2259647,Raoultella sp. X13
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,401619,Candidatus Riesia pediculicola
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,935293,Yersinia entomophaga
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,552,Erwinia amylovora
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,126385,Providencia alcalifaciens
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2027290,Providencia sp. WCHPr000369
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,634113,Candidatus Arsenophonus lipoptenae
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,204039,Dickeya dianthicola
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,636,Edwardsiella tarda
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1972431,Phytobacter ursingii
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,169669,Pseudomonas extremorientalis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2126069,Pseudomonas sp. LBUM920
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1659194,Pseudomonas sp. GR 6-02
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2025658,Pseudomonas sp. NS1(2017)
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2067572,Pseudomonas sp. NC02
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,691,Vibrio natriegens
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1295392,Photobacterium gaetbulicola
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,589873,Alteromonas australica
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,114186,Candidatus Carsonella ruddii
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2259620,Gammaproteobacteria bacterium soil36-7
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2070539,Gammaproteobacteria bacterium ESL0073
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,60890,Phaeobacter gallaeciensis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1411902,Celeribacter manganoxidans
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,421000,Sulfitobacter donghicola
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,74033,Antarctobacter heliothermus
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,56730,Rhizobium gallicum
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,382,Sinorhizobium meliloti
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,408,Methylorubrum extorquens
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1076,Rhodopseudomonas palustris
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29459,Brucella melitensis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,531813,Pelagibacterium halotolerans
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,171437,Tistrella mobilis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,212,Helicobacter acinonychis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,35814,Bordetella holmesii
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1284,Staphylococcus hyicus
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,69966,Macrococcus caseolyticus
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1839798,Bacillus sp. FDAARGOS_235
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1049581,Bacillus cellulasensis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1783501,Bacillus freudenreichii
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1408,Bacillus pumilus
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,264697,Bacillus muralis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,98228,Bacillus sp. OxB-1
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1471,Bacillus methanolicus
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33941,Geobacillus thermoleovorans
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1472767,Lentibacillus amyloliquefaciens
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2320858,Paenisporosarcina sp. K2R23-3
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2419773,Lactococcus sp. 1JSPR-7
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,60520,Lactobacillus paraplantarum
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1720083,Lactobacillus sp. HSLZ-75
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1245,Leuconostoc mesenteroides
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,128944,Aerococcus urinaehominis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1488,Clostridium acetobutylicum
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1493,Clostridium cellulovorans
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2086584,Mordavella sp. Marseille-P3756
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,885581,Desulfosporosinus acidiphilus
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,142877,Desulfitobacterium metallireducens
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,484770,Pelosinus sp. UFO1
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1744,Propionibacterium freudenreichii
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,119981,Propionibacterium australiense
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,399497,Tessaracoccus flavescens
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1332264,Tessaracoccus aquimaris
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2081702,Actinomyces sp. oral taxon 897
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2321394,Actinomyces sp. 2129
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2079536,Actinomyces sp. Z16
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2057800,Actinomyces sp. 410
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,52774,Actinomyces slackii
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,312285,Trueperella bialowiezensis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28447,Clavibacter michiganensis
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2017484,Brachybacterium sp. VM2412
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1658671,Arsenicicoccus sp. oral taxon 190
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,629680,Brevibacterium sandarakinum
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1901,Streptomyces clavuligerus
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,216816,Bifidobacterium longum
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,35760,Bifidobacterium choerinum
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2057025,Spirosoma pollinicola
+1.44E-07,4,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,851,Fusobacterium nucleatum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2267618,Klebsiella sp. P1CD1
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1505597,Blochmannia endosymbiont of Camponotus (Colobopsis) obliquus
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,203907,Candidatus Blochmannia floridanus
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1410383,Candidatus Tachikawaea gelatinosa
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47917,Serratia fonticola
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,263819,Yersinia aleksiciae
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1805933,Rahnella sp. ERMR1:05
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,55211,Erwinia persicina
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40577,Xenorhabdus poinarii
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,291112,Photorhabdus asymbiotica
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,69223,Dickeya paradisiaca
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,568766,Dickeya sp. NCPPB 3274
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1082704,Lonsdalea britannica
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,93378,Edwardsiella hoshinae
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1263550,Edwardsiella piscicida
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,546367,Hafnia paralvei
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,158841,Leminorella richardii
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,76761,Pseudomonas veronii
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,651740,Pseudomonas cedrina
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1583341,Pseudomonas cerasi
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2069256,Pseudomonas sp. XWY-1
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,150396,Pseudomonas sp. MT-1
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2054915,Pseudomonas sp. 09C 129
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1173284,Pseudomonas sp. R3-52-08
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28090,Acinetobacter lwoffii
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2004644,Acinetobacter sp. WCHA45
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1871111,Acinetobacter defluvii
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,673372,Vibrio casei
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1891186,Vibrio aphrogenes
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,76258,Vibrio rumoiensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,70864,Shewanella pealeana
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1965282,Shewanella sp. TH2012
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,192073,Shewanella denitrificans
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,714,Aggregatibacter actinomycetemcomitans
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,728,Avibacterium paragallinarum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1504981,Halomonas sp. KO116
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2014542,Alcanivorax sp. N3-2A
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28110,Francisella philomiragia
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2498451,Rheinheimera sp. LHK132
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1620215,Sulfuricaulis limicola
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,34004,Paracoccus aminovorans
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2099786,Ruegeria sp. NKC1-1
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1826607,Silicimonas algicola
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2169400,Gemmobacter sp. HYN0069
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1915078,Thioclava nitratireducens
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1267768,Brevirhabdus pacifica
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,379347,Epibacterium mobile
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,399,Neorhizobium galegae
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,739141,Methylobacterium sp. XJLW
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2057741,Bradyrhizobium sp. SK17
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1482074,Hartmannibacter diazotrophicus
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2060312,Altererythrobacter sp. B11
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,744985,alpha proteobacterium HIMB59
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,827,Campylobacter ureolyticus
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1853276,Neisseria sp. 10022
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,63,Vitreoscilla filiformis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,539,Eikenella corrodens
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,101571,Burkholderia ubonensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,95486,Burkholderia cenocepacia
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1546149,Diaphorobacter polyhydroxybutyrativorans
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,85698,Achromobacter xylosoxidans
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,105560,Methylibium petroleiphilum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,259537,Dechloromonas aromatica
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,72361,Bacillus vallismortis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,300825,Bacillus lehensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1467,Bacillus lentus
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1479,Bacillus smithii
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,352858,Bacillus sp. Y1
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2011012,Bacillus sp. FJAT-45348
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,189381,Bacillus marisflavi
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,279826,Bacillus foraminis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2086577,Lysinibacillus sp. Marseille-P5727
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1421,Lysinibacillus sphaericus
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33934,Anoxybacillus flavithermus
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1640,Listeria seeligeri
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,414778,Planococcus donghaensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1619311,Paenibacillus physcomitrellae
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2026,Thermoactinomyces vulgaris
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2021971,Streptococcus respiraculi
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1433513,Streptococcus sp. ChDC B345
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2490633,Streptococcus sp. KCOM 2412
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1156433,Streptococcus sp. I-P16
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,53444,Lactobacillus lindneri
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1613,Lactobacillus fermentum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1218493,Lactobacillus kullabergensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,637971,Lactobacillus koreensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1600,Lactobacillus acetotolerans
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,52242,Lactobacillus gallinarum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,526944,Tetragenococcus osmophilus
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1911586,Marinilactibacillus sp. 15R
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1377,Aerococcus viridans
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,238834,Clostridium estertheticum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,394958,Clostridium taeniosporum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1494,Clostridium cochlearium
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1542,Clostridium novyi
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1513,Clostridium tetani
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2483110,Clostridium sp. JN-1
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1548,Clostridium scatologenes
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29360,Cellulosilyticum lentocellum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,79209,Desulfosporosinus meridiei
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,129958,Carboxydothermus hydrogenoformans
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,252966,Mahella australiensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28187,Acetohalobium arabaticum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1712675,Turicibacter sp. H121
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1659,Actinomyces israelii
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,156978,Corynebacterium imitans
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,191610,Corynebacterium atypicum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,38302,Corynebacterium mycetoides
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,160386,Corynebacterium casei
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,388357,Kocuria turfanensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,556288,Brachybacterium saurashtrense
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2003551,Cellulomonas sp. PSBB021
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,443156,Phycicoccus dokdonensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,84757,Beutenbergia cavernae
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40318,Streptomyces nodosus
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2135430,Streptomyces sp. P3
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1681,Bifidobacterium bifidum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40988,Saccharomonospora azurea
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,113562,Actinoplanes derwentensis
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,35623,Acholeplasma oculi
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29552,Acholeplasma axanthum
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1005039,Fimbriimonas ginsengisoli
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1300914,Mucilaginibacter sp. PAMC 26640
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,128,Isosphaera pallida
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1674930,Staphylococcus phage vB_SauS_phi2
+1.08E-07,3,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,320837,Staphylococcus virus 42e
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2077137,Enterobacter cloacae complex sp. FDA-CDC-AR_0132
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1835721,secondary endosymbiont of Trabutina mannipara
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,671990,Serratia sp. FGI94
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1327989,Serratia sp. FS14
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1639108,Chania multitudinisentens
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,338565,Erwinia tasmaniensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1922217,Candidatus Erwinia haradaeae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,66269,Pantoea stewartii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1484157,Pantoea sp. PSNIH2
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40576,Xenorhabdus bovienii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,230089,Photorhabdus thracensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,235559,Arsenophonus endosymbiont of Aleurodicus dispersus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,568768,Dickeya sp. NCPPB 569
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2037915,Dickeya sp. Secpp 1600
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,55208,Pectobacterium wasabiae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2042057,Pectobacterium polaris
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29471,Pectobacterium atrosepticum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1578828,Edwardsiella sp. EA181011
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,569,Hafnia alvei
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1756993,Phytobacter sp. SCO41
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2217867,Pseudomonas sp. SGAir0191
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29438,Pseudomonas savastanoi
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2052956,Pseudomonas sp. ACM7
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2169583,Pseudomonas sp. SXM-1
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1173288,Pseudomonas sp. R4-39-08
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,244566,Pseudomonas lurida
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,658632,Pseudomonas sp. R11-23-07
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,658641,Pseudomonas sp. R2-7-07
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2079596,Acinetobacter sp. SWBY1
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2420305,Acinetobacter sp. FDAARGOS_560
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40216,Acinetobacter radioresistens
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,202950,Acinetobacter baylyi
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1636603,Acinetobacter sp. ACNIH1
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1879050,Acinetobacter wuhouensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1789224,Acinetobacter larvae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1808001,Acinetobacter sp. LoGeW2-3
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,487316,Acinetobacter soli
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2004646,Acinetobacter sp. WCHA55
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1646498,Acinetobacter sp. TTH0-4
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,108980,Acinetobacter ursingii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,476,Moraxella bovis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1074311,Vibrio alfacsensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,212663,Vibrio tasmaniensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,55601,Vibrio anguillarum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,80852,Aliivibrio wodanis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28108,Alteromonas macleodii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2267264,Alteromonas sp. RKMC-009
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2497879,Colwellia sp. Arc7-635
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,135577,Idiomarina loihiensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,732,Aggregatibacter aphrophilus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,738,Glaesserella parasuis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,81475,Frateuria aurantia
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1917421,Ketobacter alkanivorans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,657445,Francisella noatunensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,263,Francisella tularensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2169539,Gammaproteobacteria bacterium DM2
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,650377,endosymbiont of Euscepes postfasciatus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29423,Legionella oakridgensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,266,Paracoccus denitrificans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1945662,Paracoccus contaminans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1564506,Rhodovulum sp. P5
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1397108,Celeribacter marinus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,875171,Celeribacter baekdonensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2508306,Leisingera sp. NJS201
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,292414,Ruegeria sp. TM1040
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1792508,Yangia sp. CCB-MM3
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1458307,Octadecabacter temperatus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,215813,Dinoroseobacter shibae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,121719,Pannonibacter phragmitetus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,42443,Roseobacter litoralis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2552942,Boseongicola sp. CCM32
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,441209,Rhodobaca barguzinensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1434191,Glycocaulis alkaliphilus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,34021,Candidatus Liberibacter asiaticus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,556287,Candidatus Liberibacter solanacearum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1670800,Mesorhizobium oceanicum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,39645,Mesorhizobium ciceri
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2082387,Mesorhizobium sp. Pch-S
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,83263,Aminobacter aminovorans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,114616,Methylobacterium nodulans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1526658,Bosea vaviloviae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1867715,Bosea sp. Tri-49
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,155194,Bartonella bovis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,388640,Bartonella australis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,187303,Methylocystis sp. SC2
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1885025,Pleomorphomonas sp. SM30
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2560057,Terasakiella sp. SH-1
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,686597,Martelella sp. AD-3
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,220697,Thalassospira xiamenensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,318683,Gluconobacter albidus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1357916,Sphingopyxis sp. QXT-31
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,48935,Novosphingobium aromaticivorans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1896196,Porphyrobacter sp. LM 6
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2023229,Porphyrobacter sp. HT-58-2
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,944,Ehrlichia canis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,369822,Rickettsia raoultii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1509244,Candidatus Nucleicultrix amoebiphila
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,195,Campylobacter coli
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1813019,Campylobacter hepaticus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,492,Neisseria animalis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,484,Neisseria flavescens
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,490,Neisseria sicca
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,152480,Burkholderia ambifaria
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,82541,Cupriavidus gilardii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,305,Ralstonia solanacearum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,412963,Paraburkholderia rhizoxinica
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1795631,Variovorax sp. PAMC 28711
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,463040,Bordetella genomosp. 13
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1851544,Orrella dioscoreae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29575,Taylorella equigenitalis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,945844,Massilia oculi
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,863372,Herbaspirillum huttiense
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,34029,Leptothrix cholodnii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,42858,Staphylococcus lentus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1461582,Jeotgalicoccus saudimassiliensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,35841,Bacillus thermoamylovorans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1837130,Bacillus sp. FJAT-14266
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,421767,Bacillus butanolivorans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1581038,Bacillus sp. FJAT-22090
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,199441,Bacillus krulwichiae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1193713,Bacillus mesonae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,665099,Bacillus oceanisediminis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33938,Geobacillus thermocatenulatus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,471223,Geobacillus sp. WCH70
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,129338,Geobacillus subterraneus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2169540,Lysinibacillus sp. 2017
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1641,Listeria grayi
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2756,Brochothrix thermosphacta
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1785995,Gemella sp. oral taxon 928
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2213202,Planococcus sp. Y42
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1930764,Sporosarcina sp. P33
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,51101,Brevibacillus agri
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1903704,Tumebacillus avium
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1759399,Streptococcus sp. A12
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1825069,Streptococcus marmotae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1364,Lactococcus piscium
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1599,Lactobacillus sakei
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1303590,Lactobacillus bombi
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1580,Lactobacillus brevis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2419772,Lactobacillus sp. BHWM-4
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,240427,Lactobacillus paracollinoides
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,303541,Lactobacillus apis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,44008,Enterococcus cecorum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1501,Clostridium pasteurianum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,332101,Clostridium drakei
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,39485,[Eubacterium] eligens
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,853,Faecalibacterium prausnitzii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,499229,Tepidanaerobacter acetatoxydans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,158847,Megamonas hypermegale
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2487118,Erysipelotrichaceae bacterium SG0102
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1870984,Anaerococcus mediterraneensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33011,Cutibacterium granulosum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2057246,Acidipropionibacterium virtanenii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,630515,Microlunatus soli
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2500546,Nocardioides sp. HY056
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1804624,Nocardioides baekrokdamisoli
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2107713,Aeromicrobium sp. A1-2
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1960083,Actinomyces gaoshouyii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43990,Corynebacterium segmentosum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1121358,Corynebacterium doosanense
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1223514,Corynebacterium humireducens
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,38305,Corynebacterium vitaeruminis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1727,Corynebacterium variabile
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,702967,Corynebacterium sp. NML98-0116
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28028,Corynebacterium flavescens
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1810,Mycolicibacterium vaccae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1792,Mycolicibacterium chitae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1791,Mycolicibacterium aurum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,36814,Mycolicibacterium rhodesiae
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,679318,Rhodococcus sp. WMMA185
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1833,Rhodococcus erythropolis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,455432,Nocardia terpenica
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,712270,Dietzia sp. oral taxon 368
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,556325,Neomicrococcus aestuarii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1270,Micrococcus luteus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1714373,Microbacterium sp. No. 7
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,82380,Microbacterium oxydans
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,84292,Microbacterium chocolatum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2498704,Agromyces sp. LHK192
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,453304,Agromyces aureus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1561023,Curtobacterium sp. MR_MD2014
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,59737,Rathayibacter iranicus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1978566,Cryobacterium sp. LW097
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,412690,Microterricola viridarii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1446794,Frondihabitans sp. 762G35
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1331682,Brachybacterium ginsengisoli
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2571029,Brachybacterium sp. SGAir0954
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2017485,Brachybacterium sp. VR2415
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1711,Cellulomonas flavigena
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2566013,Cellulomonas sp. Z28
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,545619,Paraoerskovia marina
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,372663,Isoptericola dokdonensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1980001,Cellulosimicrobium sp. TH-20
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,186189,Xylanimonas cellulosilytica
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,68570,Streptomyces albulus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1355015,Streptomyces pluripotens
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,68246,Streptomyces olivoreticuli
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,158787,Bifidobacterium scardovii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1685,Bifidobacterium breve
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2702,Gardnerella vaginalis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33910,Amycolatopsis mediterranei
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1867,Actinoplanes teichomyceticus
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1877,Micromonospora echinospora
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2020,Thermomonospora curvata
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1411117,Actinomadura amylolytica
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2001,Streptosporangium roseum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2109685,Olsenella sp. GAM18
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2151,Mesoplasma florum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2095,Mycoplasma capricolum
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1615909,Geminocystis sp. NIES-3708
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1617448,Geminocystis sp. NIES-3709
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1080068,Leptolyngbya sp. O-77
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,454171,Chthonomonas calidirosea
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,357276,Bacteroides dorei
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28131,Prevotella intermedia
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,336810,Candidatus Sulcia muelleri
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,140,Borrelia hermsii
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,309805,Persephonella marina
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,940614,Granulicella mallensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1855912,Luteitalea pratensis
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,71366,Staphylococcus phage PVL
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,129009,Staphylococcus prophage phiPV83
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,430796,Staphylococcus phage phi2958PVL
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2169924,Escherichia virus HK633
+7.20E-08,2,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2011081,Pseudomonas virus Pf1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,251542,Candidatus Blochmannia chromaiodes
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,428411,Candidatus Riesia pediculischaeffi
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29483,Yersinia aldovae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2339259,Yersinia hibernica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,79967,Erwinia pyrifoliae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,158850,Providencia rustigianii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,587,Providencia rettgeri
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,585,Proteus vulgaris
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1089444,Dickeya solani
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2498113,Pragia sp. CF-458
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,82985,Pragia fontium
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47877,Pseudomonas amygdali
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1206777,Pseudomonas sp. Lz4W
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2201356,Pseudomonas sp. 31-12
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1855380,Pseudomonas sp. Z003-0.4C(8344-21)
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1173283,Pseudomonas sp. R3-18-08
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1306993,Pseudomonas soli
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1173270,Pseudomonas sp. R1-43-08
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2018067,Pseudomonas sp. FDAARGOS_380
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2083052,Pseudomonas sp. SWI36
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1886807,Pseudomonas sp. TMW 2.1634
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,321846,Pseudomonas simiae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1415630,Pseudomonas sp. TKP
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,69328,Pseudomonas sp. VLB120
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1495331,Pseudomonas sp. WCS374
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,353,Azotobacter chroococcum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,354,Azotobacter vinelandii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2420301,Acinetobacter sp. FDAARGOS_494
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,108981,Acinetobacter schindleri
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1608473,Acinetobacter sp. NCu2D-2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,106649,Acinetobacter guillouiae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2136182,Acinetobacter cumulans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,756892,Acinetobacter indicus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2004650,Acinetobacter sp. WCHAc010005
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1879049,Acinetobacter sp. WCHAc010034
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,480,Moraxella catarrhalis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,34062,Moraxella osloensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2283318,Moraxellaceae bacterium HYN0046
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,652,Aeromonas schubertii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1636606,Aeromonas sp. ASNIH1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43948,Tolumonas auensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,676,Vibrio fluvialis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,45658,Vibrio scophthalmi
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2479546,Vibrio sp. HBUAS61001
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40269,Aliivibrio salmonicida
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,24,Shewanella putrefaciens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,93973,Shewanella japonica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1930557,Shewanella sp. FDAARGOS_354
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,404011,Shewanella piezotolerans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,314275,Alteromonas mediterranea
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2304594,Marinobacter sp. Arc7-DN-1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2743,Marinobacter hydrocarbonoclasticus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2488665,Marinobacter sp. NP-4(2019)
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1874317,Marinobacter salinus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2172099,Catenovulum sp. CCB-QB4
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43662,Pseudoalteromonas piscicida
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43658,Pseudoalteromonas rubra
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1348114,Pseudoalteromonas piratica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1390185,Pseudoalteromonas sp. DL-6
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28107,Pseudoalteromonas espejiana
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2552945,Thalassotalea sp. HSM 43
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,314282,Psychromonas sp. CNPT3
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,44012,Ferrimonas balearica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,729,Haemophilus parainfluenzae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,730,[Haemophilus] ducreyi
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,720,Actinobacillus lignieresii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,715,Actinobacillus pleuropneumoniae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,343,Xanthomonas translucens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1985254,Xanthomonas phaseoli
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,435897,Lysobacter capsici
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,84531,Lysobacter antibioticus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2290922,Lysobacter sp. TY2-98
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2371,Xylella fastidiosa
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,445710,Dyella thiooxydans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2021234,Ahniella affigens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1883416,Halomonas sp. 1513
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,475662,Halomonas beimenensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1495769,Candidatus Evansia muelleri
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1306787,Alcanivorax pacificus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,178399,Marinomonas primoryensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,188908,Oleispira antarctica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,187493,Thalassolituus oleivorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1027273,Endozoicomonas montiporae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1238,Piscirickettsia salmonis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2211106,Thiomicrorhabdus sp. HaS4
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,622488,Francisella hispaniensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,594679,Allofrancisella guangzhouensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,83406,gamma proteobacterium HdN1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1543721,Sedimenticola thiotaurini
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1971488,endosymbiont of Pachyrhynchus infernalis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,80679,Thioflavicoccus mobilis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1166950,Candidatus Thiodictyon syntrophicum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1049,Allochromatium vinosum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,396595,Thioalkalivibrio sp. K90mix
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,106634,Thioalkalivibrio versutus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,351052,Alkalilimnicola ehrlichii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1052,Halorhodospira halochloris
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1579979,Wenzhouxiangella marina
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1987723,Cellvibrio sp. PSBB006
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,155077,Cellvibrio japonicus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1945512,Cellvibrio sp. PSBB023
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,393662,Congregibacter litoralis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,930805,Halioglobus japonicus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1769779,Microbulbifer aggregans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,446,Legionella pneumophila
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,45067,Legionella lansingensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1281578,Acidiferrobacter sp. SPIII_3
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1810504,Immundisolibacter cernigliae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1580596,Phaeobacter piscinae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2508307,Leisingera sp. NJS204
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2293862,Ruegeria sp. AD91A
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2171755,Rhodobacteraceae bacterium BAR1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1917485,Sulfitobacter sp. AM1-D1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2070369,Sulfitobacter sp. JL08
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2109625,Thalassococcus sp. SH-1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2017482,Thalassococcus sp. S3
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,215743,Roseovarius mucosus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,42444,Marinovum algicola
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,159346,Roseibacterium elongatum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,299262,Tateyamaria omphalii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2500533,Pseudorhodobacter sp. S12M18
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,245188,Yoonia vestfoldensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,290400,Jannaschia sp. CCS1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2724,Hirschia baltica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,29449,Rhizobium etli
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1125847,Rhizobium sp. NT-26
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1312183,Rhizobium jaguaris
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1825976,Neorhizobium sp. NCHU2750
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,358,Agrobacterium tumefaciens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1842534,Sinorhizobium sp. RAC02
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2493675,Mesorhizobium sp. M4B.F.Ca.ET.058.02.1.1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2493668,Mesorhizobium sp. M9A.F.Ca.ET.002.03.1.2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2493677,Mesorhizobium sp. M6A.T.Cr.TU.016.01.1.1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28104,Mesorhizobium huakuii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,381,Mesorhizobium loti
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2493672,Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1852022,Roseitalea porphyridii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,426117,Methylobacterium sp. 4-46
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,269660,Methylobacterium brachiatum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2051553,Methylobacterium currus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2067957,Methylobacterium sp. DM1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2202827,Methylobacterium sp. 17Sr1-28
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2082949,Microvirga sp. 17 mud 1-3
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1842539,Bosea sp. RAC05
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2015316,Bosea sp. AS-1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,375,Bradyrhizobium japonicum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,912,Nitrobacter hamburgensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1333996,Variibacter gotjawalensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1079,Blastochloris viridis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2083786,Devosia sp. I507
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1427356,Hyphomicrobium nitrativorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1069,Rhodomicrobium vannielii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,655015,Methylocystis bryophila
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,293089,Martelella mediterranea
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1486262,Martelella endophytica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1349819,Aureimonas sp. AU20
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2170729,Methyloceanibacter sp. wino2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,199596,Methylocella silvestris
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1978229,Beijerinckiaceae bacterium
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1458461,Candidatus Phaeomarinobacter ectocarpi
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2304600,Breoghania sp. L-A4
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2202148,Azospirillum sp. CFH 70021
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,709810,Azospirillum sp. TSA2s
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1226968,Azospirillum humicireducens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,682998,Azospirillum sp. M2T2B2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,664962,Azospirillum sp. TSH58
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,34018,Rhodospirillum centenum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1085,Rhodospirillum rubrum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1263979,Candidatus Endolissoclinum faulkneri
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,265959,Komagataeibacter saccharivorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,438,Acetobacter pasteurianus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33996,Gluconacetobacter diazotrophicus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1030157,Sphingomonas sp. KC8
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,93064,Sphingomonas koreensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2219696,Sphingomonas sp. FARSPH
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1549858,Sphingomonas taxi
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,135719,Sphingobium amiense
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,335406,Sphingosinicella microcystinivorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1850238,Rhizorhabdus dicambivorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1634516,Citromicrobium sp. JL477
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,542,Zymomonas mobilis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,215173,Wolbachia endosymbiont of Bemisia tabaci
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,786,Rickettsia akari
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,337479,Rickettsia endosymbiont of Bemisia tabaci
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2115978,Candidatus Phycorickettsia trachydisci
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,234827,Candidatus Midichloria mitochondrii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1925548,Candidatus Fonsibacter ubiquis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1940610,Phreatobacter stygius
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,767892,Candidatus Puniceispirillum marinum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,208216,Parvularcula bermudensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,138563,Helicobacter cetorum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,56877,Helicobacter bizzozeronii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28200,Arcobacter skirrowii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28199,Arcobacter nitrofigilis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,387092,Nitratiruptor sp. SB155-2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1882918,Pajaroellobacter abortibovis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,927083,Sandaracinus amylolyticus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,80816,Haliangium ochraceum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,483547,Geoalkalibacter subterraneus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,644968,Desulfovibrio sp. FW1012B
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,880,Desulfovibrio salexigens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,45663,Desulfohalobium retbaense
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,181663,Desulfococcus oleovorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1986146,Desulfobulbus oralis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1548548,Bradymonas sediminis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,655307,Neisseria sp. KEM232
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,748280,Pseudogulbenkiania sp. NH8B
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,168471,Laribacter hongkongensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,57975,Burkholderia thailandensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,342113,Burkholderia oklahomensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,13373,Burkholderia mallei
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,482957,Burkholderia lata
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,152500,Burkholderia dolosa
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28095,Burkholderia gladioli
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1855726,Burkholderia sp. KK1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,248026,Cupriavidus pinatubonensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1796606,Cupriavidus nantongensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,105219,Ralstonia mannitolilytica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,190721,Ralstonia insidiosa
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47671,Lautropia mirabilis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,93220,Pandoraea pnomenusa
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,576610,Polynucleobacter necessarius
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,80867,Acidovorax avenae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,232721,Acidovorax sp. JS42
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1842533,Acidovorax sp. RAC01
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,358220,Acidovorax sp. KKS102
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,225991,Comamonas aquatica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,225992,Comamonas kerstersii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2184519,Hydrogenophaga sp. NH-16
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,94132,Ramlibacter tataouinensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1678128,Limnohabitans sp. 63ED37-2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,519,Bordetella parapertussis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2028345,Pusillimonas sp. ye3
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,206506,Kerstersia gyiorum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,643674,Paenalcaligenes hominis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2072590,Massilia armeniaca
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,55508,Janthinobacterium agaricidamnosum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1658665,Mitsuaria sp. 7
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2494234,Sutterella megalosphaeroides
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,748247,Azoarcus sp. KH32C
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,198107,Azoarcus sp. CIB
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1134435,Thauera humireducens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,146939,Azospira oryzae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,327160,Candidatus Accumulibacter phosphatis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,994695,Candidatus Kinetoplastibacterium galatii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,189385,Candidatus Tremblaya princeps
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,417,Methylomonas clara
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,129985,Bacillus jeotgali
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,666686,Bacillus sp. 1NLA3E
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,228899,Bacillus asahii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1402861,Bacillus filamentosus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,450367,[Brevibacterium] frigoritolerans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1827146,Bacillus sp. IHB B 7164
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,324767,Bacillus infantis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2052936,Bacillus sp. Y-01
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,169283,Geobacillus lituanicus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1422,Geobacillus stearothermophilus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1233873,Geobacillus sp. GHH01
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2070463,Lysinibacillus sp. SGAir0095
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1295642,Parageobacillus genomosp. 1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1482,Virgibacillus halodenitrificans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2017483,Virgibacillus phasianinus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,255247,Fictibacillus arsenicus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1221500,Fictibacillus phosphorivorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33936,Aeribacillus pallidus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,402384,Halobacillus mangrovi
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1449,Amphibacillus xylanus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1302659,Planococcus versutus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,200991,Planococcus rifietoensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,161360,Planococcus antarcticus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1474,Sporosarcina pasteurii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,417367,Paenisporosarcina antarctica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,241244,Rummeliibacillus stabekisii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,51173,Ureibacillus thermosphaericus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,162209,Paenibacillus naphthalenovorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1178515,Paenibacillus swuensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,44251,Paenibacillus durus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1464,Paenibacillus larvae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,79263,Paenibacillus chitinolyticus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1566358,Paenibacillus sp. IHBB 10380
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,189426,Paenibacillus odorifer
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,405212,Alicyclobacillus acidocaldarius
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,78535,Streptococcus viridans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1902136,Streptococcus sp. NPS 308
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1366,Lactococcus raffinolactis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1582,Lactobacillus casei
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1597,Lactobacillus paracasei
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1623,Lactobacillus ruminis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1589,Lactobacillus pentosus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1612,Lactobacillus farciminis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1138822,Lactobacillus curieae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1847728,Lactobacillus allii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1603,Lactobacillus amylophilus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47770,Lactobacillus crispatus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2269374,Lactobacillus terrae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,97478,Lactobacillus mucosae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1604,Lactobacillus amylovorus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47715,Lactobacillus rhamnosus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2420313,Enterococcus sp. FDAARGOS_553
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,51669,Tetragenococcus halophilus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1252,Leuconostoc carnosum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1376,Aerococcus urinae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2068654,Clostridium sp. JN500901
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2507159,Clostridium sp. JN-9
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1519,Clostridium tyrobutyricum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,461876,Alkaliphilus oremlandii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,143361,Filifactor alocis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1912897,Blautia sp. N6H1-15
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1532,Blautia coccoides
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1834196,Lachnoclostridium sp. YL32
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1679721,Herbinix luporum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,233055,Desulfitobacterium dichloroeliminans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1565,Desulfotomaculum nigrificans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,51515,Dehalobacterium formicoaceticum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,471827,Candidatus Desulforudis audaxviator
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,863643,Thermincola potens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1981510,Monoglobus pectinilyticus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2734,Symbiobacterium thermophilum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2086585,Christensenella sp. Marseille-P3954
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,42838,Ammonifex degensii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,161154,Thermanaeromonas toyohensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1323375,Anoxybacter fermentans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,375929,Natranaerobius thermophilus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,69823,Selenomonas sputigena
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1884263,Selenomonas sp. oral taxon 920
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,907,Megasphaera elsdenii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,39950,Dialister pneumosintes
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1702221,Faecalibaculum rodentium
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,33033,Parvimonas micra
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,45497,[Clostridium] ultunense
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1556,Gottschalkia acidurici
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,243899,endosymbiont 'TC1' of Trimyema compressum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1610493,Tessaracoccus flavus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2161816,Tessaracoccus sp. Marseille-P5995
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1749,Acidipropionibacterium jensenii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,675864,Auraticoccus monumenti
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2045452,Nocardioides sp. 78
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2483798,Nocardioides sp. 603
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,110319,Nocardioides sp. CF8
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,450734,Nocardioides dokdonensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,546874,Friedmanniella sagamiharensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,75385,Micropruina glycogenica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,182640,Kribbella flavida
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2045,Pimelobacter simplex
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2057743,Actinomyces sp. 299
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1912795,Actinomyces tangfeifanii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43771,Corynebacterium urealyticum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,191493,Corynebacterium sphenisci
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1230998,Corynebacterium frankenforstense
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,225326,Corynebacterium halotolerans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1072256,Corynebacterium uterequi
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1231000,Corynebacterium lactis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,441500,Corynebacterium timonense
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43770,Corynebacterium striatum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,401472,Corynebacterium ureicelerivorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1724,Corynebacterium renale
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1772,Mycolicibacterium smegmatis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,46351,Mycolicibacterium hassiacum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,110539,Mycolicibacterium vanbaalenii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1768,Mycobacterium kansasii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,222805,Mycobacterium chimaera
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,482462,Mycobacterium dioxanotrophicus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1682113,Mycobacterium sp. YC-RL4
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,722731,Mycobacterium shigaense
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1545728,Mycobacterium sp. EPa45
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2487344,Mycobacterium sp. DL90
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1578165,Mycobacteroides saopaulense
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,36809,Mycobacteroides abscessus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,83262,Mycobacteroides immunogenum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,37919,Rhodococcus opacus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1990687,Rhodococcus sp. S2-17
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2507582,Rhodococcus sp. ABRD24
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43767,Rhodococcus hoagii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1805827,Rhodococcus sp. MTM3W5.2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,37329,Nocardia farcinica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2061,Tsukamurella paurometabola
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,36822,Gordonia rubripertincta
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,286802,Segniliparus rotundus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2020486,Arthrobacter sp. YN
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,656366,Arthrobacter alpinus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1849032,Arthrobacter sp. U41
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2211210,Arthrobacter sp. DCT-5
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,290399,Arthrobacter sp. FB24
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1806905,Arthrobacter sp. ZXY-2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1275,Kocuria rosea
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,71999,Kocuria palustris
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1049583,Kocuria indica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,361575,Pseudarthrobacter phenanthrenivorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1618207,Psychromicrobium lacuslunae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2567883,Citricoccus sp. SGAir0453
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2048898,Microbacterium sp. Y-01
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,162426,Microbacterium hominis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2483401,Microbacterium sp. 10M-3C3
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,104336,Microbacterium foliorum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,904291,Microbacterium sediminis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2033,Microbacterium testaceum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,370764,Microbacterium pygmaeum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,300019,Microbacterium paludicola
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1575,Leifsonia xyli
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,69373,Curtobacterium pusillum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2070347,Agrococcus sp. SGAir0287
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2419774,Lysinimonas sp. 2DFWR-13
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,43669,Brachybacterium faecium
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1630135,Dermabacter vaginalis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,472569,Devriesea agamarum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,11,Cellulomonas gilvus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1708,Cellulomonas fimi
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,139208,Isoptericola variabilis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1710,Cellulosimicrobium cellulans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2509459,Xylanibacterium sp. 2JSPR-7
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2509457,Xylanimicrobium sp. FW10M-9
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1288636,Ornithinimicrobium flavum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2575923,Brevibacterium sp. CS2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,273384,Brevibacterium aurantiacum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1703,Brevibacterium linens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1136497,Brevibacterium siliguriense
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2171623,Miniimonas sp. S16
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1276,Kytococcus sedentarius
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1274,Dermacoccus nishinomiyaensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,571913,Luteipulveratus mongoliensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,60920,Sanguibacter keddieii
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1535768,Streptomyces lunaelactis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1940,Streptomyces albireticuli
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,646637,Streptomyces sp. M2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47763,Streptomyces lydicus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1892,Streptomyces anulatus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1888,Streptomyces albus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2153485,Streptomyces sp. endophyte_N2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1616117,Streptomyces formicae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1885,Streptomyces actuosus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1855352,Streptomyces sp. TLI_053
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,68223,Streptomyces katrae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,862751,Streptomyces sp. SirexAA-E
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1905,Streptomyces exfoliatus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1914992,Streptomyces sp. DUT11
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28025,Bifidobacterium animalis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1680,Bifidobacterium adolescentis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1694,Bifidobacterium pseudolongum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1689,Bifidobacterium dentium
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1684,Bifidobacterium asteroides
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,638619,Bifidobacterium actinocoloniiforme
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1683,Bifidobacterium angulatum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1470176,Actinoalloteichus hoggarensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,129921,Amycolatopsis keratiniphila
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,40989,Saccharomonospora cyanea
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1836,Saccharopolyspora erythraea
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,47872,Micromonospora purpureochromogenes
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,285665,Micromonospora coriariae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2202249,Streptosporangium sp. 'caverna'
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,710111,Frankia sp. QA3
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,106370,Frankia casuarinae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2487353,Actinobacteria bacterium YIM 96077
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,131568,Kineococcus radiotolerans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1805478,Olsenella sp. Marseille-P2300
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1871022,Libanicoccus massiliensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,79604,Denitrobacterium detoxificans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1335613,Gordonibacter urolithinfaciens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1608957,Euzebya sp. DY32-46
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,980427,Deinococcus wulumuqiensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,52022,Meiothermus silvanus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,215578,Entomoplasma somnilux
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,138853,Mesoplasma lactucae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2143,Spiroplasma gladiatoris
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,216935,Spiroplasma culicicola
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2113,Mycoplasma californicum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2118,Mycoplasma mobile
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2107,Mycoplasma pulmonis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,86660,Mycoplasma dispar
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2104,Mycoplasma pneumoniae
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,50052,Mycoplasma crocodyli
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,264636,Acholeplasma hippikon
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,37692,Candidatus Phytoplasma mali
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,135727,Candidatus Phytoplasma ziziphi
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1541959,Candidatus Izimaplasma sp. HR1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1911684,Tenericutes bacterium MO-XQ
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1155739,Moorea producens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2005460,Chondrocystis sp. NIES-4102
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,111781,Leptolyngbya sp. PCC 7376
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,321327,Synechococcus sp. JA-3-3Ab
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,155978,Acaryochloris marina
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1752063,Fischerella sp. NIES-3754
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,167964,Anaerolinea thermophila
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1806508,Candidatus Promineofilum breve
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,817,Bacteroides fragilis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2528203,Bacteroides sp. A1C1
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,837,Porphyromonas gingivalis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1795355,Echinicola strongylocentroti
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1191459,Flammeovirga sp. MY04
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,28188,Capnocytophaga canimorsus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2575699,Elizabethkingia sp. 2-6
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2058135,Olleya sp. Bg11-27
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,242600,Ichthyobacterium seriolicida
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1974213,Prosthecochloris sp. HL-130-GSB
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1379270,Gemmatimonas phototrophica
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,547188,Phycisphaera mikurensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1679444,Akkermansia glycaniphila
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,239935,Akkermansia muciniphila
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,511746,Methylacidiphilum infernorum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,2094242,Victivallales bacterium CCUG 44730
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1307763,Kiritimatiella glycovorans
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,547144,Hydrogenobaculum sp. HO
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,64160,Desulfurobacterium thermolithotrophum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,167642,Ilyobacter polytropus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,826,Sebaldella termitidis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,658062,Candidatus Koribacter versatilis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,458033,Chloracidobacterium thermophilum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,97477,Acetomicrobium mobile
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1332188,Candidatus Saccharimonas aalborgensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,673862,Candidatus Babela massiliensis
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,139438,Geovibrio thiophilus
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,477976,Calditerrivibrio nitroreducens
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,936456,Desulfurispirillum indicum
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,693075,Caldisericum exile
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,337243,Halorubrum ezzemoulense
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,259901,Staphylococcus virus 77
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1168612,Staphylococcus phage SMSAP5
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,320839,Staphylococcus virus 47
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1636205,Staphylococcus phage B236
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,326036,Staphylococcus virus phiETA2
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,354260,Lactococcus phage P335 sensu lato
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1587907,Streptococcus phage M102AD
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1815590,Escherichia phage vB_EcoM-UFV13
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,1562076,Pseudomonas phage Pf-10
+3.60E-08,1,IonXpress_029_PR-CARTMAN-77_staggered.fasta.report,39640,Cotesia congregata bracovirus

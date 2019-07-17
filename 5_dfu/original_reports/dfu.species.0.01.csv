@@ -1,0 +1,19 @@
+abundance,pct,reads,sample,tax_name
+0.261177,0.9924936219241215,1205979,DFU_WGS_BC072_pt57_tube79-2_1scissors.fa,Homo sapiens
+0.865203,0.9992348249550868,1347679,DFU_WGS_BC073_pt57_tube79-2_2slightcurrettage.fa,Homo sapiens
+0.924353,0.9992584663120924,1242447,DFU_WGS_BC075_pt57_tube79-2_3deepcurretage.fa,Homo sapiens
+0.76588,0.9990214100960408,2285747,DFU_WGS_BC076_pt57_tube208-2curretage.fa,Homo sapiens
+0.359852,0.9985428067250075,3134337,DFU_WGS_BC077_pt57_tube257-2scissors.fa,Homo sapiens
+0.696129,0.011956622454972267,35873,DFU_WGS_BC078_pt82_tube144-2leakageswab.fa,Klebsiella pneumoniae
+0.252711,0.987608748835935,2963085,DFU_WGS_BC078_pt82_tube144-2leakageswab.fa,Homo sapiens
+0.912633,0.2173457475901071,547199,DFU_WGS_BC079_pt82_tube169-2leakageswab.fa,Klebsiella pneumoniae
+0.0120616,0.7634481934094707,1922090,DFU_WGS_BC079_pt82_tube169-2leakageswab.fa,Homo sapiens
+0.649424,0.2145655915762028,442407,DFU_WGS_BC080_pt82_tube206-2leakageswab.fa,Pseudomonas aeruginosa
+0.0167844,0.7822232504135803,1612845,DFU_WGS_BC080_pt82_tube206-2leakageswab.fa,Homo sapiens
+0.323041,0.2289846995072783,773225,DFU_WGS_BC081_pt82_tube245-2scissors.fa,Pseudomonas aeruginosa
+0.0280863,0.012333738258694592,41648,DFU_WGS_BC081_pt82_tube245-2scissors.fa,Klebsiella pneumoniae
+0.0064647,0.7496376697858358,2531342,DFU_WGS_BC081_pt82_tube245-2scissors.fa,Homo sapiens
+0.299174,0.02641192274637943,71115,DFU_WGS_BC082_pt82_tube261-2scissors.fa,Pseudomonas aeruginosa
+0.0735087,0.9676813737542405,2605515,DFU_WGS_BC082_pt82_tube261-2scissors.fa,Homo sapiens
+0.421552,0.04439472305652757,109069,DFU_WGS_BC083_pt82_tube285-2tissueswab.fa,Pseudomonas aeruginosa
+0.0620297,0.9534459648949997,2342427,DFU_WGS_BC083_pt82_tube285-2tissueswab.fa,Homo sapiens

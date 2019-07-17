@@ -1,0 +1,3358 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Azorhizobium caulinodans	7	species	5369772	180	112	0.0
+Buchnera aphidicola	9	species	619958	31	22	0.0
+Cellulomonas gilvus	11	species	3526441	96	62	0.0
+Methylophilus	16	genus	0	2	0	0.0
+Pelobacter	18	genus	0	2	0	0.0
+Pelobacter carbinolicus	19	species	3665893	12	8	0.0
+Phenylobacterium	20	genus	0	5	0	0.0
+Shewanella	22	genus	0	5	2	0.0
+Shewanella putrefaciens	24	species	4749735	23	12	1.05394e-05
+Myxococcales	29	order	0	37	0	0.0
+Myxococcaceae	31	family	0	6	0	0.0
+Myxococcus	32	genus	0	10	0	0.0
+Myxococcus fulvus	33	species	10026214	337	178	0.0
+Myxococcus xanthus	34	species	9139763	128	53	0.0
+Cystobacteraceae	39	family	0	5	0	0.0
+Stigmatella aurantiaca	41	species	10260756	121	73	0.0
+Archangium	47	genus	0	1	0	0.0
+Archangium gephyra	48	species	12489432	198	120	0.0
+Polyangiaceae	49	family	0	4	0	0.0
+Chondromyces	50	genus	0	1	0	0.0
+Chondromyces crocatus	52	species	11388132	151	117	0.0
+Sorangium cellulosum	56	species	13907952	437	334	0.0
+Lysobacter	68	genus	0	18	0	0.0
+Caulobacter	75	genus	0	20	0	0.0
+Hyphomicrobium	81	genus	0	4	0	0.0
+Hyphomonas	85	genus	0	2	0	0.0
+Leptothrix	88	genus	0	24	0	0.0
+Cyclobacterium marinum	104	species	6221273	16	11	0.0
+Runella slithyformis	106	species	6919729	31	25	4.83342e-06
+Planctomycetales	112	order	0	4	0	0.0
+Planctomyces	118	genus	0	1	0	0.0
+Rubinisphaera brasiliensis	119	species	6006602	15	8	0.0
+Planctopirus limnophila	120	species	5460085	20	13	0.0
+Pirellula staleyi	125	species	6196199	48	37	0.0
+Planctomycetaceae	126	family	0	2	0	0.0
+Isosphaera pallida	128	species	5529304	22	14	0.0
+Methylocystis	133	genus	0	3	0	0.0
+Spirochaetales	136	order	0	1	0	0.0
+Borreliella burgdorferi	139	species	1329613	1	0	0.0
+Borrelia hermsii	140	species	1156143	1	1	0.0
+Borrelia parkeri	141	species	1030684	6	5	0.0
+Borrelia turicatae	142	species	917330	5	3	0.0
+Spirochaeta	146	genus	0	2	0	0.0
+Spirochaeta thermophila	154	species	2516433	12	8	0.0
+Treponema denticola	158	species	2843201	10	6	0.0
+Brachyspira hyodysenteriae	159	species	3055339	14	7	0.0
+Treponema pallidum	160	species	1138607	2	0	0.0
+Treponema succinifaciens	167	species	2897425	9	4	0.0
+Leptospira	171	genus	0	2	0	0.0
+Leptospira biflexa	172	species	3953768	15	15	0.0
+Leptospira interrogans	173	species	5395453	22	21	0.0
+Leptospira borgpetersenii	174	species	3948532	8	8	0.0
+Leptospirillum ferrooxidans	180	species	2559538	3	2	0.0
+Azospirillum	191	genus	0	19	0	0.0
+Azospirillum brasilense	192	species	13978806	373	237	0.0
+Azospirillum lipoferum	193	species	7223069	465	227	0.0
+Campylobacter coli	195	species	5104439	19	11	0
+Campylobacter fetus	196	species	1876301	10	6	0.0
+Campylobacter jejuni	197	species	6156435	18	11	0
+Campylobacter hyointestinalis	198	species	1753331	7	4	0.0
+Campylobacter concisus	199	species	1969727	20	14	0.0
+Campylobacter curvus	200	species	1971270	8	8	0.0
+Campylobacter lari	201	species	1576113	9	6	0.0
+Helicobacter	209	genus	0	1	0	0.0
+Helicobacter pylori	210	species	2044699	45	37	0.0
+Helicobacter acinonychis	212	species	1557588	6	0	0.0
+Helicobacter cinaedi	213	species	2170766	6	6	0.0
+Helicobacter felis	214	species	1672681	3	0	0.0
+Helicobacter mustelae	217	species	1578097	1	1	0.0
+Achromobacter	222	genus	0	21	0	0.0
+Alteromonas	226	genus	0	1	0	0.0
+Pseudoalteromonas haloplanktis	228	species	3850272	9	3	0.0
+Brucella	234	genus	0	57	31	0.0
+Brucella abortus	235	species	5108028	9	0	0.0
+Brucella ovis	236	species	3275590	4	0	0.0
+Flavobacterium	237	genus	0	3	0	0.0
+Francisella tularensis	263	species	2777166	13	10	0.0
+Paracoccus	265	genus	0	3	0	0.0
+Paracoccus denitrificans	266	species	5236194	476	373	1.91624e-05
+Thermus	270	genus	0	2	0	0.0
+Thermus aquaticus	271	species	2338641	7	2	0.0
+Thermus thermophilus	274	species	2214494	36	19	1.51032e-05
+Meiothermus ruber	277	species	3097457	43	30	0
+Xanthobacter	279	genus	0	7	0	0.0
+Xanthobacter autotrophicus	280	species	5625098	205	135	2.01738e-05
+Comamonas	283	genus	0	3	0	0.0
+Comamonas testosteroni	285	species	5695231	958	419	0.000699639
+Pseudomonas	286	genus	0	383	102	0.0
+Pseudomonas aeruginosa	287	species	22457305	1583	764	0.000322782
+Pseudoalteromonas atlantica	288	species	5187005	9	9	0.0
+Burkholderia cepacia	292	species	13365495	2696	804	7.43961e-05
+Pseudomonas fluorescens	294	species	14826544	1632	1026	0.000174322
+Pseudomonas fragi	296	species	5101809	72	35	0.0
+Pseudomonas mendocina	300	species	5293211	318	182	1.38245e-05
+Pseudomonas putida	303	species	6888188	1288	707	0.000207921
+Ralstonia solanacearum	305	species	11186335	929	571	6.17511e-06
+Pseudomonas stutzeri	316	species	7755802	708	442	9.52874e-05
+Pseudomonas syringae	317	species	6129101	318	150	4.48537e-135
+Ralstonia pickettii	329	species	6378979	1101	532	1.42856e-05
+Pseudomonas pseudoalcaligenes	330	species	4691662	288	179	0.000226545
+Burkholderia glumae	337	species	7333967	596	154	3.52915e-118
+Xanthomonas	338	genus	0	132	17	0.0
+Xanthomonas campestris	339	species	7063896	893	628	0.000564374
+Xanthomonas translucens	343	species	4638247	513	258	7.32586e-06
+Xanthomonas citri	346	species	17318955	253	23	0.0
+Xanthomonas oryzae	347	species	17545599	336	167	0.0
+Azotobacter	352	genus	0	2	0	0.0
+Azotobacter chroococcum	353	species	5192286	191	72	0.0
+Azotobacter vinelandii	354	species	5351632	154	79	0.0
+Rhizobiales	356	order	0	107	1	0.0
+Agrobacterium	357	genus	0	5	0	0.0
+Agrobacterium tumefaciens	358	species	9211775	315	93	9.75106e-06
+Agrobacterium vitis	373	species	6320946	68	42	0.0
+Bradyrhizobium	374	genus	0	52	4	0.0
+Bradyrhizobium japonicum	375	species	9215796	407	165	0
+Bradyrhizobium sp.	376	species	7547693	302	132	7.33482e-06
+Rhizobium	379	genus	0	108	50	0.0
+Sinorhizobium fredii	380	species	6891900	130	64	0.0
+Mesorhizobium loti	381	species	7539018	382	224	0
+Sinorhizobium meliloti	382	species	6962835	103	55	0.0
+Rhizobium leguminosarum	384	species	7369497	366	206	0.0
+Rhizobium phaseoli	396	species	87841097	142	29	0.0
+Rhizobium tropici	398	species	6686334	98	59	0.0
+Neorhizobium galegae	399	species	6434105	175	96	0.0
+Methylococcaceae	403	family	0	5	0	0.0
+Methylobacillus	404	genus	0	11	0	0.0
+Methylobacillus flagellatus	405	species	2971517	64	36	5.76926e-199
+Methylobacterium	407	genus	0	72	1	0.0
+Methylobacterium extorquens	408	species	6163878	491	306	0.000161228
+Methylococcus	413	genus	0	3	0	0.0
+Methylococcus capsulatus	414	species	3304561	106	77	0.0
+Methylomonas methanica	421	species	5051681	42	31	0.0
+Acetobacteraceae	433	family	0	15	0	0.0
+Acetobacter pasteurianus	438	species	3216979	31	21	0.0
+Gluconobacter oxydans	442	species	3306867	48	27	0.0
+Legionellaceae	444	family	0	1	0	0.0
+Legionella pneumophila	446	species	15688009	48	38	0
+Legionella hackeliae	449	species	3570857	25	9	0.0
+Legionella longbeachae	450	species	4149158	17	6	0.0
+Tatlockia micdadei	451	species	3310028	10	5	0.0
+Moraxellaceae	468	family	0	8	0	0.0
+Acinetobacter	469	genus	0	47	4	0.0
+Acinetobacter baumannii	470	species	11595472	586	341	0.000135
+Moraxella catarrhalis	480	species	2846413	10	8	0
+Neisseriaceae	481	family	0	1	0	0.0
+Neisseria	482	genus	0	5	0	0.0
+Neisseria gonorrhoeae	485	species	4967431	45	12	6.86525e-26
+Neisseria lactamica	486	species	2220606	72	38	2.15975e-05
+Neisseria meningitidis	487	species	8508873	202	131	9.38814e-06
+Neisseria elongata	495	species	2256647	66	43	3.80341e-05
+Psychrobacter	497	genus	0	2	0	0.0
+Thermomicrobium roseum	500	species	2920744	12	10	0.0
+Kingella kingae	504	species	2140065	26	11	3.00581e-94
+Alcaligenaceae	506	family	0	14	0	0.0
+Alcaligenes	507	genus	0	3	0	0.0
+Alcaligenes faecalis	511	species	4248684	39	29	0
+Bordetella	517	genus	0	60	2	0.0
+Bordetella bronchiseptica	518	species	6491145	333	80	0.0
+Bordetella parapertussis	519	species	4815611	203	14	0.0
+Bordetella pertussis	520	species	48698463	152	20	0.0
+Bordetella avium	521	species	3732255	98	50	0.0
+Acidiphilium	522	genus	0	1	0	0.0
+Acidiphilium cryptum	524	species	3963080	121	26	0.0
+Ochrobactrum	528	genus	0	2	0	0.0
+Ochrobactrum anthropi	529	species	5053471	92	61	2.74856e-05
+Beijerinckia indica	533	species	4418616	42	22	0.0
+Chromobacterium	535	genus	0	12	0	0.0
+Chromobacterium violaceum	536	species	4751080	182	70	0.0
+Zymomonas mobilis	542	species	2426073	31	24	0.0
+Enterobacteriaceae	543	family	0	57	1	0.0
+Citrobacter	544	genus	0	3	0	0.0
+Citrobacter koseri	545	species	4735357	34	25	1.43163e-05
+Citrobacter freundii	546	species	16193243	77	37	8.38686e-06
+Enterobacter	547	genus	0	45	6	0.0
+[Enterobacter] aerogenes	548	species	10750562	33	12	3.15069e-06
+Pantoea agglomerans	549	species	9924054	94	41	3.08751e-05
+Enterobacter cloacae	550	species	10083180	185	48	3.00242e-05
+Erwinia	551	genus	0	2	0	0.0
+Erwinia amylovora	552	species	3869718	14	8	0.0
+Pantoea ananatis	553	species	4842757	32	22	0.0
+Pectobacterium carotovorum	554	species	4852842	12	4	6.89971e-06
+Escherichia	561	genus	0	7	0	0.0
+Escherichia coli	562	species	12319210	2031	180	0.000339232
+Shimwellia blattae	563	species	4158725	22	9	0.0
+Escherichia fergusonii	564	species	4643861	78	8	0
+Hafnia alvei	569	species	6928293	31	17	0.0
+Klebsiella	570	genus	0	18	0	0.0
+Klebsiella oxytoca	571	species	16779606	180	87	5.97211e-05
+Klebsiella pneumoniae	573	species	15713353	295	138	4.38202e-05
+Kluyvera	579	genus	0	3	0	0.0
+Morganella	581	genus	0	1	0	0.0
+Morganella morganii	582	species	3853791	18	13	0.0
+Proteus	583	genus	0	5	0	0.0
+Proteus mirabilis	584	species	5337360	31	5	0
+Proteus vulgaris	585	species	3794983	26	0	1.76653e-05
+Providencia stuartii	588	species	6521015	10	5	0.0
+Serratia	613	genus	0	23	3	0.0
+Serratia liquefaciens	614	species	7946985	84	65	4.63264e-05
+Serratia marcescens	615	species	8465231	253	106	7.78408e-184
+Shigella	620	genus	0	173	0	0.0
+Shigella boydii	621	species	4698475	472	9	1.77131e-05
+Shigella dysenteriae	622	species	4560911	221	5	0
+Shigella flexneri	623	species	4763519	417	5	1.92183e-05
+Shigella sonnei	624	species	6798914	545	1	0
+Xenorhabdus nematophila	628	species	4586662	9	7	0.0
+Yersinia	629	genus	0	13	0	0.0
+Yersinia enterocolitica	630	species	14308813	55	35	0.0
+Yersinia intermedia	631	species	4859749	57	47	5.72633e-05
+Yersinia pestis	632	species	7124135	17	4	0.0
+Yersinia pseudotuberculosis	633	species	9565781	21	5	0.0
+Edwardsiella	635	genus	0	6	0	0.0
+Edwardsiella tarda	636	species	3717889	59	7	0.0
+Vibrionaceae	641	family	0	1	0	0.0
+Aeromonas	642	genus	0	21	0	0.0
+Aeromonas hydrophila	644	species	7739252	464	317	3.76797e-05
+Aeromonas salmonicida	645	species	5040536	87	40	1.5235e-05
+Aeromonas media	651	species	4788430	123	76	2.79745e-05
+Aeromonas schubertii	652	species	4400034	32	20	0.0
+Aeromonas veronii	654	species	7214925	122	75	1.87865e-05
+Vibrio	662	genus	0	8	0	0.0
+Vibrio alginolyticus	663	species	8138835	20	9	4.67952e-06
+Vibrio cholerae	666	species	6170861	35	25	1.1007e-05
+Aliivibrio fischeri	668	species	4273718	7	5	0.0
+Vibrio harveyi	669	species	11920371	3	2	0.0
+Vibrio parahaemolyticus	670	species	10344823	40	26	0.0
+Vibrio vulnificus	672	species	10215744	24	13	0.0
+Grimontia hollisae	673	species	3998273	11	10	0.0
+Vibrio mimicus	674	species	8922704	30	26	0.0
+Vibrio fluvialis	676	species	4827724	55	46	2.08099e-05
+Vibrio campbellii	680	species	12090206	12	7	0.0
+Vibrio natriegens	691	species	10692018	10	4	0.0
+Plesiomonas shigelloides	703	species	3405979	8	6	0.0
+Pasteurellaceae	712	family	0	1	0	0.0
+Aggregatibacter actinomycetemcomitans	714	species	4378647	23	18	0.0
+Actinobacillus pleuropneumoniae	715	species	2299903	20	10	0.0
+Actinobacillus suis	716	species	2501598	16	4	0.0
+Actinobacillus equuli	718	species	2431533	17	6	0.0
+Haemophilus influenzae	727	species	2672708	128	112	1.25139e-05
+Haemophilus parainfluenzae	729	species	2086875	135	127	4.80804e-05
+[Haemophilus] ducreyi	730	species	10121291	45	43	3.30451e-06
+Histophilus somni	731	species	2138367	19	17	0.0
+Aggregatibacter aphrophilus	732	species	3520359	35	29	0.0
+[Haemophilus] parasuis	738	species	4546750	25	19	0.0
+Pasteurella	745	genus	0	1	0	0.0
+Pasteurella multocida	747	species	2546987	28	16	0.0
+Gallibacterium anatis	750	species	2694139	38	26	0.0
+Anaplasma centrale	769	species	1206806	3	2	0.0
+Anaplasma marginale	770	species	1200061	2	2	0.0
+Bartonella	773	genus	0	2	0	0.0
+Bartonella bacilliformis	774	species	1444212	13	3	0.0
+Coxiella burnetii	777	species	2076694	12	10	0.0
+Ehrlichia ruminantium	779	species	2264626	5	5	0.0
+Rickettsia	780	genus	0	13	11	0.0
+Rickettsia conorii	781	species	1268755	2	1	0.0
+Rickettsia prowazekii	782	species	1111249	2	2	0.0
+Rickettsia rickettsii	783	species	1265141	1	0	0.0
+Orientia tsutsugamushi	784	species	2068019	14	10	0.0
+Rickettsia typhi	785	species	1112275	1	1	0.0
+Rickettsia akari	786	species	1231060	5	1	0.0
+Rickettsia australis	787	species	1323280	6	5	0.0
+Rickettsia canadensis	788	species	1155000	3	1	0.0
+Bartonella quintana	803	species	1584515	10	6	0.0
+Chlamydia	810	genus	0	5	1	0.0
+Chlamydia trachomatis	813	species	1376168	9	8	0.0
+Bacteroides	816	genus	0	1	0	0.0
+Bacteroides fragilis	817	species	7824806	43	34	1.80741e-05
+Bacteroides thetaiotaomicron	818	species	6390542	41	41	3.66356e-05
+Bacteroides vulgatus	821	species	5163189	84	65	0.000118081
+Parabacteroides distasonis	823	species	4811379	15	13	4.17085e-05
+Campylobacter gracilis	824	species	2281652	7	6	0.0
+Sebaldella termitidis	826	species	4486650	7	7	0.0
+Campylobacter ureolyticus	827	species	1641887	12	10	0.0
+Fibrobacter succinogenes	833	species	7685639	6	6	0.0
+Porphyromonas gingivalis	837	species	2343668	20	9	0.0
+Prevotella ruminicola	839	species	3619559	12	11	0.0
+Wolinella succinogenes	844	species	2110355	6	1	0.0
+Fusobacterium nucleatum	851	species	2948417	159	132	5.67185e-05
+Syntrophomonas wolfei	863	species	2936195	7	5	0.0
+Dichelobacter nodosus	870	species	1389350	9	9	0.0
+Desulfovibrio	872	genus	0	5	0	0.0
+Desulfovibrio africanus	873	species	4200534	25	20	0.0
+Desulfovibrio desulfuricans	876	species	3366008	56	36	0.0
+Desulfovibrio salexigens	880	species	4289847	2	1	0.0
+Desulfovibrio vulgaris	881	species	3802302	97	66	0.0
+Desulfuromonas	890	genus	0	1	0	0.0
+Desulfobulbus propionicus	894	species	3851869	26	16	0.0
+Desulfococcus multivorans	897	species	4455399	17	11	0.0
+Desulfomicrobium baculatum	899	species	3942657	24	18	0.0
+Acidaminococcus fermentans	905	species	2329769	9	4	0.0
+Megasphaera elsdenii	907	species	2504349	7	5	0.0
+Nitrobacter	911	genus	0	4	0	0.0
+Nitrobacter hamburgensis	912	species	5011522	226	161	1.38553e-05
+Nitrobacter winogradskyi	913	species	3402093	115	59	0
+Nitrosomonas	914	genus	0	1	0	0.0
+Nitrosomonas europaea	915	species	2812094	14	11	0.0
+Nitrosomonas eutropha	916	species	2781824	15	15	0.0
+Thiobacillus	919	genus	0	4	0	0.0
+Acidithiobacillus ferrooxidans	920	species	2933717	30	16	0.0
+Starkeya novella	921	species	4765023	163	102	0.0
+Thiomonas intermedia	926	species	3462095	186	121	0.0
+Halothiobacillus neapolitanus	927	species	2582886	37	21	0.0
+Hydrogenobacter thermophilus	940	species	3486067	5	2	0.0
+Ehrlichia canis	944	species	1315030	5	5	0.0
+Ehrlichia chaffeensis	945	species	1174554	7	7	0.0
+Anaplasma phagocytophilum	948	species	1493914	7	7	0.0
+Francisella persica	954	species	3057444	3	3	0.0
+Bdellovibrio bacteriovorus	959	species	3652240	35	30	0.0
+Herbaspirillum	963	genus	0	16	0	0.0
+Herbaspirillum seropedicae	964	species	8221139	285	142	5.16007e-72
+Selenomonas	970	genus	0	1	0	0.0
+Selenomonas ruminantium	971	species	3631933	11	10	0.0
+Cytophaga	978	genus	0	2	0	0.0
+Cellulophaga lytica	979	species	3795066	31	22	0.0
+Pedobacter heparinus	984	species	5167383	28	18	0.0
+Cytophaga hutchinsonii	985	species	4433218	81	75	0.0
+Flavobacterium johnsoniae	986	species	5603295	399	322	1.03799e-05
+Solitalea canadensis	995	species	5202069	39	32	0.0
+Flavobacterium columnare	996	species	6492116	203	173	0
+Flexibacter litoralis	999	species	4919337	30	29	0.0
+Marivirga tractuosa	1006	species	4516490	25	18	0.0
+Saprospira	1007	genus	0	2	0	0.0
+Saprospira grandis	1008	species	4400185	15	13	0.0
+Weeksella virosa	1014	species	2272954	17	12	0.0
+Capnocytophaga ochracea	1018	species	2612925	36	22	0.0
+Erythrobacter	1041	genus	0	3	0	0.0
+Chromatiaceae	1046	family	0	5	0	0.0
+Allochromatium vinosum	1049	species	3669074	92	57	0.0
+Ectothiorhodospira	1051	genus	0	2	0	0.0
+Halorhodospira halophila	1053	species	2678452	69	48	0.0
+Rhodobacter	1060	genus	0	6	0	0.0
+Rhodobacter capsulatus	1061	species	3871920	167	102	0.0
+Rhodobacter sphaeroides	1063	species	5768316	512	347	3.03497e-94
+Rhodomicrobium	1068	genus	0	2	0	0.0
+Rhodomicrobium vannielii	1069	species	4014469	85	54	0.0
+Rhodopseudomonas	1073	genus	0	10	0	0.0
+Rhodopseudomonas palustris	1076	species	5408501	1571	1069	4.23214e-05
+Blastochloris viridis	1079	species	11174693	157	100	0.0
+Rhodospirillum	1081	genus	0	3	0	0.0
+Pararhodospirillum photometricum	1084	species	3876289	68	36	0.0
+Rhodospirillum rubrum	1085	species	4379691	95	59	0.0
+Chlorobium	1091	genus	0	2	0	0.0
+Chlorobium limicola	1092	species	2763181	8	8	0.0
+Chlorobium phaeovibrioides	1094	species	1966858	5	0	0.0
+Chlorobium phaeobacteroides	1096	species	2935152	16	9	0.0
+Chlorobaculum tepidum	1097	species	2154946	28	10	0.0
+Pelodictyon luteolum	1100	species	2364842	24	18	0.0
+Prosthecochloris aestuarii	1102	species	2579695	10	3	0.0
+Chloroflexus aurantiacus	1108	species	5258541	6	0	0.0
+Porphyrobacter	1111	genus	0	3	0	0.0
+Porphyrobacter neustonensis	1112	species	3090363	215	130	0.0
+Microcystis aeruginosa	1126	species	4810004	6	3	0.0
+Synechococcus	1129	genus	0	6	0	0.0
+Synechocystis sp. PCC 6714	1147	species	3738889	5	2	0.0
+Synechocystis sp. PCC 6803	1148	species	6436711	8	3	0.0
+Oscillatoriales	1150	order	0	1	0	0.0
+Oscillatoria	1158	genus	0	1	0	0.0
+Nostocaceae	1162	family	0	1	0	0.0
+Anabaena	1163	genus	0	1	0	0.0
+Trichormus azollae	1164	species	5486145	6	5	0.0
+Anabaena cylindrica	1165	species	7063285	9	6	0.0
+Trichodesmium erythraeum	1206	species	7750108	6	6	0.0
+Prochlorococcus	1218	genus	0	2	0	0.0
+Prochlorococcus marinus	1219	species	1879471	38	23	0.0
+Proteobacteria	1224	phylum	0	17	0	0.0
+Nitrosococcus oceani	1229	species	3522111	22	15	0.0
+Nitrosospira multiformis	1231	species	3234309	19	6	0.0
+Nitrospira	1234	genus	0	1	0	0.0
+Gammaproteobacteria	1236	class	0	48	0	0.0
+Piscirickettsia	1237	genus	0	1	0	0.0
+Piscirickettsia salmonis	1238	species	10317144	15	8	0.0
+Firmicutes	1239	phylum	0	1	0	0.0
+Leuconostoc gelidum	1244	species	1966103	33	6	4.78018e-114
+Leuconostoc mesenteroides	1245	species	1966146	46	37	0.000102065
+Leuconostoc lactis	1246	species	1788069	3	2	0.0
+Oenococcus oeni	1247	species	1780517	4	4	0.0
+Leuconostoc carnosum	1252	species	1773468	13	9	1.88591e-05
+Pediococcus acidilactici	1254	species	2131361	3	3	0.0
+Pediococcus pentosaceus	1255	species	1817384	5	4	0.0
+Finegoldia magna	1260	species	1986740	271	262	0.000195253
+Ruminococcus albus	1264	species	4482087	10	9	0.0
+Micrococcaceae	1268	family	0	21	0	0.0
+Micrococcus	1269	genus	0	5	0	0.0
+Micrococcus luteus	1270	species	2501097	5468	5371	0.0080637
+Dermacoccus nishinomiyaensis	1274	species	3113642	214	185	7.51922e-05
+Kytococcus sedentarius	1276	species	2785024	160	100	9.69533e-05
+Staphylococcus	1279	genus	0	8	2	0.0
+Staphylococcus aureus	1280	species	7252422	188	132	5.18069e-05
+Staphylococcus carnosus	1281	species	2605765	42	21	3.26409e-121
+Staphylococcus epidermidis	1282	species	3296362	1163	1111	0.00246
+Staphylococcus haemolyticus	1283	species	2629003	129	91	0.000225486
+Staphylococcus hyicus	1284	species	2472129	27	15	0.0
+Staphylococcus simulans	1286	species	2647552	41	25	7.86816e-75
+Staphylococcus xylosus	1288	species	8411206	87	57	0.0
+Staphylococcus warneri	1292	species	2560716	581	390	0.00100047
+Staphylococcus schleiferi	1295	species	12494798	29	16	0
+Deinococcus	1298	genus	0	3	1	0.0
+Deinococcus radiodurans	1299	species	6628921	80	56	0.0
+Streptococcaceae	1300	family	0	1	0	0.0
+Streptococcus	1301	genus	0	23	10	0.0
+Streptococcus gordonii	1302	species	3335036	84	69	0.000107034
+Streptococcus oralis	1303	species	1958690	137	103	1.99225e-05
+Streptococcus salivarius	1304	species	3636237	229	201	0.000238827
+Streptococcus sanguinis	1305	species	2388435	35	30	3.05245e-05
+Streptococcus suis	1307	species	2683756	39	29	0.0
+Streptococcus thermophilus	1308	species	3463400	187	158	0.000353059
+Streptococcus mutans	1309	species	2017559	23	21	5.20077e-05
+Streptococcus agalactiae	1311	species	5721038	41	21	0
+Streptococcus pneumoniae	1313	species	2272871	324	217	0.000131063
+Streptococcus pyogenes	1314	species	4096430	32	17	3.82337e-18
+Streptococcus parasanguinis	1318	species	2162630	71	59	1.71068e-05
+Streptococcus anginosus	1328	species	2557124	43	23	7.09044e-95
+Streptococcus dysgalactiae	1334	species	2149105	4	4	0.0
+Streptococcus equi	1336	species	2140495	21	14	1.62974e-05
+Streptococcus intermedius	1338	species	1963517	15	11	6.68619e-05
+Streptococcus iniae	1346	species	2086959	8	7	0.0
+Streptococcus parauberis	1348	species	2143887	9	8	0.0
+Streptococcus uberis	1349	species	1852352	6	4	0.0
+Enterococcus faecalis	1351	species	3401628	23	8	0
+Enterococcus faecium	1352	species	5898717	34	27	1.24378e-05
+Enterococcus gallinarum	1353	species	3821349	2	1	0.0
+Enterococcus hirae	1354	species	2908247	2	1	0.0
+Lactococcus lactis	1358	species	2704731	265	227	0.000770804
+Lactococcus garvieae	1363	species	1957049	3	3	0.0
+Lactococcus piscium	1364	species	2503066	25	14	2.55012e-24
+Planococcus	1372	genus	0	1	0	0.0
+Planococcus kocurii	1374	species	3485580	20	16	0.0
+Aerococcus	1375	genus	0	1	0	0.0
+Aerococcus urinae	1376	species	2027618	25	10	0.0
+Aerococcus viridans	1377	species	2199877	42	20	0.0
+Atopobium parvulum	1382	species	1543805	11	10	4.33292e-05
+Bacillales	1385	order	0	11	0	0.0
+Bacillus	1386	genus	0	6	2	0.0
+Bacillus amyloliquefaciens	1390	species	5608910	38	3	3.9551e-05
+Bacillus anthracis	1392	species	17446789	15	0	2.43611e-60
+Brevibacillus brevis	1393	species	6296436	5	4	0.0
+Bacillus cereus	1396	species	9676532	131	74	7.25843e-05
+Bacillus coagulans	1398	species	4327944	22	19	0.0
+Bacillus licheniformis	1402	species	8559910	12	8	0.0
+Bacillus megaterium	1404	species	5334474	35	16	0.0
+Bacillus mycoides	1405	species	11312355	26	15	0.0
+Paenibacillus polymyxa	1406	species	6883167	24	14	0.0
+Bacillus pumilus	1408	species	20721195	31	27	0.0
+Bacillus sp.	1409	species	4233615	1	0	0
+Bacillus cellulosilyticus	1413	species	4681672	6	5	0.0
+Lysinibacillus sphaericus	1421	species	14371778	14	14	9.30878e-06
+Geobacillus stearothermophilus	1422	species	3676494	7	0	0.0
+Bacillus subtilis	1423	species	7550081	47	14	7.23217e-06
+Parageobacillus thermoglucosidans	1426	species	5935916	9	4	0.0
+Bacillus thuringiensis	1428	species	10269592	127	44	2.28417e-134
+Amphibacillus xylanus	1449	species	2569486	2	0	0.0
+Bacillus atrophaeus	1452	species	4171548	9	7	0.0
+Geobacillus kaustophilus	1462	species	3592666	7	2	0.0
+Paenibacillus larvae	1464	species	4056006	4	4	0.0
+Brevibacillus laterosporus	1465	species	5153859	3	2	0.0
+Bacillus methanolicus	1471	species	3425208	1	0	0.0
+Sporosarcina psychrophila	1476	species	4674191	4	1	0.0
+Bacillus simplex	1478	species	5521719	11	10	0.0
+Bacillus smithii	1479	species	3381292	7	6	0.0
+Clostridium	1485	genus	0	3	0	0.0
+Clostridium acetobutylicum	1488	species	4136895	11	8	0.0
+Clostridium botulinum	1491	species	4637504	47	39	0.0
+Clostridium butyricum	1492	species	13843423	14	12	0.0
+Clostridium cellulovorans	1493	species	5262222	15	9	0
+Clostridioides difficile	1496	species	6297836	26	22	0
+Clostridium formicaceticum	1497	species	4586755	9	6	0.0
+Clostridium pasteurianum	1501	species	7159922	34	24	0.0
+Clostridium perfringens	1502	species	6907798	21	18	0.0
+Clostridium sporogenes	1509	species	8284974	9	4	0.0
+[Clostridium] stercorarium	1510	species	4042789	8	8	0.0
+Acetoanaerobium sticklandii	1511	species	2715461	14	10	0.0
+Clostridium tetani	1513	species	2869591	9	7	0.0
+Ruminiclostridium thermocellum	1515	species	3634338	7	6	0.0
+Thermoanaerobacterium thermosaccharolyticum	1517	species	2840014	18	12	1.17767e-05
+Clostridium tyrobutyricum	1519	species	3134437	6	3	0.0
+Clostridium beijerinckii	1520	species	6161692	20	15	0.0
+[Clostridium] cellulolyticum	1521	species	4068724	4	4	0.0
+Moorella thermoacetica	1525	species	5377887	6	6	0.0
+Clostridium kluyveri	1534	species	3989551	12	10	0.0
+Clostridium ljungdahlii	1538	species	4630065	9	1	0.0
+Clostridium novyi	1542	species	2547720	12	8	0.0
+Clostridium scatologenes	1548	species	5749410	14	13	0.0
+Gottschalkia acidurici	1556	species	3108248	11	7	0.0
+Clostridium baratii	1561	species	3338630	12	7	0.0
+Desulfosporosinus orientis	1563	species	5863081	3	2	0.0
+Desulfotomaculum ruminis	1564	species	3969014	12	8	0.0
+Desulfotomaculum nigrificans	1565	species	2892255	19	14	2.31279e-05
+Halobacillus halophilus	1570	species	4170008	9	7	0.0
+Leifsonia xyli	1575	species	2955779	303	204	1.19018e-05
+Lactobacillus	1578	genus	0	5	0	0.0
+Lactobacillus acidophilus	1579	species	2018718	24	7	0
+Lactobacillus brevis	1580	species	2493592	5	4	0.0
+Lactobacillus buchneri	1581	species	2575738	33	28	0.0
+Lactobacillus casei	1582	species	3039836	32	3	6.31933e-05
+Lactobacillus delbrueckii	1584	species	1920382	9	6	0.0
+Lactobacillus helveticus	1587	species	3148198	47	16	0.000109817
+Lactobacillus plantarum	1590	species	8684028	25	16	1.55716e-05
+Lactobacillus gasseri	1596	species	1894360	5	4	0.0
+Lactobacillus paracasei	1597	species	4200086	36	11	1.97962e-05
+Lactobacillus reuteri	1598	species	2811237	5	4	0.0
+Lactobacillus sakei	1599	species	1884661	11	3	0.0
+Lactobacillus acetotolerans	1600	species	1704859	2	2	0.0
+Lactobacillus amylovorus	1604	species	1977087	13	0	1.7747e-05
+Lactobacillus fermentum	1613	species	2108824	8	2	0.0
+Lactobacillus ruminis	1623	species	2066652	8	5	0.0
+Lactobacillus salivarius	1624	species	2663133	12	11	0.0
+Lactobacillus sanfranciscensis	1625	species	1375770	5	1	0.0
+Listeria	1637	genus	0	1	0	0.0
+Listeria ivanovii	1638	species	3701623	18	12	0.0
+Listeria monocytogenes	1639	species	5926303	25	16	0
+Listeria seeligeri	1640	species	2797636	13	10	0.0
+Listeria innocua	1642	species	3093113	9	2	0
+Listeria welshimeri	1643	species	2814130	8	6	0.0
+Renibacterium salmoninarum	1646	species	3155250	6	3	0.0
+Erysipelothrix	1647	genus	0	2	0	0.0
+Erysipelothrix rhusiopathiae	1648	species	2398466	18	11	0.0
+Corynebacteriaceae	1653	family	0	10	0	0.0
+Actinomyces	1654	genus	0	1	0	0.0
+Trueperella pyogenes	1661	species	3453353	28	22	0.0
+Arthrobacter	1663	genus	0	4	0	0.0
+Bifidobacterium	1678	genus	0	4	0	0.0
+Bifidobacterium adolescentis	1680	species	3233293	17	7	1.03442e-05
+Bifidobacterium bifidum	1681	species	2209322	102	72	0.000252391
+Bifidobacterium angulatum	1683	species	2043306	15	10	0.0
+Bifidobacterium asteroides	1684	species	2167304	18	6	0.0
+Bifidobacterium breve	1685	species	2328021	55	30	8.73872e-05
+Bifidobacterium catenulatum	1686	species	2079525	11	0	2.49437e-35
+Bifidobacterium coryneforme	1687	species	1755151	10	4	0.0
+Bifidobacterium dentium	1689	species	2636018	6	6	0.0
+Bifidobacterium indicum	1691	species	1734546	8	2	0.0
+Bifidobacterium pseudolongum	1694	species	2032698	13	7	0.0
+Brevibacterium	1696	genus	0	1	0	0.0
+Brevibacterium linens	1703	species	8072179	111	74	0
+Corynebacterium stationis	1705	species	2853666	19	7	0.0
+Cellulomonas	1707	genus	0	17	0	0.0
+Cellulomonas fimi	1708	species	4266344	118	79	0.0
+Cellulomonas flavigena	1711	species	4123179	85	64	0.0
+Corynebacterium	1716	genus	0	74	26	0.0
+Corynebacterium diphtheriae	1717	species	2468991	99	54	3.22205e-05
+Corynebacterium glutamicum	1718	species	6155998	59	12	2.37032e-145
+Corynebacterium pseudotuberculosis	1719	species	6595197	88	73	0
+Corynebacterium callunae	1721	species	2928683	37	21	2.06567e-05
+Corynebacterium variabile	1727	species	3433007	70	31	0.0
+Peptoclostridium acidaminophilum	1731	species	3055036	6	6	0.0
+Eubacterium limosum	1736	species	4233519	13	13	0.0
+Thermodesulfobacterium commune	1741	species	1764045	2	2	0.0
+Propionibacterium	1743	genus	0	1	0	0.0
+Propionibacterium freudenreichii	1744	species	2646865	83	55	0
+Propionibacterium acnes	1747	species	3361368	29566	28921	0.0944759
+Acidipropionibacterium acidipropionici	1748	species	7323316	151	105	4.56833e-06
+Pseudopropionibacterium propionicum	1750	species	3449360	54	43	9.69908e-06
+Thermoanaerobacter	1754	genus	0	1	0	0.0
+Actinobacteria	1760	class	0	83	11	0.0
+Mycobacteriaceae	1762	family	0	6	0	0.0
+Mycobacterium	1763	genus	0	172	54	0.0
+Mycobacterium avium	1764	species	6028446	234	159	6.16357e-06
+Mycobacterium bovis	1765	species	6302864	57	0	0.0
+Mycobacterium fortuitum	1766	species	6254616	1726	172	3.31024e-322
+Mycobacterium intracellulare	1767	species	5374059	161	21	0.0
+Mycobacterium kansasii	1768	species	6489764	75	46	0.0
+Mycobacterium leprae	1769	species	3268137	14	10	0.0
+Mycobacterium phlei	1771	species	5349645	218	132	1.3657e-05
+Mycobacterium smegmatis	1772	species	20962296	387	252	0
+Mycobacterium tuberculosis	1773	species	7403540	58	0	0.0
+Mycobacterium chelonae	1774	species	5029817	66	31	0.0
+Mycobacterium marinum	1781	species	6555333	106	19	0.0
+Mycobacterium neoaurum	1795	species	5421267	184	0	5.77165e-06
+Mycobacterium chubuense	1800	species	6342624	235	152	1.34249e-146
+Mycobacterium gilvum	1804	species	5883060	288	191	7.96822e-06
+Mycobacterium vaccae	1810	species	6235754	236	147	1.0914e-05
+Amycolatopsis	1813	genus	0	9	0	0.0
+Amycolatopsis methanolica	1814	species	7237391	154	104	0.0
+Nocardia	1817	genus	0	12	0	0.0
+Rhodococcus	1827	genus	0	35	0	0.0
+Rhodococcus fascians	1828	species	5502110	73	32	0.0
+Rhodococcus erythropolis	1833	species	6734667	127	65	3.8264e-05
+Saccharopolyspora	1835	genus	0	1	0	0.0
+Saccharopolyspora erythraea	1836	species	8212805	162	101	0.0
+Nocardioides	1839	genus	0	3	0	0.0
+Pseudonocardia	1847	genus	0	42	8	0.0
+Saccharomonospora viridis	1852	species	4308349	49	34	0.0
+Frankia	1854	genus	0	4	0	0.0
+Frankia alni	1859	species	7497934	102	74	0.0
+Geodermatophilus obscurus	1861	species	5322497	294	217	6.28388e-06
+Actinoplanes	1865	genus	0	9	0	0.0
+Actinoplanes missouriensis	1866	species	8773466	159	100	0.0
+Micromonospora	1873	genus	0	8	0	0.0
+Streptomyces	1883	genus	0	156	45	0.0
+Streptomyces albus	1888	species	15352626	179	105	0.0
+Streptomyces ambofaciens	1889	species	8265737	81	44	0.0
+Streptomyces clavuligerus	1901	species	7590758	78	49	0.0
+Streptomyces coelicolor	1902	species	9054847	106	44	0.0
+Streptomyces glaucescens	1907	species	7623774	80	40	0.0
+Streptomyces globisporus	1908	species	7783599	76	42	0.0
+Streptomyces griseus	1911	species	8545929	93	61	0.0
+Streptomyces hygroscopicus	1912	species	10333189	130	75	0.0
+Streptomyces lincolnensis	1915	species	10319054	139	92	0.0
+Streptomyces lividans	1916	species	8345283	82	29	0
+Streptomyces reticuli	1926	species	9336224	86	47	0.0
+Streptomyces scabiei	1930	species	10148695	107	53	0.0
+Streptomyces noursei	1971	species	9815884	88	14	0.0
+Streptosporangium	2000	genus	0	2	0	0.0
+Streptosporangium roseum	2001	species	10369518	188	128	0.0
+Streptosporangiaceae	2004	family	0	5	0	0.0
+Thermobispora bispora	2006	species	4189976	72	43	0.0
+Thermomonosporaceae	2012	family	0	1	0	0.0
+Nocardiopsis	2013	genus	0	5	0	0.0
+Nocardiopsis dassonvillei	2014	species	6543312	104	57	0.0
+Thermomonospora	2019	genus	0	3	0	0.0
+Thermomonospora curvata	2020	species	5639016	130	76	0.0
+Thermobifida fusca	2021	species	3642249	47	24	0.0
+Microbacterium testaceum	2033	species	3982034	184	122	0.0
+Curtobacterium	2034	genus	0	1	0	0.0
+Tropheryma whipplei	2039	species	926620	2	2	0.0
+Aeromicrobium erythreum	2041	species	3629239	136	96	9.21569e-06
+Pimelobacter	2044	genus	0	2	0	0.0
+Pimelobacter simplex	2045	species	5637360	183	132	0.0
+Rothia dentocariosa	2047	species	2506025	217	194	0.000166946
+Actinomycetaceae	2049	family	0	2	0	0.0
+Mobiluncus curtisii	2051	species	2146480	4	1	0
+Gordonia	2053	genus	0	13	0	0.0
+Gordonia bronchialis	2054	species	5290012	178	132	8.92162e-05
+Gordonia terrae	2055	species	5701501	203	145	7.94294e-66
+Sphaerobacter thermophilus	2057	species	3993764	57	45	0.0
+Tsukamurella	2060	genus	0	1	0	0.0
+Tsukamurella paurometabola	2061	species	4479724	109	80	0.0
+Streptomycetaceae	2062	family	0	26	0	0.0
+Kitasatospora setae	2066	species	8783278	168	103	0.0
+Pseudonocardiaceae	2070	family	0	37	0	0.0
+Saccharothrix	2071	genus	0	1	0	0.0
+Mycoplasmatales	2085	order	0	1	0	0.0
+Mycoplasma	2093	genus	0	4	0	0.0
+Mycoplasma arginini	2094	species	678592	4	3	0.0
+Mycoplasma capricolum	2095	species	1692864	10	3	0.0
+Mycoplasma gallisepticum	2096	species	968554	2	2	0.0
+Mycoplasma genitalium	2097	species	579782	1	1	0.0
+Mycoplasma hominis	2098	species	925558	10	7	3.6136e-05
+Mycoplasma hyopneumoniae	2099	species	909234	4	2	0.0
+Mycoplasma hyorhinis	2100	species	836420	11	4	0.0
+Mycoplasma mycoides	2102	species	2100167	8	3	0.0
+Mycoplasma leachii	2105	species	1008951	9	4	0.0
+Mycoplasma pulmonis	2107	species	963879	2	2	0.0
+Mycoplasma synoviae	2109	species	822985	7	6	0.0
+Mycoplasma agalactiae	2110	species	942070	7	2	0.0
+Mycoplasma arthritidis	2111	species	820453	4	4	0.0
+Mycoplasma californicum	2113	species	796464	3	2	0.0
+Mycoplasma fermentans	2115	species	1048137	8	7	0.0
+Mycoplasma mobile	2118	species	777079	6	4	0.0
+Mycoplasma putrefaciens	2123	species	846299	6	3	0.0
+Mycoplasma flocculare	2128	species	778866	4	1	0.0
+Ureaplasma urealyticum	2130	species	874478	5	4	0.0
+Spiroplasma apis	2137	species	1160554	4	3	0.0
+Spiroplasma mirum	2144	species	2265199	2	0	0.0
+Spiroplasma taiwanense	2145	species	1086278	2	2	0.0
+Acholeplasma laidlawii	2148	species	1496992	6	4	0.0
+Mesoplasma florum	2151	species	809524	6	3	0.0
+Methanobrevibacter smithii	2173	species	1853160	7	7	0.0
+Methanohalophilus mahii	2176	species	2012424	2	2	0.0
+Methanothermus fervidus	2180	species	1243342	1	1	0.0
+Methanococcus vannielii	2187	species	1720048	2	2	0.0
+Methanococcus voltae	2188	species	1936387	4	4	0.0
+Methanotorris igneus	2189	species	1854197	6	6	0.0
+Methanomicrobiales	2191	order	0	2	0	0.0
+Methanoculleus marisnigri	2198	species	2478101	18	15	0.0
+Methanospirillum hungatei	2203	species	3544738	5	5	0.0
+Methanosarcinaceae	2206	family	0	2	0	0.0
+Methanosarcina barkeri	2208	species	4650840	15	11	0.0
+Methanosarcina mazei	2209	species	4120463	5	5	0.0
+Methanosarcina thermophila	2210	species	3127379	6	6	0.0
+Methanosarcina acetivorans	2214	species	5751492	3	2	0.0
+Methanosarcina vacuolata	2215	species	4563885	5	3	0.0
+Methanosaeta	2222	genus	0	1	0	0.0
+Methanosaeta concilii	2223	species	3026645	2	2	0.0
+Halobacteriales	2235	order	0	2	0	0.0
+Halobacteriaceae	2236	family	0	5	0	0.0
+Haloarcula marismortui	2238	species	4274642	23	13	0.0
+Halobacterium salinarum	2242	species	2619893	14	9	0.0
+Haloferax volcanii	2246	species	4012900	31	15	0.0
+Halorubrum lacusprofundi	2247	species	3692576	23	19	0.0
+Haloferax mediterranei	2252	species	3904707	17	12	0.0
+Natronomonas pharaonis	2257	species	2749696	23	20	0.0
+Thermococcus litoralis	2265	species	2215172	3	3	0.0
+Thermofilum pendens	2269	species	1813393	1	1	0.0
+Thermoproteus tenax	2271	species	1841542	4	4	0.0
+Pyrobaculum islandicum	2277	species	1826402	1	1	0.0
+Sulfolobus acidocaldarius	2285	species	2172056	3	3	0.0
+Sulfolobus solfataricus	2287	species	5625717	1	1	0.0
+Desulfobacterium autotrophicum	2296	species	5657782	19	13	0.0
+Methanosphaera stadtmanae	2317	species	1767403	5	5	0.0
+Thermoanaerobacter kivui	2325	species	2397824	4	4	0.0
+Halanaerobium praevalens	2331	species	2309262	9	7	0.0
+Thermotoga	2335	genus	0	1	1	0.0
+Thermotoga maritima	2336	species	5599391	9	2	0.0
+Thermotoga neapolitana	2337	species	1884562	5	4	0.0
+Haliscomenobacter hydrossis	2350	species	8771651	40	33	0.0
+Flexistipes sinusarabici	2352	species	2526590	6	5	0.0
+Desulfomonile tiedjei	2358	species	6527027	9	6	0.0
+Xylella fastidiosa	2371	species	2609554	20	13	2.57491e-05
+Thermotogales	2419	order	0	1	0	0.0
+Thermosipho africanus	2421	species	2016657	6	6	0.0
+Fervidobacterium islandicum	2423	species	2237377	1	1	0.0
+Fervidobacterium nodosum	2424	species	1948941	2	1	0.0
+Teredinibacter turnerae	2426	species	5193164	13	10	0.0
+Roseobacter	2433	genus	0	2	0	0.0
+Roseobacter denitrificans	2434	species	4331234	47	34	0.0
+Gardnerella vaginalis	2702	species	1669705	114	110	0.000222019
+Hirschia baltica	2724	species	3540114	15	4	0.0
+Symbiobacterium thermophilum	2734	species	3566135	57	39	0.0
+Marinobacter	2742	genus	0	8	0	0.0
+Marinobacter hydrocarbonoclasticus	2743	species	4384621	64	36	7.62801e-06
+Halomonas	2745	genus	0	3	0	0.0
+Halomonas elongata	2746	species	4061296	64	44	0.0
+Carnobacterium maltaromaticum	2751	species	3650416	20	17	0.0
+Primates	9443	order	0	2	0	0.0
+Homo sapiens	9606	species	3238442024	7120759	5273863	0.0159539
+Variola virus	10255	species	185578	1	0	0.0
+Orf virus	10258	species	139962	2	0	0.0
+Pigeonpox virus	10264	species	282356	1	0	0.0
+Swinepox virus	10276	species	146454	1	1	0.0
+Molluscum contagiosum virus subtype 1	10280	leaf	190289	1	1	0.0
+Herpesviridae	10292	family	172764	1	0	0.0
+Human herpesvirus 2	10310	species	154675	6	0	0.0
+Cercopithecine herpesvirus 2	10317	species	150715	1	0	0.0
+Equid herpesvirus 1	10326	species	150224	1	1	0.0
+Suid herpesvirus 1	10345	species	143461	1	1	0.0
+Saimiriine herpesvirus 1	10353	species	156742	1	1	0.0
+Paramecium bursaria Chlorella virus 1	10506	species	330611	1	1	0.0
+Human papillomavirus type 49	10616	leaf	7560	2	2	0.0
+Human papillomavirus type 4	10617	leaf	7353	10	10	0.0
+Enterobacteria phage T4	10665	leaf	168903	3	2	0.0
+Siphoviridae	10699	family	47340	5	2	0.0
+Streptomyces phage VWB	10702	species	49220	2	2	0.0
+Escherichia virus Lambda	10710	species	48502	2	0	0
+Enterobacteria phage phi80	10713	species	46150	9	0	0.000393334
+Escherichia phage T5	10726	species	121750	2	2	0.0
+Enterobacteria phage T7	10760	species	39937	15	8	0.000848041
+Pseudomonas phage Pf3	10872	species	5833	5	5	0.0
+Lactate dehydrogenase-elevating virus	11048	species	14104	1	1	0.0
+Human respiratory syncytial virus	11250	species	15225	1	1	0.0
+Acidovorax	12916	genus	0	54	0	0.0
+Azoarcus	12960	genus	0	28	0	0.0
+Magnetospirillum	13134	genus	0	9	0	0.0
+Burkholderia mallei	13373	species	18282343	326	12	4.14265e-99
+Sphingomonas	13687	genus	0	30	0	0.0
+Natrialba magadii	13769	species	4443643	17	7	0.0
+Bifidobacterium animalis	28025	species	2054141	19	12	0.0
+Bifidobacterium pseudocatenulatum	28026	species	2313752	48	33	0.000144553
+Lysinibacillus fusiformis	28031	species	4843789	10	8	6.90491e-06
+Staphylococcus lugdunensis	28035	species	3479969	36	27	0
+Streptococcus mitis	28037	species	3110438	619	503	0.000404453
+Lactobacillus curvatus	28038	species	5775917	33	23	4.70785e-05
+Acidothermus cellulolyticus	28049	species	2443540	20	12	0.0
+Micromonosporaceae	28056	family	0	21	0	0.0
+Rubrivivax	28067	genus	0	14	0	0.0
+Rubrivivax gelatinosus	28068	species	5043253	897	630	2.66612e-05
+Nostoc sp. PCC 7524	28072	species	6718869	8	4	0.0
+Neisseria weaveri	28091	species	2188497	52	37	3.99095e-05
+Burkholderia gladioli	28095	species	8975879	505	283	2.6593e-05
+Sinorhizobium	28105	genus	0	1	0	0.0
+Alteromonas macleodii	28108	species	5557691	42	32	2.926e-05
+Francisella philomiragia	28110	species	4757195	26	11	0.0
+Tannerella forsythia	28112	species	3383154	14	9	0.0
+Bacteroides ovatus	28116	species	6473892	56	50	2.06651e-05
+Odoribacter splanchnicus	28118	species	4392288	13	13	2.28441e-05
+Porphyromonas asaccharolytica	28123	species	2186370	10	3	1.6928e-05
+Prevotella denticola	28129	species	2937589	23	20	0.0
+Prevotella intermedia	28131	species	2718355	19	19	0.0
+Prevotella melaninogenica	28132	species	3168282	60	52	0.000116121
+Cronobacter sakazakii	28141	species	5648091	61	24	1.5682e-103
+Serratia proteamaculans	28151	species	5495657	42	21	1.21837e-05
+Yersinia kristensenii	28152	species	4496569	10	6	0.0
+Vibrio nigripulchritudo	28173	species	6322155	12	5	0.0
+Leptospira santarosai	28183	species	3983611	13	13	0.0
+Acetohalobium arabaticum	28187	species	2469596	13	7	0.0
+Capnocytophaga canimorsus	28188	species	2571406	28	21	0.0
+Arcobacter butzleri	28197	species	2283719	42	39	4.00776e-05
+Arcobacter nitrofigilis	28199	species	3192235	10	9	1.04773e-05
+Chelatococcus	28209	genus	0	2	0	0.0
+Alphaproteobacteria	28211	class	0	33	0	0.0
+Betaproteobacteria	28216	class	0	31	0	0.0
+Deltaproteobacteria	28221	class	0	9	0	0.0
+Desulfobacula toluolica	28223	species	5197905	5	3	0.0
+Mycoplasma penetrans	28227	species	1358633	5	4	0.0
+Colwellia psychrerythraea	28229	species	5373180	16	11	0.0
+Geobacter	28231	genus	0	10	0	0.0
+Geobacter metallireducens	28232	species	4011182	28	15	0.0
+Ornithobacterium rhinotracheale	28251	species	2398521	23	15	0.0
+Halomonadaceae	28256	family	0	3	0	0.0
+Thermodesulfovibrio yellowstonii	28262	species	2003803	9	5	0.0
+Arcanobacterium haemolyticum	28264	species	1986154	4	4	0.0
+Murid herpesvirus 2	28304	species	230138	1	1	0.0
+Amsacta moorei entomopoxvirus	28321	species	232392	2	2	0.0
+[Clostridium] propionicum	28446	species	3120417	10	5	0.0
+Clavibacter michiganensis	28447	species	3302478	502	397	7.08927e-05
+Komagataeibacter xylinus	28448	species	3905082	64	44	0.0
+Burkholderia pseudomallei	28450	species	11222453	624	167	5.75489e-06
+Leptospira alstonii	28452	species	4591888	63	62	2.91348e-05
+Sphingobacterium	28453	genus	0	2	0	0.0
+Taterapox virus	28871	species	198050	1	0	0.0
+Camelpox virus	28873	species	205719	1	1	0.0
+Volepox virus	28874	species	217124	1	1	0.0
+Caudovirales	28883	order	120871	1	0	0.0
+Salmonella enterica	28901	species	6689149	159	57	9.7713e-06
+Mycoplasma bovis	28903	species	1562794	4	4	0.0
+Natronococcus occultus	29288	species	4314118	22	21	0.0
+Streptomyces cattleya	29303	species	16188068	124	77	0.0
+Mycobacterium haemophilum	29311	species	4235765	51	25	0.0
+Thermoanaerobacter brockii	29323	species	2344824	12	0	0.0
+Thermoanaerobacterium xylanolyticum	29329	species	2534358	6	4	0.0
+[Clostridium] cellulosi	29343	species	2229578	16	14	0.0
+Cellulosilyticum lentocellum	29360	species	4714237	20	11	0.0
+Staphylococcus saprophyticus	29385	species	3903594	65	27	2.06724e-05
+Staphylococcus capitis	29388	species	2503265	212	198	0.000335104
+Microlunatus	29404	genus	0	1	0	0.0
+Microlunatus phosphovorus	29405	species	5683123	80	56	0.0
+Rhodoplanes	29407	genus	0	6	0	0.0
+Synechococcus sp. WH 8103	29410	species	2429688	5	0	0.0
+Legionella oakridgensis	29423	species	2773209	22	19	1.20604e-05
+Moraxella ovis	29433	species	2306095	13	13	0.0
+Pseudomonas savastanoi	29438	species	6112448	64	30	0.0
+Xanthomonas albilineans	29447	species	3852299	187	113	0.0
+Rhizobium etli	29449	species	6784960	183	63	0.0
+Brucella melitensis	29459	species	4250264	8	0	0.0
+Brucella suis	29461	species	8101909	8	0	0.0
+Veillonella parvula	29466	species	2132142	57	54	0.000109806
+Pectobacterium atrosepticum	29471	species	7546597	13	11	0.0
+Yersinia aldovae	29483	species	4471090	41	32	0.0
+Yersinia frederiksenii	29484	species	4550894	24	19	0.0
+Yersinia rohdei	29485	species	4372253	17	12	0.0
+Yersinia ruckeri	29486	species	7304941	17	14	1.83277e-05
+Photorhabdus luminescens	29488	species	5688987	16	11	0.0
+Vibrio furnissii	29494	species	4916408	16	13	0.0
+Vibrio tubiashii	29498	species	5540337	10	10	0.0
+Mycoplasma haemofelis	29501	species	1151598	5	1	0.0
+Turneriella parva	29510	species	4409302	26	17	7.58531e-06
+Borreliella afzelii	29518	species	1151622	2	2	0.0
+Borreliella garinii	29519	species	933029	9	7	0.0
+Pelobacter propionicus	29543	species	4241119	36	15	7.88611e-06
+Lawsonia intracellularis	29546	species	1719103	3	1	0.0
+Rhodothermus marinus	29549	species	3360429	74	53	0.0
+Mycoplasma canadense	29554	species	693241	2	1	0.0
+Mycoplasma canis	29555	species	933117	3	1	0.0
+Taylorella equigenitalis	29575	species	1713991	489	307	0.0
+Janthinobacterium	29580	genus	0	7	0	0.0
+Caldicellulosiruptor bescii	31899	species	2931662	6	1	0.0
+Halothermothrix orenii	31909	species	2578146	3	1	0.0
+Bifidobacteriaceae	31953	family	0	2	0	0.0
+Propionibacteriaceae	31957	family	0	17	0	0.0
+Amycolatopsis orientalis	31958	species	9236541	210	121	0.0
+Mollicutes	31969	class	0	1	0	0.0
+Aminobacter	31988	genus	0	2	0	0.0
+Rhodobacteraceae	31989	family	0	60	3	0.0
+Methylocystaceae	31993	family	0	3	0	0.0
+Methylobacterium radiotolerans	31998	species	6899110	268	23	0
+Achromobacter denitrificans	32002	species	6226215	498	264	0.000202732
+Burkholderia	32008	genus	0	1208	524	0.0
+Methylophilaceae	32011	family	0	9	0	0.0
+Thiomonas	32012	genus	0	6	0	0.0
+Helicobacter hepaticus	32025	species	1799146	2	1	0.0
+Xanthomonadaceae	32033	family	0	64	0	0.0
+Synechococcus elongatus	32046	species	2719262	2	2	0.0
+Synechococcus sp. PCC 7002	32049	species	3409935	10	0	0.0
+Synechococcus sp. WH 7803	32051	species	2366980	18	13	0.0
+Calothrix parietina	32054	species	6960392	8	8	0.0
+Kingella	32257	genus	0	12	0	0.0
+Human herpesvirus 6A	32603	species	159322	1	1	0.0
+synthetic construct	32630	species	26537524	864336	26906	0.267823
+Desulfurella acetivorans	33002	species	1819992	11	9	0.0
+Cutibacterium avidum	33010	species	2627993	432	154	0.000218819
+Parvimonas micra	33033	species	1627009	32	30	8.22268e-05
+Anaerococcus prevotii	33034	species	1998633	137	127	8.3672e-05
+Bartonella grahamii	33045	species	2369520	6	3	0.0
+Bartonella vinsonii	33047	species	1802699	8	6	0.0
+Sphingopyxis macrogoltabida	33050	species	16800329	1016	629	1.68584e-05
+Sphingopyxis terrae	33052	species	3983415	537	349	0.000151911
+Kinetoplastibacterium	33055	genus	0	1	0	0.0
+Candidatus Kinetoplastibacterium crithidii	33056	species	821871	3	3	0.0
+Thauera	33057	genus	0	20	0	0.0
+Acidithiobacillus caldus	33059	species	3112322	94	75	4.29852e-05
+Gloeobacter violaceus	33072	species	4659019	28	22	0.0
+Acidobacterium capsulatum	33075	species	4127356	54	46	0.0
+Coriobacterium glomerans	33871	species	2115681	12	6	0.0
+Microbacterium	33882	genus	0	24	1	0.0
+Rathayibacter	33886	genus	0	1	0	0.0
+Rathayibacter tritici	33888	species	3354681	95	58	0.0
+Mycobacterium africanum	33894	species	4389314	58	0	0.0
+Streptomyces avermitilis	33903	species	9119895	83	42	0.0
+Bifidobacterium thermophilum	33905	species	2291643	11	7	0.0
+Amycolatopsis mediterranei	33910	species	13655759	200	120	0.0
+Anoxybacillus flavithermus	33934	species	2846746	70	62	5.63598e-05
+Geobacillus thermodenitrificans	33940	species	3608012	15	6	0.0
+Geobacillus thermoleovorans	33941	species	5320134	16	7	6.87669e-06
+Kyrpidia tusciae	33943	species	3384766	10	9	0.0
+Acetobacterium woodii	33952	species	4044777	6	4	0.0
+Lactobacillus johnsonii	33959	species	1958140	10	6	0.0
+Leuconostoc citreum	33964	species	1896614	9	9	0.0
+Melissococcus plutonius	33970	species	2059558	7	4	0.0
+Kineococcus	33981	genus	0	6	0	0.0
+Rickettsia bellii	33990	species	1525528	6	3	0.0
+Rickettsia rhipicephali	33992	species	1377049	2	2	0.0
+Neorickettsia	33993	genus	0	1	0	0.0
+Neorickettsia helminthoeca	33994	species	884232	1	1	0.0
+Gluconacetobacter diazotrophicus	33996	species	7914538	110	78	0.0
+Paracoccus aminophilus	34003	species	4873118	172	127	1.79066e-81
+Rhodovulum	34008	genus	0	3	0	0.0
+Rhodospirillum centenum	34018	species	4355543	178	112	7.68688e-06
+Candidatus Liberibacter africanus	34020	species	1192232	1	1	0.0
+Candidatus Liberibacter asiaticus	34021	species	1229983	6	6	0.0
+Leptothrix cholodnii	34029	species	4909403	816	513	8.15838e-06
+Rahnella aquatilis	34038	species	5656799	54	3	0
+Moraxella osloensis	34062	species	2649137	1111	1098	0.000587241
+Cycloclasticus	34067	genus	0	4	0	0.0
+Variovorax	34072	genus	0	22	0	0.0
+Variovorax paradoxus	34073	species	6817856	1315	830	3.11847e-125
+Riemerella anatipestifer	34085	species	2813253	28	22	0.0
+Pelodictyon phaeoclathratiforme	34090	species	3018238	13	9	0.0
+Blattabacterium	34098	genus	0	2	1	0.0
+Streptobacillus moniliformis	34105	species	1673280	10	9	0.0
+Bovine herpesvirus 5	35244	species	137821	3	3	0.0
+Geobacter sulfurreducens	35554	species	3764200	40	21	0.0
+Mycobacterium indicus pranii	35617	species	5589007	133	6	0.0
+Acholeplasma oculi	35623	species	1587120	3	3	0.0
+Heliobacterium modesticaldum	35701	species	3075407	17	10	0.0
+Citrobacter amalonaticus	35703	species	7931914	70	36	9.2524e-06
+Haloferax gibbonsii	35746	species	3918454	66	42	0.0
+Corynebacterium kutscheri	35755	species	2354065	11	2	0.0
+Coprothermobacter proteolyticus	35786	species	1424912	2	0	0.0
+Rickettsia massiliae	35791	species	1376184	4	4	0.0
+Rickettsia parkeri	35792	species	1300386	1	1	0.0
+Rickettsia slovaca	35794	species	1275404	2	1	0.0
+Ehrlichia muris	35795	species	1196717	5	4	0.0
+Nitrosospira	35798	genus	0	1	0	0.0
+Nitrosospira briensis	35799	species	3210113	31	12	0.0
+Rhodovulum sulfidophilum	35806	species	6638597	262	169	0.0
+Bordetella holmesii	35814	species	3697767	75	51	0.0
+Pseudaletia unipuncta granulovirus	36355	species	176677	2	2	0.0
+Clostridium saccharoperbutylacetonicum	36745	species	6666445	35	29	0.0
+Pseudomonas cichorii	36746	species	5986012	76	52	1.17963e-05
+Mycobacterium abscessus	36809	species	18231971	218	122	2.04631e-05
+Mycobacterium rhodesiae	36814	species	6415739	157	106	0.0
+Desulfitobacterium dehalogenans	36854	species	4321753	9	2	0.0
+Brucella canis	36855	species	6599418	31	2	0.0
+Thiobacillus denitrificans	36861	species	2909809	136	79	0.0
+Paraburkholderia xenovorans	36873	species	19434089	219	123	7.09102e-228
+Human herpesvirus 8	37296	species	137969	1	1	0.0
+Nocardia brasiliensis	37326	species	9436348	157	109	2.0595e-99
+Nocardia farcinica	37329	species	6376062	174	89	1.44582e-05
+Nocardia nova	37330	species	8348532	100	72	0.0
+Nocardia seriolae	37332	species	8304518	133	88	0.0
+Marichromatium purpuratum	37487	species	3779112	103	71	0.0
+Thermus scotoductus	37636	species	2355186	88	86	0.000184613
+Enterococcus casseliflavus	37734	species	3427276	7	6	0.0
+Rhodococcus opacus	37919	species	8880502	254	134	0.0
+Sinomonas atrocyanea	37927	species	4492204	97	64	0
+Methanosarcina siciliae	38027	species	5222724	6	6	0.0
+Corynebacterium jeikeium	38289	species	2476822	138	69	6.93538e-05
+Streptomyces pristinaespiralis	38300	species	8532592	114	59	0.0
+Corynebacterium vitaeruminis	38305	species	2931780	102	57	1.18058e-05
+Pseudothermotoga elfii	38322	species	2169860	2	0	0.0
+Bartonella henselae	38323	species	3858658	8	3	0.0
+Blastococcus	38501	genus	0	1	0	0.0
+Acholeplasma palmae	38986	species	1554229	10	9	0.0
+Methanococcus maripaludis	39152	species	1742753	6	6	0.0
+Feldmannia species virus	39420	species	154641	2	0	0.0
+[Eubacterium] eligens	39485	species	2831389	16	10	1.18126e-05
+[Eubacterium] rectale	39491	species	3449685	39	30	4.84768e-05
+Sorangium	39643	genus	0	1	0	0.0
+Mesorhizobium ciceri	39645	species	6838036	225	127	0.0
+Methanosalsum zhilinae	39669	species	2138444	5	5	0.0
+Thiomicrospira crunogena	39765	species	2427734	13	12	0.0
+Sulfurimonas denitrificans	39766	species	2201561	9	9	0.0
+Blattabacterium sp. (Mastotermes darwiniensis)	39768	species	590336	5	3	0.0
+Dialister pneumosintes	39950	species	1274073	5	3	0.0
+Erythrobacter litoralis	39960	species	3151875	411	291	0.000250822
+Oligotropha carboxidovorans	40137	species	5740737	249	169	0
+Acinetobacter johnsonii	40214	species	4081329	2336	2120	0.00188498
+Methylophaga	40222	genus	0	1	0	0.0
+Aliivibrio salmonicida	40269	species	4655660	13	9	0.0
+Stenotrophomonas	40323	genus	0	54	0	0.0
+Stenotrophomonas maltophilia	40324	species	6512435	2044	1674	0.000540335
+Leptotrichia buccalis	40542	species	2465610	13	8	0.0
+Actinosynnema mirum	40567	species	8248144	197	136	0.0
+Xenorhabdus bovienii	40576	species	4523083	12	11	0.0
+Xenorhabdus poinarii	40577	species	3659523	6	5	0.0
+Thioploca ingrica	40754	species	4810005	3	2	0.0
+Borrelia duttonii	40834	species	1574881	7	0	0.0
+Brevundimonas	41275	genus	0	7	0	0.0
+Bradyrhizobiaceae	41294	family	0	39	0	0.0
+Rhodospirillaceae	41295	family	0	44	0	0.0
+Sphingomonadaceae	41297	family	0	52	0	0.0
+Cyanothece sp. PCC 8801	41431	species	4787694	17	5	0.0
+Burkholderia plantarii	41899	species	8081051	350	17	0
+Streptomyces sampsonii	42239	species	7070328	121	61	0.0
+Nitrospira moscoviensis	42253	species	4589485	68	45	0.0
+Rubrobacter	42255	genus	0	1	0	0.0
+Rubrobacter radiotolerans	42256	species	3267233	34	32	0.0
+Halobacteroides halobius	42422	species	2649255	4	3	0.0
+Roseobacter litoralis	42443	species	4745450	25	16	0.0
+Marinovum algicola	42444	species	5252390	138	84	0.0
+Streptomyces collinus	42684	species	8377286	114	57	0.0
+Corynebacterium argentoratense	42817	species	2031902	31	23	0
+Ammonifex degensii	42838	species	2157067	4	1	0.0
+Rickettsia felis	42862	species	1587240	3	1	0.0
+Methanococcus aeolicus	42879	species	1569500	1	1	0.0
+Sulfolobus islandicus	43080	species	2647110	6	6	0.0
+Pseudomonas alcaligenes	43263	species	4406305	161	96	4.90543e-05
+Butyrivibrio proteoclasticus	43305	species	4404886	9	7	0.0
+Pseudomonas denitrificans	43306	species	5696307	135	84	1.24314e-05
+Kutzneria	43356	genus	0	6	0	0.0
+Kutzneria albida	43357	species	9874926	191	112	0.0
+Pseudoalteromonas luteoviolacea	43657	species	18666577	17	12	0.0
+Pseudoalteromonas rubra	43658	species	5913780	15	11	0.0
+Paenarthrobacter aurescens	43663	species	5226648	38	11	0.0
+Brachybacterium	43668	genus	0	2	0	0.0
+Brachybacterium faecium	43669	species	3614992	129	96	0.0
+Jonesia denitrificans	43674	species	2749646	16	11	1.21637e-05
+Rothia mucilaginosa	43675	species	2278659	142	122	0.000213732
+Metallosphaera sedula	43687	species	6574588	1	0	0.0
+Rhodococcus equi	43767	species	5043170	100	54	1.29385e-128
+Corynebacterium urealyticum	43771	species	2342642	108	51	3.42943e-05
+Syntrophus	43773	genus	0	1	0	0.0
+Tolumonas auensis	43948	species	3471292	16	10	9.63501e-06
+Cyanothece	43988	genus	0	1	0	0.0
+Cyanothece sp. ATCC 51142	43989	species	5460377	8	7	0.0
+Caldicellulosiruptor	44000	genus	0	2	1	0.0
+Caldicellulosiruptor saccharolyticus	44001	species	2970275	12	5	0.0
+Ferrimonas	44011	genus	0	1	0	0.0
+Ferrimonas balearica	44012	species	4279159	30	20	0.0
+Polynucleobacter	44013	genus	0	1	0	0.0
+Paenibacillus	44249	genus	0	1	0	0.0
+Paenibacillus durus	44251	species	5814491	26	16	0.0
+Bradyrhizobium oligotrophicum	44255	species	8264165	402	229	0.0
+Borrelia recurrentis	44449	species	1242163	7	0	0.0
+Nitrosomonas communis	44574	species	4067838	18	15	0.0
+Nitrosomonas ureae	44577	species	3307820	25	17	0.0
+Sulfurospirillum barnesii	44674	species	2510109	8	5	0.0
+Desulfovibrio fairfieldensis	44742	species	3699310	41	22	0.0
+Natronobacterium gregoryi	44930	species	3788356	10	8	0.0
+Capnocytophaga haemolytica	45243	species	2688484	14	3	0.0
+Mycoplasma bovoculi	45362	species	760240	2	0	0.0
+Hyphomicrobiaceae	45401	family	0	14	0	0.0
+Beijerinckiaceae	45404	family	0	3	0	0.0
+Psychrobacter urativorans	45610	species	2931580	11	6	0
+Streptococcus cristatus	45634	species	2142100	30	25	0
+Vibrio scophthalmi	45658	species	9728927	8	8	0.0
+Desulfohalobium retbaense	45663	species	2909567	14	8	0.0
+Mycobacterium phage DS6A	45764	species	60588	2	2	0.0
+Staphylococcus pasteuri	45972	species	2559946	348	180	3.22853e-05
+Autographa californica nucleopolyhedrovirus	46015	leaf	133894	1	1	0.0
+Anabaena sp. 90	46234	species	5305675	4	4	0.0
+Spirochaeta africana	46355	species	3285855	12	11	0.0
+Sphingobium chlorophenolicum	46429	species	4573221	337	147	1.38625e-05
+Thermosipho melanesiensis	46541	species	1915238	3	2	0.0
+Devosia	46913	genus	0	9	0	0.0
+Hydrogenophaga	47420	genus	0	12	0	0.0
+Borrelia miyamotoi	47466	species	922629	3	3	0.0
+Lactobacillus rhamnosus	47715	species	3484485	22	21	2.95807e-05
+Bibersteinia trehalosi	47735	species	2411529	18	11	0.0
+Streptomyces lydicus	47763	species	8750753	217	136	0.0
+Spiroplasma kunkelii	47834	species	1514561	3	3	0.0
+Micromonospora aurantiaca	47850	species	7025559	229	77	1.30483e-05
+Pseudomonas azotoformans	47878	species	6859618	161	80	1.23963e-05
+Pseudomonas corrugata	47879	species	6124363	80	45	0.0
+Pseudomonas fulva	47880	species	4920769	94	59	7.26241e-06
+Pseudomonas oryzihabitans	47885	species	4834356	143	92	1.48026e-05
+Serratia fonticola	47917	species	12326310	48	31	2.71457e-06
+Acinetobacter pittii	48296	species	6018266	224	125	5.80142e-05
+Xanthomonas fragariae	48664	species	8565300	110	43	0.0
+Ralstonia	48736	genus	0	53	0	0.0
+Novosphingobium aromaticivorans	48935	species	4233314	500	375	4.0192e-05
+Candidatus Arthromitus sp. SFB-mouse	49118	species	1603201	6	1	0.0
+Rubrobacter xylanophilus	49319	species	3225748	68	58	0.0
+Desulfitobacterium hafniense	49338	species	5503334	15	11	0.0
+Flavobacteriaceae	49546	family	0	6	4	0.0
+Mycoplasma crocodyli	50052	species	934379	1	1	0.0
+Cercopithecine herpesvirus 5	50292	species	452289	2	2	0.0
+Syntrophobotulus glycolicus	51197	species	3406739	6	4	0.0
+Wigglesworthia glossinidia	51229	species	711269	8	6	0.0
+Mycoplasma yeatsii	51365	species	895051	3	2	0.0
+Haloarcula hispanica	51589	species	3895750	21	4	0.0
+Pediococcus damnosus	51663	species	11570178	8	5	0.0
+Aerococcus urinaeequi	51665	species	4067667	36	20	8.22239e-06
+Tetragenococcus halophilus	51669	species	2476095	15	7	0
+Xestia c-nigrum granulovirus	51677	species	178733	1	0	0.0
+Meiothermus silvanus	52022	species	3721669	52	38	8.98681e-06
+Prevotella dentalis	52227	species	3350206	31	21	0.0
+Lactobacillus gallinarum	52242	species	2374782	32	6	5.44417e-129
+Brachyspira pilosicoli	52584	species	2635825	11	8	0.0
+Caldicellulosiruptor kristjanssonii	52765	species	2802443	9	1	0.0
+Caldicellulosiruptor lactoaceticus	52766	species	2674809	12	6	0.0
+Actinomyces meyeri	52773	species	2049088	19	12	1.63223e-05
+Polaromonas	52972	genus	0	5	0	0.0
+Pseudoalteromonas	53246	genus	0	3	0	0.0
+Pantoea	53335	genus	0	22	0	0.0
+Enterococcus durans	53345	species	6143683	11	4	0
+Enterococcus mundtii	53346	species	3351060	47	45	4.99035e-05
+Intrasporangium	53357	genus	0	3	0	0.0
+Intrasporangium calvum	53358	species	4024382	124	89	0.0
+Hyphomicrobium denitrificans	53399	species	3723828	125	80	0.0
+Pseudomonas citronellolis	53408	species	14631203	320	174	0.0
+Pseudomonas resinovorans	53412	species	6484828	157	69	0.0
+Xanthomonas axonopodis	53413	species	5343358	239	54	0.0
+Treponema paraluiscuniculi	53435	species	1133390	2	0	0.0
+Nocardiopsis alba	53437	species	5848211	72	44	0.0
+Lactobacillus lindneri	53444	species	2842174	7	4	1.21635e-05
+Nakamurella	53460	genus	0	1	0	0.0
+Nakamurella multipartita	53461	species	6060298	101	58	0.0
+Acidimicrobium ferrooxidans	53635	species	2158157	42	33	0.0
+Octadecabacter	53945	genus	0	2	0	0.0
+Octadecabacter arcticus	53946	species	5478249	25	19	0.0
+Thermococcus peptonophilus	53952	species	1896106	4	3	0.0
+Pyrococcus horikoshii	53953	species	1738505	1	1	0.0
+Methanolacinia petrolearia	54120	species	2843290	2	2	0.0
+Hyperthermus butylicus	54248	species	1667163	3	3	0.0
+Pyrolobus fumarii	54252	species	1843267	2	2	0.0
+Thermosphaera aggregans	54254	species	1316595	1	1	0.0
+Ferroglobus placidus	54261	species	2196266	1	1	0.0
+Thermococcus chitonophagus	54262	species	1969648	1	1	0.0
+Raoultella ornithinolytica	54291	species	13911666	103	54	2.49029e-06
+Chroococcidiopsis thermalis	54299	species	6689401	5	3	0.0
+Pleurocapsa minor	54308	species	4986817	10	9	0.0
+Streptomyces venezuelae	54571	species	18089227	114	62	0.0
+Salmonella bongori	54736	species	4542714	25	12	0.0
+Deinococcus proteolyticus	55148	species	2886836	32	24	1.15857e-05
+Flavobacterium branchiophilum	55197	species	3563292	145	121	2.81587e-05
+Caldicellulosiruptor owensensis	55205	species	2428903	6	1	0.0
+Sediminispirochaeta smaragdinae	55206	species	4653970	3	2	0.0
+Pectobacterium wasabiae	55208	species	5043228	9	1	0.0
+Janthinobacterium agaricidamnosum	55508	species	5949001	463	318	0
+Magnetospirillum gryphiswaldense	55518	species	4365796	111	65	0.0
+Dehalobacter restrictus	55583	species	2943336	9	3	0.0
+Vibrio anguillarum	55601	species	5628663	11	7	0.0
+Thermococcus barophilus	55802	species	2226382	3	3	0.0
+Bartonella clarridgeiae	56426	species	1522743	11	1	0.0
+Xanthomonas sacchari	56458	species	5006106	426	176	0.0
+Rhizobium gallicum	56730	species	7311190	73	39	0.0
+Shewanella frigidimarina	56812	species	4845257	26	14	0.0
+Thermus oshimai	56957	species	2401329	25	9	0.0
+Psychroflexus torquis	57029	species	4321832	31	26	0.0
+Mycoplasma suis	57372	species	725850	3	1	0.0
+Pseudothermotoga hypogea	57487	species	4330581	6	2	0.0
+Kocuria	57493	genus	0	8	0	0.0
+Dermacoccus	57495	genus	0	2	0	0.0
+Kytococcus	57499	genus	0	7	0	0.0
+Halomicrobium mukohataei	57705	species	3332349	27	24	0.0
+Burkholderia thailandensis	57975	species	9210179	756	234	1.37261e-05
+Colwellia sp. MT41	58049	species	4337945	7	5	0.0
+Desulfotomaculum kuznetsovii	58135	species	3601386	12	11	0.0
+Desulfotomaculum acetoxidans	58138	species	4545624	7	7	0.0
+Desulfovibrio alaskensis	58180	species	3730232	23	16	0.0
+Archaeoglobus veneficus	58290	species	1901943	2	2	0.0
+Blastochloris	59282	genus	0	1	0	0.0
+Streptococcus macedonicus	59310	species	2142762	37	9	1.05974e-159
+Actinotignum schaalii	59505	species	2159306	6	5	0.0
+Cellulophaga algicola	59600	species	4888353	45	35	0.0
+Desulfotomaculum reducens	59610	species	3608104	5	5	0.0
+Chryseobacterium	59732	genus	0	2	0	0.0
+Flammeovirga	59739	genus	0	2	0	0.0
+Persicobacter	59740	genus	0	1	0	0.0
+Candidatus Phytoplasma australiense	59748	species	919869	1	1	0.0
+Alcanivorax	59753	genus	0	2	0	0.0
+Alcanivorax borkumensis	59754	species	3120143	25	2	0
+Paenibacillus peoriae	59893	species	6219815	5	0	0.0
+Cyanobium gracile	59930	species	3342364	33	24	0.0
+Shewanella violacea	60217	species	4962103	9	8	0.0
+Iris yellow spot virus	60456	species	16806	1	1	0.0
+Shewanella amazonensis	60478	species	4306142	23	20	0.0
+Shewanella sp. MR-4	60480	species	4706287	14	4	0.0
+Shewanella sp. MR-7	60481	species	4799109	15	5	0.0
+Burkholderia pyrrocinia	60550	species	7961346	449	162	2.86513e-05
+Burkholderia vietnamiensis	60552	species	14209387	895	251	0.000275836
+Halogeometricum borinquense	60847	species	3944467	6	6	0.0
+Phaeobacter gallaeciensis	60890	species	4300940	132	71	0
+Desulfobacca acetoxidans	60893	species	3282536	14	11	0.0
+Sanguibacter	60919	genus	0	2	0	0.0
+Sanguibacter keddieii	60920	species	4253413	113	70	7.86332e-06
+Shewanella woodyi	60961	species	5935403	8	8	0.0
+Dehalococcoides	61434	genus	0	1	0	0.0
+Dehalococcoides mccartyi	61435	species	1417114	11	8	0.0
+Paenibacillus mucilaginosus	61624	species	8740689	53	47	0.0
+Acholeplasma brassicae	61635	species	1877792	3	2	0.0
+Enterobacter asburiae	61645	species	6470569	139	64	6.70212e-05
+Lelliottia amnigena	61646	species	4616371	18	9	0.0
+Pluralibacter gergoviae	61647	species	5489680	79	41	0
+Kluyvera intermedia	61648	species	6166452	28	17	4.43284e-184
+Serratia rubidaea	61652	species	4922834	48	19	0.0
+Borreliella valaisiana	62088	species	992695	1	0	0.0
+Acidiphilium multivorum	62140	species	4214744	125	14	0.0
+Haloterrigena turkmenica	62320	species	5440782	37	30	0.0
+Shewanella baltica	62322	species	5379488	32	19	0.0
+Azoarcus sp. BH72	62928	species	4376040	330	31	0.0
+Acinetobacter sp. ADP1	62977	species	3598621	56	43	1.89664e-05
+Zobellia galactanivorans	63186	species	5521712	11	7	0.0
+Aquifex aeolicus	63363	species	1590791	3	3	0.0
+Sodalis glossinidius	63612	species	4292502	25	15	0.0
+Sideroxydans lithotrophicus	63745	species	3003656	163	85	0.0
+Desulfurobacterium thermolithotrophum	64160	species	1541968	1	1	0.0
+Synechococcus sp. CC9311	64471	species	2606748	4	4	0.0
+Mitsuaria	65047	genus	0	10	0	0.0
+Corynebacterium ulcerans	65058	species	4175194	36	30	0
+Halothece sp. PCC 7418	65093	species	4179170	9	5	0.0
+Mycoplasma wenyonii	65123	species	650228	2	1	0.0
+Cyanothece sp. PCC 7424	65393	species	6554169	18	16	0.0
+Meiothermus	65551	genus	0	2	0	0.0
+Sulfurospirillum deleyianum	65553	species	2306351	10	8	0.0
+Desulfocapsa sulfexigens	65555	species	4023512	13	12	0.0
+Pseudomonas knackmussii	65741	species	6162905	130	56	0.0
+Wolbachia sp. wRi	66084	species	1445873	7	0	0.0
+Lachnoclostridium phytofermentans	66219	species	4847594	6	6	0.0
+Sulfurospirillum multivorans	66821	species	3175729	14	7	0.0
+Methanocaldococcus infernus	67760	species	1328194	1	1	0.0
+Edwardsiella ictaluri	67780	species	3812301	29	11	0.0
+Citrobacter rodentium	67825	species	5444283	39	18	0
+Actinobacillus succinogenes	67854	species	2319663	32	21	0.0
+Streptomyces cyaneogriseus	68192	species	7762396	85	44	0.0
+Streptomyces fulvissimus	68202	species	7905758	88	55	0.0
+Streptomyces griseochromogenes	68214	species	10764674	102	50	0.0
+Streptomyces pactum	68249	species	8180260	94	51	0.0
+Streptomyces violaceusniger	68280	species	11138313	117	85	0.0
+Mesorhizobium	68287	genus	0	37	0	0.0
+Thermoanaerobacterales	68295	order	0	1	0	0.0
+Deferribacteres	68337	class	0	1	0	0.0
+Streptomyces albulus	68570	species	9578489	153	92	0.0
+Cupriavidus basilensis	68895	species	8421483	331	179	8.06467e-06
+Deinococcus geothermalis	68909	species	3247018	100	78	2.0601e-05
+Thermales	68933	order	0	3	0	0.0
+Phyllobacteriaceae	69277	family	0	3	0	0.0
+Pseudomonas sp. VLB120	69328	species	5966222	110	50	6.43573e-06
+Caulobacter henricii	69395	species	3957288	147	97	0.0
+Petrotoga mobilis	69499	species	2169548	4	3	0.0
+Natrinema pellirubrum	69525	species	4354100	20	18	0.0
+Desulfuromonadales	69541	order	0	8	0	0.0
+Cryobacterium	69578	genus	0	1	0	0.0
+Hyphomonadaceae	69657	family	0	3	0	0.0
+Selenomonas sputigena	69823	species	2568361	24	19	0.0
+Macrococcus caseolyticus	69966	species	2219737	13	4	0.0
+Staphylococcus condimenti	70255	species	2659676	30	22	0.0
+Pseudomonas plecoglossicida	70775	species	6233254	174	43	7.54685e-06
+Shewanella oneidensis	70863	species	5131424	43	33	3.44458e-94
+Shewanella pealeana	70864	species	5174581	6	2	0.0
+Mesorhizobium amorphae	71433	species	7343952	204	91	4.55969e-06
+Waddlia chondrophila	71667	species	2131905	5	0	0.0
+Kocuria palustris	71999	species	2854447	174	127	0.000140621
+Kocuria rhizophila	72000	species	2697540	203	175	3.72004e-05
+Citromicrobium	72173	genus	0	3	0	0.0
+Pseudomonadales	72274	order	0	40	0	0.0
+Alteromonadaceae	72275	family	0	4	0	0.0
+Ectothiorhodospiraceae	72276	family	0	11	0	0.0
+Streptococcus phage Sfi19	72638	species	37370	2	2	0.0
+Dechloromonas	73029	genus	0	3	0	0.0
+Thiocystis violascens	73141	species	5017071	72	51	0.0
+Methanocaldococcus vulcanius	73913	species	1761737	3	3	0.0
+Thermaerobacter	73918	genus	0	1	0	0.0
+Thermaerobacter marianensis	73919	species	2844696	59	47	0.0
+Photobacterium profundum	74109	species	6403280	18	14	0.0
+Brevundimonas subvibrioides	74313	species	3445263	149	104	0.0
+Maricaulis	74317	genus	0	1	0	0.0
+Maricaulis maris	74318	species	3368780	72	46	0.0
+Frankiaceae	74712	family	0	9	0	0.0
+Pseudomonas balearica	74829	species	4383480	128	50	8.60647e-06
+Paraburkholderia caribensis	75105	species	13917408	369	205	0
+Rhodanobacter	75309	genus	0	5	0	0.0
+Pseudomonas mandelii	75612	species	7188564	126	60	2.48504e-05
+Oxalobacteraceae	75682	family	0	10	0	0.0
+Castellaniella defragrans	75697	species	3952818	187	104	0.0
+Rhodocyclaceae	75787	family	0	63	0	0.0
+Thermocrinis ruber	75906	species	1521037	8	6	0.0
+Mannheimia haemolytica	75985	species	2934797	16	13	0.0
+Prevotella enoeca	76123	species	2861432	18	14	0.0
+Campylobacter hominis	76517	species	1714951	11	10	0.0
+Cellulophaga baltica	76594	species	4597822	49	31	0.0
+Roseateles depolymerans	76731	species	5681722	464	293	2.79332e-80
+Pseudomonas monteilii	76759	species	5553188	203	50	1.39144e-05
+Myroides	76831	genus	0	2	0	0.0
+Myroides odoratimimus	76832	species	4457748	31	2	7.50288e-06
+Solibacillus silvestris	76853	species	3987727	17	14	0.0
+Streptococcus constellatus	76860	species	1954077	12	4	2.24284e-05
+Caldivirga maquilingensis	76887	species	2077567	1	1	0.0
+Caulobacteraceae	76892	family	0	30	0	0.0
+Helicobacter typhlonius	76936	species	1920832	2	2	0.0
+Wolbachia endosymbiont of Drosophila simulans	77038	species	1298813	16	8	0.0
+Wolbachia endosymbiont of Onchocerca volvulus	77551	species	960618	1	0	0.0
+Parascardovia denticolens	78258	species	1890857	8	6	0.0
+Scardovia inopinata	78259	species	1797862	7	7	0.0
+Pseudomonas mosselii	78327	species	6247860	271	69	0
+Mycobacterium canettii	78331	species	4482059	56	3	0.0
+Asticcacaulis excentricus	78587	species	4308776	54	39	7.76228e-06
+Desulfosporosinus meridiei	79209	species	4873567	11	8	0.0
+Chitinophaga pinensis	79329	species	9127347	44	31	3.66436e-06
+Denitrobacterium detoxificans	79604	species	2446250	18	16	0.0
+Bacillus clausii	79880	species	4300106	9	8	0.0
+Bacillus gibsonii	79881	species	4100094	1	0	9.2519e-07
+Bacillus pseudofirmus	79885	species	4249248	6	6	0.0
+Erwinia pyrifoliae	79967	species	4072846	12	7	0.0
+Thioflavicoccus mobilis	80679	species	4137521	85	54	0.0
+Haliangium ochraceum	80816	species	9446314	180	133	0.0
+Burkholderiales	80840	order	0	170	3	0.0
+Herbaspirillum rubrisubalbicans	80842	species	5611261	278	136	0
+Wolbachia endosymbiont of Brugia malayi	80849	species	1080084	1	1	0.0
+Aliivibrio wodanis	80852	species	4635126	4	3	0.0
+Moritella viscosa	80854	species	5093989	11	3	0.0
+Comamonadaceae	80864	family	0	108	8	0.0
+Delftia	80865	genus	0	43	0	0.0
+Delftia acidovorans	80866	species	6767514	529	167	2.30249e-05
+Acidovorax avenae	80867	species	5482170	417	157	0.0
+Acidovorax citrulli	80869	species	5352772	427	154	0.0
+Treponema brennaborense	81028	species	3055580	7	6	0.0
+Hyphomonas neptunium	81032	species	3705021	70	45	0.0
+Thermanaerovibrio acidaminovorans	81462	species	1848474	9	6	0.0
+Aminobacterium colombiense	81468	species	1980592	2	0	0.0
+Frateuria aurantia	81475	species	3603458	244	176	1.10859e-05
+Methylovorus	81682	genus	0	5	0	0.0
+Leuconostocaceae	81850	family	0	2	0	0.0
+Picrophilus torridus	82076	species	1545895	1	1	0.0
+Rhizobiaceae	82115	family	0	36	0	0.0
+Cupriavidus gilardii	82541	species	5578743	448	257	7.40738e-05
+Pseudanabaena sp. PCC 7367	82654	species	4885680	7	6	0.0
+Obesumbacterium	82982	genus	0	1	0	0.0
+Obesumbacterium proteus	82983	species	5011796	19	7	0.0
+Pragia fontium	82985	species	4094629	26	17	0.0
+Serratia plymuthica	82996	species	6554843	80	30	6.20848e-37
+Methanocaldococcus fervens	83171	species	1507251	5	4	0.0
+Melanoplus sanguinipes entomopoxvirus	83191	species	236120	1	1	0.0
+Mycobacterium immunogenum	83262	species	11178626	112	72	3.11522e-06
+Aminobacter aminovorans	83263	species	6890726	235	154	0
+gamma proteobacterium HdN1	83406	species	4587455	20	16	0.0
+Myxococcus stipitatus	83455	species	10350586	118	42	0.0
+Corallococcus	83461	genus	0	1	0	0.0
+Parachlamydia acanthamoebae	83552	species	3072383	8	4	0.0
+Chlamydia psittaci	83554	species	1253830	6	3	0.0
+Chlamydia caviae	83557	species	1181356	4	2	0.0
+Chlamydia pneumoniae	83558	species	2460618	1	1	0.0
+Simkania negevensis	83561	species	2628375	11	6	0.0
+Stenotrophomonas nitritireducens	83617	species	4541729	236	47	0.0
+Pseudoxanthomonas	83618	genus	0	12	0	0.0
+Leclercia adecarboxylata	83655	species	4803917	220	196	0.000224851
+Nocardiopsaceae	83676	family	0	2	0	0.0
+Thermobifida	83677	genus	0	2	0	0.0
+Kineosporiaceae	83778	family	0	1	0	0.0
+Methanobrevibacter ruminantium	83816	species	2937203	4	4	0.0
+Methanocorpusculum labreanum	83984	species	1804962	9	9	0.0
+Methanoculleus bourgensis	83986	species	2789774	12	4	0.0
+Clostridium aceticum	84022	species	4207037	8	6	0.0
+Clostridium autoethanogenum	84023	species	8704651	8	0	0.0
+[Clostridium] saccharolyticum	84030	species	4662871	15	7	0.0
+Slackia heliotrinireducens	84110	species	3165038	18	11	0.0
+Eggerthella lenta	84112	species	3632260	44	28	0.0
+Archaeoglobus profundus	84156	species	1563423	2	2	0.0
+Magnetospirillum magneticum	84159	species	4967148	142	71	0.0
+Cryptobacterium curtum	84163	species	1617804	2	0	0.0
+Microbacterium chocolatum	84292	species	3168630	158	115	1.16835e-05
+Brachyspira intermedia	84377	species	3308048	10	6	0.0
+Brachyspira murdochii	84378	species	3241804	6	2	0.0
+Hippea maritima	84405	species	1694430	4	3	0.0
+Lysobacter antibioticus	84531	species	11681564	490	261	5.73203e-06
+Synechococcus sp. WH 8102	84588	species	2434428	7	2	0.0
+Taylorella asinigenitalis	84590	species	1638559	10	6	0.0
+Verrucosispora	84593	genus	0	1	0	0.0
+Gordonia polyisoprenivorans	84595	species	5844299	833	786	0.000714719
+Staphylothermus hellenicus	84599	species	1580347	2	2	0.0
+Aeromonadaceae	84642	family	0	6	0	0.0
+Beutenbergia	84756	genus	0	2	0	0.0
+Beutenbergia cavernae	84757	species	4669183	101	63	0.0
+Desulfotalea psychrophila	84980	species	3659634	6	6	0.0
+Acidimicrobiales	84993	order	0	3	0	0.0
+Coriobacteriia	84998	class	0	3	0	0.0
+Coriobacteriales	84999	order	0	2	0	0.0
+Sphaerobacterales	85001	order	0	1	0	0.0
+Sphaerobacteraceae	85002	family	0	1	0	0.0
+Bifidobacteriales	85004	order	0	6	0	0.0
+Micrococcales	85006	order	0	32	0	0.0
+Corynebacteriales	85007	order	0	33	0	0.0
+Micromonosporales	85008	order	0	2	0	0.0
+Propionibacteriales	85009	order	0	9	0	0.0
+Streptomycetales	85011	order	0	4	0	0.0
+Streptosporangiales	85012	order	0	2	0	0.0
+Nocardioidaceae	85015	family	0	13	0	0.0
+Cellulomonadaceae	85016	family	0	3	0	0.0
+Promicromonosporaceae	85017	family	0	2	0	0.0
+Intrasporangiaceae	85021	family	0	5	0	0.0
+Microbacteriaceae	85023	family	0	17	0	0.0
+Nocardiaceae	85025	family	0	12	0	0.0
+Gordoniaceae	85026	family	0	5	0	0.0
+Geodermatophilaceae	85030	family	0	15	0	0.0
+Nakamurellaceae	85031	family	0	2	0	0.0
+Allochromatium	85072	genus	0	1	0	0.0
+Marichromatium	85076	genus	0	1	0	0.0
+Pseudarthrobacter chlorophenolicus	85085	species	4980870	85	53	0.0
+Halorhodospira	85108	genus	0	2	0	0.0
+Mannheimia varigena	85404	species	2201818	33	18	0.0
+Bosea	85413	genus	0	5	0	0.0
+Thauera sp. MZ1T	85643	species	4574586	596	420	0.000296984
+[Bacillus] selenitireducens	85683	species	3592487	7	2	0.0
+Achromobacter xylosoxidans	85698	species	9063264	953	431	4.68891e-05
+Bartonella tribocorum	85701	species	2636792	2	1	0.0
+Thermacetogenium phaeum	85874	species	2939057	15	13	0.0
+Chlamydia pecorum	85991	species	1105923	7	4	0.0
+endosymbiont of Acanthamoeba sp. UWC8	86106	species	1615277	11	11	0.0
+Syntrophothermus lipocalidus	86170	species	2405559	5	4	0.0
+Saccharophagus degradans	86304	species	5057531	17	16	0.0
+Methanoculleus sp. MAB1	86622	species	2859299	10	1	0.0
+Mycoplasma dispar	86660	species	1084449	2	0	0.0
+Bacillus weihenstephanensis	86662	species	5740546	14	9	2.38186e-44
+Bacillus halodurans	86665	species	4202352	8	7	0.0
+Aerococcus christensenii	87541	species	1634920	10	6	0.0
+Burkholderia multivorans	87883	species	13696114	1305	600	3.41203e-05
+Treponema primitia	88058	species	4059867	8	6	0.0
+Modestobacter	88138	genus	0	4	0	0.0
+Caulobacter segnis	88688	species	4655622	284	199	1.69497e-05
+Corynebacterium terpenotabidum	89154	species	2751233	64	41	0.0
+Ruegeria pomeroyi	89184	species	4601048	103	77	0.0
+Cytophagaceae	89373	family	0	1	0	0.0
+Hymenobacter	89966	genus	0	2	0	0.0
+Streptococcus phage DT1	90410	species	34815	2	2	0.0
+Gallionellaceae	90627	family	0	3	0	0.0
+Staphylococcaceae	90964	family	0	2	0	0.0
+Bacilli	91061	class	0	1	0	0.0
+Enterobacterales	91347	order	0	38	0	0.0
+Candidatus Paracaedibacter acanthamoebae	91604	species	2485110	5	3	0.0
+Candidatus Portiera aleyrodidarum	91844	species	591920	2	1	0.0
+Asaia	91914	genus	0	1	0	0.0
+Asaia bogorensis	91915	species	3198265	26	21	0.0
+Thioalkalimicrobium aerophilum	92245	species	2158359	6	5	0.0
+[Brevibacterium] flavum	92706	species	3339820	38	0	2.60096e-05
+Ketogulonicigenium vulgare	92945	species	5302341	55	38	0.0
+Pandoraea	93217	genus	0	33	3	0.0
+Pandoraea apista	93218	species	16769721	110	35	0
+Pandoraea norimbergensis	93219	species	6167370	119	63	5.47583e-06
+Pandoraea pnomenusa	93220	species	11008666	250	116	7.84849e-06
+Pandoraea pulmonicola	93221	species	5867621	126	69	0.0
+Pandoraea sputorum	93222	species	5751958	125	66	0.0
+Edwardsiella hoshinae	93378	species	3811650	22	5	0.0
+Fervidobacterium pennivorans	93466	species	2114116	3	3	0.0
+Roseateles	93681	genus	0	10	0	0.0
+Thermotoga petrophila	93929	species	1823511	6	0	0.0
+Thermotoga naphthophila	93930	species	1809823	8	0	0.0
+Shewanella sp. ANA-3	94122	species	5251146	46	16	6.61424e-06
+Ramlibacter tataouinensis	94132	species	4493411	1102	657	8.48948e-06
+Dyadobacter fermentans	94254	species	6967790	31	25	0.0
+Bordetella petrii	94624	species	5287950	174	92	7.10499e-06
+Burkholderia stabilis	95485	species	8527947	592	172	1.23858e-05
+Burkholderia cenocepacia	95486	species	15410767	2238	575	2.57061e-05
+Legionella fallonii	96230	species	4434890	18	15	0.0
+Flavobacterium psychrophilum	96345	species	7603866	240	193	1.10668e-05
+Ruegeria	97050	genus	0	3	0	0.0
+Halobacteriovorax marinus	97084	species	3437906	10	10	0.0
+Ferroplasma acidarmanus	97393	species	1935211	2	2	0.0
+Anaerobaculum mobile	97477	species	2160700	3	1	0.0
+Lactobacillus mucosae	97478	species	2434610	14	12	0.0
+Bacillus sp. OxB-1	98228	species	3594618	11	4	0.0
+Calothrix sp. PCC 7507	99598	species	7023215	28	26	0.0
+Onion yellows phytoplasma	100379	species	853092	1	1	0.0
+Chloroherpeton thalassium	100716	species	3293456	9	7	0.0
+Wolbachia endosymbiont of Onchocerca ochengi	100901	species	957990	1	0	0.0
+Methanomethylovorans hollandica	101192	species	2714013	8	5	0.0
+Aequorivita sublithincola	101385	species	3520671	35	20	0.0
+Candidatus Blochmannia pennsylvanicus	101534	species	791654	2	0	0.0
+Burkholderia ubonensis	101571	species	22281372	2427	1406	2.38012e-05
+Thysanoplusia orichalcea nucleopolyhedrovirus	101850	species	132978	1	0	0.0
+Stanieria cyanosphaera	102116	species	5544990	7	2	0.0
+Desulfotomaculum gibsoniae	102134	species	4855529	7	6	0.0
+Streptococcus infantarius	102684	species	1913271	135	92	0.000439458
+Nostoc sp. PCC 7120	103690	species	7211789	6	4	0.0
+Saccharothrix espanaensis	103731	species	9360653	181	114	0.0
+Rhodococcus pyridinivorans	103816	species	5590512	100	14	9.04894e-06
+Bordetella hinzii	103855	species	9772861	247	162	3.47129e-06
+Potato yellow vein virus	103881	species	17266	1	1	0.0
+Ralstonia mannitolilytica	105219	species	9915295	1178	761	0.000388563
+Methylibium petroleiphilum	105560	species	4643639	904	656	2.17261e-05
+Frankia casuarinae	106370	species	5433628	48	36	0.0
+Cupriavidus	106589	genus	0	94	0	0.0
+Cupriavidus necator	106590	species	7948767	510	293	4.31509e-06
+Ensifer adhaerens	106592	species	7267502	115	65	0.0
+Thioalkalivibrio	106633	genus	0	11	0	0.0
+Thioalkalivibrio versutus	106634	species	2969361	63	34	0.0
+Acinetobacter nosocomialis	106654	species	4061750	140	40	2.07261e-05
+Opitutus terrae	107709	species	5957605	108	82	0.0
+Thioalkalivibrio paradoxus	108010	species	3756729	48	27	0.0
+Thermoanaerobacter italicus	108150	species	2451061	5	0	0.0
+Corynebacterium falsenii	108486	species	2719616	58	39	7.53964e-91
+Rickettsia monacensis	109232	species	1353450	5	3	0.0
+Halothiobacillus	109262	genus	0	2	0	0.0
+Thermococcus guaymasensis	110164	species	1920914	1	1	0.0
+Sinorhizobium medicae	110321	species	6817576	59	25	0.0
+T7virus	110456	genus	0	1	0	0.0
+Pelotomaculum thermopropionicum	110500	species	3025375	12	12	0.0
+Mycobacterium vanbaalenii	110539	species	6491865	230	141	0.0
+Synechococcus sp. CC9605	110662	species	2510659	18	7	0.0
+Leifsonia	110932	genus	0	1	0	0.0
+Actinomyces radicidentis	111015	species	3051613	95	57	0
+Muricauda ruestringensis	111501	species	3842422	29	25	0.0
+Leptolyngbya sp. PCC 7376	111781	species	5125950	3	3	0.0
+Sulfolobus tokodaii	111955	species	2694756	4	4	0.0
+Bathymodiolus septemdierum thioautotrophic gill symbiont	113267	species	1469434	1	1	0.0
+Geoglobus ahangari	113653	species	1770093	1	1	0.0
+Candidatus Carsonella ruddii	114186	species	157543	1	1	0.0
+Bradyrhizobium sp. ORS 278	114615	species	7456587	337	177	0.0
+Methylobacterium nodulans	114616	species	8839022	231	135	0.0
+Sphingopyxis alaskensis	117207	species	3373713	466	288	9.787e-05
+Flavobacteriia	117743	class	0	1	0	0.0
+Denitrovibrio acetiphilus	118000	species	3222077	4	1	0.0
+Oscillatoria acuminata	118323	species	7804270	19	17	0.0
+Brucellaceae	118882	family	0	1	0	0.0
+Deinococcales	118964	order	0	5	0	0.0
+Rhodobiaceae	119043	family	0	3	0	0.0
+Methylobacteriaceae	119045	family	0	1	0	0.0
+Burkholderiaceae	119060	family	0	94	0	0.0
+Hydrogenophilales	119069	order	0	1	0	0.0
+Aerococcus sanguinicola	119206	species	2033849	1	1	0.0
+Cupriavidus metallidurans	119219	species	6913352	447	266	7.57482e-05
+Pseudothermotoga thermarum	119394	species	2039943	6	1	0.0
+Syntrophobacter fumaroxidans	119484	species	4990251	36	27	0.0
+Marinomonas mediterranea	119864	species	4684316	8	6	0.0
+Acidithiobacillus	119977	genus	0	2	0	0.0
+Brucella pinnipedialis	120576	species	3365148	28	0	0.0
+Brucella ceti	120577	species	3278034	28	0	0.0
+Roseiflexus	120961	genus	0	1	0	0.0
+Roseiflexus castenholzii	120962	species	5723298	29	21	0.0
+Pseudarthrobacter sulfonivorans	121292	species	5056151	73	53	0.0
+Pannonibacter phragmitetus	121719	species	5669701	116	52	5.17433e-06
+Pectobacterium	122277	genus	0	1	0	0.0
+Bordetella trematum	123899	species	4485537	126	72	0.0
+Thermotoga sp. RQ7	126738	species	1851618	1	0	0.0
+Thermotoga sp. RQ2	126740	species	1877693	5	0	0.0
+Stenotrophomonas acidaminiphila	128780	species	4138297	363	194	2.85131e-05
+Erysipelotrichaceae	128827	family	0	2	0	0.0
+Aerococcus urinaehominis	128944	species	1831400	1	0	0.0
+Geobacillus	129337	genus	0	20	16	0.0
+Geobacillus subterraneus	129338	species	3474426	12	7	0.0
+Pseudocowpox virus	129726	species	145289	2	0	0.0
+Bovine papular stomatitis virus	129727	species	134431	1	0	0.0
+Carboxydothermus hydrogenoformans	129958	species	2401520	6	6	0.0
+Kineococcus radiotolerans	131568	species	4956672	2444	2397	0.00174764
+Desulfomicrobium orale	132132	species	2783374	12	10	0.0
+Rhodococcus jostii	132919	species	9702737	125	38	0.0
+Exiguobacterium antarcticum	132920	species	2815863	13	7	0.0
+Alkalilimnicola	133193	genus	0	3	0	0.0
+Caldilinea aerophila	133453	species	5144873	33	25	0.0
+Nitrosococcus halophilus	133539	species	4145260	13	6	0.0
+Leisingera methylohalidivorans	133924	species	4650996	80	57	0.0
+Olsenella uli	133926	species	2051896	23	12	0.0
+secondary endosymbiont of Heteropsylla cubana	134287	species	1121596	3	3	0.0
+Paraburkholderia fungorum	134537	species	9058983	213	124	3.73657e-06
+Mycobacterium goodii	134601	species	7105933	343	222	3.36955e-211
+Opitutaceae	134623	family	0	3	0	0.0
+Actinoplanes sp. SE50/110	134676	species	9239851	164	113	0.0
+Ureaplasma parvum	134821	species	743562	3	1	0.0
+Nocardia cyriacigeorgica	135487	species	6194645	149	83	0
+Idiomarina loihiensis	135577	species	2839538	5	5	0.0
+Chromatiales	135613	order	0	12	0	0.0
+Xanthomonadales	135614	order	0	37	0	0.0
+Methylococcales	135618	order	0	1	0	0.0
+Oceanospirillales	135619	order	0	7	0	0.0
+Pseudomonadaceae	135621	family	0	86	0	0.0
+Alteromonadales	135622	order	0	1	0	0.0
+Vibrionales	135623	order	0	1	0	0.0
+Aeromonadales	135624	order	0	4	0	0.0
+Bacillus endophyticus	135735	species	5313985	15	12	0.0
+Thermocrinis albus	136094	species	1500577	6	2	0.0
+Leuconostoc kimchii	136609	species	2101787	6	5	0.0
+Corynebacterium testudinoris	136857	species	2721226	63	42	1.25269e-05
+Weissella cibaria	137591	species	2577731	19	15	0.0
+Blastococcus saxobsidens	138336	species	4875340	282	203	6.86023e-06
+Helicobacter cetorum	138563	species	1903950	2	1	0.0
+Isoptericola variabilis	139208	species	3307740	125	84	0.0
+Desulfitobacterium metallireducens	142877	species	3176073	4	1	0.0
+Filifactor alocis	143361	species	1931012	9	7	0.0
+[Eubacterium] sulci	143393	species	1739380	4	3	0.0
+Methanothermobacter thermautotrophicus	145262	species	1751377	1	0	0.0
+Methanothermobacter marburgensis	145263	species	1639135	1	0	0.0
+Dermacoccaceae	145357	family	0	2	0	0.0
+Sanguibacteraceae	145360	family	0	2	0	0.0
+Rathayibacter toxicus	145458	species	4674320	13	9	0.0
+Thermosynechococcus elongatus	146786	species	2593857	22	22	0.0
+Halorhabdus utahensis	146826	species	3116795	19	15	0.0
+Corynebacterium simulans	146827	species	5336673	1318	1241	0.000692754
+Salinibacter	146918	genus	0	1	0	0.0
+Salinibacter ruber	146919	species	3710123	37	27	0.0
+Streptomyces parvulus	146923	species	7766531	83	33	0.0
+Azospira	146937	genus	0	15	0	0.0
+Azospira oryzae	146939	species	3806980	485	387	9.01417e-05
+Thermobispora	147067	genus	0	2	0	0.0
+Thioalkalimicrobium cyclicum	147268	species	1932455	13	7	0.0
+Carnobacterium inhibens	147709	species	2497115	8	7	0.0
+Paraburkholderia phymatum	148447	species	8676562	223	113	0.0
+Sulfuricurvum kujiense	148813	species	2819357	11	9	0.0
+Lactobacillus kunkeei	148814	species	1614522	3	2	0.0
+Massilia	149698	genus	0	24	0	0.0
+Marinitoga piezophila	149715	species	2244793	19	18	0.0
+Streptococcus lutetiensis	150055	species	1975547	35	4	1.36283e-47
+Blastomonas	150203	genus	0	1	0	0.0
+Anguillid herpesvirus 1	150286	species	248526	1	1	0.0
+Vibrio antiquarius	150340	species	5089025	13	4	0.0
+Treponema azotonutricium	150829	species	3855671	10	6	0.0
+Lactococcus phage bIL309	151537	species	36949	8	0	0.00103958
+Pseudopedobacter saltans	151895	species	4635236	21	19	7.21558e-06
+Starkeya	152053	genus	0	3	0	0.0
+Chloroflexus aggregans	152260	species	4684931	20	13	0.0
+Pseudoalteromonas issachenkonii	152297	species	4131541	14	1	0.0
+Burkholderia ambifaria	152480	species	11349840	774	287	0
+Burkholderia dolosa	152500	species	6409095	536	25	7.74214e-158
+Sphingomonas melonis	152682	species	4196755	639	373	0.000707116
+Corynebacterium efficiens	152794	species	3219505	50	41	0.0
+Kozakia baliensis	153496	species	6599181	32	20	0.0
+Nitrosomonas sp. AL212	153948	species	3337023	16	12	0.0
+Cellvibrio japonicus	155077	species	4576573	37	26	7.30807e-06
+Bacillus toyonensis	155322	species	5025419	13	2	0.0
+Methanothermococcus okinawensis	155863	species	1677455	3	3	0.0
+Caulobacter vibrioides	155892	species	4029938	274	196	3.02149e-05
+Acaryochloris marina	155978	species	8361599	3	3	0.0
+Thioflavicoccus	156885	genus	0	2	0	0.0
+Corynebacterium imitans	156978	species	2565321	354	271	6.35962e-05
+[Mannheimia] succiniciproducens	157673	species	2314078	23	13	0.0
+Pseudomonas parafulva	157782	species	5087619	95	51	0.0
+Pseudomonas cremoricolorata	157783	species	4780403	77	37	0.0
+Streptococcus phage SM1	157924	species	34692	5	4	0.000964082
+Chromohalobacter salexigens	158080	species	3696649	128	99	4.52382e-05
+Hahella chejuensis	158327	species	7215267	28	18	0.0
+Novosphingobium resinovorum	158500	species	6918128	437	281	1.09971e-05
+Bifidobacterium scardovii	158787	species	3158347	34	26	0.0
+Cedecea neteri	158822	species	23867322	129	74	0.0
+Enterobacter hormaechei	158836	species	11766809	151	40	6.3444e-05
+Collimonas fungivorans	158899	species	5393313	1358	1004	5.12934e-05
+Roseibacterium elongatum	159346	species	3555109	108	77	0.0
+Paenibacillus terrae	159743	species	6083395	3	1	0.0
+Ignicoccus hospitalis	160233	species	1297538	1	1	0.0
+Corynebacterium casei	160386	species	3132213	58	47	0.0
+Acidihalobacter prosperus	160660	species	3566941	64	39	0.0
+Raoultella	160674	genus	0	2	0	0.0
+Sphingomonas wittichii	160791	species	5915246	1003	695	0.00101355
+Paenibacillus borealis	160799	species	8156808	7	4	0.0
+Acidithiobacillus ferrivorans	160808	species	3207552	38	29	0.0
+Planococcus antarcticus	161360	species	3804624	10	4	0.0
+Pseudoalteromonas phenolica	161398	species	4868993	12	8	0.0
+Anaeromyxobacter	161492	genus	0	17	0	0.0
+Anaeromyxobacter dehalogenans	161493	species	5021404	205	77	0.0
+Corynebacterium kroppenstedtii	161879	species	2446804	475	471	0.000321126
+Corynebacterium camporealensis	161896	species	2451810	140	104	1.50484e-05
+Corynebacterium singulare	161899	species	2830519	268	177	0.000228242
+Haliangium	162027	genus	0	2	0	0.0
+Paenibacillus naphthalenovorans	162209	species	5200139	11	8	0.0
+Thermococcus cleftensis	163003	species	1950313	6	6	0.0
+Wolbachia endosymbiont of Drosophila melanogaster	163164	species	1267782	8	0	0.0
+Streptomyces puniciscabiei	164348	species	9698948	111	68	0.0
+Blattabacterium punctulatus	164514	species	609561	12	8	0.0
+Mycobacterium sp. MCS	164756	species	5920523	202	4	2.87645e-05
+Mycobacterium sp. JLS	164757	species	6048425	234	64	3.94035e-05
+Weissella koreensis	165096	species	1441470	3	0	0.0
+Sphingobium	165695	genus	0	94	4	0.0
+Novosphingobium	165696	genus	0	18	0	0.0
+Sphingopyxis	165697	genus	0	32	2	0.0
+Human endogenous retrovirus K113	166122	leaf	9472	52	1	0.0476047
+Synechococcus sp. WH 8109	166314	species	2111515	9	2	0.0
+Thermobaculum terrenum	166501	species	3101581	9	7	0.0
+Pseudoalteromonas translucida	166935	species	4147593	8	2	0.0
+Ilyobacter polytropus	167642	species	3132314	13	12	0.0
+Anaerolinea thermophila	167964	species	3532378	11	9	0.0
+uncultured Termite group 1 bacterium	167965	species	1148570	11	7	0.0
+Candidatus Ishikawaella capsulata	168169	species	754729	7	3	0.0
+Laribacter	168470	genus	0	4	0	0.0
+Laribacter hongkongensis	168471	species	3169329	129	85	1.0553e-05
+Hydrogenobaculum	168657	genus	0	2	0	0.0
+Salinispora	168694	genus	0	10	0	0.0
+Salinispora tropica	168695	species	5183331	50	31	0.0
+Salinispora arenicola	168697	species	5786361	79	50	0.0
+Thalassospira	168934	genus	0	1	0	0.0
+Corynebacterium aurimucosum	169292	species	2819226	269	204	0
+Clostridium saccharobutylicum	169679	species	5107814	16	14	0.0
+Paenibacillus stellifer	169760	species	5658798	19	12	0.0
+Methanosarcina lacustris	170861	species	4139808	7	6	0.0
+Mycoplasma cynos	171284	species	998123	4	4	0.0
+Tistrella	171436	genus	0	4	0	0.0
+Tistrella mobilis	171437	species	6512983	195	124	0
+Prevotellaceae	171552	family	0	1	0	0.0
+Mycoplasma ovis	171632	species	702511	2	1	0.0
+Thermodesulfatator indicus	171695	species	2322224	8	8	0.0
+Elizabethkingia miricola	172045	species	4242519	49	39	3.94175e-05
+Thermococcus sibiricus	172049	species	1845800	3	3	0.0
+Gemmatimonas aurantiaca	173480	species	4636964	97	85	0.0
+Ramlibacter	174951	genus	0	5	0	0.0
+Pseudothermotoga lettingae	177758	species	2135342	2	0	0.0
+Leptospirillum ferriphilum	178606	species	2368371	9	3	0.0
+Alicycliphilus denitrificans	179636	species	4953232	848	403	7.54787e-05
+Delftia tsuruhatensis	180282	species	7195716	464	127	1.52947e-05
+Burkholderia virus phiE125	180504	species	53373	2	0	0.0
+Desulfococcus oleovorans	181663	species	3944167	26	20	0.0
+Desulfovibrio aespoeensis	182210	species	3629109	36	21	4.28092e-143
+Erwinia billingiae	182337	species	5372268	231	221	0.000156332
+Kribbella	182639	genus	0	1	0	0.0
+Kribbella flavida	182640	species	7579488	168	116	0.0
+Oceanobacillus iheyensis	182710	species	3630528	8	6	9.21241e-06
+Deinococcaceae	183710	family	0	1	0	0.0
+Halobacteria	183963	class	0	6	0	0.0
+Thermodesulfobium narugense	184064	species	1898865	6	6	0.0
+Thermoproteus uzoniensis	184117	species	1936063	3	3	0.0
+Corallococcus coralloides	184914	species	10080619	167	102	0.0
+Desulfovibrio magneticus	184917	species	5315620	61	43	0.0
+Butyrivibrio hungatei	185008	species	3386314	7	5	0.0
+Paludibacter propionicigenes	185300	species	3685504	25	23	0.0
+Staphylococcus phage 13	186153	species	42722	2	0	0.0
+Xylanimonas	186188	genus	0	1	0	0.0
+Xylanimonas cellulosilytica	186189	species	3831380	85	49	0.0
+Marinithermus hydrothermalis	186192	species	2269167	37	18	0.0
+Candidatus Baumannia cicadellinicola	186490	species	1040878	8	6	0.0
+Lambdavirus	186765	genus	0	3	0	0.0
+Clostridia	186801	class	0	4	0	0.0
+Clostridiales	186802	order	0	4	0	0.0
+Peptostreptococcaceae	186804	family	0	2	0	0.0
+Bacillaceae	186817	family	0	2	0	0.0
+Planococcaceae	186818	family	0	1	0	0.0
+Paenibacillaceae	186822	family	0	3	0	0.0
+Lactobacillales	186826	order	0	4	0	0.0
+Aerococcaceae	186827	family	0	1	0	0.0
+Thioalkalivibrio nitratireducens	186931	species	4002350	79	49	0.0
+Sneathia amnii	187101	species	1330224	19	18	5.02862e-05
+Oceanithermus profundus	187137	species	2439291	61	49	0.0
+Methylocystis sp. SC2	187303	species	3773444	63	41	0.0
+Acidaminococcus intestini	187327	species	2487765	10	4	0.0
+Pediococcus claussenii	187452	species	2958378	41	21	4.66814e-05
+Thalassolituus oleivorans	187493	species	3842190	14	9	0.0
+Thermococcus gammatolerans	187878	species	2045438	2	2	0.0
+Thermaceae	188786	family	0	4	0	0.0
+Deinococci	188787	class	0	8	0	0.0
+Oleispira antarctica	188908	species	4406383	25	15	0.0
+Pedobacter cryoconitis	188932	species	5950539	38	25	5.62066e-06
+Paenibacillus graminis	189425	species	7166464	12	7	0.0
+Paenibacillus odorifer	189426	species	6812473	6	5	0.0
+Chrysiogenaceae	189770	family	0	1	0	0.0
+Nitrospirales	189778	order	0	5	0	0.0
+Nitrospiraceae	189779	family	0	2	0	0.0
+Mycobacterium sp. KMS	189918	species	6256079	208	7	0
+Ralstonia insidiosa	190721	species	12164766	3761	3330	0.000468097
+Vibrio coralliilyticus	190893	species	17260629	27	19	0.0
+Rhodococcus aetherivorans	191292	species	5922748	122	63	0.0
+Chlorobia	191410	class	0	1	0	0.0
+Chlorobiales	191411	order	0	2	0	0.0
+Chlorobiaceae	191412	family	0	2	0	0.0
+Conexibacter	191494	genus	0	3	0	0.0
+Conexibacter woesei	191495	species	6359369	204	161	0.0
+Fluviicola taffensis	191579	species	4633577	56	42	1.3667e-05
+Corynebacterium atypicum	191610	species	2359448	56	31	0.0
+Shewanella denitrificans	192073	species	4545906	11	9	0.0
+Planococcus maritimus	192421	species	3280721	14	9	0.0
+Rhodoferax ferrireducens	192843	species	4969784	308	214	2.03541e-05
+Sulfurospirillum halorespirans	194424	species	3029840	10	4	0.0
+Desulfovibrionaceae	194924	family	0	6	0	0.0
+Synechococcus sp. PCC 8807	195248	species	3304088	12	1	0.0
+Synechococcus sp. PCC 6312	195253	species	3720499	6	6	0.0
+Synechococcus sp. PCC 7117	195498	species	3432101	9	0	0.0
+Thermococcus nautili	195522	species	1976356	2	2	0.0
+Nocardioides sp. JS614	196162	species	5293685	193	132	0.0
+Actinoplanes friuliensis	196914	species	9376071	193	119	0.0
+Deferribacter desulfuricans	197162	species	2542933	9	6	0.0
+Streptococcus pasteurianus	197614	species	2100077	10	1	3.47652e-59
+Azoarcus sp. CIB	198107	species	5257030	334	183	6.50043e-06
+Candidatus Pelagibacter ubique	198252	species	1308759	6	4	0.0
+Anoxybacillus gonensis	198467	species	2803668	36	27	1.43504e-05
+Pseudomonas koreensis	198620	species	12292986	686	591	5.53238e-05
+Methylocella silvestris	199596	species	4305430	83	53	0.0
+Caldisphaera lagunensis	200415	species	1546846	7	6	0.0
+Pseudomonas trivialis	200450	species	6452803	161	98	5.75721e-06
+Pseudomonas poae	200451	species	5512241	115	64	2.14299e-23
+Flavobacteriales	200644	order	0	2	0	0.0
+Planococcus rifietoensis	200991	species	3505011	18	14	0.0
+Alicycliphilus	201096	genus	0	12	0	0.0
+Actinobacteria	201174	phylum	0	1	0	0.0
+Maize bushy stunt phytoplasma	202462	species	576118	3	3	0.0
+Sulfurimonas autotrophica	202747	species	2153198	9	9	0.0
+Collimonas	202907	genus	0	21	0	0.0
+Planctomycetia	203683	class	0	3	0	0.0
+Spirochaetia	203692	class	0	1	0	0.0
+Nitrospira	203693	class	0	1	0	0.0
+Candidatus Blochmannia floridanus	203907	species	705557	6	6	0.0
+Dickeya	204037	genus	0	3	0	0.0
+Dickeya dadantii	204038	species	4922802	36	18	0.0
+Dickeya zeae	204042	species	4675379	39	33	0.0
+Acidobacteriia	204432	class	0	1	0	0.0
+Acidobacteriales	204433	order	0	2	0	0.0
+Acidobacteriaceae	204434	family	0	2	0	0.0
+Rhodospirillales	204441	order	0	11	0	0.0
+Rhodobacterales	204455	order	0	10	0	0.0
+Sphingomonadales	204457	order	0	18	0	0.0
+Caulobacterales	204458	order	0	11	0	0.0
+Herminiimonas arsenicoxydans	204773	species	3424307	155	60	1.41065e-100
+Novosphingobium pentaromativorans	205844	species	5457578	357	177	6.9349e-05
+Mycobacterium phage Che9c	205872	species	57050	1	0	0.0
+Mycobacterium phage Che9d	205876	species	56276	1	1	0.0
+Methylophilales	206350	order	0	3	0	0.0
+Neisseriales	206351	order	0	13	0	0.0
+Nitrosomonadaceae	206379	family	0	1	0	0.0
+Rhodocyclales	206389	order	0	23	0	0.0
+Sulfurovum lithotrophicum	206403	species	2217891	3	3	0.0
+Parvularcula	208215	genus	0	1	0	0.0
+Parvularcula bermudensis	208216	species	2902643	20	16	0.0
+Enterobacter kobei	208224	species	4927478	25	2	5.6241e-102
+Alkaliphilus metalliredigens	208226	species	4929566	16	15	0.0
+Amycolatopsis japonica	208439	species	9053857	115	62	0.0
+Carnobacterium sp. 17-4	208596	species	2685399	9	6	0.0
+Escherichia albertii	208962	species	4679521	44	10	0
+Choristoneura fumiferana multiple nucleopolyhedrovirus	208973	species	129593	1	1	0.0
+Acanthamoeba polyphaga mimivirus	212035	species	1181549	2	2	0.0
+Vibrio tasmaniensis	212663	species	4974818	7	4	0.0
+Mycobacterium sp. JS623	212767	species	7221766	178	125	0.0
+Sclerotinia sclerotiorum debilitation-associated RNA virus	213034	species	5470	1	1	0.0
+Desulfovibrionales	213115	order	0	4	0	0.0
+Desulfobacterales	213118	order	0	3	0	0.0
+Desulfobacteraceae	213119	family	0	2	0	0.0
+Desulfobulbaceae	213121	family	0	2	0	0.0
+Desulfuromonadaceae	213421	family	0	2	0	0.0
+Geobacteraceae	213422	family	0	2	0	0.0
+Syntrophobacterales	213462	order	0	1	0	0.0
+Bdellovibrionaceae	213483	family	0	1	0	0.0
+Halomonas campaniensis	213554	species	4074048	17	5	0.0
+Campylobacterales	213849	order	0	1	0	0.0
+Alistipes finegoldii	214856	species	3734239	59	48	4.47828e-05
+Treponema caldarium	215591	species	3239340	5	3	0.0
+Erwinia sp. Ejp617	215689	species	3957675	16	6	0.0
+Dinoroseobacter shibae	215813	species	4417868	115	69	0
+Pseudomonas rhizosphaerae	216142	species	4688635	65	42	7.64791e-06
+Polaromonas naphthalenivorans	216465	species	5366143	395	259	0.0
+Stenotrophomonas rhizophila	216778	species	4198652	279	142	8.11242e-06
+Bifidobacterium longum	216816	species	3655960	114	85	0.000154766
+Spiroplasma chrysopicola	216933	species	1123322	1	1	0.0
+Spiroplasma culicicola	216935	species	1175131	4	3	0.0
+Spiroplasma diminutum	216936	species	945296	11	9	0.0
+Spiroplasma helicoides	216938	species	1326546	3	2	0.0
+Spiroplasma sabaudiense	216944	species	1075953	6	6	0.0
+Spiroplasma syrphidicola	216945	species	1107344	1	0	0.0
+Clostridium carboxidivorans	217159	species	5752782	17	12	0.0
+Ottowia	219181	genus	0	2	0	0.0
+Pseudomonas antarctica	219572	species	6607040	139	76	1.95558e-05
+Thalassospira xiamenensis	220697	species	4768950	41	27	1.8489e-26
+Treponema putidum	221027	species	2800562	5	2	0.0
+Phaeobacter inhibens	221822	species	4194026	84	54	0.0
+Helicobacter sp. MIT 01-6242	222136	species	1594790	3	2	0.0
+Mycobacterium chimaera	222805	species	6328534	130	22	0.0
+Methylobacterium populi	223967	species	5848997	228	116	1.32007e-05
+Alcanivoracaceae	224372	family	0	2	0	0.0
+Kofleriaceae	224464	family	0	1	0	0.0
+Methanobrevibacter sp. AbM4	224719	species	1998189	6	6	0.0
+Methanomicrobia	224756	class	0	2	0	0.0
+Acidithiobacillales	225057	order	0	1	0	0.0
+Geobacter bemidjiensis	225194	species	4615150	45	26	0.0
+Corynebacterium halotolerans	225326	species	3222008	105	59	1.05484e-05
+SARS coronavirus	227859	leaf	29751	1	1	0.0
+Pannonibacter	227873	genus	0	9	0	0.0
+Thermovibrio ammonificans	228745	species	1759526	1	0	0.0
+Aster yellows witches'-broom phytoplasma	229545	species	723970	5	5	0.0
+Methanobrevibacter millerae	230361	species	2543538	3	3	0.0
+Dyella	231454	genus	0	17	0	0.0
+Dyella japonica	231455	species	4831185	1297	901	3.04773e-05
+Belliella baltica	232259	species	4196595	34	29	7.96978e-06
+Acidovorax sp. JS42	232721	species	4585154	939	426	0.000678848
+Desulfitobacterium dichloroeliminans	233055	species	3624449	6	4	0.0
+Kinetoplastibacterium blastocrithidii	233181	species	820033	6	1	0.0
+Alteromonas stellipolaris	233316	species	9533996	5	1	0.0
+Candidatus Midichloria mitochondrii	234827	species	1183732	8	5	0.0
+Pseudoalteromonas sp. SM9913	234831	species	4037671	16	3	0.0
+Pseudomonas alkylphenolia	237609	species	5764622	110	62	6.13777e-06
+Alistipes	239759	genus	0	1	0	0.0
+Akkermansia muciniphila	239935	species	2704687	6	4	0.0
+Squirrelpox virus	240426	species	148803	1	1	0.0
+Lactobacillus paracollinoides	240427	species	10733574	22	12	3.49247e-98
+Pseudonocardia dioxanivorans	240495	species	7303989	178	114	0.0
+Rummeliibacillus stabekisii	241244	species	3420739	8	8	0.0
+Crinalium epipsammum	241425	species	5620407	5	5	0.0
+Burkholderia virus Bcep22	242527	species	63882	1	1	0.0
+Acidilobus saccharovorans	242703	species	1496453	1	0	0.0
+Klebsiella variicola	244366	species	10894097	62	6	0
+Nautilia profundicola	244787	species	1676444	8	4	0.0
+Wolbachia endosymbiont of Cimex lectularius	246273	species	1250060	2	1	0.0
+Staphylococcus equorum	246432	species	8544915	64	26	7.1645e-06
+Bacteroides cellulosilyticus	246787	species	7084828	32	21	8.26113e-35
+Algoriphagus	246875	genus	0	2	0	0.0
+Thermococcus sp. AM4	246969	species	2086428	6	6	0.0
+Cupriavidus pinatubonensis	248026	species	7255290	245	122	3.65564e-59
+Cardinium endosymbiont of Encarsia pergandiella	249402	species	944930	5	4	0.0
+Candidatus Blochmannia chromaiodes	251542	species	791219	4	2	0.0
+Pseudomonas syringae group genomosp. 3	251701	species	6538260	76	33	0.0
+Robiginitalea	252306	genus	0	1	0	0.0
+Robiginitalea biformata	252307	species	3530383	21	19	0.0
+Microbulbifer thermotolerans	252514	species	3938396	34	22	0.0
+Mahella australiensis	252966	species	3135972	7	5	1.09371e-131
+Paraburkholderia phenoliruptrix	252970	species	7651131	215	27	0
+Ethanoligenens harbinense	253239	species	3008576	15	13	0.0
+Owenweeksia hongkongensis	253245	species	4000057	18	17	0.0
+Isoptericola	254250	genus	0	5	0	0.0
+Burkholderia virus phi1026b	255131	species	54865	1	0	0.0
+Fictibacillus arsenicus	255247	species	4055461	7	4	0.0
+Aurantimonadaceae	255475	family	0	2	0	0.0
+Chlorobaculum	256319	genus	0	5	0	0.0
+Parvibaculum	256616	genus	0	3	0	0.0
+Parvibaculum lavamentivorans	256618	species	3914745	95	66	0.0
+Glutamicibacter arilaitensis	256701	species	3918308	69	46	0.0
+Streptococcus pseudopneumoniae	257758	species	2195458	147	65	1.97016e-05
+Corynebacterium resistens	258224	species	2601311	71	49	8.60052e-05
+Desulfatibacillum alkenivorans	259354	species	6517073	25	14	0.0
+Dechloromonas aromatica	259537	species	4501104	2083	1922	0.000186423
+Campylobacter insulaenigrae	260714	species	1465081	6	1	0.0
+Psychrobacter alimentarius	261164	species	3349444	12	5	0
+Nitrosomonas sp. Is79A3	261292	species	3783444	47	45	0.0
+Paraburkholderia phytofirmans	261302	species	8214658	208	92	4.12575e-06
+Mycobacterium liflandii	261524	species	6399543	94	18	0.0
+Kangiella koreensis	261964	species	2852073	8	5	0.0
+Orgyia pseudotsugata multiple nucleopolyhedrovirus	262177	species	131995	2	2	0.0
+Lysobacter gummosus	262324	species	6056618	437	215	0.0
+Yersinia aleksiciae	263819	species	4000307	22	10	0.0
+Bacillus muralis	264697	species	5007018	6	4	0.0
+Burkholderia virus BcepMu	264729	species	36748	1	0	0.0
+Rhodopirellula baltica	265606	species	7145576	40	33	0.0
+Serinicoccus	265976	genus	0	1	0	0.0
+Methylovorus glucosotrophus	266009	species	3082007	65	9	3.9771e-62
+Chelativorans sp. BNC1	266779	species	4935185	68	41	6.78917e-06
+Sphingopyxis granuli	267128	species	4679853	434	252	2.66059e-69
+Arsenicicoccus	267408	genus	0	1	0	0.0
+Lactobacillus kefiranofaciens	267818	species	2354088	5	2	0.0
+Nitratifractor salsuginis	269261	species	2101285	5	3	0.0
+Methylobacterium aquaticum	270351	species	7557960	265	166	0.0
+Methylomicrobium alcaliphilum	271065	species	4796711	19	14	0.0
+Shewanella sediminis	271097	species	5517674	19	17	0.0
+Shewanella halifaxensis	271098	species	5226917	6	1	0.0
+Nostoc punctiforme	272131	species	9059191	12	9	0.0
+Pseudomonas phage EL	273133	species	211215	1	1	0.0
+Chlorobaculum limnaeum	274537	species	2797276	34	11	0.0
+Chlorobaculum parvum	274539	species	2289249	13	9	0.0
+Hoeflea	274591	genus	0	2	0	0.0
+Collimonas arenae	279058	species	15078336	879	572	1.42555e-05
+Collimonas pratensis	279113	species	11315924	775	431	1.81823e-05
+Burkholderia virus BcepC6B	279280	species	42415	4	2	0.0
+Actinoplanes phage phiAsp2	279303	species	58638	1	1	0.0
+Burkholderia phage BcepB1A	279530	species	47399	1	1	0.0
+Pseudomonas phage F116	280701	species	65195	2	0	0.0
+Candidatus Amoebophilus asiaticus	281120	species	1884364	5	4	0.0
+Odoribacter	283168	genus	0	1	0	0.0
+Pseudoalteromonas sp. Bsw20308	283699	species	4830226	23	20	0.0
+Staphylococcus pseudintermedius	283734	species	4509494	32	22	7.43009e-06
+Stackebrandtia nassauensis	283811	species	6841557	73	54	0.0
+Phenylobacterium zucineum	284016	species	4379231	220	152	7.6374e-06
+Alcanivorax dieselolei	285091	species	4928223	72	30	0.0
+Streptomyces rubrolavendulae	285473	species	6543262	83	54	0.0
+Segniliparus rotundus	286802	species	3157527	32	27	0.0
+Alteromonas addita	287094	species	4649146	19	3	0.0
+Bradyrhizobium sp. BTAi1	288000	species	8493513	439	268	0.000120745
+[Clostridium] clariflavum	288965	species	4897678	14	7	1.50685e-94
+Small anellovirus 1	289366	leaf	2249	1	0	0.0
+Small anellovirus 2	289367	leaf	2635	2	0	0.0
+Bacteroides helcogenes	290053	species	3998906	9	5	0.0
+Arthrobacter sp. FB24	290399	species	5070478	51	32	0.0
+Jannaschia sp. CCS1	290400	species	4404049	48	39	0.0
+Photorhabdus asymbiotica	291112	species	5094138	16	14	0.0
+Thermosediminibacter oceani	291990	species	2280035	1	1	0.0
+Ruegeria sp. TM1040	292414	species	4153699	49	32	0.0
+Dactylococcopsis salina	292566	species	3781008	9	6	0.0
+Gramella	292691	genus	0	1	0	0.0
+Flavonifractor plautii	292800	species	3818500	20	10	0.0
+Sphingopyxis sp. 113P3	292913	species	4664213	287	174	4.78952e-05
+Martelella	293088	genus	0	10	0	0.0
+Haloquadratum walsbyi	293091	species	3219918	8	7	0.0
+Methanobrevibacter olleyae	294671	species	2201192	5	5	0.0
+Anoxybacillus amylolyticus	294699	species	3158269	24	24	1.059e-05
+Polaromonas sp. JS666	296591	species	5898676	274	161	5.70896e-06
+Frankia sp. EAN1pec	298653	species	8982042	100	72	0.0
+Frankia inefficax	298654	species	8815781	143	104	0.0
+Enterobacter ludwigii	299767	species	4952770	27	1	7.15678e-06
+Glaciecola nitratireducens	300231	species	4134229	10	6	0.0
+Bacillus lehensis	300825	species	3993073	6	6	0.0
+Roseburia hominis	301301	species	3592125	22	17	9.3109e-06
+Methanosaeta harundinacea	301375	species	2571034	13	10	0.0
+Advenella mimigardefordensis	302406	species	4764126	38	24	0
+Phaeobacter	302485	genus	0	7	0	0.0
+Catenulispora acidiphila	304895	species	10467782	175	123	0.0
+Dinoroseobacter	309512	genus	0	1	0	0.0
+Persephonella marina	309805	species	1983966	8	3	0.0
+Sulfurihydrogenibium azorense	309806	species	1640877	9	8	0.0
+Candidatus Liberibacter americanus	309868	species	1195201	2	1	0.0
+Deinococcus maricopensis	309887	species	3498530	70	55	0.0
+Advenella kashmirensis	310575	species	4423879	29	17	7.60385e-06
+Deinococcus deserti	310783	species	3855329	35	22	0.0
+Thermococcus kodakarensis	311400	species	2088737	3	3	0.0
+Flavobacterium indicum	312277	species	2993089	210	171	0.0
+Emticicia oligotrophica	312279	species	5220361	63	46	0.0
+Pseudomonas entomophila	312306	species	5888780	150	51	0.0
+Croceibacter atlanticus	313588	species	2952962	28	21	0.0
+Dokdonia sp. MED134	313590	species	3302548	11	4	0.0
+Polaribacter sp. MED152	313598	species	2961474	51	39	0.0
+Maribacter sp. HTCC2170	313603	species	3868304	30	23	0.0
+Geobacter lovleyi	313985	species	3994874	18	13	0.0
+Alteromonas mediterranea	314275	species	5274170	23	7	4.15837e-47
+Psychromonas sp. CNPT3	314282	species	3052410	14	12	0.0
+Sideroxydans	314343	genus	0	2	0	0.0
+Pseudoxanthomonas suwonensis	314722	species	3655384	740	466	2.82549e-137
+Spiroplasma eriocheiris	315358	species	1365714	3	2	0.0
+Streptococcus gallolyticus	315405	species	2285714	59	21	0.000197865
+Leadbetterella byssophila	316068	species	4059653	41	24	0.0
+Syntrophus aciditrophicus	316277	species	3179300	17	13	0.0
+Synechococcus sp. RCC307	316278	species	2224914	16	7	0.0
+Synechococcus sp. CC9902	316279	species	2234828	4	3	0.0
+Segniliparaceae	316606	family	0	1	0	0.0
+Methylibium	316612	genus	0	14	0	0.0
+Cyprinid herpesvirus 2	317878	species	290304	2	2	0.0
+Nostoc sp. PCC 7107	317936	species	6329823	6	6	0.0
+Paucibacter	318147	genus	0	10	0	0.0
+Leadbetterella	319458	genus	0	2	0	0.0
+Beggiatoa leptomitiformis	319938	species	4265296	12	10	0.0
+Conexibacteraceae	320583	family	0	1	0	0.0
+Cyclobacterium amurskyense	320787	species	6158829	14	10	0.0
+Staphylococcus phage 37	320840	species	43681	2	0	0.0
+Synechococcus sp. JA-3-3Ab	321327	species	2932766	16	10	0.0
+Synechococcus sp. JA-2-3B'a(2-13)	321332	species	3046682	7	6	0.0
+Dokdonella	323413	genus	0	6	0	0.0
+Dokdonella koreensis	323415	species	4446619	400	290	0.0
+Shinella	323620	genus	0	2	0	0.0
+Paenibacillus sp. JDR-2	324057	species	7184930	13	11	0
+Bacillus infantis	324767	species	4884713	8	5	0.0
+Coxiella endosymbiont of Amblyomma americanum	325775	species	656901	2	2	0.0
+Dokdonia donghaensis	326320	species	3293944	15	6	0.0
+Paraglaciecola psychrophila	326544	species	5413691	7	6	0.0
+Haloarcula hispanica virus SH1	326574	species	30889	1	1	0.0
+Candidatus Accumulibacter	327159	genus	0	1	0	0.0
+Candidatus Accumulibacter phosphatis	327160	species	5306133	233	165	0.0
+Nonlabens dokdonensis	328515	species	3914632	24	17	0.0
+Nitrospira defluvii	330214	species	4317083	60	51	0.0
+Marinobacter psychrophilus	330734	species	3998597	8	2	0.0
+Psychrobacter cryohalolentis	330922	species	3101097	12	3	0.0
+Sphingobium japonicum	332056	species	4424862	390	167	8.48346e-05
+Solibacteres	332159	class	0	2	0	0.0
+Candidatus Solibacter	332162	genus	0	1	0	0.0
+Candidatus Solibacter usitatus	332163	species	9965640	82	72	0.0
+Truepera radiovictrix	332249	species	3260398	25	18	0.0
+Exiguobacterium sibiricum	332410	species	3040786	6	5	0.0
+Psychrobacter arcticus	334543	species	2650701	14	7	0.0
+Adult diarrheal rotavirus strain J19	335103	leaf	17961	1	1	0.0
+Bradyrhizobium sp. S23321	335659	species	7231841	333	150	7.07521e-06
+Xanthobacteraceae	335928	family	0	4	0	0.0
+Erythrobacteraceae	335929	family	0	10	0	0.0
+Chlorobium chlorochromatii	337090	species	2572079	9	7	0.0
+Gordonia sp. KTR9	337191	species	5885710	209	140	2.84128e-05
+Erwinia tasmaniensis	338565	species	4067864	13	8	0.0
+Blattabacterium sp. (Panesthia angustipennis spadica)	340044	species	632490	5	3	0.0
+Acyrthosiphon pisum virus	340187	species	10035	2	2	0.0
+Actinoalloteichus hymeniacidonis	340345	species	6306386	73	46	0.0
+Papiine herpesvirus 2	340907	species	156487	1	0	0.0
+Herbaspirillum hiltneri	341045	species	4965474	249	146	0.0
+Burkholderia oklahomensis	342113	species	7224347	395	193	2.21975e-05
+White spot syndrome virus	342409	species	309286	1	1	0.0
+Thermococcus onnurineus	342948	species	1847607	3	0	0.0
+Invertebrate iridescent virus 30	345585	species	198533	1	0	0.0
+Geobacter pickeringii	345632	species	3618700	50	34	0.0
+Pseudomonas phage F10	347324	species	39199	1	0	0.0
+Pseudomonas phage 73	347325	species	42999	17	4	8.86038e-156
+Pseudomonas phage M6	347328	species	59446	1	0	0.0
+Burkholderia phage Bcep176	348137	species	44856	1	1	0.0
+Psychrobacter sp. PRwf-1	349106	species	2995049	25	16	2.23745e-05
+Micavibrio aeruginosavorus	349221	species	2470296	57	41	0.0
+Sedimenticola	349742	genus	0	1	0	0.0
+Corynebacterium marinum	349751	species	2729219	104	53	2.5113e-245
+Alkalilimnicola ehrlichii	351052	species	3275944	89	60	0.0
+Oscillibacter valericigenes	351091	species	4470622	9	7	0.0
+Geobacter uraniireducens	351604	species	5136364	30	15	1.10906e-243
+Xenorhabdus doucetiae	351671	species	4203651	9	8	0.0
+Xenorhabdus hominickii	351679	species	4522699	17	13	0.0
+Shewanella sp. W3-18-1	351745	species	4708380	21	9	1.06785e-05
+Halostagnicola larsenii	353800	species	4131176	9	3	0.0
+Yangia	354203	genus	0	2	0	0.0
+Niastella koreensis	354356	species	9033684	105	87	0.0
+Bacteroides dorei	357276	species	5310365	59	40	7.4139e-05
+Psychromonas ingrahamii	357794	species	4559598	16	12	0.0
+Roseiflexus sp. RS-1	357808	species	5801598	23	14	0.0
+Acidovorax sp. KKS102	358220	species	5196935	1202	925	0.000127312
+Methanoregula boonei	358766	species	2542943	3	2	0.0
+Shewanella loihica	359303	species	4602594	19	13	0.0
+Castellaniella	359336	genus	0	1	0	0.0
+Methylotenera	359407	genus	0	1	0	0.0
+Methylotenera mobilis	359408	species	2547570	408	380	6.59807e-05
+Exiguobacterium sp. AT1b	360911	species	2999895	22	20	0.0
+Altererythrobacter	361177	genus	0	22	0	0.0
+Altererythrobacter epoxidivorans	361183	species	2786256	106	69	1.23248e-05
+Pseudarthrobacter phenanthrenivorans	361575	species	4535320	87	59	0.0
+Streptomyces vietnamensis	362257	species	9153777	104	60	0.0
+Spiroplasma cantharicola	362837	species	1179577	5	5	0.0
+Verminephrobacter	364316	genus	0	3	0	0.0
+Verminephrobacter eiseniae	364317	species	5597943	246	154	1.20357e-05
+Granulibacter bethesdensis	364410	species	2717856	63	51	0.0
+Pelosinus fermentans	365349	species	5380816	14	11	0.0
+Paenibacillus sabinae	365617	species	5270569	10	6	0.0
+Sulfurospirillum cavolei	366522	species	2698323	7	5	0.0
+Caulobacter sp. K31	366602	species	5889399	277	184	0.0
+Xanthomonas fuscans	366648	species	5088683	157	13	0.0
+Xanthomonas alfalfae	366650	species	4967469	209	18	6.74891e-06
+Yersinia similis	367190	species	4964409	17	2	0.0
+Microbacterium sp. XT11	367477	species	3475315	157	97	2.11059e-05
+Blattabacterium sp. (Periplaneta americana)	367488	species	640442	2	0	0.0
+Marinovum	367771	genus	0	1	0	0.0
+Blattabacterium sp. (Blatta orientalis)	367806	species	638184	7	1	0.0
+Cupriavidus sp. USMAA1020	367825	species	7949449	326	12	0.0
+Gallionella capsiferriformans	370405	species	3162471	42	22	0.0
+Isoptericola dokdonensis	372663	species	3826972	103	70	0.0
+Rivularia sp. PCC 7116	373994	species	8728773	16	12	0.0
+Synechococcus sp. PCC 7003	374981	species	3345085	5	5	0.0
+Synechococcus sp. PCC 73109	374982	species	3298676	6	0	0.0
+Lactobacillus backii	375175	species	14123253	6	2	0.0
+Janthinobacterium sp. Marseille	375286	species	4110251	151	93	3.29731e-05
+Natranaerobius thermophilus	375929	species	3191453	5	5	0.0
+Halotalea	376488	genus	0	2	0	0.0
+Halotalea alkalilenta	376489	species	4387428	73	51	0.0
+Bacteroides salanitronis	376805	species	4308663	16	11	5.94103e-35
+Thermobacillus composti	377615	species	4355525	62	51	0.0
+Methyloversatilis	378210	genus	0	4	0	0.0
+Cyanobacterium aponinum	379064	species	4176973	8	6	0.0
+Streptomyces bingchenggensis	379067	species	11936683	150	114	0.0
+Ruegeria mobilis	379347	species	4830028	48	28	0.0
+Glossina pallidipes salivary gland hypertrophy virus	379529	leaf	190032	1	1	0.0
+Aciduliprofundum boonei	379547	species	1486778	1	0	0.0
+Pseudomonas protegens	380021	species	6923588	129	68	0.0
+Hydrogenobaculum sp. Y04AAS1	380749	species	1559514	3	1	0.0
+Lactococcus phage Q54	382685	leaf	26537	1	1	0.0
+Cycloclasticus sp. P1	385025	species	2363215	14	7	0.0
+Candidatus Ruthia magnifica	386487	species	1160782	7	4	0.0
+Nitratiruptor sp. SB155-2	387092	species	1877931	3	3	0.0
+Sulfurovum sp. NBC37-1	387093	species	2562277	20	20	0.0
+Halopiger xanaduensis	387343	species	4355268	18	14	0.0
+Bartonella australis	388640	species	1596490	4	3	0.0
+Pontibacter akesuensis	388950	species	4829559	35	16	0.0
+Protochlamydia naegleriophila	389348	species	3030375	14	8	0.0
+Echinicola vietnamensis	390884	species	5608040	18	12	0.0
+Ehrlichia sp. HF	391036	species	1148904	1	1	0.0
+Terriglobus	392733	genus	0	2	0	0.0
+Terriglobus roseus	392734	species	5227858	42	39	0.0
+Clostridium taeniosporum	394958	species	3503541	8	6	0.0
+Coraliomargarita akajimensis	395922	species	3750771	5	5	0.0
+Cyanothece sp. PCC 7425	395961	species	5786110	8	7	0.0
+Cyanothece sp. PCC 8802	395962	species	4803347	14	2	0.0
+Thioalkalivibrio sp. K90mix	396595	species	2985056	71	35	0.0
+Sphingomonas sanxanigenens	397260	species	6580298	475	275	1.9595e-05
+Barnesiella viscericola	397865	species	3076856	25	17	0
+Zunongwangia profunda	398743	species	5128187	17	12	0.0
+Staphylococcus phage PH15	399185	species	44041	4	4	0.0
+Thermoanaerobacter sp. X514	399726	species	2457259	9	4	0.0
+Enterobacter sp. 638	399742	species	4676461	28	17	0.0
+Paramecium bursaria Chlorella virus FR483	399781	leaf	321240	8	8	0.0
+Pontibacter korlensis	400092	species	5462537	33	17	0.0
+Marinomonas sp. MWYL1	400668	species	5100344	123	114	0.000111479
+Corynebacterium ureicelerivorans	401472	species	2328278	436	368	0.000222906
+Candidatus Riesia pediculicola	401619	species	582127	5	2	0.0
+Virgibacillus sp. SK37	403957	species	3841730	1	0	0.0
+Shewanella piezotolerans	404011	species	5396476	21	17	0.0
+Anaeromyxobacter sp. Fw109-5	404589	species	5277990	91	59	0.0
+Alicyclobacillus acidocaldarius	405212	species	3164867	32	17	0.0
+Natrinema sp. J7-2	406552	species	3793615	20	19	0.0
+Sphingobium sp. MI1205	407020	species	4619375	330	142	8.32757e-05
+Salinicoccus halodurans	407035	species	2778379	2	2	0.0
+Streptomyces xiamenensis	408015	species	5961401	87	50	0.0
+Treponema pedis	409322	species	2889325	5	2	0.0
+Calyptogena okutanii thioautotrophic gill symbiont	410330	species	1022154	9	5	0.0
+Gramella forsetii	411153	species	3798465	28	24	0.0
+Thermosulfidibacter	412592	genus	0	2	0	0.0
+Thermosulfidibacter takaii	412593	species	1816670	6	4	0.0
+Microterricola viridarii	412690	species	3689726	118	74	0.0
+Paraburkholderia rhizoxinica	412963	species	3750138	78	57	2.10485e-68
+Cronobacter	413496	genus	0	6	0	0.0
+Cronobacter dublinensis	413497	species	4628405	18	4	0.0
+Cronobacter muytjensii	413501	species	4364114	21	12	0.0
+Cronobacter turicensis	413502	species	4599092	26	8	0.0
+Cronobacter malonaticus	413503	species	4516853	37	12	0
+Halalkalicoccus jeotgali	413810	species	3698650	20	18	0.0
+[Polyangium] brachysporum	413882	species	6476147	854	675	5.18476e-06
+Caldicellulosiruptor hydrothermalis	413888	species	2770676	3	0	0.0
+Caldicellulosiruptor kronotskyensis	413889	species	2843785	4	1	0.0
+Aureimonas	414371	genus	0	6	0	0.0
+Catenulisporaceae	414877	family	0	6	0	0.0
+Catenulispora	414878	genus	0	3	0	0.0
+Opitutae	414999	class	0	1	0	0.0
+Opitutales	415000	order	0	3	0	0.0
+Pseudoxanthomonas spadix	415229	species	3452554	310	185	0.0
+Natronomonas moolapensis	416273	species	2912573	18	16	0.0
+Burkholderia sp. KJ006	416344	species	6629912	443	30	9.93757e-06
+Aggregatibacter	416916	genus	0	3	0	0.0
+Methanosarcina horonobensis	418008	species	5018607	1	1	0.0
+Azoarcus olearius	418699	species	4451751	360	45	0.0
+Ochrobactrum pseudogrignonense	419475	species	4992805	46	35	0.0
+Methanolobus psychrophilus	420950	species	3072769	2	2	0.0
+Elusimicrobium minutum	423605	species	1643562	4	3	0.0
+Rhizobium sp. IRBG74	424182	species	5464982	137	36	7.16127e-05
+Methylobacterium sp. 4-46	426117	species	7737025	255	157	0.0
+Desulfurivibrio alkaliphilus	427923	species	3097763	29	18	0.0
+Pedobacter steynii	430522	species	6581659	38	27	0.0
+Halorhabdus tiamatea	430914	species	3146160	16	9	0.0
+Burkholderia virus phi6442	431891	species	48674	1	0	0.0
+Deinococcus peraridilitoris	432329	species	4513714	50	40	0.0
+Lysobacter capsici	435897	species	6391889	401	220	0.0
+Sulfurihydrogenibium sp. YO3AOP1	436114	species	1838442	3	2	0.0
+Geobacter sp. M18	443143	species	5277406	67	41	0.0
+Geobacter sp. M21	443144	species	4745806	47	29	0.0
+Streptomyces sp. CNQ-509	444103	species	8039333	149	83	0.0
+Brucella microti	444163	species	3337369	10	1	0.0
+Synechococcus phage S-SM1	444859	species	174079	1	1	0.0
+Pseudonocardia sp. AL041005-10	445576	species	6143341	142	75	5.44426e-06
+Synechococcus phage S-SSM7	445686	species	232878	2	0	0.0
+Pandoraea thiooxydans	445709	species	4464186	145	89	0.0
+Dyella thiooxydans	445710	species	4227172	1993	1537	2.48835e-05
+Adlercreutzia equolifaciens	446660	species	2862526	46	36	0.0
+Niabella soli	446683	species	4697343	68	51	0.0
+Acetobacter senegalensis	446692	species	3969909	23	14	0
+Kocuria flava	446860	species	3638342	243	197	0.000101128
+Anaeromyxobacter sp. K	447217	species	5061632	122	29	0.0
+Simiduia agarivorans	447471	species	4300227	37	22	0.0
+Chelativorans	449972	genus	0	2	0	0.0
+Nocardioides dokdonensis	450734	species	4376707	199	139	0.0
+Desulfarculales	453227	order	0	2	0	0.0
+Desulfarculus baarsii	453230	species	3655731	54	42	1.82978e-05
+Agromyces sp. AR33	453304	species	4373124	155	105	7.9115e-06
+Bdellovibrio exovorus	453816	species	2657893	19	11	0.0
+Chrysochromulina ericina virus	455364	species	473558	2	2	0.0
+Thermus parvatiensis	456163	species	2016098	19	8	1.65894e-05
+Xanthomonas euvesicatoria	456327	species	10838435	246	22	0
+Candidatus Cloacimonas acidaminovorans	456827	species	2246820	10	8	0.0
+Chloracidobacterium thermophilum	458033	species	3695372	26	19	0.0
+Bacillus phage 0305phi8-36	458639	species	218948	1	1	0.0
+Sulfolobus spindle-shaped virus 5	459291	species	15330	1	1	0.0
+Alkaliphilus oremlandii	461876	species	3123558	7	7	0.0
+Pseudomonas phage YuA	462590	species	58663	1	0	0.0
+Bordetella flabilis	463014	species	5954318	146	85	0.0
+Bordetella bronchialis	463025	species	11845675	157	95	0.0
+Streptomyces sp. Mg1	465541	species	8716193	103	54	0.0
+Steroidobacter denitrificans	465721	species	3467246	77	47	0
+Singulisphaera acidiphila	466153	species	9755686	50	37	0.0
+Ilumatobacter coccineus	467094	species	4830181	78	63	0.0
+Steroidobacter	469322	genus	0	4	0	0.0
+Pantoea vagans	470934	species	4888338	47	9	4.86454e-117
+Geobacillus sp. WCH70	471223	species	3508804	13	11	0.0
+Candidatus Desulforudis audaxviator	471827	species	2349476	12	9	0.0
+Nitrosococcus watsonii	473531	species	3373286	25	13	0.0
+Methanosphaerula palustris	475088	species	2922917	7	3	0.0
+Altererythrobacter ishigakiensis	476157	species	2673978	49	36	0.0
+Bibersteinia	476528	genus	0	1	0	0.0
+Modestobacter marinus	477641	species	5575517	224	156	0
+Calditerrivibrio nitroreducens	477976	species	2216552	5	4	0.0
+Chloroflexus sp. Y-400-fl	480224	species	5268950	6	0	0.0
+Myroides profundi	480520	species	4064534	23	4	0.0
+Mycobacterium phage Giles	480808	species	53746	4	3	0.0
+Paenibacillus sp. Y412MC10	481743	species	7121665	14	7	0.0
+Ralstonia phage RSL1	482058	species	231255	2	2	0.0
+Oscillatoria nigro-viridis	482564	species	8272254	28	25	0.0
+Burkholderia lata	482957	species	17031116	637	192	2.81684e-12
+Geoalkalibacter subterraneus	483547	species	3717645	38	26	1.79931e-05
+Paenibacillus riograndensis	483937	species	7919576	16	8	0.0
+Sphingobium sp. YBL2	484429	species	5427419	371	186	1.69302e-05
+Pelosinus sp. UFO1	484770	species	5115410	12	8	0.0
+Serratia sp. SCBI	488142	species	5101896	48	7	0.0
+Burkholderia latens	488446	species	6614478	394	53	1.12402e-05
+Burkholderia contaminans	488447	species	8509249	424	114	2.51941e-05
+Campylobacter peloridis	488546	species	1762793	7	1	0.0
+Burkholderia metallica	488729	species	7424240	693	99	1.43194e-56
+Burkholderia seminalis	488731	species	7648944	401	138	1.19904e-05
+Burkholderia diffusa	488732	species	6857833	336	95	4.03559e-90
+Helicoverpa armigera granulovirus	489830	species	169794	1	0	0.0
+Marinobacter sp. BSs20148	490759	species	4063864	11	6	0.0
+Bacillus velezensis	492670	species	7701267	35	7	1.13839e-05
+Thermoanaerobacter pseudethanolicus	496866	species	2362816	12	0	0.0
+Campylobacter subantarcticus	497724	species	1817765	10	8	0.0
+Kosakonia oryzae	497725	species	5303342	26	14	0.0
+Cyanothece sp. PCC 7822	497965	species	7841948	14	10	0.0
+Candidatus Korarchaeum cryptofilum	498846	species	1590757	1	1	0.0
+Tepidanaerobacter acetatoxydans	499229	species	5521119	6	5	0.0
+Deinococcus gobiensis	502394	species	4406036	119	96	0.0
+Eggerthella sp. YY7918	502558	species	3123671	15	10	0.0
+Propionibacterium phage PAD20	504501	species	29074	3	0	0.00115037
+Propionibacterium phage PAS50	504553	species	29017	2	0	0.0
+Halomonas chromatireducens	507626	species	3973651	84	60	0.0
+Oceanimonas sp. GK1	511062	species	3527244	68	34	0
+Candidatus Azobacteroides pseudotrichonymphae	511435	species	1224919	9	7	0.0
+Aliivibrio	511678	genus	0	1	0	0.0
+Methylacidiphilum infernorum	511746	species	2287145	7	3	0.0
+Rufibacter tibetensis	512763	species	5413467	31	25	0.0
+Microcystis panniformis	513223	species	5686839	7	6	0.0
+Muricauda lutaonensis	516051	species	3274259	12	7	0.0
+Musca domestica salivary gland hypertrophy virus	523909	leaf	124279	2	2	0.0
+Erysipelotrichia	526524	class	0	1	0	0.0
+Azospirillum thiophilum	528244	species	7609458	242	126	4.39791e-06
+Rhodoluna lacicola	529884	species	1430433	62	58	2.33817e-05
+Pelagibacterium halotolerans	531813	species	3948887	66	38	0.0
+Flavobacteriaceae bacterium 3519-10	531844	species	2768102	33	26	0.0
+Candidatus Rhodoluna planktonica	535712	species	1424506	15	8	0.0
+Cronobacter universalis	535744	species	4436873	35	15	0.0
+Mesorhizobium australicum	536018	species	6200534	182	98	0
+Clostridium phage phiCP39-O	541865	species	38753	4	0	0.0
+Symbiobacteriaceae	543349	family	0	1	0	0.0
+Altererythrobacter marensis	543877	species	2885033	217	170	1.18919e-05
+beta proteobacterium CB	543913	species	2045720	673	546	0.000462047
+Geobacillus sp. Y412MC61	544556	species	3667901	3	0	0.0
+Actinomyces oris	544580	species	3042917	180	161	5.4957e-05
+Mycobacterium phage Cali	546803	species	155372	1	0	0.0
+Mycobacterium phage Myrna	546805	species	164602	3	2	0.0
+Hydrogenobaculum sp. 3684	547143	species	1552775	1	0	0.0
+Hydrogenobaculum sp. HO	547144	species	1552931	1	0	0.0
+Hydrogenobaculum sp. SHO	547145	species	1552607	1	0	0.0
+Hydrogenobaculum sp. SN	547146	species	1552931	1	0	0.0
+Phycisphaera mikurensis	547188	species	3884382	57	39	0.0
+Geobacillus sp. Y412MC52	550542	species	3673940	5	0	0.0
+Aromatoleum	551759	genus	0	1	0	0.0
+Aromatoleum aromaticum	551760	species	4727255	226	129	0.0
+Iodobacteriophage phiPLPE	551895	species	47453	2	2	0.0
+Dehalogenimonas lykanthroporepellens	552810	species	1686510	18	6	0.0
+Vibrio breoganii	553239	species	4492180	15	8	0.0
+Synechococcus phage S-RSM4	555387	species	194454	3	3	0.0
+Candidatus Liberibacter solanacearum	556287	species	1258278	5	5	0.0
+Burkholderia phage KS10	557289	species	37635	4	0	0.0
+Mycobacterium phage Brujita	561996	species	47057	1	0	0.0
+Stx2-converting phage 1717	563769	species	62147	3	0	0.0
+Cyclobacteriaceae	563798	family	0	1	0	0.0
+Chitinophagaceae	563835	family	0	2	0	0.0
+Geoglobus acetivorans	565033	species	1860815	1	1	0.0
+Pseudogulbenkiania	568394	genus	0	3	0	0.0
+Methanocellales	570264	order	0	1	0	0.0
+Psychrobacter sp. G	571800	species	3113999	14	3	0.0
+Luteipulveratus mongoliensis	571913	species	5420910	89	66	0.0
+Corynebacterium mustelae	571915	species	3474226	14	3	0
+Thermoanaerobacter sp. X513	573062	species	2456520	11	2	0.0
+Francisella sp. TX077308	573569	species	2035931	8	2	0.0
+Stenotrophomonas phage S1	573591	species	40287	3	1	0.0
+Pandoraea oxalativorans	573737	species	6500731	116	42	0.0
+Chaetoceros socialis f. radians RNA virus 01	573993	species	9467	1	1	0.0
+Photorhabdus temperata	574560	species	5147098	7	7	0.0
+Corynebacterium maris	575200	species	2833547	97	53	0
+Polynucleobacter necessarius	576610	species	1560469	238	178	1.08599e-68
+Polynucleobacter asymbioticus	576611	species	2159490	258	176	7.26273e-05
+Bacillus cytotoxicus	580165	species	4094159	4	4	0.0
+Geobacillus sp. Y4.1MC1	581103	species	3911947	17	12	0.0
+Pseudomonas phage SN	582382	species	66390	10	1	0.00050378
+Thermoanaerobacter mathranii	583357	species	2306092	5	0	0.0
+Synechococcus sp. KORDI-49	585423	species	2585813	13	12	0.0
+Synechococcus sp. KORDI-52	585425	species	2572069	12	6	0.0
+Terribacillus aidingensis	586416	species	3577082	7	4	0.0
+Pseudomonas chlororaphis	587753	species	16842584	487	259	3.70442e-132
+Brevundimonas naejangsanensis	588932	species	2971535	114	73	0.0
+Prevotella fusca	589436	species	3261806	20	15	0.0
+Alteromonas australica	589873	species	8766305	10	6	0.0
+Methylacidiphilum fumariolicum	591154	species	2476671	5	5	0.0
+Ignavibacterium album	591197	species	3658997	20	15	0.0
+Pantoea sp. At-9b	592316	species	6312783	39	25	0.0
+Mesorhizobium opportunistum	593909	species	6884444	196	92	0
+Allofrancisella guangzhouensis	594679	species	1661527	5	4	0.0
+Arthrobacter sp. A3	595593	species	4458287	48	35	0.0
+Blattabacterium sp. (Blattella germanica)	624186	species	640935	6	2	0.0
+Sphingobium sp. SYK-6	627192	species	4348133	280	152	5.40986e-132
+Bifidobacterium kashiwanohense	630129	species	2354106	37	16	1.56811e-05
+Vibrio phage VP58.5	631719	species	42612	2	2	0.0
+Lactobacillus phage Lb338-1	632112	species	142111	1	1	0.0
+Bacillus beveridgei	632773	species	3582268	11	9	0.0
+Arsenophonus symbiont of Lipoptena fortisetosa	634113	species	836724	2	2	0.0
+Lactobacillus koreensis	637971	species	3006812	7	6	0.0
+Bifidobacterium actinocoloniiforme	638619	species	1830060	7	5	0.0
+Hoyosella subflava	639313	species	4863490	29	17	0.0
+Burkholderia sp. CCGE1001	640510	species	7253494	165	23	0.0
+Burkholderia sp. CCGE1002	640511	species	7884858	261	129	0.0
+Burkholderia sp. CCGE1003	640512	species	7043595	171	80	0.0
+Methanocaldococcus sp. FS406-22	644281	species	1773136	3	3	0.0
+Burkholderia virus Bcepil02	644524	species	62715	1	0	0.0
+Altererythrobacter namhicola	645517	species	2591679	161	98	0.0
+Penguinpox virus	648998	species	306862	1	0	0.0
+Micromonospora sp. L5	648999	species	6962533	210	64	3.58196e-62
+Synergistia	649775	class	0	2	0	0.0
+Actinoplanes sp. N902-109	649831	species	9228054	189	124	4.56351e-06
+Sulfuricella denitrificans	649841	species	3217213	73	55	0.0
+Kosmotoga	651456	genus	0	2	0	0.0
+Kosmotoga olearia	651457	species	2302126	2	2	0.0
+Prevotella sp. oral taxon 299	652716	species	2480269	26	20	0.0
+Frankia symbiont of Datisca glomerata	656024	species	5340989	51	29	0.0
+Pandoraea vervacti	656178	species	5761453	120	68	0.0
+Pandoraea faecigallinarum	656179	species	5732664	136	66	0.0
+Arthrobacter alpinus	656366	species	8380101	42	31	0.0
+Halanaerobium hydrogeniformans	656519	species	2613117	4	4	0.0
+Francisella noatunensis	657445	species	2229531	15	9	0.0
+Candidatus Koribacter versatilis	658062	species	5650368	39	27	0.0
+Bacillus bombysepticus	658666	species	5873592	15	1	4.36669e-40
+Mycobacterium phage Peaches	663557	species	51376	2	0	0.0
+Borreliella bavariensis	664662	species	986914	3	0	0.0
+Bacillus oceanisediminis	665099	species	5848607	9	8	0.0
+Limnohabitans	665874	genus	0	3	0	0.0
+Phycisphaerae	666505	class	0	1	0	0.0
+Phycisphaerales	666506	order	0	1	0	0.0
+Phycisphaeraceae	666507	family	0	2	0	0.0
+Rhodanobacter denitrificans	666685	species	4225490	2688	2170	4.06555e-05
+Bacillus sp. 1NLA3E	666686	species	4815602	4	4	0.0
+Tenacibaculum dicentrarchi	669041	species	2918253	54	32	0.0
+Candidatus Profftella armatura	669502	species	927880	6	6	0.0
+Escherichia phage vB_EcoM_ECO1230-10	669875	species	41666	2	2	0.0
+Cryobacterium arcticum	670052	species	4351229	133	81	0.0
+Propionibacterium sp. oral taxon 193	671223	species	2649207	880	498	0.00149857
+Clostridium phage phiCP26F	673376	species	39188	4	0	0.0
+Enterococcus phage phiFL1A	673832	leaf	38764	2	0	0.0
+Enterococcus phage phiFL2A	673835	leaf	36270	2	0	0.0
+Enterococcus phage phiFL3A	673837	leaf	39576	2	0	0.0
+Aciduliprofundum sp. MAR08-339	673860	species	1437090	3	2	0.0
+Candidatus Babela massiliensis	673862	species	1118422	10	10	0.0
+Rhodoplanes sp. Z2-YC6860	674703	species	8193889	248	146	0.0
+Rhodococcus sp. WMMA185	679318	species	4444448	40	20	0.0
+Bxz1virus	680114	genus	0	5	0	0.0
+Agarivorans gilvus	680279	species	4416600	15	14	0.0
+Ilumatobacter	682522	genus	0	1	0	0.0
+Martelella sp. AD-3	686597	species	5036008	95	62	0.0
+Alphatorquevirus	687331	genus	0	2549	2549	0.0
+Torque teno virus 1	687340	species	3852	2665	243	0.0
+Torque teno virus 2	687341	species	3322	141	141	0.0
+Torque teno virus 3	687342	species	3748	9621	9260	0.0
+Torque teno virus 4	687343	species	3690	32	5	0.0
+Torque teno virus 6	687345	species	3705	3534	3006	0.0
+Torque teno virus 7	687346	species	3736	549	69	0.0
+Torque teno virus 8	687347	species	3790	28471	19174	0.0128672
+Torque teno virus 10	687349	species	3770	6515	371	0.492746
+Torque teno virus 12	687351	species	3759	14839	5992	4.85083e-17
+Torque teno virus 14	687353	species	3899	4051	3981	0.0
+Torque teno virus 15	687354	species	3787	866	661	3.3688e-80
+Torque teno virus 16	687355	species	3818	205	8	0
+Torque teno virus 19	687358	species	3808	6840	554	0.0
+Torque teno virus 27	687366	species	3729	9454	7329	0
+Torque teno virus 28	687367	species	3629	71	57	0.0
+Torque teno mini virus 3	687371	species	2897	4	3	0.0
+Torque teno midi virus 1	687379	species	3245	29	17	0.0
+Torque teno midi virus 2	687380	species	3253	37	25	0.0
+Torque teno tamarin virus	687382	species	3371	2	0	0.0
+Geobacillus sp. C56-T3	691437	species	3650813	14	11	0.0
+Altererythrobacter dongtanensis	692370	species	3009495	199	119	0.0
+Caldisericum exile	693075	species	1558103	3	2	0.0
+Cafeteria roenbergensis virus BV-PW1	693272	leaf	617453	1	1	0.0
+Enterobacteriaceae bacterium strain FGI 57	693444	species	4762179	24	14	0
+Staphylococcus phage SA1	694060	species	147303	2	0	0.0
+Marseillevirus marseillevirus	694581	species	368454	1	0	0.0
+Hoyosella	697025	genus	0	3	0	0.0
+Vibrio phage SIO-2	700512	species	81184	2	2	0.0
+Novosphingobium sp. PP1Y	702113	species	5313905	360	230	6.54533e-05
+Corynebacterium sp. NML98-0116	702967	species	2365449	126	83	5.5054e-05
+Actinomyces sp. oral taxon 414	712122	species	3836419	51	23	0
+Leptotrichia sp. oral taxon 212	712357	species	2444904	11	10	0.0
+Olsenella sp. oral taxon 807	712411	species	3213585	12	9	0.0
+Selenomonas sp. oral taxon 478	712538	species	2284135	27	22	0.0
+Streptococcus sp. oral taxon 431	712633	species	2177905	138	116	3.48259e-05
+Tannerella sp. oral taxon HOT-286	712710	species	2973531	12	7	0
+Selenomonas sp. oral taxon 136	713030	species	2458072	12	8	0.0
+Gallionellales	713636	order	0	1	0	0.0
+Candidatus Atelocyanobacterium thalassa	713887	species	1443806	4	3	0.0
+Alteromonas naphthalenivorans	715451	species	4972148	11	7	0.0
+Caldicellulosiruptor obsidiansis	717609	species	2532343	8	5	0.0
+Hyphomicrobium sp. MC1	717785	species	4757528	78	51	0.0
+cyanobacterium endosymbiont of Epithemia turgida	718217	species	2794318	10	8	0.0
+Acidovorax ebreus	721785	species	3796573	787	240	0.000322451
+Campylobacter virus CP220	722417	species	177534	1	0	0.0
+Campylobacter virus CPt10	722418	species	175720	1	0	0.0
+Rahnella sp. Y9602	741091	species	5614252	55	4	1.78892e-05
+Delftia sp. Cs1-4	742013	species	6685842	419	98	1.64778e-123
+Sphingobacterium sp. 21	743722	species	6226409	30	22	0.0
+alpha proteobacterium HIMB59	744985	species	1410127	1	1	0.0
+Sphingomonas sp. MM-1	745310	species	4633613	406	232	8.99327e-05
+Luteipulveratus	745364	genus	0	2	0	0.0
+Azoarcus sp. KH32C	748247	species	5818755	250	144	0.0
+Pseudogulbenkiania sp. NH8B	748280	species	4332995	175	109	7.71889e-06
+Sulfuritalea hydrogenivorans	748811	species	3802648	291	204	0.0
+Halobacterium sp. DL1	751944	species	3162560	26	16	0.0
+Synechococcus phage S-CBS3	753085	species	33004	1	1	0.0
+Synechococcus phage S-SKS1	754042	species	208007	2	0	0.0
+Sulfitobacter phage pCB2047-C	754043	species	40931	1	0	0.0
+Sulfitobacter phage pCB2047-A	754045	species	40929	3	0	0.0
+Sulfitobacter phage phiCB2047-B	754046	species	74485	1	0	0.0
+Ostreococcus lucimarinus virus OlV5	754064	species	186468	3	3	0.0
+Halorubrum phage CGphi46	754066	species	39784	2	2	0.0
+Salicola phage CGphi29	754067	species	40695	2	2	0.0
+Winogradskyella sp. PG-2	754409	species	3811479	41	33	0.0
+Methylophaga nitratireducenticrescens	754476	species	3137191	12	8	0.0
+Methylophaga frappieri	754477	species	2745290	18	10	0
+Micromonas pusilla virus 12T	755272	species	205622	1	1	0.0
+Clostridium sp. BNL1100	755731	species	4613747	5	5	0.0
+Cellulophaga phage phiST	756282	species	79114	2	2	0.0
+Bacillus sp. WP8	756828	species	3708888	6	2	0.0
+halophilic archaeon DL31	756883	species	3643158	10	7	0.0
+Burkholderia sp. RPE64	758793	species	6964487	207	114	0.0
+Burkholderia sp. RPE67	758796	species	8685756	244	60	0.0
+Weissella ceti	759620	species	4135763	12	8	0.0
+Acinetobacter phage Acj61	760732	species	164093	3	3	0.0
+Siansivirga zeaxanthinifaciens	762954	species	3303986	50	39	0.0
+Bacillus phage W.Ph.	764595	species	156897	1	0	0.0
+Candidatus Puniceispirillum marinum	767892	species	2753527	7	6	0.0
+Serratia sp. AS12	768490	species	5443009	37	0	0.0
+Serratia sp. AS13	768493	species	5442549	37	0	0.0
+Cytophagia	768503	class	0	3	0	0.0
+Cytophagales	768507	order	0	3	0	0.0
+Opitutaceae bacterium TAV5	794903	species	7417673	72	57	0.0
+Hydrogenophaga sp. PBC	795665	species	5232477	586	374	0
+alpha proteobacterium HIMB5	859653	species	1343202	7	4	0.0
+Kibdelosporangium phytohabitans	860235	species	11759770	168	98	0.0
+Agrobacterium sp. H13-3	861208	species	5573770	91	18	0.0
+Streptomyces sp. SirexAA-E	862751	species	7414440	88	48	0.0
+Thermincola potens	863643	species	3157416	2	2	0.0
+Methanothermobacter sp. CaT2	866790	species	1731018	1	0	0.0
+Methanobacterium paludis	868131	species	2546541	3	3	0.0
+Terriglobus saanensis	870903	species	5095226	30	22	0.0
+Mycobacterium sinense	875328	species	4643668	129	92	0.0
+Peptoniphilus sp. 1-1	875453	species	1601846	11	9	0.0
+Cupriavidus sp. USMAA2-4	876364	species	8698226	387	118	0
+Methanobacterium lacus	877455	species	2583753	3	3	0.0
+Chryseobacterium sp. StRB126	878220	species	5503743	37	31	0.0
+Shinella sp. HZN7	879274	species	7354253	236	150	9.10659e-06
+Methanoregula formicica	882104	species	2820858	8	7	0.0
+Mageeibacillus indolicus	884684	species	1809746	5	2	0.0
+Desulfosporosinus acidiphilus	885581	species	4991181	12	12	0.0
+Jeongeupia	885864	genus	0	3	0	0.0
+Methylovorus sp. MP688	887061	species	2862391	70	12	7.84156e-29
+Plautia stali symbiont	891974	species	4092852	27	20	0.0
+Salehabad virus	904699	species	12389	1	1	0.0
+Escherichia phage HK639	906669	species	49576	1	0	0.0
+Selenomonadales	909929	order	0	1	0	0.0
+Negativicutes	909932	class	0	2	0	0.0
+Burkholderia phage KS5	910473	species	37236	1	0	0.0
+Caldanaerobacter subterraneus	911092	species	2689445	12	8	0.0
+Kangiella geojedonensis	914150	species	2495242	16	12	0.0
+Methylobacterium sp. AMS5	925818	species	5599206	135	35	2.2341e-24
+Sandaracinus amylolyticus	927083	species	10327335	314	251	0.0
+Salmonella phage RE-2010	929814	species	34117	1	1	0.0
+Pseudomonas brassicacearum	930166	species	13594158	172	77	0.0
+Campylobacter virus NCTC12673	934027	species	135041	1	0	0.0
+Rhodococcus sp. p52	935199	species	5413283	122	34	2.78632e-05
+Sulfuricella	935200	genus	0	3	0	0.0
+Desulfurispirillum indicum	936456	species	2928377	16	11	0.0
+Marinomonas posidonica	936476	species	3899940	22	13	1.13922e-293
+Granulicella	940557	genus	0	2	0	0.0
+Granulicella mallensis	940614	species	6237577	53	42	0.0
+Granulicella tundricola	940615	species	5503984	50	37	0.0
+Arcobacter sp. L	944547	species	2947662	24	21	1.4336e-05
+Paraburkholderia sprentiae	948107	species	7829542	224	112	4.33152e-06
+Enterobacteria phage phi92	948870	species	148612	1	1	0.000225055
+Palaeococcus pacificus	971279	species	1859370	2	2	0.0
+Leuconostoc sp. C2	979982	species	1877273	10	10	0.0
+Brucella vulpis	981386	species	3238137	23	13	0.0
+Lacinutrix sp. 5H-3-7-4	983544	species	3296168	59	43	0.0
+Glaciecola sp. 4H-3-7+YE-5	983545	species	5393591	17	14	0.0
+Dokdonia sp. 4H-3-7-5	983548	species	3389993	26	18	0.0
+Mycoplasma parvum	984991	species	564395	1	0	0.0
+Staphylococcus argenteus	985002	species	2787638	55	34	3.77959e-93
+Vulcanisaeta moutnovskia	985052	species	2298983	2	2	0.0
+Staphylococcus agnetis	985762	species	2503399	31	18	0.0
+Polymorphum	991903	genus	0	6	0	0.0
+Polymorphum gilvum	991904	species	4718963	185	112	7.08756e-06
+Candidatus Kinetoplastibacterium desouzaii	994692	species	833125	7	3	0.0
+Candidatus Kinetoplastibacterium galatii	994695	species	822140	7	2	0.0
+Candidatus Kinetoplastibacterium oncopeltii	994696	species	810172	7	2	0.0
+Candidatus Pelagibacter sp. IMCC9063	1002672	species	1284727	4	4	0.0
+Verrucosispora maris	1003110	species	6732271	152	105	1.85365e-89
+Fimbriimonas	1005038	genus	0	1	0	0.0
+Fimbriimonas ginsengisoli	1005039	species	5231762	35	23	0.0
+Defluviitoga tunisiensis	1006576	species	2053097	10	6	1.9609e-141
+Pusillimonas sp. T7-7	1007105	species	3924810	37	22	0.0
+Lactobacillus ginsenosidimutans	1007676	species	2590556	4	3	0.0
+Stenotrophomonas phage phiSHP2	1027253	species	5819	1	0	0.0
+Pseudomonas sp. StFLB209	1028989	species	6332373	113	67	0.0
+Campylobacter volucris	1031542	species	1517949	9	2	0.0
+Marinobacter adhaerens	1033846	species	4651725	21	4	0.0
+Thioalkalivibrio sulfidiphilus	1033854	species	3464554	74	45	0.0
+Rhodococcus sp. WB1	1033922	species	6148559	122	69	0.0
+Mycobacterium phage Alice	1034128	species	153401	4	0	0.0
+Planococcus plakortidis	1038856	species	3261818	15	10	0.0
+Candidatus Arthromitus sp. SFB-rat-Yit	1041504	species	1515556	2	1	0.0
+Clostridium phage phiCP13O	1042122	species	38329	4	0	0.0
+Clostridium phage phiCP34O	1042123	species	38309	4	0	0.0
+Clostridium sp. SY8519	1042156	species	2835737	14	12	0.0
+Candidatus Moranella endobia	1048758	species	538248	4	1	0.0
+Corynebacterium epidermidicanis	1050174	species	2692072	28	19	0.0
+Mycobacterium phage Doom	1051138	species	51421	1	1	0.0
+Enterobacteria phage Bp7	1052121	leaf	168066	1	1	0.0
+Sulfuritalea	1054211	genus	0	3	0	0.0
+Thermoplasmatales archaeon BRNA1	1054217	species	1461105	4	3	0.0
+Methylotenera versatilis	1055487	species	3059871	161	127	6.58421e-05
+Sandaracinus	1055688	genus	0	2	0	0.0
+Mycobacterium phage Wile	1056833	species	51308	2	0	0.0
+Candidatus Gullanella endobia	1070130	species	938041	6	5	0.0
+Corynebacterium uterequi	1072256	species	2419437	49	34	0.0
+Lactobacillus heilongjiangensis	1074467	species	2790548	6	2	0.0
+Pantoea rwandensis	1076550	species	4327607	26	16	8.05355e-06
+Thiolapillus brandeum	1076588	species	3153637	24	12	0.0
+Leptolyngbya sp. O-77	1080068	species	5480261	21	15	0.0
+Pelagibacterium	1082930	genus	0	1	0	0.0
+Persicobacter sp. JZB09	1085624	species	8251744	18	11	0.0
+Mycobacterium phage Dreamboat	1086749	species	51083	2	0	0.0
+Mycobacterium phage Nappy	1088866	species	156646	1	0	0.0
+Mycobacterium phage Babsiella	1089115	species	48420	2	0	0.0
+Dickeya solani	1089444	species	4919833	43	16	0.0
+Enterobacteria phage IME10	1090133	species	39646	3	0	0.0
+Pseudonocardia sp. EC080619-01	1096856	species	7205934	116	2	0.0
+Pseudonocardia sp. EC080625-04	1096868	species	6554452	111	7	0.0
+Defluviimonas	1097466	genus	0	1	0	0.0
+Burkholderia sp. YI23	1097668	species	8896411	246	55	4.54388e-06
+Mycobacterium phage fionn	1097753	species	58076	1	0	0.0
+Bacteroidetes Order II. Incertae sedis	1100069	order	0	4	0	0.0
+Rickettsia philipii	1105106	species	1287740	1	0	0.0
+Chromobacterium vaccinii	1108595	species	5041230	191	76	0.0
+Nocardia phage NBR1	1109711	species	46140	2	2	0.0
+Rhodococcus phage REQ3	1109714	species	39474	3	3	0.0
+Campylobacter virus CPX	1110702	species	132662	1	0	0.0
+Thermus sp. CCB_US3_UF1	1111069	species	2263488	40	28	0.0
+Alcanivorax sp. NBRC 101098	1113728	species	3095417	25	0	1.0805e-05
+Spiroplasma atrichopogonis	1114980	species	1160484	2	0	0.0
+Vibrio sp. EJY3	1116375	species	5452646	5	0	0.0
+Elizabethkingia anophelis	1117645	species	7985304	30	21	2.90536e-57
+Arthrobacter sp. Rue61a	1118963	species	5081038	34	5	0.0
+Corynebacterium doosanense	1121358	species	2698995	87	57	3.37987e-63
+Magnetococcus marinus	1124597	species	4719581	11	10	0.0
+Rhizobium sp. NT-26	1125847	species	4577425	56	35	0.0
+Paenibacillus beijingensis	1126833	species	5749967	21	15	5.81672e-06
+Aeromonas phage vB_AsaM-56	1127514	species	43551	3	3	0.0
+Bacillus sp. JS	1127744	species	4120406	8	4	0.0
+Helicoverpa zea nudivirus 2	1128424	leaf	231621	1	1	0.0
+Kyrpidia	1129704	genus	0	1	0	0.0
+Rhodobacter phage RcapNL	1131316	species	40489	1	1	0.0
+Dehalobacter sp. CF	1131462	species	3092048	8	3	0.0
+Sphaerochaeta globosa	1131703	species	3316466	24	21	3.02544e-05
+Sphaerochaeta pleomorpha	1131707	species	3590853	3	1	0.0
+Melioribacter roseus	1134405	species	3300414	14	12	0.0
+Thauera humireducens	1134435	species	4171754	341	226	0.0
+Klebsiella michiganensis	1134687	species	29869212	243	35	1.57385e-06
+Burkholderia virus DC1	1136535	species	61847	2	2	0.0
+Gordonia sp. QH-11	1136941	species	4428727	127	83	5.28643e-05
+Cronobacter phage vB_CsaM_GAP32	1141136	species	358663	1	1	0.0
+Cronobacter phage vB_CsaM_GAP161	1141138	species	178193	1	1	0.0
+Pseudomonas phage vB_Pae-Kakheti25	1141526	species	42844	21	10	0.00624516
+Kangiella sediminilitoris	1144748	species	2496140	19	12	0.0
+Lysinibacillus varians	1145276	species	4662822	7	5	0.0
+Staphylococcus phage StB12	1147042	species	44714	1	1	0.0
+Staphylococcus phage StB27	1147044	species	40071	4	4	0.0
+Dehalobacter sp. DCA	1147129	species	3069953	5	0	0.0
+Enterobacteria phage HK225	1147144	species	45366	2	0	0
+Enterobacteria phage HK630	1147146	species	47090	2	0	0
+Enterobacteria phage mEp237	1147151	species	44375	2	0	0
+Acinetobacter oleivorans	1148157	species	4152543	75	39	0
+Moorea producens	1155739	species	9708656	20	15	0.0
+Streptococcus sp. I-G2	1156431	species	1992567	65	29	0.000132324
+Streptococcus sp. I-P16	1156433	species	2023580	49	18	2.24587e-105
+Thermotoga sp. Cell2	1157947	species	1749904	6	2	0.0
+Thermotoga sp. 2812B	1157948	species	1843731	5	0	0.0
+Kosakonia sacchari	1158459	species	4902066	40	11	0.0
+Pseudomonas phage NH-4	1158680	species	66116	9	0	0.0
+Ruminococcus bicirculans	1160721	species	2968500	7	7	1.12669e-05
+Weissella phage phiYS61	1161906	species	33594	2	2	0.0
+Enterococcus phage vB_Efae230P-4	1161939	species	17972	1	1	0.0
+Cronobacter condimenti	1163710	species	4499482	16	12	0.0
+Pectobacterium sp. SCC3193	1166016	species	5164411	12	1	0.0
+Enterobacter sp. R4-368	1166130	species	5155034	29	6	1.37198e-05
+Sphingomonas sp. NIC1	1167641	species	3660563	393	130	7.2693e-05
+Draconibacterium orientale	1168034	species	5132075	30	23	0.0
+Cronobacter phage phiES15	1168280	species	39974	1	0	0.0
+Mycobacterium sp. MOTT36Y	1168287	species	5613626	128	3	0.0
+Persicivirga phage P12024S	1168478	species	35700	1	1	0.0
+Staphylococcus phage SMSAP5	1168612	species	45552	1	0	0.0
+Streptomyces pratensis	1169025	species	7656104	106	64	0.0
+Geitlerinema sp. PCC 7407	1173025	species	4681111	23	9	0.0
+Gloeocapsa sp. PCC 7428	1173026	species	5882710	8	6	0.0
+Microcoleus sp. PCC 7113	1173027	species	7966510	8	4	0.0
+Synechococcus sp. PCC 7502	1173263	species	3583735	3	2	0.0
+Salmonella phage FSL SP-031	1173749	leaf	42215	3	3	0.0
+Salmonella phage FSLSP030	1173754	species	59746	2	0	0.0
+Salmonella phage FSL SP-076	1173762	species	72098	1	1	0.0
+Methanocella conradii	1175444	species	2378438	5	5	0.0
+Methanocella arvoryzae	1175445	species	3179916	9	3	0.0
+Niabella ginsenosidivorans	1176587	species	5627734	49	33	0.0
+Agrobacterium fabrum	1176649	species	5674258	112	74	0.0
+Komagataeibacter medellinensis	1177712	species	3513191	35	15	9.5201e-06
+Halomonas huangheensis	1178482	species	4757486	60	37	0.0
+Paenibacillus swuensis	1178515	species	5012599	12	9	0.0
+Bacillus xiamenensis	1178537	species	3637729	4	1	0.0
+Deinococcus puniceus	1182568	species	2971983	35	23	0.0
+Deinococcus swuensis	1182571	species	3531443	74	48	0.0
+Magnetospira	1182780	genus	0	1	0	0.0
+Mesotoga prima	1184387	species	2975953	1	0	0.0
+Blattabacterium sp. (Blaberus giganteus)	1186051	species	632588	14	12	0.0
+Flammeovirga sp. MY04	1191459	species	7327614	16	13	0.0
+Lactobacillus hokkaidonensis	1193095	species	2400586	10	6	1.87773e-69
+Burkholderia virus Bcepmigl	1195073	species	62952	1	0	0.0
+Snodgrassella alvi	1196083	species	2527978	11	10	0.0
+Gilliamella apicola	1196095	species	3139412	11	5	0.0
+Cloacibacillus porcorum	1197717	species	3585187	15	11	0.0
+Staphylococcus phage Ipla5	1197952	species	43581	10	10	0.0
+Staphylococcus phage Ipla7	1197953	species	42123	1	0	0.0
+secondary endosymbiont of Ctenarytaina eucalypti	1199245	species	1441139	5	3	0.0
+Thermogladius cellulolyticus	1200300	species	1356318	1	1	0.0
+Geobacter daltonii	1203471	species	4304501	29	15	0
+Mycobacterium yongonense	1203599	species	5662088	111	7	0.0
+Aeromonas phage CC2	1204516	species	231743	2	2	0.0
+Pseudomonas phage MP1412	1204517	species	61167	1	0	0.0
+Caulobacter virus phiCbK	1204537	species	215710	3	1	0.0
+Pseudomonas sp. UW4	1207075	species	6183388	77	34	5.69975e-06
+Burkholderia pseudomultivorans	1207504	species	7956789	632	85	0
+Celeribacter indicus	1208324	species	4969388	200	107	6.05735e-05
+Caulobacter phage CcrColossus	1211640	species	279967	2	2	0.0
+Caulobacter virus Karma	1211641	species	221828	3	0	0.0
+Caulobacter virus Magneto	1211642	species	218929	4	1	0.0
+Caulobacter virus Rogue	1211643	species	223720	2	1	0.0
+Caulobacter virus Swift	1211644	species	219216	3	0	0.0
+Planococcus halocryophilus	1215089	species	3424893	7	5	0.0
+Clostridium bornimense	1216932	species	3617025	23	18	0.0
+Pectobacterium phage PP1	1217810	species	44400	1	1	0.0
+Octadecabacter antarcticus	1217908	species	4875481	30	23	0.0
+Fictibacillus phosphorivorans	1221500	species	4230665	8	8	0.0
+Corynebacterium humireducens	1223514	species	2681312	109	50	0.0
+Bradyrhizobium sp. CCGE-LA001	1223566	species	7833499	328	161	2.21138e-131
+Azospirillum humicireducens	1226968	species	3181617	132	38	0.0
+Campylobacter phage CP30A	1229752	species	133572	1	0	0.0
+Propionibacterium phage P14.4	1229784	species	29729	1	0	0.0
+Propionibacterium phage P105	1229788	species	29202	6	3	1.12516e-193
+Propionibacterium phage P100D	1229789	species	29506	2	1	0.0
+Propionibacterium phage P100_A	1229790	species	29505	1	0	0.0
+Propionibacterium phage P100_1	1229791	species	29612	3	0	0.0
+Propionibacterium phage ATCC29399B_T	1229793	species	29516	1	0	0.000566573
+Propionibacterium phage ATCC29399B_C	1229794	species	29516	1	0	0.000566573
+Candidatus Nitrosopumilus sp. AR2	1229909	species	1690905	6	5	0.0
+Salimicrobium jeotgali	1230341	species	2776927	1	0	0.0
+Corynebacterium lactis	1231000	species	2769745	47	22	6.28357e-47
+Geobacillus sp. GHH01	1233873	species	3583134	11	2	0.0
+Propionibacterium phage PHL010M04	1235645	species	29511	1	1	0.0
+Propionibacterium phage PHL060L00	1235647	species	29514	1	0	0.0
+Propionibacterium phage PHL067M10	1235649	species	29377	2	0	0.0
+Propionibacterium phage PHL071N05	1235650	species	29467	4	3	0
+Propionibacterium phage PHL111M01	1235653	species	29140	3	2	0.00114777
+Propionibacterium phage PHL114L00	1235656	species	29464	2	2	0.0
+Pseudomonas phage AF	1235689	species	42689	2	2	0.0
+Candidatus Pantoea carbekii	1235990	species	2348022	8	4	0.0
+Klebsiella phage JD001	1236000	species	48814	1	1	0.0
+Janthinobacterium sp. B9-8	1236179	species	4726850	58	44	0.0
+Sodalis praecaptivus	1239307	species	5159425	17	10	0.0
+Staphylococcus phage JD007	1239383	species	141836	1	1	0.0
+Campylobacter iguaniorum	1244531	species	5108357	9	6	0.0
+endosymbiont of unidentified scaly snail isolate Monju	1248727	species	2597759	92	57	0.0
+Pseudohongiella spirulinae	1249552	species	3345119	18	14	0.0
+Flammeovirgaceae bacterium 311	1257021	species	6665617	24	19	0.0
+Pseudomonas sp. FGI182	1259844	species	5891312	154	58	1.33406e-05
+Streptomyces sp. 769	1262452	species	10338286	106	32	0.0
+Edwardsiella piscicida	1263550	species	3891903	40	0	0.0
+Candidatus Endolissoclinum faulkneri	1263979	species	1499913	9	8	2.23657e-05
+Streptomyces sp. PAMC 26508	1265601	species	7630245	81	36	0.0
+Frischella perrara	1267021	species	2692351	13	10	0.0
+Altererythrobacter atlanticus	1267766	species	3475106	137	88	1.96473e-05
+Acanthamoeba polyphaga moumouvirus	1269028	leaf	1021348	3	3	0.0
+Liberibacter crescens	1273132	species	1513389	1	0	9.28293e-123
+Mycobacterium sp. VKM Ac-1817D	1273687	species	6324222	1766	205	0.000108432
+Escherichia phage PBECO 4	1273738	species	348113	2	2	0.0
+Bradyrhizobium icense	1274631	species	8322773	369	237	0.0
+Cyanophage S-RIM32	1278479	species	194437	1	1	0.0
+Synechococcus sp. KORDI-100	1280380	species	2789000	20	19	0.0
+Pseudomonas sp. URMO17WK12:I11	1283291	species	11209782	181	117	3.18213e-05
+Planktomarina temperata	1284658	species	3288122	24	13	0.0
+Nile crocodilepox virus	1285600	species	190054	1	0	0.0
+Magnetospira sp. QH-2	1288970	species	4052370	51	31	0.0
+Candidatus Methanomethylophilus alvus	1291540	species	1666795	2	0	0.0
+Croceicoccus	1295327	genus	0	1	0	0.0
+Photobacterium gaetbulicola	1295392	species	5909413	26	16	0.0
+Thermodesulfobacterium geofontis	1295609	species	1634377	1	1	0.0
+Enterobacter xiangfangensis	1296536	species	4661849	39	1	3.41724e-142
+Intestinimonas butyriciproducens	1297617	species	3376475	8	4	0.0
+Myxococcus hansupus	1297742	species	9490432	164	87	0.0
+Mucilaginibacter sp. PAMC 26640	1300914	species	5618021	34	28	5.95359e-06
+Invertebrate iridovirus 22	1301279	species	197693	2	1	0.0
+Methanocaldococcus bathoardescens	1301915	species	1607556	2	1	0.0
+Flavobacterium sp. PK15	1306519	species	3851214	252	186	5.10285e-184
+Alcanivorax pacificus	1306787	species	4168427	72	39	0
+Salinispira pacifica	1307761	species	3782798	11	5	0.0
+bacterium L21-Spi-D4	1307839	species	4812386	17	13	0.0
+Leucania separata nucleopolyhedrovirus	1307956	species	168041	1	1	0.0
+'Deinococcus soli' Cha et al. 2014	1309411	species	3236984	79	27	0.0
+Sphingobium sp. TKS	1315974	species	6228879	553	229	0.000185279
+Blattabacterium sp. (Nauphoeta cinerea)	1316444	species	626626	8	6	0.0
+Bartonella ancashensis	1318743	species	1467695	9	2	0.0
+Acinetobacter equi	1324350	species	3054269	80	56	0.0
+Chryseobacterium gallinarum	1324352	species	4633632	47	23	0.0
+Mycobacterium phage WIVsmall	1327036	species	53359	1	1	0.0
+Streptomyces phage Sujidade	1327759	species	51552	1	0	0.0
+Mycobacterium phage Fishburne	1327765	species	47109	1	0	0.0
+Mycobacterium phage Severus	1327776	species	49894	1	0	0.0
+Cronobacter phage S13	1327935	species	182145	2	2	0.000183623
+Pseudomonas phage PAK_P4	1327966	species	93147	1	1	0.0
+Cellulophaga phage phi19:1	1327970	species	57447	5	5	0.0
+Cellulophaga phage phi19:3	1327971	species	75994	1	1	0.0
+Cellulophaga phage phi18:3	1327983	species	71443	1	1	0.0
+Serratia sp. FS14	1327989	species	5249875	69	17	6.37737e-06
+Cycloclasticus zancles	1329899	species	2655425	22	14	0.0
+Kosmotoga pacifica	1330330	species	2169170	4	3	0.0
+Pluralibacter	1330546	genus	0	1	0	0.0
+Bordetella pseudohinzii	1331258	species	4558891	152	75	1.46964e-151
+Sphingobium baderi	1332080	species	4583422	410	216	0.000139084
+Salinarchaeum sp. Harcht-Bsk1	1333523	species	3255260	20	16	0.0
+Enterobacter lignolyticus	1334193	species	4814049	30	12	0.0
+Defluviimonas alba	1335048	species	4987611	248	188	3.98182e-79
+Spiribacter salinus	1335746	species	1739487	21	19	0.0
+Spiribacter sp. UAH-SP71	1335757	species	1926631	22	14	0.0
+Formosa sp. Hel1_33_131	1336794	species	2735158	36	26	0.0
+Formosa sp. Hel3_A1_48	1336795	species	2016454	19	16	0.0
+Calothrix sp. 336/3	1337936	species	6420126	9	9	0.0
+Pseudomonas sp. JY-Q	1338689	species	6178825	120	36	2.39491e-05
+Geobacter anodireducens	1340425	species	3666014	31	17	0.0
+Mycobacterium phage Breeniome	1340712	species	154434	5	0	0.0
+Mycobacterium phage Hamulus	1340824	species	57155	3	3	0.0
+Stenotrophomonas phage phiSMA7	1343494	species	7069	1	0	0.0
+Geobacillus sp. JF8	1345697	species	3486308	35	30	5.51942e-05
+Choristoneura murinana alphabaculovirus	1346828	species	124688	1	0	0.0
+Pseudoalteromonas sp. OCN003	1348114	species	4815987	15	12	0.0
+Croceicoccus naphthovorans	1348774	species	3863562	266	165	2.96688e-05
+Pandoravirus dulcis	1349409	species	1908524	55	53	0.0
+Pandoravirus salinus	1349410	species	2473870	4	2	0.0
+Aureimonas sp. AU20	1349819	species	5210858	140	86	0.0
+Synechococcus sp. UTEX 2973	1350461	species	2744626	8	7	0.0
+Mycobacterium phage PhrostyMug	1354512	species	53636	1	1	0.0
+Bradyrhizobium diazoefficiens	1355477	species	14343524	474	217	1.15001e-142
+Hymenobacter sp. APR13	1356852	species	5010594	83	57	0.0
+Bacillus phage phiCM3	1357713	species	38772	1	0	0.0
+Caulobacter phage Cr30	1357714	species	155997	3	3	0.0
+Thermofilum sp. 1910b	1365176	species	1750259	1	0	0.0
+Dyella jiangningensis	1379159	species	5396991	1223	832	6.95269e-06
+Methanobacterium sp. MB1	1379702	species	2029766	3	3	0.0
+Spirosoma radiotolerans	1379870	species	7029352	25	22	0.0
+Rufibacter	1379908	genus	0	1	0	0.0
+Rufibacter sp. DG15C	1379909	species	4143738	21	14	0.0
+Rufibacter sp. DG31D	1379910	species	4820793	30	17	0.0
+Chaetoceros sp. DNA virus 7	1382995	species	5552	1	1	0.0
+Mycobacterium phage Phelemich	1383055	species	70115	1	1	0.0
+Mycobacterium phage Goku	1383057	species	76483	2	2	0.0
+Methyloceanibacter caenitepidi	1384459	species	3424964	43	35	0.0
+Hymenobacter sp. DG25A	1385663	species	3777136	29	13	0.0
+Hymenobacter sp. DG25B	1385664	species	4360029	36	22	0.0
+Cupriavidus sp. USMAHM13	1389192	species	7820821	332	47	0.0
+Vulgatibacter incomptus	1391653	species	4350553	76	51	0.0
+Celeribacter marinus	1397108	species	3096705	18	12	0.0
+Exiguobacterium sp. MH3	1399115	species	3164195	31	22	1.32474e-05
+Bacteroidales bacterium CF	1400053	species	2657245	10	6	0.0
+Erwinia phage PhiEaH1	1401669	species	218339	2	2	0.0
+Corynebacterium glyciniphilum	1404244	species	3568218	48	27	0.0
+Candidatus Methanomassiliicoccus intestinalis	1406512	species	1931651	1	1	0.0
+Bacillus phage Spock	1406791	species	164297	1	1	0.0
+Acinetobacter sp. TGL-Y2	1407071	species	3691287	95	67	0
+Halobacterium hubeiense	1407499	species	3130345	24	19	0.0
+Corynebacterium deserti	1408191	species	3033893	38	32	4.11044e-05
+Endomicrobium proavitum	1408281	species	1588979	13	6	0.0
+Candidatus Tachikawaea gelatinosa	1410383	species	708439	3	2	0.0
+Candidatus Nitrosopelagicus brevis	1410606	species	1232128	6	6	0.0
+Hymenobacter sp. DG5B	1411621	species	4868852	67	49	0.0
+Mycobacterium phage Validus	1414747	species	62466	2	2	0.0
+Xylella phage Prado	1415146	species	43940	1	1	0.0
+Pseudomonas sp. TKP	1415630	species	7012672	166	42	2.43953e-05
+endosymbiont of Llaveia axin axin	1415657	species	309299	8	3	0.0
+Gloeobacter kilaueensis	1416614	species	4724791	33	25	0.0
+Marinobacter similis	1420916	species	3975896	26	17	0.0
+Marinobacter salarius	1420917	species	4616532	38	26	0.0
+Geosporobacter ferrireducens	1424294	species	5817221	4	2	0.0
+Hyphomicrobium nitrativorans	1427356	species	3653837	79	53	0.0
+Candidatus Thioglobus singularis	1427364	species	1714148	2	0	0.0
+Pseudomonas phage phiIBB-PAA2	1429758	species	45344	1	1	0.0
+Mycobacterium phage EagleEye	1429759	species	52974	3	2	0.0
+Erwinia phage Ea9-2	1429767	species	75568	1	1	0.0
+Mycobacterium phage Donovan	1429793	species	47162	1	0	0.0
+Mannheimia sp. USDA-ARS-USMARC-1261	1432056	species	2393449	23	9	0.0
+Mucinivorans hirudinis	1433126	species	3149227	7	7	0.0
+Komagataeibacter	1434011	genus	0	5	0	0.0
+Sphingorhabdus	1434046	genus	0	1	0	0.0
+Methanosarcina sp. Kolksee	1434099	species	4553495	2	0	0.0
+Methanosarcina sp. MTP4	1434100	species	4211468	3	2	0.0
+Methanosarcina sp. WH1	1434102	species	3914091	3	1	0.0
+Methanosarcina sp. WWM596	1434103	species	4137337	5	2	0.0
+Escherichia phage HY01	1434323	species	166977	1	1	0.0
+Vibrio tritonius	1435069	species	5221926	18	11	0.0
+Candidatus Symbiobacter mobilis	1436290	species	2991840	53	40	0.0
+Streptomyces leeuwenhoekii	1437453	species	8122491	96	42	0.0
+Ectothiorhodospira sp. BSL-9	1442136	species	3550080	68	41	0.0
+Gynuella sunshinyii	1445505	species	6475959	20	17	0.0
+Mycobacterium phage Nyxis	1445714	species	51250	1	0	0.0
+Mycobacterium phage Obama12	1445715	leaf	51797	1	0	0.0
+Mycobacterium phage 32HC	1445729	species	50781	15	15	0.0
+Hymenobacter swuensis	1446467	species	5252070	61	43	0.0
+Bacillus sp. Pc3	1446792	species	3982168	15	1	1.85364e-136
+Pseudomonas phage vB_PaeP_Tr60_Ab31	1449437	species	45550	1	0	0.0
+Aneurinibacillus sp. XH2	1450761	species	3664835	6	6	0.0
+Sediminicola sp. YIK13	1453352	species	3569807	16	14	0.0
+Enterobacter phage PG7	1455074	leaf	173276	4	4	0.0
+Citrobacter phage CR44b	1455075	species	39207	1	0	0.0
+Chlamydia avium	1457141	species	1048269	1	1	0.0
+Chlamydia gallinacea	1457153	species	1067202	5	3	0.0
+Octadecabacter temperatus	1458307	species	3264628	11	9	0.0
+Comamonadaceae bacterium A1	1458425	species	2574013	177	101	1.31997e-05
+Comamonadaceae bacterium B1	1458426	species	2623236	187	99	1.29482e-05
+Myroides sp. ZB35	1458492	species	4065010	24	0	0.0
+Paenibacillus yonginensis	1462996	species	4985901	15	13	0.0
+Klebsiella quasipneumoniae	1463165	species	5586672	42	6	7.60488e-06
+Laodelphax striatella honeydew virus 1	1464786	species	10929	1	1	0.0
+Burkholderia sp. 2002721687	1468409	species	7285824	279	5	6.33624e-06
+Burkholderiales bacterium GJ-E10	1469502	species	3276549	130	84	0.0
+Zhongshania aliphaticivorans	1470434	species	4204359	18	8	0.0
+Basilea psittacipulmonis	1472345	species	1959069	8	4	0.0
+Lentibacillus amyloliquefaciens	1472767	species	3858284	8	7	0.0
+Aureococcus anophagefferens virus	1474867	species	370920	1	1	0.0
+Pseudomonas phage vB_PaeS_SCH_Ab26	1476390	species	43056	14	2	1.65863e-153
+Nonlabens sp. MIC269	1476901	species	2884293	19	15	0.0
+Methylobacterium sp. C1	1479019	species	6459145	265	23	5.35174e-06
+Acinetobacter phage vB_AbaM_Acibel004	1481186	species	99730	1	1	0.0
+Thermofilum carboxyditrophus	1483572	species	1754190	1	0	0.0
+Hymenobacter sp. PAMC 26554	1484116	species	5451254	64	45	0.0
+Hymenobacter sp. PAMC 26628	1484118	species	5366977	79	54	0.0
+Pantoea sp. PSNIH2	1484157	species	4967343	64	24	1.06866e-05
+Pantoea sp. PSNIH1	1484158	species	4410683	43	17	5.0805e-05
+Methyloceanibacter	1484898	genus	0	2	0	0.0
+Martelella endophytica	1486262	species	4817335	62	31	0.0
+Mycobacterium phage Kampy	1486425	species	51378	1	0	0.0
+Candidatus Sodalis pierantonius	1486991	species	4513140	16	10	0.0
+Corynebacterium sp. ATCC 6931	1487956	species	2471920	105	69	0.000102289
+Anoxybacillus sp. B2M1	1490052	species	3819480	8	2	0.0
+Anoxybacillus sp. B7M1	1490057	species	3869056	9	4	0.0
+Flavobacterium gilvum	1492737	species	4402594	232	193	0.0
+Flavisolibacter sp. LCS9	1492898	species	5940863	84	62	5.62981e-06
+Arthrobacter sp. PAMC 25486	1494608	species	4593579	46	29	0.0
+methanogenic archaeon ISO4-H5	1495144	species	1937883	3	3	0.0
+Candidatus Evansia muelleri	1495769	species	357498	5	1	0.0
+Thermoleophilia	1497346	class	0	1	0	0.0
+Enterococcus phage ECP3	1498168	species	145518	1	1	0.0
+Propionibacterium phage Pacnes 2012-15	1498188	species	29741	3	3	0.0
+Chromobacteriaceae	1499392	family	0	22	0	0.0
+Pseudomonas sp. Os17	1500686	species	6885464	85	8	0.0
+Pseudomonas sp. St29	1500687	species	6833117	78	4	0.0
+Campylobacter sp. RM16704	1500960	species	1557536	13	7	0.0
+Prochlorococcus sp. MIT 0604	1501268	species	1780061	13	2	0.0
+Prochlorococcus sp. MIT 0801	1501269	species	1929203	5	1	0.0
+Burkholderia stagnalis	1503054	species	7583807	1138	591	5.08652e-05
+Burkholderia territorii	1503055	species	6902370	434	122	1.31375e-05
+Halomonas sp. KO116	1504981	species	5168360	29	24	6.47128e-06
+Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri	1505596	species	749321	1	1	0.0
+Blochmannia endosymbiont of Camponotus (Colobopsis) obliquus	1505597	species	773940	3	1	0.0
+Thermococcus eurythermalis	1505907	species	2126164	2	1	0.0
+Mycobacterium phage Cheetobro	1506716	species	57253	1	0	0.0
+Jeotgalibacillus malaysiensis	1508404	species	4119509	9	6	0.0
+Thermotoga caldifontis	1508419	species	2014912	5	4	0.0
+Thermotoga profunda	1508420	species	2187612	9	6	0.0
+Roseiflexaceae	1508635	family	0	1	0	0.0
+Candidatus Arthromitus sp. SFB-mouse-NL	1508644	species	1654902	5	0	0.0
+Erysipelothrix sp. LV19	1514105	species	2511486	6	5	0.0
+Rodent Torque teno virus 2	1514665	species	2572	2	0	0.0
+Sphingopyxis fribergensis	1515612	species	5202172	668	456	5.63497e-05
+Geobacillus sp. LC300	1519377	species	3532580	27	3	0
+Dehalococcoides sp. UCH007	1522671	species	1473548	4	1	0.0
+Vulgatibacter	1524214	genus	0	2	0	0.0
+Anaeromyxobacteraceae	1524215	family	0	3	0	0.0
+Sinorhizobium phage phiLM21	1524882	species	50827	1	1	0.0
+Neorhizobium	1525371	genus	0	5	0	0.0
+Sulfitobacter phage NYA-2014a	1526550	species	42092	3	0	0.0
+Lacimicrobium alkaliphilum	1526571	species	4378835	10	6	0.0
+Bosea vaviloviae	1526658	species	6713548	243	129	2.20179e-128
+Planococcus sp. PAMC 21323	1526927	species	3199864	6	4	0.0
+Mycobacterium phage Sparky	1527493	species	63334	1	0	0.0
+Mycobacterium phage Trike	1527536	species	44716	1	1	0.0
+Rhizobium phage vB_RleM_P10VF	1527770	species	156446	3	3	0.0
+Rickettsiales bacterium Ac37b	1528098	species	1917564	2	0	0.0
+Lawsonella clevelandensis	1528099	species	3775705	87	80	0
+Coriobacteriaceae bacterium 68-1-3	1531429	species	1967093	17	12	0.0
+Brevundimonas sp. DS20	1532555	species	3475610	133	80	2.88691e-05
+Pseudomonas sp. DR 5-09	1534110	species	6427864	105	34	0.0
+Pseudomonas phage H70	1536596	species	37359	1	1	0.0
+Paenibacillus sp. FSL P4-0081	1536769	species	8423054	12	5	0.0
+Paenibacillus sp. FSL R5-0345	1536770	species	6787172	8	1	0.0
+Paenibacillus sp. FSL R5-0912	1536771	species	7718525	6	2	0.0
+Paenibacillus sp. FSL R7-0273	1536772	species	7288921	17	10	0.0
+Paenibacillus sp. FSL R7-0331	1536773	species	6931967	10	7	0.0
+Paenibacillus sp. FSL H7-0357	1536774	species	7692748	18	11	0.0
+Paenibacillus sp. FSL H7-0737	1536775	species	6765883	11	5	0.0
+Methylomonas denitrificans	1538553	species	5172098	47	31	0.0
+Sphingobacterium sp. ML3W	1538644	species	5329010	27	23	0.0
+Treponema sp. OMZ 838	1539298	species	2708067	3	2	0.0
+Candidatus Izimaplasma sp. HR1	1541959	species	1878735	8	6	0.0
+Pseudomonas phage vB_Pae_PS44	1542090	species	68871	9	0	0.0
+Salmonella phage BP12C	1543203	species	60606	3	3	0.0
+Sedimenticola thiotaurini	1543721	species	3962284	45	28	0.0
+Lactobacillus sp. wkB8	1545702	species	1932531	1	1	0.0
+Mycobacterium sp. EPa45	1545728	species	6177406	192	127	1.68205e-67
+Francisella sp. FSC1006	1547445	species	2015987	6	5	0.0
+Woeseia oceani	1548547	species	4059891	21	10	0.0
+Pseudomonas phage vB_PaeS_PAO1_Ab18	1548905	species	56537	2	0	0.0
+Haematospirillum jordaniae	1549855	species	2467625	9	4	0.0
+Sphingomonas taxi	1549858	species	4061902	357	230	0.0
+Limnochorda pilosa	1555112	species	3817036	27	17	0.0
+Escherichia phage 121Q	1555202	species	348532	3	3	0.0
+Yellowstone Lake virophage 7	1557035	species	23193	1	0	0.0
+Enterobacter sp. E20	1560339	species	4763114	55	18	1.17146e-05
+Sphingomonas panacis	1560345	species	5322941	314	199	0.0
+Melbournevirus	1560514	species	369360	1	0	0.0
+Streptomyces sp. CCM_MD2014	1561022	species	8274043	116	57	0.0
+Curtobacterium sp. MR_MD2014	1561023	species	3443800	108	62	0.0
+Mycobacterium sp. QIA-37	1561223	species	4855372	83	47	7.04333e-06
+Fermentimonas caenicola	1562970	species	2808926	11	9	0.0
+Rhodococcus sp. B7740	1564114	species	5341557	81	49	0.0
+Carnobacterium sp. CP1	1564681	species	2614401	6	5	0.0
+Bacillus sp. X1(2014)	1565991	species	3422674	9	4	0.0
+Paenibacillus sp. IHBB 10380	1566358	species	5787303	5	5	0.0
+Mycobacterium phage Malithi	1567472	species	46869	2	1	0.0
+Mycobacterium phage Sbash	1567475	species	55832	4	1	0.0
+Lactobacillus phage LfeInf	1567484	species	106071	1	1	0.0
+Mycobacterium sp. NRRL B-3805	1570328	species	5421338	184	0	5.21694e-07
+Bacillus sp. BH072	1570330	species	4069641	9	0	1.26413e-131
+Peptoniphilaceae	1570339	family	0	2	0	0.0
+Salmonella phage Shivani	1572715	species	120098	1	0	0.0
+Escherichia phage P694	1572754	species	40477	1	0	0.0
+Methanomassiliicoccaceae	1577788	family	0	2	0	0.0
+Candidatus Methanoplasma termitum	1577791	species	1488669	3	2	0.0
+Edwardsiella sp. EA181011	1578828	species	3934167	35	12	0.0
+Halocynthiibacter arcticus	1579316	species	4376120	12	10	0.0
+Wenzhouxiangella marina	1579979	species	3675202	70	46	0.0
+Candidatus Nitrosopumilus adriaticus	1580092	species	1803090	7	7	0.0
+Sulfurospirillum sp. UCH001	1581011	species	2606563	8	6	0.0
+Candidatus Methylopumilus planktonicus	1581557	species	1356428	10	7	6.88796e-71
+Candidatus Methylopumilus turicensis	1581680	species	1754988	138	106	0.000210187
+Clostridium phage phiCD211	1582152	species	131326	1	1	0.0
+Fusobacterium hwasookii	1583098	species	2496436	26	10	0.0
+Myroides sp. A21	1583100	species	4155464	41	13	0.0
+Pseudomonas cerasi	1583341	species	6345256	77	29	1.10935e-05
+Lentzea sp. DHS C013	1586287	species	9997872	172	105	3.3453e-06
+Yellowstone lake mimivirus	1586712	species	73689	2	2	0.0
+Yellowstone lake phycodnavirus 1	1586713	species	178262	1	1	0.0
+Yellowstone lake phycodnavirus 3	1586715	species	171454	2	2	0.0
+Achromobacter phage JWX	1589746	species	49714	1	1	0.0
+Helicobacter himalayensis	1591088	species	1829936	4	4	0.0
+Haloarcula sp. CBA1115	1592728	species	4225046	18	2	0.0
+Coxiella-like endosymbiont	1592897	species	1733840	2	2	0.0
+Candidatus Nitrosotenuis cloacae	1603555	species	1620156	8	8	0.0
+Desulfuromonas soudanensis	1603606	species	3958620	51	29	0.0
+Halanaeroarchaeum sulfurireducens	1604004	species	4463238	11	7	0.0
+Acinetobacter sp. NCu2D-2	1608473	species	3048277	339	247	0.000271361
+Candidatus Filomicrobium marinum	1608628	species	7939883	32	21	0.0
+Confluentimicrobium sp. EMB200-NS6	1609966	species	4147426	150	91	0
+Methanobrevibacter sp. YE315	1609968	species	2273296	7	7	0.0
+Sphingomonas hengshuiensis	1609977	species	5228389	337	221	6.41218e-06
+Verrucomicrobia bacterium L21-Fru-AB	1609981	species	2949723	18	14	0.0
+Staphylococcus phage IME-SA4	1610872	species	41843	4	0	0.0
+Pseudomonas sp. MRSN12121	1611770	species	6986763	146	42	1.50401e-05
+Geminocystis sp. NIES-3708	1615909	species	4042078	25	20	0.0
+Paenibacillus bovis	1616788	species	5354277	15	11	0.0
+Salinispira	1616789	genus	0	2	0	0.0
+Geminocystis sp. NIES-3709	1617448	species	4426059	14	11	0.0
+Arthrobacter sp. IHBB 11108	1618207	species	3599434	7	6	0.0
+Erwinia gerundensis	1619313	species	4481256	32	15	1.0949e-05
+Spongiibacter sp. IMCC21906	1620392	species	3481669	16	9	0.0
+Hoeflea sp. IMCC20628	1620421	species	5119813	76	47	0.0
+Lutibacter sp. LP1	1622118	species	2966978	50	31	0.0
+Geobacillus sp. 12AMOR1	1629723	species	3442724	33	14	1.12e-05
+Dermabacter vaginalis	1630135	species	2392314	147	122	0.00016077
+Bovine nidovirus TCH5	1631554	species	20261	1	1	0.0
+Acetobacter sp. SLV-7	1633874	species	3106397	11	9	0.0
+Citromicrobium sp. JL477	1634516	species	3258499	173	116	6.01505e-140
+Planctomyces sp. SH-PL62	1636152	species	6784659	87	59	0.0
+Streptomyces phage TP1604	1636184	species	57168	1	1	0.0
+Staphylococcus phage B166	1636204	species	42881	1	1	0.0
+Rhodoferax phage P26218	1636270	species	36315	4	4	0.0
+Tsukamurella phage TIN3	1636546	species	76269	1	1	0.0
+Rotavirus I	1637496	species	17767	1	1	0.0
+Verrucomicrobia bacterium IMCC26134	1637999	species	4001000	63	49	8.35939e-06
+Chania multitudinisentens	1639108	species	5488183	12	10	0.0
+Pseudomonas phage vB_PaeM_MAG1	1639815	species	94555	1	0	0.0
+Pseudonocardia sp. HH130629-09	1641402	species	6300975	155	85	0.0
+Petrimonas mucosa	1642646	species	3717632	7	6	0.0
+Devosia sp. H5989	1643450	species	4594249	144	99	2.18819e-05
+Geodermatophilales	1643682	order	0	2	0	0.0
+Acidothermales	1643683	order	0	2	0	0.0
+Eggerthellales	1643822	order	0	1	0	0.0
+Atopobiaceae	1643824	family	0	1	0	0.0
+Eggerthellaceae	1643826	family	0	1	0	0.0
+Fervidobacteriaceae	1643950	family	0	2	0	0.0
+Pseudothermotoga	1643951	genus	0	1	0	0.0
+Haloferacales	1644055	order	0	1	0	0.0
+Natrialbales	1644060	order	0	1	0	0.0
+Natrialbaceae	1644061	family	0	8	0	0.0
+Maribacter sp. 1_2014MBL_MicDiv	1644130	species	4399611	22	16	0.0
+Janthinobacterium sp. 1_2014MBL_MicDiv	1644131	species	6453540	489	355	1.74908e-05
+Acinetobacter sp. TTH0-4	1646498	species	2962453	174	102	6.49074e-05
+Gordonia phage GMA7	1647286	species	73419	1	1	0.0
+Mycobacterium phage Phayonce	1647302	species	49203	1	0	0.0
+Mycobacterium phage FlagStaff	1647304	species	44576	1	1	0.0
+Anabaena sp. wa102	1647413	species	5782034	10	7	0.0
+Propionibacterium phage PHL009	1647417	species	29503	3	0	0.0
+Propionibacterium phage PHL025	1647418	species	29496	2	0	0.0
+Propionibacterium phage PHL041	1647420	species	29412	3	3	0.0
+Propionibacterium phage PHL070	1647424	species	29421	1	1	0.0
+Propionibacterium phage PHL082	1647425	species	29491	7	6	0
+Propionibacterium phage PHL085	1647426	species	29454	1	1	0.0
+Propionibacterium phage PHL092	1647427	species	29261	5	3	0.00228604
+Propionibacterium phage PHL095	1647428	species	29751	3	0	0.0
+Propionibacterium phage PHL116	1647430	species	29394	1	1	0.0
+Propionibacterium phage PHL132	1647432	species	29003	1	0	0.0
+Propionibacterium phage PHL150	1647434	species	29438	1	0	0
+Propionibacterium phage PHL152	1647436	species	29247	1	1	0.0
+Propionibacterium phage PHL199	1647441	species	29806	3	0	0.0
+Salmonella phage SEN4	1647465	species	33507	3	0	0.0
+Salmonella phage SEN5	1647466	species	33508	3	0	0.0
+Gordonia phage GTE8	1647475	species	67617	1	1	0.0
+Erythrobacter atlanticus	1648404	species	3226359	84	53	1.03665e-05
+Bacillus paralicheniformis	1648923	species	4382163	9	5	0.0
+Streptomyces sp. CFMR 7	1649184	species	8307279	92	47	0.0
+Rubinisphaera	1649490	genus	0	1	0	0.0
+Pseudomonas sp. CCOS 191	1649877	species	6012947	210	73	0.0
+Actinobacteria bacterium IMCC26256	1650658	species	2461858	4	2	0.0
+Corynebacterium sp. JZ16	1652495	species	3217288	16	12	0.0
+Arthrobacter sp. YC-RL1	1652545	species	4018639	90	44	1.44294e-125
+Caldimicrobium thiodismutans	1653476	species	1814952	5	5	0.0
+Rhodococcus sp. PBTS 1	1653478	species	4251687	100	63	1.5733e-05
+Rhodococcus sp. PBTS 2	1653479	species	5316948	83	54	6.29044e-06
+Propionibacterium phage BruceLethal	1654740	species	29249	3	0	0.0
+Propionibacterium phage Enoki	1654780	species	29347	6	6	0.0
+Propionibacterium phage Moyashi	1654781	species	29254	2	0	0.0
+Salmonella phage 37	1654890	species	60216	2	0	0.0
+Escherichia phage HY03	1654926	species	170770	1	0	0.0
+Propionibacterium phage Attacne	1655012	species	28876	4	0	0.0
+Propionibacterium phage Kubed	1655014	species	29461	2	2	0.0
+Propionibacterium phage MrAK	1655016	species	29726	1	1	0.0
+Propionibacterium phage Ouroboros	1655017	species	29506	1	1	0.0
+Propionibacterium phage Pirate	1655018	species	29328	1	0	0
+Propionibacterium phage Procrass1	1655019	species	29347	1	1	0.0
+Propionibacterium phage Solid	1655021	species	29440	2	0	0
+Propionibacterium phage Stormborn	1655022	species	29330	7	3	0.00114033
+Propionibacterium phage Wizzo	1655023	species	29463	6	0	0.0
+Pelagibacteraceae	1655514	family	0	1	0	0.0
+Mitsuaria sp. 7	1658665	species	6085092	698	462	2.8379e-124
+Arsenicicoccus sp. oral taxon 190	1658671	species	3525271	136	91	2.47631e-150
+Ottowia sp. oral taxon 894	1658672	species	2925783	152	104	1.15906e-05
+Pseudomonas sp. GR 6-02	1659194	species	6500345	69	31	0.0
+Stenotrophomonas phage vB_SmaS-DLP	1659230	species	42593	18	2	1.19459e-100
+Leptospirillum sp. Group II 'CF-1'	1660083	species	2709324	7	2	0.0
+Methylophilus sp. TWE2	1662285	species	3079044	128	94	9.55714e-110
+Fimbriimonadaceae	1663426	family	0	3	0	0.0
+Magnetospirillum sp. XM-1	1663591	species	4992477	188	89	0.0
+Bacillus glycinifermentans	1664069	species	4607442	8	5	0.0
+Achromobacter phage phiAxp-3	1664247	species	72409	2	2	0.0
+Marinobacter sp. CP1	1671721	species	4768422	24	7	0.0
+Labrenzia sp. CP4	1674922	species	6051301	63	38	0.0
+Streptomyces phage Lannister	1674927	species	50165	1	1	0.0
+Wenzhouxiangellaceae	1676141	family	0	1	0	0.0
+Wenzhouxiangella	1676142	genus	0	1	0	0.0
+Limnochordales	1676649	order	0	2	0	0.0
+Massilia sp. NR 4-1	1678028	species	6361416	480	341	1.92375e-05
+Mollivirus sibericum	1678078	species	651523	1	0	0.0
+Limnohabitans sp. 63ED37-2	1678128	species	3372992	691	577	3.0106e-05
+Limnohabitans sp. 103DPR2	1678129	species	2948795	562	520	0.000160985
+Burkholderia sp. HB1	1678678	species	7206167	207	109	0.0
+Candidatus Methylopumilus	1679002	genus	0	3	0	0.0
+Akkermansia glycaniphila	1679444	species	3074078	26	14	0.0
+Mycobacterium sp. YC-RL4	1682113	species	6053985	389	280	0.000374245
+Chryseobacterium sp. IHB B 10212	1685010	species	4871648	43	25	0.0
+Pseudonocardia sp. EC080610-09	1688404	species	7131853	116	3	0.0
+Ralstonia phage RSF1	1689679	species	222888	1	1	0.0
+Arthrobacter sp. LS16	1690248	species	3851242	72	33	2.60534e-05
+Pseudonocardia sp. HH130630-07	1690815	species	6680451	134	78	0.0
+Enterobacter sp. FY-07	1692238	species	5138701	23	11	0.0
+Paenibacillus sp. 32O-W	1695218	species	5375858	39	24	0.0
+Microbacterium sp. CGR1	1696072	species	3634864	139	91	1.11318e-05
+Bordetella sp. H567	1697043	species	5532470	158	95	0.0
+Oblitimonas alkaliphila	1697053	species	14141857	13	6	0.0
+Mycobacterium phage Dante	1698357	species	59652	1	0	0.0
+Mycobacterium phage Brusacoram	1698358	species	47618	1	0	0.0
+Klebsiella phage JD18	1698360	species	166313	1	1	0.000201102
+Mycobacterium phage Rufus	1698441	species	52357	1	0	0.0
+Mycobacterium phage Enkosi	1698709	species	59052	1	0	0.0
+Mycobacterium phage HyRo	1698710	species	153714	5	0	0.0
+Psychrobacter sp. P2G3	1699622	species	3366617	15	1	0
+Psychrobacter sp. P11G5	1699624	species	3519144	22	3	0
+Citrobacter sp. FDAARGOS_156	1702170	species	4727434	12	10	7.15953e-06
+Faecalibaculum rodentium	1702221	species	2542486	15	14	0.0
+Chelatococcus sp. CO-6	1702325	species	5243734	222	123	1.16467e-32
+Rhizobium sp. N113	1703960	species	6524337	2	1	0.0
+Rhizobium sp. N1314	1703961	species	6274511	20	0	0.0
+Rhizobium sp. N1341	1703962	species	6555560	1	0	0.0
+Rhizobium sp. N731	1703966	species	6274507	20	0	0.0
+Rhizobium sp. N871	1703968	species	6479005	1	0	0.0
+Rhizobium sp. N324	1703969	species	6972593	87	27	0.0
+Arthrobacter sp. ERGS1:01	1704044	species	4936686	51	30	0.0
+Candidatus Xiphinematobacter sp. Idaho Grape	1704307	species	915884	12	3	0.0
+Candidatus Thioglobus autotrophicus	1705394	species	1512449	6	5	0.0
+Capnocytophaga sp. oral taxon 323	1705617	species	2614527	36	23	0.0
+Cellvibrionales	1706369	order	0	3	0	0.0
+Massilia sp. WG5	1707785	species	6267305	534	360	1.72073e-05
+Thermococcus piezophilus	1712654	species	1928800	5	2	0.0
+Turicibacter sp. H121	1712675	species	2622031	10	8	0.0
+Microbacterium sp. No. 7	1714373	species	4827965	341	263	7.39629e-05
+Klebsiella sp. G5	1715259	species	4702949	25	11	0.0
+Staphylococcus sp. AntiMn-1	1715860	species	2738396	47	6	3.31024e-322
+Candidatus Nitrospira inopinata	1715989	species	3295117	31	25	0.0
+Desulfovibrio sp. J2	1716143	species	3966573	59	42	0.0
+Mycobacterium phage Pari	1718171	species	50614	2	0	0.0
+Pseudomonas phage PAE1	1718273	species	62181	1	0	0.0
+Psychrobacter sp. AntiMn-1	1720344	species	3138120	18	15	1.128e-05
+Escherichia phage slur07	1720500	species	167124	2	1	0.0
+Chryseobacterium sp. IHB B 17019	1721091	species	4077766	29	23	0.0
+Rhodococcus sp. 008	1723645	species	7438324	106	46	3.18533e-05
+Streptomyces sp. CdTB01	1725411	species	10191567	114	65	0.0
+Algoriphagus sp. M8-2	1727163	species	3882610	15	9	0.0
+Pedobacter sp. PACM 27299	1727164	species	6147290	54	41	0.0
+Methylomonas sp. DH-1	1727196	species	5127407	53	40	0.0
+Escherichia phage slur09	1728958	species	111751	2	2	0.0
+Staphylococcus phage StB20-like	1732064	species	40670	1	1	0.0
+Algibacter alginolytica	1736674	species	3994770	49	38	0.0
+Devosia sp. A16	1736675	species	5032994	207	150	0
+Woeseiaceae	1738654	family	0	2	0	0.0
+Burkholderia sp. Bp5365	1740162	species	7287809	306	35	1.12521e-28
+Burkholderia sp. Bp7605	1740163	species	5705688	243	141	4.78553e-154
+Paenarthrobacter	1742992	genus	0	1	0	0.0
+Pseudarthrobacter	1742993	genus	0	1	0	0.0
+Marinobacter sp. LQ44	1749259	species	4435564	47	20	0.0
+Kurthia sp. 11kri321	1750719	species	2964527	8	7	1.1282e-05
+Nostoc sp. NIES-3756	1751286	species	6987571	20	20	0.0
+Streptomyces sp. 4F	1751294	species	8047771	99	50	0.0
+Fischerella sp. NIES-3754	1752063	species	5826863	10	10	0.0
+Leptolyngbya sp. NIES-3755	1752064	species	6761657	14	12	0.0
+Mycobacterium phage Iracema64	1755681	species	51637	2	0	0.0
+Pseudomonas phage PPPL-1	1755692	species	41149	2	2	0.0
+Serinicoccus sp. JLT9	1758689	species	3597394	126	79	1.85945e-05
+Caulobacteraceae bacterium OTSz_A_272	1759059	species	3732719	56	46	0.0
+Streptococcus sp. A12	1759399	species	1874337	81	64	0.000144706
+Serratia sp. YD25	1759437	species	5117644	35	5	0.0
+Flavobacterium sp. LPB0076	1763534	species	3027315	115	84	3.0327e-05
+Hydrogenophaga sp. LPB0072	1763535	species	4944132	284	186	2.30201e-05
+Thalassotalea sp. LPB0090	1763536	species	3861670	12	7	0.0
+Paenibacillus sp. LPB0068	1763538	species	4757181	11	10	0.0
+Acidihalobacter	1765964	genus	0	2	0	0.0
+Deinococcus actinosclerus	1768108	species	3264334	85	32	3.63008e-146
+Paucibacter sp. KCTC 42545	1768242	species	5169161	375	260	3.78601e-05
+Microbulbifer sp. CCB-MM1	1769779	species	3864326	44	25	0.0
+Arthrobacter sp. ATCC 21022	1771959	species	4434904	25	10	3.08282e-136
+Polaribacter vadi	1774273	species	3809314	67	51	0.0
+Bacillus sp. SDLI1	1774743	species	4134042	9	6	0.0
+Rhodanobacteraceae	1775411	family	0	25	0	0.0
+Pseudomonas phage YMC11/07/P54_PAE_BP	1777064	species	50183	1	0	0.0
+Alteromonas sp. Mac1	1777491	species	4696291	15	0	0.0
+Candidatus Paracaedibacteraceae	1777752	family	0	1	0	0.0
+Candidatus Doolittlea endobia	1778262	species	846562	1	0	0.0
+Candidatus Hoaglandella endobia	1778263	species	636713	1	0	0.0
+Candidatus Mikella endobia	1778264	species	352837	6	2	0.0
+Myotis gammaherpesvirus 8	1780507	species	129563	1	1	0.0
+Streptomyces sp. S10(2016)	1783515	species	9083372	100	52	0.0
+Pseudomonas sp. MS586	1785145	species	6247726	114	39	0.0
+Gemella sp. oral taxon 928	1785995	species	1769679	17	13	0.0
+Leptotrichia sp. oral taxon 847	1785996	species	2194935	8	5	0.0
+Pseudomonas sp. L10.10	1788301	species	5149788	80	48	1.38367e-05
+Acinetobacter sp. BRTC-1	1789224	species	3741098	33	25	0.0
+Wenyingzhuangia fucanilytica	1790137	species	3427057	50	37	0.0
+Bosea sp. PAMC 26642	1792307	species	5510355	211	134	8.84391e-85
+Yangia sp. CCB-MM3	1792508	species	5522061	124	83	0.0
+Stenotrophomonas sp. KCTC 12332	1793721	species	4541594	258	42	0.0
+Burkholderia sp. PAMC 26561	1795043	species	7431919	116	27	0.0
+Microbacterium sp. PAMC 28756	1795053	species	3539061	198	136	9.19874e-05
+Frondihabitans sp. PAMC 28766	1795630	species	4766863	121	73	0.0
+Variovorax sp. PAMC 28711	1795631	species	4316152	351	167	6.96719e-27
+Burkholderia sp. PAMC 28687	1795874	species	6881273	121	32	0.0
+Bacteroides sp. I48	1796613	species	4839918	35	20	2.60627e-05
+Blautia sp. YL58	1796616	species	5128792	13	11	0.0
+Arthrobacter phage BarretLemon	1796994	species	51290	2	2	0.0
+Haematospirillum	1804663	genus	0	2	0	0.0
+Burkholderia sp. OLGA172	1804984	species	8574890	184	85	0.0
+Mycobacterium phage Bipper	1805457	species	77832	2	2	0.0
+Sphingorhabdus sp. M41	1806885	species	3339521	101	76	0.0
+Arthrobacter sp. ZXY-2	1806905	species	5058708	53	33	1.32231e-05
+Gammaproteobacteria bacterium TR3.2	1810504	species	3243537	155	100	0.0
+Streptococcus pantholopis	1811193	species	2241302	8	3	0.0
+Enterobacter cloacae complex 'Hoffmann cluster III'	1812934	species	4899947	49	2	2.68833e-05
+Enterobacter cloacae complex 'Hoffmann cluster IV'	1812935	species	4899997	43	10	1.56791e-05
+Geobacillus sp. JS12	1813182	species	3721489	10	1	0.0
+Shigella sp. PAMC 28760	1813821	species	4558287	1507	27	0.00436275
+Streptococcus halotolerans	1814128	species	2182100	4	2	0.0
+Pseudomonas phage phiMK	1815957	species	93129	1	0	0.0
+Colwellia sp. PAMC 20917	1816218	species	4683314	9	8	0.0
+Cronartium ribicola mitovirus 2	1816485	species	2471	1	1	0.0
+Gordonia phage Kita	1821556	species	50346	2	0	0.0
+Gordonia phage Lucky10	1821557	species	42979	3	3	0.0
+Gordonia phage Nymphadora	1821558	species	53431	2	0	0.0
+Gordonia phage Phinally	1821560	species	59265	7	6	0.0
+Gordonia phage Schwabeltier	1821561	species	46895	1	1	0.0
+Marinobacterium sp. ST58-10	1821621	species	5191608	52	39	0.0
+Edwardsiella anguillarum	1821960	species	4329652	42	15	0.0
+Paraburkholderia	1822464	genus	0	26	0	0.0
+Desulfuromonas sp. DDH964	1823759	species	3924652	48	37	0.0
+Streptococcus marmotae	1825069	species	2322791	4	2	0.0
+Bacillus sp. IHB B 7164	1827146	species	5036631	15	0	0.0
+Brevundimonas sp. GW460-12-10-14-LB2	1827469	species	3263775	160	113	2.04952e-05
+Enterobacter sp. ODB01	1827481	species	4534036	17	3	0.0
+Lachnoclostridium sp. YL32	1834196	species	7225343	13	12	0.0
+Ruminiclostridium sp. KB18	1834198	species	3802817	16	15	0.0
+Parabacteroides sp. YL27	1834200	species	3306456	7	4	0.0
+Burkholderiales bacterium YL45	1834205	species	2923068	15	12	0.0
+Erysipelotrichaceae bacterium I46	1834207	species	4468295	6	4	0.0
+Polynucleobacter duraquae	1835254	species	2026292	795	671	3.68093e-05
+Bacillus sp. FJAT-14266	1837130	species	4109356	8	3	8.03047e-203
+Bacillus phage SalinJah	1837830	species	161140	1	0	0.0
+Gordonia phage McGonagall	1838072	species	17119	1	1	0.0
+Gordonia phage Wizard	1838083	species	58308	1	1	0.0
+Opitutaceae bacterium IG16b	1838286	species	4199284	204	188	2.3894e-05
+Streptomyces sp. RTd22	1841249	species	11142275	124	84	0.0
+Acidovorax sp. RAC01	1842533	species	4574859	629	368	5.66381e-05
+Sinorhizobium sp. RAC02	1842534	species	6626583	138	84	0.0
+Blastomonas sp. RAC04	1842535	species	4403499	309	219	3.79765e-05
+Agrobacterium sp. RAC06	1842536	species	4964647	85	53	0.0
+Hydrogenophaga sp. RAC07	1842537	species	4674684	500	322	2.16501e-05
+Bosea sp. RAC05	1842539	species	5620120	272	173	1.95661e-05
+Methyloversatilis sp. RAC08	1842540	species	3937190	286	208	8.52927e-06
+Sphingobium sp. RAC03	1843368	species	4369746	532	306	0.000232598
+Veillonellales	1843489	order	0	1	0	0.0
+Selenomonadaceae	1843491	family	0	1	0	0.0
+Pseudomonas phage NP1	1844477	species	58566	2	2	0.0
+Exiguobacterium sp. U13-1	1849031	species	3208634	48	39	3.90547e-05
+Arthrobacter sp. U41	1849032	species	4792631	64	34	0
+Oblitimonas	1849530	genus	0	1	0	0.0
+Streptomyces sp. SAT1	1849967	species	7472530	109	67	4.47585e-06
+Lutibacter sp. LPB0138	1850246	species	3426122	47	30	0.0
+Rhodobacter sp. LPB0142	1850250	species	3780829	179	118	8.84619e-06
+Arachidicoccus sp. BS20	1850526	species	3492500	57	40	0.0
+Erwinia phage vB_EamP_Frozen	1852641	species	75147	1	1	0.0
+Pseudomonas sp. A3(2016)	1853130	species	6823539	91	49	1.11973e-101
+Chitinophagia	1853228	class	0	1	0	0.0
+Hymenobacteraceae	1853232	family	0	7	0	0.0
+haloarchaeon HTSR1	1855411	species	1972283	7	6	0.0
+Sphingobium sp. EP60837	1855519	species	4261696	363	229	0.000328326
+Golden shiner totivirus	1856030	species	7788	1	1	0.0
+Pseudomonas sp. TCU-HL1	1856685	species	6256697	82	31	0.0
+Halothiobacillus sp. LS2	1860122	species	2908964	38	23	0.0
+Shigella phage SHBML-50-1	1863007	species	166634	1	0	0.0
+Shigella phage SHSML-45	1863010	species	108050	1	0	0.0
+Enterobacter phage Arya	1864622	species	41918	1	1	0.0
+Enterobacter sp. HK169	1868135	species	4551186	48	13	0
+Prosthecochloris sp. CIB 2401	1868325	species	2399849	21	13	0.0
+Rhizobium sp. S41	1869170	species	5524367	145	50	1.43697e-05
+Clostridioides	1870884	genus	0	1	0	0.0
+Enterobacter cloacae complex sp. 35734	1870930	species	5276896	40	7	3.80026e-129
+Streptomyces phage Nanodon	1873777	species	50082	1	0	0.0
+Mycobacterium phage Papez	1873891	species	52501	2	0	0.0
+Pseudomonas phage Andromeda	1873949	species	40008	1	1	0.0
+Marinobacter sp. Hb8	1874317	species	4121005	28	20	0.0
+Mycobacterium sp. djl-10	1879023	species	6579322	192	123	0.0
+Erwinia phage vB_EamM_Huxley	1883373	species	240761	1	1	0.0
+Erwinia phage vB_EamM_Kwan	1883374	species	246390	1	1	0.0
+Selenomonas sp. oral taxon 920	1884263	species	2440121	7	3	0.0
+Brucella sp. 141012304	1885919	species	3442381	35	9	0.0
+Gordonia phage Hedwig	1887648	species	44536	1	1	0.0
+Gordonia phage Nyceirae	1887651	species	41857	2	2	0.0
+Gordonia phage Zirinka	1887656	species	52077	2	1	0.0
+Streptococcus himalayensis	1888195	species	2275471	7	5	0.0
+Anaerolineaceae bacterium oral taxon 439	1889813	species	2945494	5	4	0.0
+Synechococcales	1890424	order	0	4	0	0.0
+Synechococcaceae	1890426	family	0	1	0	0.0
+Brucella sp. 2002734562	1891098	species	3283485	8	0	0.0
+Sulfolobus sp. A20	1891280	species	2688317	3	3	0.0
+Mycobacterium phage Tonenili	1891703	species	160985	2	1	0.0
+Bacillus sp. ABP14	1892404	species	5152566	13	1	0
+Porphyrobacter sp. LM 6	1896196	species	2979257	220	119	0.0
+Spiroplasma sp. TU-14	1898044	species	1199640	1	0	0.0
+Erwiniaceae	1903409	family	0	9	0	0.0
+Yersiniaceae	1903411	family	0	3	0	0.0
+Hafniaceae	1903412	family	0	2	0	0.0
+Stenotrophomonas sp. LM091	1904944	species	4317450	258	132	5.44897e-05
+Klebsiella sp. LTGPAF-6F	1905288	species	6790399	37	4	7.26271e-53
+Pectobacterium parmentieri	1905730	species	5047366	12	0	0.0
+Curtobacterium sp. BH-2-1-1	1905847	species	3795948	133	84	0
+Hyphomonas sp. Mor2	1906738	species	3628091	29	20	0.0
+Jeongeupia sp. USM3	1906741	species	3788814	229	143	0
+Microbacterium sp. BH3-3-3	1906742	species	3508491	179	122	0.0
+Actinomyces sp. VUL4_3	1912795	species	2207832	10	9	0.0
+Enterobacter virus PG7	1913655	species	173276	1	0	0.0

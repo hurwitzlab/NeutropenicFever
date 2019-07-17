@@ -1,0 +1,50 @@
+name,Expected,Centrifuge,CLARK,KrakenUniq
+Rhodobacter sphaeroides,31.28,24.17,32.2327,26.18977798
+Staphylococcus epidermidis,21.65,20.82,19.3189,15.82472042
+Streptococcus mutans,21.44,24.69,18.6429,14.5168015
+Escherichia coli,15.59,12.15,11.8936,5.615212804
+Pseudomonas aeruginosa,2.7,4.85,7.11041,1.71585031
+Staphylococcus aureus,2.24,2.39,2.80751,2.238927836
+Streptococcus agalactiae,1.54,2.92,1.65667,0.030034521
+Bacillus cereus,0.88,1.5,1.69801,1.216108156
+Clostridium beijerinckii,0.78,1.18,2.14762,1.228209845
+Helicobacter pylori,0.55,0.93,0.50591,0.415905539
+Propionibacterium acnes,0.36,0.98,0.499705,0.401840926
+Neisseria meningitidis,0.27,0.58,0.26767,0.22080181
+Acinetobacter baumannii,0.22,0.39,0.35539,0.170309671
+Listeria monocytogenes,0.18,0.3,0.253808,0.206809232
+Lactobacillus gasseri,0.18,0.38,0.17328,0.13163829
+Actinomyces odontolyticus,0.05,0.07,0.0275297,
+Deinococcus radiodurans,0.03,0.02,0.0361821,0.029209733
+Enterococcus faecalis,0.03,0.05,0.0409036,0.033445324
+Streptococcus pneumoniae,0.03,0.03,0.0210803,0.017749145
+Bacteroides vulgatus,0.02,0.05,0.0549172,0.046789598
+Staphylococcus phage 23MRA,,1.03,,
+Pseudomonas phage D3112,,0.39,,
+Pseudomonas phage MP48,,0.01,,
+Lactobacillus phage phi jlb1,,0.01,,
+Xanthomonas phage Cf1c,,0.01,,
+Corynebacterium pseudotuberculosis,,,0.0666433,
+Staphylococcus caprae,,,0.0290709,
+Staphylococcus hominis,,,0.0158702,
+Shigella flexneri,,,0.0117172,0.03379829
+Shigella dysenteriae,,,0.0101537,0.084456107
+Staphylococcus lugdunensis,,,,0.060821795
+Shigella boydii,,,,0.056445738
+Escherichia albertii,,,,0.035782823
+Salmonella enterica,,,,0.024646388
+Streptococcus troglodytae,,,,0.021916304
+Staphylococcus simulans,,,,0.014986646
+Klebsiella pneumoniae,,,,0.010859105
+Shigella sp. PAMC 28760,,,,
+Shigella boydii,,,,
+Shigella flexneri,,,,
+Shigella dysenteriae,,,,
+Shigella sonnei,,,,
+Pseudomonas phage JBD69,,,,
+Lactobacillus phage phi jlb1,,,,
+Xanthomonas phage Cf1c,,,,
+Pseudomonas phage Pf1,,,,
+Staphylococcus phage 23MRA,,,,
+Pseudomonas phage D3112,,,,
+Staphylococcus phage SMSAP5,,,,

@@ -1,0 +1,22 @@
+name,Expected value (%),No QC  (%),QC  (%)
+Rhodobacter sphaeroides,31.28,25.86,24.17
+Staphylococcus epidermidis,21.65,20.13,20.82
+Streptococcus mutans,21.44,26.81,24.69
+Escherichia coli,15.59,13.99,12.15
+Pseudomonas aeruginosa,2.7,3.61,4.85
+Staphylococcus aureus,2.24,1.47,2.39
+Streptococcus agalactiae,1.54,1.75,2.92
+Bacillus cereus,0.88,0.85,1.5
+Clostridium beijerinckii,0.78,0.65,1.18
+Helicobacter pylori,0.55,0.55,0.93
+Propionibacterium acnes,0.36,0.69,0.98
+Neisseria meningitidis,0.27,0.37,0.58
+Acinetobacter baumannii,0.22,0.24,0.39
+Listeria monocytogenes,0.18,0.17,0.3
+Lactobacillus gasseri,0.18,0.23,0.38
+Actinomyces odontolyticus,0.05,0.05,0.07
+Deinococcus radiodurans,0.03,0.02,0.02
+Enterococcus faecalis,0.03,0.03,0.05
+Streptococcus pneumoniae,0.03,0.02,0.03
+Bacteroides vulgatus,0.02,0.03,0.05
+Bacillus thuringiensis,,0.03,
