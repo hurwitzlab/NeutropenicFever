@@ -1,0 +1,15 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Myxococcus xanthus	34	species	9139763	3	3	0.0
+Pediococcus pentosaceus	1255	species	1817384	1	1	0.0
+Lactococcus lactis	1358	species	2704731	13	12	0.0
+Lactococcus piscium	1364	species	2503066	1	1	0.0
+Lactobacillus	1578	genus	0	1	0	0.0
+Lactobacillus brevis	1580	species	2493592	2	2	0.0
+Lactobacillus casei	1582	species	3039836	4	0	0.0
+Lactobacillus paracasei	1597	species	4200086	4	0	0.0
+Acidothermus cellulolyticus	28049	species	2443540	16	16	0.0
+Shewanella amazonensis	60478	species	4306142	3	3	0.0
+Cupriavidus necator	106590	species	7948767	1	1	0.0
+Methylobacterium nodulans	114616	species	8839022	17	17	0.0
+Leuconostoc kimchii	136609	species	2101787	1	0	0.0
+Oscillatoria nigro-viridis	482564	species	8272254	2	2	0.0

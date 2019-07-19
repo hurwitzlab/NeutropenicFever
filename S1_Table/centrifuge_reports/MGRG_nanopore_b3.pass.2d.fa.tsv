@@ -1,0 +1,4 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Halobacillus halophilus	1570	species	4170008	1	1	0.0
+Pseudoalteromonas issachenkonii	152297	species	4131541	1	0	0.0
+Pseudoalteromonas sp. SM9913	234831	species	4037671	2	1	0.0

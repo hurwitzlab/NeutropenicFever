@@ -1,0 +1,20 @@
+# KrakenUniq v0.5.8 DATE:2019-06-26T00:03:37Z DB:/rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db DB_SIZE:270122153680 WD:/home/u20/kyclark
+# CL:perl /rsgrps/bhurwitz/hurwitzlab/tools/krakenuniq/bin/krakenuniq --fasta-input --threads 24 --db /rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db --report-file /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/MGRG_nanopore_b3.pass.2d.fa.report --output /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/MGRG_nanopore_b3.pass.2d.fa.out /rsgrps/bhurwitz/hurwitzlab/data/kyclark/jet2/krakenuniq_data/MGRG_nanopore_b3.pass.2d.fa
+
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	3	0	737	1	3.274e-08	1	no rank	root
+100	3	0	737	1	3.308e-08	131567	no rank	  cellular organisms
+100	3	0	737	1	3.836e-08	2	superkingdom	    Bacteria
+66.67	2	0	691	1	7.023e-08	1224	phylum	      Proteobacteria
+66.67	2	0	690	1	1.455e-07	1236	class	        Gammaproteobacteria
+66.67	2	0	647	1	1.274e-06	135622	order	          Alteromonadales
+66.67	2	0	633	1	5.62e-06	267888	family	            Pseudoalteromonadaceae
+66.67	2	1	633	1	5.62e-06	53246	genus	              Pseudoalteromonas
+33.33	1	1	39	1	1.248e-05	1390185	species	                Pseudoalteromonas sp. DL-6
+33.33	1	0	2	1	2.777e-10	1783272	no rank	      Terrabacteria group
+33.33	1	0	2	1	7.149e-10	1239	phylum	        Firmicutes
+33.33	1	0	2	1	1.01e-09	91061	class	          Bacilli
+33.33	1	0	2	1	1.456e-09	1385	order	            Bacillales
+33.33	1	0	2	1	3.047e-09	186817	family	              Bacillaceae
+33.33	1	0	2	1	1.63e-07	45667	genus	                Halobacillus
+33.33	1	1	2	1	4.996e-07	1570	species	                  Halobacillus halophilus

@@ -1,0 +1,78 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Myxococcus fulvus	33	species	10026214	1	1	0.0
+Stigmatella aurantiaca	41	species	10260756	1	1	0.0
+Pseudomonas fluorescens	294	species	14826544	15	8	0.0
+Enterobacteriaceae	543	family	0	1	0	0.0
+Escherichia coli	562	species	12319210	40	9	0.0
+Serratia	613	genus	0	1	0	0.0
+Shigella	620	genus	0	1	0	0.0
+Shigella boydii	621	species	4698475	5	0	0.0
+Shigella dysenteriae	622	species	4560911	3	0	0.0
+Shigella flexneri	623	species	4763519	5	1	0.0
+Shigella sonnei	624	species	6798914	4	0	0.0
+Edwardsiella	635	genus	0	1	0	0.0
+Aeromonas schubertii	652	species	4400034	1	1	0.0
+Vibrio fluvialis	676	species	4827724	1	1	0.0
+Herbaspirillum seropedicae	964	species	8221139	1	1	0.0
+Halorhodospira halophila	1053	species	2678452	1	1	0.0
+Rhodobacter sphaeroides	1063	species	5768316	1	1	0.0
+Nitrosococcus oceani	1229	species	3522111	1	1	0.0
+Micrococcus luteus	1270	species	2501097	24	23	0.0
+Staphylococcus epidermidis	1282	species	3296362	1	1	0.0
+Deinococcus radiodurans	1299	species	6628921	1	0	0.0
+Enterococcus faecium	1352	species	5898717	1	1	0.0
+Halobacillus halophilus	1570	species	4170008	12	12	0.0
+Leifsonia xyli	1575	species	2955779	1	1	0.0
+Streptomyces scabiei	1930	species	10148695	2	2	0.0
+Streptomyces noursei	1971	species	9815884	1	0	0.0
+Haloferax mediterranei	2252	species	3904707	1	1	0.0
+Homo sapiens	9606	species	3238442024	4	3	0.0
+Escherichia virus Lambda	10710	species	48502	8	0	0.0
+Rubrivivax gelatinosus	28068	species	5043253	1	1	0.0
+Salmonella enterica	28901	species	6689149	1	0	0.0
+Mycobacterium haemophilum	29311	species	4235765	1	1	0.0
+Pseudomonas savastanoi	29438	species	6112448	1	1	0.0
+synthetic construct	32630	species	26537524	28	1	0.0
+Erythrobacter litoralis	39960	species	3151875	1	1	0.0
+Stenotrophomonas maltophilia	40324	species	6512435	1	1	0.0
+Streptomyces lydicus	47763	species	8750753	1	1	0.0
+Pseudomonas azotoformans	47878	species	6859618	1	0	0.0
+Pseudomonas corrugata	47879	species	6124363	1	0	0.0
+Pantoea	53335	genus	0	1	0	0.0
+Raoultella ornithinolytica	54291	species	13911666	1	1	0.0
+Streptomyces venezuelae	54571	species	18089227	2	1	0.0
+Kocuria rhizophila	72000	species	2697540	1	1	0.0
+Aminobacterium colombiense	81468	species	1980592	1	1	0.0
+Beutenbergia cavernae	84757	species	4669183	1	1	0.0
+Pandoraea apista	93218	species	16769721	1	1	0.0
+Cupriavidus necator	106590	species	7948767	1	1	0.0
+Streptomyces parvulus	146923	species	7766531	1	0	0.0
+Collimonas fungivorans	158899	species	5393313	1	1	0.0
+Lambdavirus	186765	genus	0	18	0	0.0
+Pseudomonas trivialis	200450	species	6452803	2	0	0.0
+Escherichia albertii	208962	species	4679521	2	0	0.0
+Pseudomonas antarctica	219572	species	6607040	15	9	0.0
+Pseudonocardia dioxanivorans	240495	species	7303989	1	1	0.0
+Microbulbifer thermotolerans	252514	species	3938396	1	1	0.0
+Rhodopirellula baltica	265606	species	7145576	1	1	0.0
+Stackebrandtia nassauensis	283811	species	6841557	1	0	0.0
+Frankia sp. EAN1pec	298653	species	8982042	2	2	0.0
+Actinoalloteichus hymeniacidonis	340345	species	6306386	1	1	0.0
+Roseiflexus sp. RS-1	357808	species	5801598	1	1	0.0
+Pseudomonas chlororaphis	587753	species	16842584	1	1	0.0
+Pseudomonas brassicacearum	930166	species	13594158	1	1	0.0
+Verrucosispora maris	1003110	species	6732271	1	1	0.0
+Enterobacteria phage HK630	1147146	species	47090	8	0	0.0
+Enterobacteria phage HK629	1147148	species	47288	6	0	0.0
+Streptomyces pratensis	1169025	species	7656104	2	2	0.0
+Mycobacterium yongonense	1203599	species	5662088	1	0	0.0
+Pseudomonas sp. TKP	1415630	species	7012672	3	1	0.0
+Pseudomonas sp. MRSN12121	1611770	species	6986763	1	0	0.0
+Rhodococcus sp. PBTS 1	1653478	species	4251687	1	1	0.0
+Rhodococcus sp. PBTS 2	1653479	species	5316948	1	1	0.0
+Massilia sp. WG5	1707785	species	6267305	1	1	0.0
+Streptomyces sp. 4F	1751294	species	8047771	1	1	0.0
+Pseudomonas sp. MS586	1785145	species	6247726	1	0	0.0
+Microbacterium sp. PAMC 28756	1795053	species	3539061	1	1	0.0
+Shigella sp. PAMC 28760	1813821	species	4558287	31	1	0.0
+Halothiobacillus sp. LS2	1860122	species	2908964	1	1	0.0

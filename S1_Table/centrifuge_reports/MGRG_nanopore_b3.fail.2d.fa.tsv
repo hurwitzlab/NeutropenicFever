@@ -1,0 +1,13 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Escherichia coli	562	species	12319210	7	5	0.0
+Micrococcus luteus	1270	species	2501097	3	3	0.0
+Staphylococcus epidermidis	1282	species	3296362	3	3	0.0
+Halobacillus halophilus	1570	species	4170008	2	2	0.0
+Escherichia virus Lambda	10710	species	48502	1	0	0.0
+synthetic construct	32630	species	26537524	2	0	0.0
+Pseudomonas antarctica	219572	species	6607040	2	2	0.0
+Thauera humireducens	1134435	species	4171754	1	0	0.0
+Enterobacteria phage HK630	1147146	species	47090	1	0	0.0
+Pseudomonas sp. JY-Q	1338689	species	6178825	1	0	0.0
+Variovorax sp. PAMC 28711	1795631	species	4316152	1	0	0.0
+Shigella sp. PAMC 28760	1813821	species	4558287	1	0	0.0

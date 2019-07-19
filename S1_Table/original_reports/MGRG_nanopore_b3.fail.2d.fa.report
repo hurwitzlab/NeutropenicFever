@@ -1,0 +1,35 @@
+# KrakenUniq v0.5.8 DATE:2019-06-25T23:49:15Z DB:/rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db DB_SIZE:270122153680 WD:/home/u20/kyclark
+# CL:perl /rsgrps/bhurwitz/hurwitzlab/tools/krakenuniq/bin/krakenuniq --fasta-input --threads 24 --db /rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db --report-file /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/MGRG_nanopore_b3.fail.2d.fa.report --output /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/MGRG_nanopore_b3.fail.2d.fa.out /rsgrps/bhurwitz/hurwitzlab/data/kyclark/jet2/krakenuniq_data/MGRG_nanopore_b3.fail.2d.fa
+
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+60	27	27	61312	1	NA	0	no rank	unclassified
+40	18	2	1281	1.02	5.691e-08	1	no rank	root
+35.56	16	0	721	1.01	3.236e-08	131567	no rank	  cellular organisms
+35.56	16	0	721	1.01	3.753e-08	2	superkingdom	    Bacteria
+17.78	8	0	605	1	8.402e-08	1783272	no rank	      Terrabacteria group
+11.11	5	0	217	1	7.757e-08	1239	phylum	        Firmicutes
+11.11	5	0	217	1	1.096e-07	91061	class	          Bacilli
+11.11	5	0	217	1	1.58e-07	1385	order	            Bacillales
+6.667	3	0	178	1	1.32e-06	90964	family	              Staphylococcaceae
+6.667	3	1	178	1	1.47e-06	1279	genus	                Staphylococcus
+4.444	2	2	167	1	2.807e-05	1282	species	                  Staphylococcus epidermidis
+4.444	2	0	39	1	5.941e-08	186817	family	              Bacillaceae
+4.444	2	0	39	1	3.178e-06	45667	genus	                Halobacillus
+4.444	2	2	39	1	9.742e-06	1570	species	                  Halobacillus halophilus
+6.667	3	0	388	1	1.124e-07	201174	phylum	        Actinobacteria
+6.667	3	0	388	1	1.155e-07	1760	class	          Actinobacteria
+6.667	3	0	385	1	6.511e-07	85006	order	            Micrococcales
+6.667	3	0	380	1	2.256e-06	1268	family	              Micrococcaceae
+6.667	3	0	380	1	7.561e-05	1269	genus	                Micrococcus
+6.667	3	3	380	1	7.928e-05	1270	species	                  Micrococcus luteus
+17.78	8	1	114	1.04	1.159e-08	1224	phylum	      Proteobacteria
+15.56	7	0	111	1.05	2.341e-08	1236	class	        Gammaproteobacteria
+11.11	5	0	72	1.07	5.517e-08	91347	order	          Enterobacterales
+11.11	5	0	72	1.07	1.115e-07	543	family	            Enterobacteriaceae
+11.11	5	0	43	1.12	6.225e-07	561	genus	              Escherichia
+11.11	5	5	43	1.12	8.237e-07	562	species	                Escherichia coli
+4.444	2	0	38	1	2.793e-08	72274	order	          Pseudomonadales
+4.444	2	0	38	1	3.349e-08	135621	family	            Pseudomonadaceae
+4.444	2	0	38	1	3.411e-08	286	genus	              Pseudomonas
+4.444	2	0	16	1	7.842e-08	136843	species group	                Pseudomonas fluorescens group
+4.444	2	2	16	1	1.944e-07	294	species	                  Pseudomonas fluorescens

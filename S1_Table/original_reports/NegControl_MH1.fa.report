@@ -1,0 +1,5 @@
+# KrakenUniq v0.5.8 DATE:2019-06-25T23:49:30Z DB:/rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db DB_SIZE:270122153680 WD:/home/u20/kyclark
+# CL:perl /rsgrps/bhurwitz/hurwitzlab/tools/krakenuniq/bin/krakenuniq --fasta-input --threads 24 --db /rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db --report-file /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/NegControl_MH1.fa.report --output /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/NegControl_MH1.fa.out /rsgrps/bhurwitz/hurwitzlab/data/kyclark/jet2/krakenuniq_data/NegControl_MH1.fa
+
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	1000000	1000000	70000000	1	NA	0	no rank	unclassified

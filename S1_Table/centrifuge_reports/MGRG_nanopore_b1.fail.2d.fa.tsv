@@ -1,0 +1,49 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Pseudomonas	286	genus	0	2	1	0.0
+Pseudomonas aeruginosa	287	species	22457305	1	0	0.0
+Pseudomonas fluorescens	294	species	14826544	18	7	0.0
+Pseudomonas syringae	317	species	6129101	1	0	0.0
+Azotobacter chroococcum	353	species	5192286	1	0	0.0
+Escherichia coli	562	species	12319210	26	10	0.0
+Shigella boydii	621	species	4698475	5	2	0.0
+Shigella dysenteriae	622	species	4560911	1	0	0.0
+Shigella flexneri	623	species	4763519	3	1	0.0
+Shigella sonnei	624	species	6798914	3	0	0.0
+Micrococcus luteus	1270	species	2501097	24	24	0.0
+Staphylococcus epidermidis	1282	species	3296362	4	4	0.0
+Halobacillus halophilus	1570	species	4170008	16	16	0.0
+Pseudopropionibacterium propionicum	1750	species	3449360	1	1	0.0
+Homo sapiens	9606	species	3238442024	1	1	0.0
+Escherichia virus Lambda	10710	species	48502	13	0	0.0
+synthetic construct	32630	species	26537524	27	0	0.0
+Pseudomonas azotoformans	47878	species	6859618	3	0	0.0
+Pseudomonas resinovorans	53412	species	6484828	1	1	0.0
+Salmonella bongori	54736	species	4542714	1	0	0.0
+Pseudomonas sp. VLB120	69328	species	5966222	1	1	0.0
+Pseudomonas mosselii	78327	species	6247860	1	0	0.0
+Pseudoalteromonas issachenkonii	152297	species	4131541	9	6	0.0
+Cedecea neteri	158822	species	23867322	1	1	0.0
+Lambdavirus	186765	genus	0	3	0	0.0
+Pseudomonas koreensis	198620	species	12292986	1	0	0.0
+Pseudomonas trivialis	200450	species	6452803	3	1	0.0
+Pseudomonas poae	200451	species	5512241	2	1	0.0
+Pseudomonas antarctica	219572	species	6607040	27	22	0.0
+Pseudoalteromonas sp. SM9913	234831	species	4037671	4	1	0.0
+Paraburkholderia phytofirmans	261302	species	8214658	1	0	0.0
+Pseudoalteromonas sp. Bsw20308	283699	species	4830226	1	1	0.0
+Isoptericola dokdonensis	372663	species	3826972	1	1	0.0
+Agromyces sp. AR33	453304	species	4373124	1	1	0.0
+Rhodanobacter denitrificans	666685	species	4225490	1	1	0.0
+Altererythrobacter dongtanensis	692370	species	3009495	1	0	0.0
+Enterobacteria phage HK630	1147146	species	47090	10	0	0.0
+Enterobacteria phage HK629	1147148	species	47288	8	0	0.0
+Pseudomonas sp. UW4	1207075	species	6183388	1	0	0.0
+Calothrix sp. 336/3	1337936	species	6420126	1	1	0.0
+Pseudomonas sp. TKP	1415630	species	7012672	2	0	0.0
+Pseudomonas sp. DR 5-09	1534110	species	6427864	2	2	0.0
+Pseudomonas sp. GR 6-02	1659194	species	6500345	1	0	0.0
+Burkholderia sp. HB1	1678678	species	7206167	1	0	0.0
+Burkholderia sp. OLGA172	1804984	species	8574890	1	0	0.0
+Shigella sp. PAMC 28760	1813821	species	4558287	19	0	0.0
+Pseudomonas sp. A3(2016)	1853130	species	6823539	1	1	0.0
+Jeongeupia sp. USM3	1906741	species	3788814	1	0	0.0

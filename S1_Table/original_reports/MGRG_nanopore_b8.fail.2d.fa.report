@@ -1,0 +1,108 @@
+# KrakenUniq v0.5.8 DATE:2019-06-26T00:28:37Z DB:/rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db DB_SIZE:270122153680 WD:/home/u20/kyclark
+# CL:perl /rsgrps/bhurwitz/hurwitzlab/tools/krakenuniq/bin/krakenuniq --fasta-input --threads 24 --db /rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db --report-file /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/MGRG_nanopore_b8.fail.2d.fa.report --output /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/MGRG_nanopore_b8.fail.2d.fa.out /rsgrps/bhurwitz/hurwitzlab/data/kyclark/jet2/krakenuniq_data/MGRG_nanopore_b8.fail.2d.fa
+
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+71.4	1690	1690	6339104	1.01	NA	0	no rank	unclassified
+28.6	677	36	19307	1.1	8.577e-07	1	no rank	root
+26.87	636	0	17488	1.01	7.849e-07	131567	no rank	  cellular organisms
+26.78	634	1	17468	1	9.093e-07	2	superkingdom	    Bacteria
+17.24	408	0	13801	1.01	1.917e-06	1783272	no rank	      Terrabacteria group
+15.38	364	0	12443	1.01	3.605e-06	201174	phylum	        Actinobacteria
+15.38	364	7	12409	1.01	3.693e-06	1760	class	          Actinobacteria
+15	355	2	11452	1.03	1.937e-05	85006	order	            Micrococcales
+14.91	353	0	10954	1.03	6.505e-05	1268	family	              Micrococcaceae
+14.87	352	2	10678	1.03	0.002125	1269	genus	                Micrococcus
+14.79	350	348	10531	1.03	0.002197	1270	species	                  Micrococcus luteus
+0.0845	2	2	13	1	0.003086	465515	no rank	                    Micrococcus luteus NCTC 2665
+0.04225	1	0	3	1	2.772e-07	1742989	genus	                Glutamicibacter
+0.04225	1	0	3	1	8.617e-07	256701	species	                  Glutamicibacter arilaitensis
+0.04225	1	1	3	1	8.617e-07	861360	no rank	                    Glutamicibacter arilaitensis Re117
+0.04225	1	0	9	1	1.084e-08	85007	order	            Corynebacteriales
+0.04225	1	0	4	1	1.628e-08	85025	family	              Nocardiaceae
+0.04225	1	0	4	1	4.378e-08	1817	genus	                Nocardia
+0.04225	1	0	4	1	2.676e-07	37326	species	                  Nocardia brasiliensis
+0.04225	1	1	2	1	3.043e-07	1133849	no rank	                    Nocardia brasiliensis ATCC 700358
+0.04225	1	0	4	1	1.64e-08	85010	order	            Pseudonocardiales
+0.04225	1	0	4	1	1.64e-08	2070	family	              Pseudonocardiaceae
+0.04225	1	0	2	1	2.881e-08	1813	genus	                Amycolatopsis
+0.04225	1	1	2	1	2.063e-07	33910	species	                  Amycolatopsis mediterranei
+1.859	44	0	1344	1	4.804e-07	1239	phylum	        Firmicutes
+1.859	44	0	1339	1	6.762e-07	91061	class	          Bacilli
+1.859	44	0	1339	1	9.751e-07	1385	order	            Bacillales
+1.732	41	0	1276	1	1.944e-06	186817	family	              Bacillaceae
+1.69	40	0	1269	1	0.0001034	45667	genus	                Halobacillus
+1.69	40	40	1261	1	0.000315	1570	species	                  Halobacillus halophilus
+0.04225	1	0	2	1	4.143e-09	1386	genus	                Bacillus
+0.04225	1	0	2	1	1.623e-08	86661	species group	                  Bacillus cereus group
+0.04225	1	0	2	1	7.268e-08	1428	species	                    Bacillus thuringiensis
+0.04225	1	0	2	1	9.119e-05	1001229	no rank	                      Bacillus thuringiensis serovar chinensis
+0.04225	1	1	2	1	9.119e-05	541229	no rank	                        Bacillus thuringiensis serovar chinensis CT-43
+0.1267	3	0	63	1	4.671e-07	90964	family	              Staphylococcaceae
+0.1267	3	0	63	1	5.202e-07	1279	genus	                Staphylococcus
+0.1267	3	3	63	1	1.059e-05	1282	species	                  Staphylococcus epidermidis
+9.506	225	0	3372	1.01	3.427e-07	1224	phylum	      Proteobacteria
+9.506	225	0	3330	1.02	7.024e-07	1236	class	        Gammaproteobacteria
+5.83	138	0	1962	1	1.442e-06	72274	order	          Pseudomonadales
+5.83	138	0	1962	1	1.729e-06	135621	family	            Pseudomonadaceae
+5.83	138	29	1950	1	1.75e-06	286	genus	              Pseudomonas
+4.436	105	4	1174	1	5.754e-06	136843	species group	                Pseudomonas fluorescens group
+4.183	99	99	1118	1	1.358e-05	294	species	                  Pseudomonas fluorescens
+0.0845	2	2	3	1	6.282e-07	29442	species	                  Pseudomonas tolaasii
+0.04225	1	1	9	1	2.027e-06	191390	species	                Pseudomonas palleroniana
+0.04225	1	1	8	1	7.635e-06	244566	species	                Pseudomonas lurida
+0.04225	1	1	1	1	6.237e-07	2169583	species	                Pseudomonas sp. SXM-1
+0.04225	1	1	1	1	2.319e-07	2126069	species	                Pseudomonas sp. LBUM920
+3.676	87	1	1328	1.04	1.018e-06	91347	order	          Enterobacterales
+3.591	85	31	1294	1.04	2.004e-06	543	family	            Enterobacteriaceae
+1.943	46	3	334	1.13	4.835e-06	561	genus	              Escherichia
+1.774	42	40	254	1.17	4.865e-06	562	species	                Escherichia coli
+0.04225	1	1	9	1	0.000392	1045010	no rank	                  Escherichia coli O157
+0.04225	1	1	5	1	2.008e-05	83334	no rank	                  Escherichia coli O157:H7
+0.04225	1	1	16	1	2.044e-06	208962	species	                Escherichia albertii
+0.2112	5	0	18	1	2.944e-07	590	genus	              Salmonella
+0.2112	5	3	18	1	3.564e-07	28901	species	                Salmonella enterica
+0.0845	2	1	2	1	1.038e-07	59201	subspecies	                  Salmonella enterica subsp. enterica
+0.04225	1	0	1	1	1.188e-05	82689	no rank	                    Salmonella enterica subsp. enterica serovar Muenster
+0.04225	1	1	1	1	3.295e-05	1124958	no rank	                      Salmonella enterica subsp. enterica serovar Muenster str. 0315
+0.1267	3	0	5	1.2	1.068e-06	620	genus	              Shigella
+0.04225	1	1	2	1.5	1.194e-06	622	species	                Shigella dysenteriae
+0.04225	1	1	1	1	1.018e-06	621	species	                Shigella boydii
+0.04225	1	1	1	1	4.04e-06	624	species	                Shigella sonnei
+0.04225	1	0	4	1	1.835e-08	1903411	family	            Yersiniaceae
+0.04225	1	0	4	1	3.372e-08	613	genus	              Serratia
+0.04225	1	1	3	1	2.317e-07	82996	species	                Serratia plymuthica
+0.0845	2	0	12	1	4.791e-09	2759	superkingdom	    Eukaryota
+0.0845	2	0	12	1	4.791e-09	33154	no rank	      Opisthokonta
+0.0845	2	0	12	1	4.791e-09	33208	kingdom	        Metazoa
+0.0845	2	0	12	1	4.791e-09	6072	no rank	          Eumetazoa
+0.0845	2	0	12	1	4.791e-09	33213	no rank	            Bilateria
+0.0845	2	0	12	1	4.791e-09	33511	no rank	              Deuterostomia
+0.0845	2	0	12	1	4.791e-09	7711	phylum	                Chordata
+0.0845	2	0	12	1	4.791e-09	89593	subphylum	                  Craniata
+0.0845	2	0	12	1	4.791e-09	7742	no rank	                    Vertebrata
+0.0845	2	0	12	1	4.791e-09	7776	no rank	                      Gnathostomata
+0.0845	2	0	12	1	4.791e-09	117570	no rank	                        Teleostomi
+0.0845	2	0	12	1	4.791e-09	117571	no rank	                          Euteleostomi
+0.0845	2	0	12	1	4.791e-09	8287	superclass	                            Sarcopterygii
+0.0845	2	0	12	1	4.791e-09	1338369	no rank	                              Dipnotetrapodomorpha
+0.0845	2	0	12	1	4.791e-09	32523	no rank	                                Tetrapoda
+0.0845	2	0	12	1	4.791e-09	32524	no rank	                                  Amniota
+0.0845	2	0	12	1	4.791e-09	40674	class	                                    Mammalia
+0.0845	2	0	12	1	4.791e-09	32525	no rank	                                      Theria
+0.0845	2	0	12	1	4.791e-09	9347	no rank	                                        Eutheria
+0.0845	2	0	12	1	4.791e-09	1437010	no rank	                                          Boreoeutheria
+0.0845	2	0	12	1	4.791e-09	314146	superorder	                                            Euarchontoglires
+0.0845	2	0	12	1	4.791e-09	9443	order	                                              Primates
+0.0845	2	0	12	1	4.791e-09	376913	suborder	                                                Haplorrhini
+0.0845	2	0	12	1	4.791e-09	314293	infraorder	                                                  Simiiformes
+0.0845	2	0	12	1	4.791e-09	9526	parvorder	                                                    Catarrhini
+0.0845	2	0	12	1	4.791e-09	314295	superfamily	                                                      Hominoidea
+0.0845	2	0	12	1	4.791e-09	9604	family	                                                        Hominidae
+0.0845	2	0	12	1	4.791e-09	207598	subfamily	                                                          Homininae
+0.0845	2	0	12	1	4.791e-09	9605	genus	                                                            Homo
+0.0845	2	2	12	1	4.791e-09	9606	species	                                                              Homo sapiens
+0.2112	5	0	17	1.76	7.668e-08	10239	superkingdom	  Viruses
+0.2112	5	0	17	1.76	1.626e-07	28883	order	    Caudovirales
+0.2112	5	0	17	1.76	4.574e-07	10699	family	      Siphoviridae
+0.2112	5	0	17	1.76	0.0003204	2169654	genus	        Hendrixvirus
+0.2112	5	5	17	1.76	0.004813	37554	species	          Escherichia virus HK97

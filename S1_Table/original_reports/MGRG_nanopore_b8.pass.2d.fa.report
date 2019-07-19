@@ -1,0 +1,53 @@
+# KrakenUniq v0.5.8 DATE:2019-06-26T00:30:07Z DB:/rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db DB_SIZE:270122153680 WD:/home/u20/kyclark
+# CL:perl /rsgrps/bhurwitz/hurwitzlab/tools/krakenuniq/bin/krakenuniq --fasta-input --threads 24 --db /rsgrps/bhurwitz/hurwitzlab/data/kyclark/kraken_db --report-file /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/MGRG_nanopore_b8.pass.2d.fa.report --output /rsgrps/bhurwitz/hurwitzlab/data/kyclark/krakenuniq-out/krakenuniq_data/MGRG_nanopore_b8.pass.2d.fa.out /rsgrps/bhurwitz/hurwitzlab/data/kyclark/jet2/krakenuniq_data/MGRG_nanopore_b8.pass.2d.fa
+
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+26.09	30	30	108258	1	NA	0	no rank	unclassified
+73.91	85	0	5393	1	2.396e-07	1	no rank	root
+73.04	84	0	5220	1	2.343e-07	131567	no rank	  cellular organisms
+73.04	84	0	5220	1	2.717e-07	2	superkingdom	    Bacteria
+54.78	63	0	2508	1	2.549e-07	1224	phylum	      Proteobacteria
+54.78	63	0	2495	1	5.262e-07	1236	class	        Gammaproteobacteria
+40	46	0	1332	1.01	9.789e-07	72274	order	          Pseudomonadales
+40	46	0	1332	1.01	1.174e-06	135621	family	            Pseudomonadaceae
+40	46	6	1330	1.01	1.194e-06	286	genus	              Pseudomonas
+34.78	40	2	954	1.01	4.676e-06	136843	species group	                Pseudomonas fluorescens group
+33.04	38	38	886	1.01	1.076e-05	294	species	                  Pseudomonas fluorescens
+14.78	17	0	1157	1	8.866e-07	91347	order	          Enterobacterales
+14.78	17	6	1092	1	1.691e-06	543	family	            Enterobacteriaceae
+6.087	7	2	103	1	1.491e-06	561	genus	              Escherichia
+4.348	5	4	88	1	1.686e-06	562	species	                Escherichia coli
+0.8696	1	0	1	1	3.675e-05	498388	no rank	                  Escherichia coli C
+0.8696	1	1	1	1	3.746e-05	481805	no rank	                    Escherichia coli ATCC 8739
+1.739	2	0	3	1	6.409e-07	620	genus	              Shigella
+0.8696	1	1	2	1	2.276e-06	623	species	                Shigella flexneri
+0.8696	1	1	1	1	1.018e-06	621	species	                Shigella boydii
+0.8696	1	0	2	1	2.601e-08	544	genus	              Citrobacter
+0.8696	1	1	2	1	5.757e-07	67824	species	                Citrobacter farmeri
+0.8696	1	0	1	1	1.635e-08	590	genus	              Salmonella
+0.8696	1	0	1	1	1.98e-08	28901	species	                Salmonella enterica
+0.8696	1	0	1	1	5.19e-08	59201	subspecies	                  Salmonella enterica subsp. enterica
+0.8696	1	0	1	1	1.188e-05	82689	no rank	                    Salmonella enterica subsp. enterica serovar Muenster
+0.8696	1	1	1	1	3.295e-05	1124958	no rank	                      Salmonella enterica subsp. enterica serovar Muenster str. 0315
+18.26	21	0	2666	1.01	3.702e-07	1783272	no rank	      Terrabacteria group
+17.39	20	0	2434	1	8.701e-07	1239	phylum	        Firmicutes
+17.39	20	0	2434	1	1.229e-06	91061	class	          Bacilli
+17.39	20	0	2434	1	1.772e-06	1385	order	            Bacillales
+16.52	19	0	2429	1	3.7e-06	186817	family	              Bacillaceae
+16.52	19	0	2429	1	0.000198	45667	genus	                Halobacillus
+16.52	19	18	2429	1	0.0006067	1570	species	                  Halobacillus halophilus
+0.8696	1	1	22	1	0.004743	866895	no rank	                    Halobacillus halophilus DSM 2266
+0.8696	1	0	1	1	7.414e-09	90964	family	              Staphylococcaceae
+0.8696	1	0	1	1	8.257e-09	1279	genus	                Staphylococcus
+0.8696	1	1	1	1	1.681e-07	1282	species	                  Staphylococcus epidermidis
+0.8696	1	0	254	1	7.359e-08	201174	phylum	        Actinobacteria
+0.8696	1	0	254	1	7.558e-08	1760	class	          Actinobacteria
+0.8696	1	0	184	1	3.112e-07	85006	order	            Micrococcales
+0.8696	1	0	94	1	5.582e-07	1268	family	              Micrococcaceae
+0.8696	1	0	93	1	1.85e-05	1269	genus	                Micrococcus
+0.8696	1	1	85	1	1.773e-05	1270	species	                  Micrococcus luteus
+0.8696	1	0	1	1	4.51e-09	10239	superkingdom	  Viruses
+0.8696	1	0	1	1	9.567e-09	28883	order	    Caudovirales
+0.8696	1	0	1	1	2.691e-08	10699	family	      Siphoviridae
+0.8696	1	0	1	1	1.884e-05	2169654	genus	        Hendrixvirus
+0.8696	1	1	1	1	0.0002831	37554	species	          Escherichia virus HK97

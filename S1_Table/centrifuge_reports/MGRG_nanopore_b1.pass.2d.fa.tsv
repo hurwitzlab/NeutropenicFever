@@ -1,0 +1,17 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Pseudomonas fluorescens	294	species	14826544	11	8	0.0
+Escherichia coli	562	species	12319210	4	3	0.0
+Shigella	620	genus	0	1	0	0.0
+Micrococcus luteus	1270	species	2501097	2	2	0.0
+Staphylococcus epidermidis	1282	species	3296362	2	2	0.0
+Halobacillus halophilus	1570	species	4170008	14	14	0.0
+Alteromonas macleodii	28108	species	5557691	1	1	0.0
+Pseudomonas azotoformans	47878	species	6859618	3	3	0.0
+Pseudoalteromonas issachenkonii	152297	species	4131541	8	5	0.0
+Rhodoferax ferrireducens	192843	species	4969784	1	1	0.0
+Pseudomonas koreensis	198620	species	12292986	1	0	0.0
+Pseudomonas trivialis	200450	species	6452803	1	1	0.0
+Pseudomonas antarctica	219572	species	6607040	11	10	0.0
+Pseudoalteromonas sp. SM9913	234831	species	4037671	11	8	0.0
+Pseudomonas sp. UW4	1207075	species	6183388	1	0	0.0
+Wenzhouxiangella marina	1579979	species	3675202	1	1	0.0

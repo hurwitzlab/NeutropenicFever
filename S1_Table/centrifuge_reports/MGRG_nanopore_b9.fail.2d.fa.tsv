@@ -1,0 +1,28 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Pseudomonas fluorescens	294	species	14826544	5	2	0.0
+Escherichia coli	562	species	12319210	8	2	0.0
+Escherichia fergusonii	564	species	4643861	1	0	0.0
+Hafnia alvei	569	species	6928293	1	1	0.0
+Shigella	620	genus	0	1	0	0.0
+Shigella boydii	621	species	4698475	1	0	0.0
+Shigella flexneri	623	species	4763519	2	0	0.0
+Shigella sonnei	624	species	6798914	2	0	0.0
+Micrococcus luteus	1270	species	2501097	6	6	0.0
+Halobacillus halophilus	1570	species	4170008	1	1	0.0
+Escherichia virus Lambda	10710	species	48502	5	0	0.0
+synthetic construct	32630	species	26537524	11	0	0.0
+Tetragenococcus halophilus	51669	species	2476095	1	1	0.0
+Pseudoalteromonas issachenkonii	152297	species	4131541	1	0	0.0
+Paenibacillus naphthalenovorans	162209	species	5200139	1	1	0.0
+Lambdavirus	186765	genus	0	1	0	0.0
+Pseudomonas trivialis	200450	species	6452803	1	0	0.0
+Pseudomonas antarctica	219572	species	6607040	7	4	0.0
+Pseudoalteromonas sp. SM9913	234831	species	4037671	2	1	0.0
+Pseudomonas chlororaphis	587753	species	16842584	1	0	0.0
+Enterobacteria phage HK630	1147146	species	47090	5	0	0.0
+Enterobacteria phage HK629	1147148	species	47288	3	0	0.0
+Pseudomonas sp. TKP	1415630	species	7012672	2	0	0.0
+Streptomyces leeuwenhoekii	1437453	species	8122491	1	1	0.0
+Woeseia oceani	1548547	species	4059891	1	1	0.0
+Shigella sp. PAMC 28760	1813821	species	4558287	8	0	0.0
+Pseudomonas sp. A3(2016)	1853130	species	6823539	1	0	0.0

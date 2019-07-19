@@ -1,0 +1,95 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Myxococcus fulvus	33	species	10026214	20	6	0.0
+Myxococcus xanthus	34	species	9139763	5243	5227	0.145905
+Desulfococcus multivorans	897	species	4455399	1	1	0.0
+Trichodesmium erythraeum	1206	species	7750108	1	1	0.0
+Leuconostoc gelidum	1244	species	1966103	1	0	0.0
+Leuconostoc mesenteroides	1245	species	1966146	7	0	0.0
+Leuconostoc lactis	1246	species	1788069	5	0	0.0
+Oenococcus oeni	1247	species	1780517	4	0	0.0
+Leuconostoc carnosum	1252	species	1773468	4	0	0.0
+Pediococcus pentosaceus	1255	species	1817384	51	48	0.0
+Streptococcus thermophilus	1308	species	3463400	6	1	0.0
+Streptococcus anginosus	1328	species	2557124	1	0	0.0
+Enterococcus faecalis	1351	species	3401628	5	0	0.0
+Lactococcus lactis	1358	species	2704731	984	928	0.0448219
+Lactococcus piscium	1364	species	2503066	4	0	0.0
+Bacillus	1386	genus	0	1	1	0.0
+Bacillus anthracis	1392	species	17446789	5	0	0.0
+Bacillus cereus	1396	species	9676532	87	64	0.0
+Bacillus thuringiensis	1428	species	10269592	34	9	0.0
+Brevibacillus laterosporus	1465	species	5153859	1	1	0.0
+Lactobacillus	1578	genus	0	13	1	0.0
+Lactobacillus brevis	1580	species	2493592	3400	3335	0.388936
+Lactobacillus buchneri	1581	species	2575738	5	2	0.0
+Lactobacillus casei	1582	species	3039836	1337	566	0.0
+Lactobacillus delbrueckii	1584	species	1920382	2	1	0.0
+Lactobacillus helveticus	1587	species	3148198	4	0	0.0
+Lactobacillus plantarum	1590	species	8684028	59	8	0.0
+Lactobacillus paracasei	1597	species	4200086	2365	1578	0.0
+Lactobacillus reuteri	1598	species	2811237	6	0	0.0
+Lactobacillus fermentum	1613	species	2108824	8	0	0.0
+Halobacterium salinarum	2242	species	2619893	220	220	0.0462733
+Homo sapiens	9606	species	3238442024	15	6	0.0
+Siphoviridae	10699	family	47340	1	0	0.0
+Bifidobacterium animalis	28025	species	2054141	64	63	0.0
+Acidothermus cellulolyticus	28049	species	2443540	2552	2552	0.148839
+Vibrio tubiashii	29498	species	5540337	1	1	0.0
+Methylobacterium radiotolerans	31998	species	6899110	2	0	0.0
+synthetic construct	32630	species	26537524	5	1	0.0
+Geobacillus thermodenitrificans	33940	species	3608012	1	0	0.0
+Geobacillus thermoleovorans	33941	species	5320134	1	0	0.0
+Lactobacillus johnsonii	33959	species	1958140	3	0	0.0
+Paracoccus aminophilus	34003	species	4873118	1	1	0.0
+Lactococcus phage Tuc2009	35241	species	38347	2	1	0.0
+Lactobacillus rhamnosus	47715	species	3484485	56	3	0.0
+Bibersteinia trehalosi	47735	species	2411529	1	1	0.0
+Pediococcus damnosus	51663	species	11570178	12	1	0.0
+Tetragenococcus halophilus	51669	species	2476095	2	1	0.0
+Lactobacillus lindneri	53444	species	2842174	1	0	0.0
+Janthinobacterium agaricidamnosum	55508	species	5949001	1	1	0.0
+Shewanella amazonensis	60478	species	4306142	3800	3799	0.225224
+Shewanella woodyi	60961	species	5935403	1	1	0.0
+Thioflavicoccus mobilis	80679	species	4137521	1	1	0.0
+Bacillus weihenstephanensis	86662	species	5740546	1	0	0.0
+Burkholderia multivorans	87883	species	13696114	1	1	0.0
+Ramlibacter tataouinensis	94132	species	4493411	1	1	0.0
+Leuconostoc kimchii	136609	species	2101787	3	0	0.0
+Lactococcus phage bIL311	151534	species	14510	9	1	0.0
+Lactococcus phage bIL285	151535	species	35538	8	0	0.0
+Lactococcus phage bIL286	151536	species	41834	3	0	0.0
+Lactococcus phage bIL309	151537	species	36949	15	0	0.0
+Lactococcus phage bIL310	151538	species	14957	4	1	0.0
+Lactococcus phage bIL312	151539	species	15179	6	0	0.0
+Bacillus toyonensis	155322	species	5025419	2	0	0.0
+Chromohalobacter salexigens	158080	species	3696649	1	1	0.0
+Sphingomonas wittichii	160791	species	5915246	1	1	0.0
+Pediococcus claussenii	187452	species	2958378	11	0	0.0
+Amycolatopsis japonica	208439	species	9053857	1	1	0.0
+Phaeobacter inhibens	221822	species	4194026	1	1	0.0
+Lactobacillus paracollinoides	240427	species	10733574	13	4	0.0
+Sphingopyxis granuli	267128	species	4679853	1	1	0.0
+Lactobacillus kefiranofaciens	267818	species	2354088	1	0	0.0
+Nonlabens dokdonensis	328515	species	3914632	29	28	0.0
+Shewanella loihica	359303	species	4602594	1	1	0.0
+Pseudarthrobacter phenanthrenivorans	361575	species	4535320	1	1	0.0
+Verminephrobacter eiseniae	364317	species	5597943	1	1	0.0
+Lactobacillus backii	375175	species	14123253	22	2	0.0
+Thermobacillus composti	377615	species	4355525	2	2	0.0
+Pseudomonas protegens	380021	species	6923588	1	1	0.0
+Methylobacterium sp. 4-46	426117	species	7737025	1	1	0.0
+Paenibacillus sp. Y412MC10	481743	species	7121665	2	2	0.0
+Burkholderia lata	482957	species	17031116	1	0	0.0
+Burkholderia contaminans	488447	species	8509249	1	0	0.0
+Geobacillus sp. Y4.1MC1	581103	species	3911947	1	1	0.0
+Lactobacillus koreensis	637971	species	3006812	4	0	0.0
+Lactobacillus phage LBR48	755164	species	48211	1	1	0.0
+Lactobacillus phage Sha1	947981	species	41726	1	0	0.0
+Paenibacillus beijingensis	1126833	species	5749967	2	2	0.0
+Lactobacillus hokkaidonensis	1193095	species	2400586	13	0	0.0
+Myxococcus hansupus	1297742	species	9490432	3	0	0.0
+Paenibacillus yonginensis	1462996	species	4985901	1	1	0.0
+Methylobacterium sp. C1	1479019	species	6459145	2	0	0.0
+Lactococcus phage 28201	1871678	species	34396	2	0	0.0
+Lactococcus phage 98201	1871690	species	36202	2	0	0.0
+Bacillus sp. ABP14	1892404	species	5152566	12	2	0.0

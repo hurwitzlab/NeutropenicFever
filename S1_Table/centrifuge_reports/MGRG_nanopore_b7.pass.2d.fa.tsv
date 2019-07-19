@@ -1,0 +1,63 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Chondromyces crocatus	52	species	11388132	1	1	0.0
+Helicobacter	209	genus	0	1	0	0.0
+Pseudomonas	286	genus	0	3	3	0.0
+Pseudomonas fluorescens	294	species	14826544	91	60	0.0
+Pseudomonas mendocina	300	species	5293211	1	1	0.0
+Pseudomonas putida	303	species	6888188	1	1	0.0
+Ralstonia solanacearum	305	species	11186335	1	0	0.0
+Pseudomonas syringae	317	species	6129101	2	1	0.0
+Agrobacterium vitis	373	species	6320946	1	1	0.0
+Enterobacteriaceae	543	family	0	2	0	0.0
+Citrobacter koseri	545	species	4735357	1	1	0.0
+Escherichia coli	562	species	12319210	183	108	0.0
+Escherichia fergusonii	564	species	4643861	4	2	0.0
+Shigella	620	genus	0	4	0	0.0
+Shigella boydii	621	species	4698475	21	7	0.0
+Shigella dysenteriae	622	species	4560911	10	2	0.0
+Shigella flexneri	623	species	4763519	16	1	0.0
+Shigella sonnei	624	species	6798914	17	1	0.0
+Micrococcus luteus	1270	species	2501097	3	3	0.0
+Staphylococcus	1279	genus	0	1	0	0.0
+Staphylococcus aureus	1280	species	7252422	2	0	0.0
+Staphylococcus epidermidis	1282	species	3296362	29	26	0.0
+Staphylococcus simulans	1286	species	2647552	1	0	0.0
+Halobacillus halophilus	1570	species	4170008	253	253	0.0
+Escherichia virus Lambda	10710	species	48502	6	0	0.0
+Yersinia kristensenii	28152	species	4496569	1	1	0.0
+synthetic construct	32630	species	26537524	33	1	0.0
+Paraburkholderia xenovorans	36873	species	19434089	1	1	0.0
+Pseudomonas alcaligenes	43263	species	4406305	1	1	0.0
+Cyanothece sp. ATCC 51142	43989	species	5460377	1	1	0.0
+Pseudomonas azotoformans	47878	species	6859618	10	3	0.0
+Pseudomonas corrugata	47879	species	6124363	2	0	0.0
+Pseudomonas resinovorans	53412	species	6484828	1	1	0.0
+Pseudomonas mandelii	75612	species	7188564	1	0	0.0
+Achromobacter xylosoxidans	85698	species	9063264	1	1	0.0
+Pseudomonas parafulva	157782	species	5087619	1	1	0.0
+Collimonas fungivorans	158899	species	5393313	1	0	0.0
+Lambdavirus	186765	genus	0	6	0	0.0
+P1virus	186789	genus	0	1	0	0.0
+P22virus	186794	genus	0	1	0	0.0
+Ralstonia insidiosa	190721	species	12164766	1	0	0.0
+Pseudomonas koreensis	198620	species	12292986	2	1	0.0
+Pseudomonas trivialis	200450	species	6452803	9	3	0.0
+Pseudomonas poae	200451	species	5512241	7	3	0.0
+Escherichia albertii	208962	species	4679521	2	2	0.0
+Pseudomonas rhizosphaerae	216142	species	4688635	1	1	0.0
+Pseudomonas antarctica	219572	species	6607040	200	177	0.0
+Pseudomonas chlororaphis	587753	species	16842584	5	3	0.0
+Pseudomonas brassicacearum	930166	species	13594158	2	2	0.0
+Enterobacteria phage HK630	1147146	species	47090	5	0	0.0
+Enterobacteria phage HK629	1147148	species	47288	3	0	0.0
+Pseudomonas sp. FGI182	1259844	species	5891312	1	1	0.0
+Pseudomonas sp. URMO17WK12:I11	1283291	species	11209782	2	1	0.0
+Bordetella pseudohinzii	1331258	species	4558891	1	1	0.0
+Pseudomonas sp. TKP	1415630	species	7012672	12	6	0.0
+Pseudomonas sp. Os17	1500686	species	6885464	2	0	0.0
+Pseudomonas sp. St29	1500687	species	6833117	2	0	0.0
+Pseudomonas sp. GR 6-02	1659194	species	6500345	3	2	0.0
+Pseudomonas sp. MS586	1785145	species	6247726	2	1	0.0
+Pseudomonas sp. L10.10	1788301	species	5149788	1	1	0.0
+Shigella sp. PAMC 28760	1813821	species	4558287	55	1	0.0
+Pseudomonas sp. A3(2016)	1853130	species	6823539	1	1	0.0
