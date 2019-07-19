@@ -10,9 +10,8 @@ font_import()
 loadfonts()
 fonts()
 
-
 ## normal blood samples
-normal <- readr::read_csv("6wk_normal_blood.species.0.00.csv")
+normal <- readr::read_csv("normal_blood.csv")
 
 filter_pct <- normal %>% filter(pct >= 0.01)
 
@@ -38,10 +37,10 @@ panel <- bplot_all +
   facet_grid(. ~ Donor,scales="free_y",space="free")
 panel
 
-out_file="Fig3_part1.png"
+out_file="raw_Fig3_part1.png"
 ggsave(out_file, width = 25, height = 10, units = "cm")
 
-filter_abundance <- normal %>% filter(abundance >= 0.01)
+filter_abundance <- normal %>% filter(abundance>=0.01)
 
 #plot the centrifuge abundance
 bplot_all = ggplot(filter_abundance, aes(week, tax_name)) + 
@@ -65,5 +64,6 @@ panel <- bplot_all +
   facet_grid(. ~ Donor,scales="free_y",space="free")
 panel
 
-out_file="Fig3_part2.png"
+out_file="raw_Fig3_part2.png"
 ggsave(out_file, width = 25, height = 12, units = "cm")
+

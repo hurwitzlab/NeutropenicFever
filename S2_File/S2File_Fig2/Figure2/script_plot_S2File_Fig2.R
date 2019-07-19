@@ -10,7 +10,6 @@ font_import()
 loadfonts()
 fonts()
 
-#QC and no QC on NF samples
 NF_qc="qc_no_qc_nf.csv"
 data_host <- readr::read_csv(NF_qc)
 
@@ -29,7 +28,10 @@ other_hits<- data_host %>% filter(!grepl("Pseudomonas", tax_name, fixed = TRUE) 
 
 some_data<-bind_rows(Pseudo_data, torque_data)
 plot_data<-bind_rows(other_hits, some_data)
-filter_nf <-plot_data %>% filter(abundance >= 0.01 & pct >=0.002)
+fp <- c("Taylorella equigenitalis","synthetic construct",
+        "Streptococcus thermophilus","Lactococcus lactis",
+        "Propionibacterium acnes")
+filter_nf <-plot_data %>% filter(abundance >= 0.01 & pct >=0.0001)%>%mutate(proportion=abundance*100) %>% filter(!tax_name %in% fp)
 
 
 bplot_host = ggplot(filter_nf, aes(x=Patient, y=tax_name)) + 
@@ -51,5 +53,5 @@ panel <- bplot_host +
   facet_grid(. ~ category, scales="free_y",space="free")
 panel
 
-out_file="suppl_qc_noqc_nf.png"
+out_file="S2_File_Fig2.png"
 ggsave(out_file, width = 20, height = 15, units = "cm")

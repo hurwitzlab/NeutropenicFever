@@ -1,0 +1,1438 @@
+abundance,pct,reads,sample,Patient,Day,tax_name
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Myxococcus fulvus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Brachyspira hyodysenteriae
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Leptospira interrogans
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Leptospira borgpetersenii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Azospirillum brasilense
+0,9.23E-07,3,pt1_day1.bam-centrifuge_report,Patient1,1,Campylobacter concisus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Campylobacter lari
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Helicobacter pylori
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Helicobacter felis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Comamonas testosteroni
+0.000168534,1.23E-06,4,pt1_day1.bam-centrifuge_report,Patient1,1,Pseudomonas aeruginosa
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Pseudomonas putida
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Xanthomonas campestris
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Xanthomonas citri
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Mesorhizobium loti
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Legionella longbeachae
+0,1.54E-06,5,pt1_day1.bam-centrifuge_report,Patient1,1,Neisseria lactamica
+0,3.08E-06,10,pt1_day1.bam-centrifuge_report,Patient1,1,Neisseria meningitidis
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Neisseria elongata
+0,2.77E-06,9,pt1_day1.bam-centrifuge_report,Patient1,1,Klebsiella arogenes
+0.00030723,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Escherichia coli
+0,1.54E-06,5,pt1_day1.bam-centrifuge_report,Patient1,1,Klebsiella pneumoniae
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Providencia stuartii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Vibrio harveyi
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Actinobacillus pleuropneumoniae
+0,1.23E-05,40,pt1_day1.bam-centrifuge_report,Patient1,1,Haemophilus influenzae
+0,1.41E-05,46,pt1_day1.bam-centrifuge_report,Patient1,1,Haemophilus parainfluenzae
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Histophilus somni
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,[Haemophilus] parasuis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Coxiella burnetii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Rickettsia akari
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Bacteroides fragilis
+0,1.23E-06,4,pt1_day1.bam-centrifuge_report,Patient1,1,Fusobacterium nucleatum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Syntrophomonas wolfei
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Flavobacterium johnsoniae
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Flavobacterium columnare
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Flexibacter litoralis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Marivirga tractuosa
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Rhodobacter capsulatus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Trichodesmium erythraeum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Prochlorococcus marinus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Pediococcus pentosaceus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Ruminococcus albus
+0.000260936,3.08E-06,10,pt1_day1.bam-centrifuge_report,Patient1,1,Staphylococcus aureus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Staphylococcus carnosus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus gordonii
+0.000966163,2.15E-06,7,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus oralis
+0,9.23E-07,3,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus salivarius
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus agalactiae
+0,2.77E-06,9,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus pneumoniae
+0,6.77E-06,22,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus parasanguinis
+0,9.23E-07,3,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus anginosus
+1.76E-15,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus intermedius
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Enterococcus faecium
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Lactococcus lactis
+0,9.23E-07,3,pt1_day1.bam-centrifuge_report,Patient1,1,Bacillus cereus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Bacillus megaterium
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Paenibacillus polymyxa
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Bacillus pumilus
+0,9.23E-07,3,pt1_day1.bam-centrifuge_report,Patient1,1,Bacillus subtilis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Bacillus thuringiensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Brevibacillus laterosporus
+0,1.54E-06,5,pt1_day1.bam-centrifuge_report,Patient1,1,Clostridium botulinum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Clostridium pasteurianum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Clostridium perfringens
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,[Clostridium] stercorarium
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Clostridium tyrobutyricum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Clostridium beijerinckii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Clostridium novyi
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Clostridium scatologenes
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Clostridium baratii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Lactobacillus acetotolerans
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Lactobacillus amylovorus
+0,8.21E-05,267,pt1_day1.bam-centrifuge_report,Patient1,1,Corynebacterium pseudotuberculosis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Eubacterium limosum
+0.000562989,1.54E-06,5,pt1_day1.bam-centrifuge_report,Patient1,1,Propionibacterium acnes
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Frankia alni
+0,9.23E-07,3,pt1_day1.bam-centrifuge_report,Patient1,1,Rothia dentocariosa
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Mycoplasma arginini
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Methanosarcina mazei
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Methanosarcina acetivorans
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Sulfolobus acidocaldarius
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Sulfolobus solfataricus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Methanohalobium evestigatum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Haliscomenobacter hydrossis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Thermosipho africanus
+0.357803,0.99622823,3238996,pt1_day1.bam-centrifuge_report,Patient1,1,Homo sapiens
+0,3.69E-06,12,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus mitis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Nostoc sp. PCC 7524
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Neisseria weaveri
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Francisella philomiragia
+0,1.54E-06,5,pt1_day1.bam-centrifuge_report,Patient1,1,Tannerella forsythia
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Bacteroides ovatus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Odoribacter splanchnicus
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Prevotella denticola
+0.0005973,4.92E-06,16,pt1_day1.bam-centrifuge_report,Patient1,1,Prevotella melaninogenica
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Colwellia psychrerythraea
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Thermodesulfovibrio yellowstonii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Salmonella enterica
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Mycoplasma bovis
+0,5.54E-06,18,pt1_day1.bam-centrifuge_report,Patient1,1,Veillonella parvula
+0,0.001819295,5915,pt1_day1.bam-centrifuge_report,Patient1,1,Taylorella equigenitalis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Synechococcus elongatus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Calothrix parietina
+0.00416383,0.001711337,5564,pt1_day1.bam-centrifuge_report,Patient1,1,synthetic construct
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Acetobacterium woodii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Riemerella anatipestifer
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Citrobacter amalonaticus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Rhodovulum sulfidophilum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Acholeplasma palmae
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Dialister pneumosintes
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Cyanothece sp. PCC 8801
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Pseudoalteromonas luteoviolacea
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Brachybacterium faecium
+0.000830495,1.54E-05,50,pt1_day1.bam-centrifuge_report,Patient1,1,Rothia mucilaginosa
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Bibersteinia trehalosi
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Prevotella dentalis
+0,2.77E-06,9,pt1_day1.bam-centrifuge_report,Patient1,1,Actinomyces meyeri
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Enterococcus mundtii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Pseudomonas citronellolis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Edwardsiella ictaluri
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Methanocaldococcus vulcanius
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Campylobacter hominis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Solibacillus silvestris
+0.00290533,3.08E-06,10,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus constellatus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Wolbachia endosymbiont of Drosophila simulans
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Chitinophaga pinensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Parachlamydia acanthamoebae
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Brachyspira murdochii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Burkholderia multivorans
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Flavobacterium psychrophilum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Halobacteriovorax marinus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Calothrix sp. PCC 7507
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Burkholderia ubonensis
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Muricauda ruestringensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Aerococcus sanguinicola
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Paraburkholderia fungorum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Alcelaphine herpesvirus 2
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Corynebacterium imitans
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Corynebacterium singulare
+0.586238,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Human endogenous retrovirus K113
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Ilyobacter polytropus
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Oceanobacillus iheyensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Fluviicola taffensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Deferribacter desulfuricans
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Candidatus Pelagibacter ubique
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Carnobacterium sp. 17-4
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Spiroplasma diminutum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Helicobacter sp. MIT 01-6242
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Corynebacterium halotolerans
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Glutamicibacter arilaitensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus pseudopneumoniae
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Nostoc punctiforme
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Flavobacterium indicum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Polaribacter sp. MED152
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Cyclobacterium amurskyense
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Psychromonas ingrahamii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Sulfurovum sp. NBC37-1
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Clostridium taeniosporum
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Treponema pedis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Gramella forsetii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Cronobacter malonaticus
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Methanosarcina horonobensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Pedobacter steynii
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Pelosinus sp. UFO1
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Bacillus velezensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Actinomyces oris
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Phycisphaera mikurensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Acidianus hospitalis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Allofrancisella guangzhouensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Francisella noatunensis
+0,1.23E-06,4,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus sp. oral taxon 431
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Caldicellulosiruptor obsidiansis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Hyphomicrobium sp. MC1
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,alpha proteobacterium HIMB59
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Siansivirga zeaxanthinifaciens
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Chryseobacterium sp. StRB126
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Candidatus Arthromitus sp. SFB-rat-Yit
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Candidatus Gullanella endobia
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Bacillus virus G
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus sp. I-P16
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Streptomyces sp. PAMC 26508
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Frischella perrara
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Invertebrate iridovirus 25
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Methanocaldococcus bathoardescens
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Flavobacterium sp. PK15
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Bartonella ancashensis
+0,6.15E-07,2,pt1_day1.bam-centrifuge_report,Patient1,1,Candidatus Methanomassiliicoccus intestinalis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Candidatus Thioglobus singularis
+0.0451963,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Pseudomonas phage phi2
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Sediminicola sp. YIK13
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Paenibacillus yonginensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Nonlabens sp. MIC269
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Campylobacter sp. RM16704
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Jeotgalibacillus malaysiensis
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Fusobacterium hwasookii
+0,9.23E-07,3,pt1_day1.bam-centrifuge_report,Patient1,1,Chryseobacterium sp. IHB B 10212
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Microbacterium sp. CGR1
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Algibacter alginolytica
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Nostoc sp. NIES-3756
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Wenyingzhuangia fucanilytica
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Streptococcus halotolerans
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Lachnoclostridium sp. YL32
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Ruminiclostridium sp. KB18
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Agrobacterium sp. RAC06
+0,3.08E-07,1,pt1_day1.bam-centrifuge_report,Patient1,1,Microbacterium sp. BH3-3-3
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Isosphaera pallida
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Borreliella burgdorferi
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Treponema denticola
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Leptospira biflexa
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Campylobacter jejuni
+0,4.85E-07,3,pt1_day3.bam-centrifuge_report,Patient1,3,Helicobacter pylori
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Helicobacter acinonychis
+0.000404454,1.11E-05,69,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudomonas aeruginosa
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudomonas putida
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Ralstonia pickettii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Agrobacterium tumefaciens
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Legionella pneumophila
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Legionella hackeliae
+6.45E-41,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Acinetobacter baumannii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Moraxella catarrhalis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Neisseria lactamica
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Chromobacterium violaceum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Citrobacter koseri
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Citrobacter freundii
+0.00117766,2.42E-05,150,pt1_day3.bam-centrifuge_report,Patient1,3,Klebsiella arogenes
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Enterobacter cloacae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Erwinia amylovora
+0,1.13E-06,7,pt1_day3.bam-centrifuge_report,Patient1,3,Escherichia coli
+0.000119149,2.26E-06,14,pt1_day3.bam-centrifuge_report,Patient1,3,Klebsiella pneumoniae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Morganella morganii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Xenorhabdus nematophila
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Vibrio cholerae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Vibrio vulnificus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Vibrio natriegens
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Aggregatibacter actinomycetemcomitans
+0,8.08E-07,5,pt1_day3.bam-centrifuge_report,Patient1,3,Haemophilus influenzae
+0,2.58E-06,16,pt1_day3.bam-centrifuge_report,Patient1,3,Haemophilus parainfluenzae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Histophilus somni
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Orientia tsutsugamushi
+0.00077386,5.82E-06,36,pt1_day3.bam-centrifuge_report,Patient1,3,Bacteroides fragilis
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Parabacteroides distasonis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Sebaldella termitidis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Campylobacter ureolyticus
+0.000616124,6.78E-06,42,pt1_day3.bam-centrifuge_report,Patient1,3,Fusobacterium nucleatum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Ehrlichia chaffeensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Herbaspirillum seropedicae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Cellulophaga lytica
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pedobacter heparinus
+0,4.85E-07,3,pt1_day3.bam-centrifuge_report,Patient1,3,Flavobacterium johnsoniae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Flavobacterium columnare
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Weeksella virosa
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Trichodesmium erythraeum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Prochlorococcus marinus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Finegoldia magna
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Micrococcus luteus
+0.0183182,0.000155394,962,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus aureus
+3.70E-13,4.85E-07,3,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus epidermidis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus xylosus
+0.000243728,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus warneri
+1.61E-29,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus schleiferi
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus oralis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus agalactiae
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus pneumoniae
+0,4.85E-07,3,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus parasanguinis
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus anginosus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus dysgalactiae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus intermedius
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lactococcus piscium
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Bacillus cereus
+0,4.85E-07,3,pt1_day3.bam-centrifuge_report,Patient1,3,Bacillus megaterium
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Paenibacillus polymyxa
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Bacillus pumilus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Parageobacillus thermoglucosidans
+0,8.08E-07,5,pt1_day3.bam-centrifuge_report,Patient1,3,Bacillus thuringiensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Sporosarcina psychrophila
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium acetobutylicum
+0,6.46E-07,4,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium botulinum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium butyricum
+0,8.08E-07,5,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridioides difficile
+0,6.46E-07,4,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium pasteurianum
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium perfringens
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,[Clostridium] stercorarium
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium tetani
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium beijerinckii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium novyi
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lactobacillus brevis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lactobacillus plantarum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lactobacillus salivarius
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Listeria monocytogenes
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Bifidobacterium breve
+0,0.000102573,635,pt1_day3.bam-centrifuge_report,Patient1,3,Corynebacterium pseudotuberculosis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Peptoclostridium acidaminophilum
+0.00576461,1.50E-05,93,pt1_day3.bam-centrifuge_report,Patient1,3,Propionibacterium acnes
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Mycoplasma mycoides
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Mycoplasma pulmonis
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Mycoplasma fermentans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Mycoplasma flocculare
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Spiroplasma apis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Mesoplasma florum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Methanococcus voltae
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Methanotorris igneus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Methanosarcina barkeri
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Methanosarcina mazei
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Methanosphaera stadtmanae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Methanohalobium evestigatum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Haliscomenobacter hydrossis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Flexistipes sinusarabici
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Fervidobacterium islandicum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Carnobacterium maltaromaticum
+0.272319,0.99405076,6153877,pt1_day3.bam-centrifuge_report,Patient1,3,Homo sapiens
+0,1.13E-06,7,pt1_day3.bam-centrifuge_report,Patient1,3,Human herpesvirus 1
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Bifidobacterium animalis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus lugdunensis
+0,1.13E-06,7,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus mitis
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Tannerella forsythia
+0,1.29E-06,8,pt1_day3.bam-centrifuge_report,Patient1,3,Prevotella denticola
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Prevotella intermedia
+0.000382245,2.52E-05,156,pt1_day3.bam-centrifuge_report,Patient1,3,Prevotella melaninogenica
+0,4.85E-07,3,pt1_day3.bam-centrifuge_report,Patient1,3,Acetohalobium arabaticum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Arcobacter nitrofigilis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Desulfobacula toluolica
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Colwellia psychrerythraea
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Thermodesulfovibrio yellowstonii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Streptomyces cattleya
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Cellulosilyticum lentocellum
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus saprophyticus
+0.000284001,6.95E-06,43,pt1_day3.bam-centrifuge_report,Patient1,3,Veillonella parvula
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Yersinia frederiksenii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Borreliella afzelii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lawsonia intracellularis
+0,0.002963636,18347,pt1_day3.bam-centrifuge_report,Patient1,3,Taylorella equigenitalis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Halothermothrix orenii
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Achromobacter denitrificans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Synechococcus sp. WH 7803
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Calothrix parietina
+0.000234061,0.002555766,15822,pt1_day3.bam-centrifuge_report,Patient1,3,synthetic construct
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Cutibacterium avidum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Parvimonas micra
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Anaerococcus prevotii
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Acetobacterium woodii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lactobacillus johnsonii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Melissococcus plutonius
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Rickettsia bellii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Candidatus Liberibacter africanus
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Leptothrix cholodnii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Variovorax paradoxus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Bordetella holmesii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lymphocystis disease virus 1
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium saccharoperbutylacetonicum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Bartonella henselae
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Methanococcus maripaludis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Stenotrophomonas maltophilia
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Xenorhabdus poinarii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Halobacteroides halobius
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Sulfolobus islandicus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudoalteromonas luteoviolacea
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Desulfovibrio fairfieldensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Vibrio scophthalmi
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Acinetobacter pittii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Rubrobacter xylanophilus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Mycoplasma crocodyli
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Thermoplasma volcanium
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Wigglesworthia glossinidia
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Prevotella dentalis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Caldicellulosiruptor kristjanssonii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Enterococcus durans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lactobacillus lindneri
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Hyperthermus butylicus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Caldicellulosiruptor owensensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Cellulophaga algicola
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pluralibacter gergoviae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Petrotoga mobilis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Selenomonas sputigena
+0,1.62E-06,10,pt1_day3.bam-centrifuge_report,Patient1,3,Mannheimia haemolytica
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Prevotella enoeca
+0.000309881,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus constellatus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Helicobacter typhlonius
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Chitinophaga pinensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Bacillus clausii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudanabaena sp. PCC 7367
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Simkania negevensis
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Methanobrevibacter ruminantium
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,[Clostridium] saccharolyticum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Gordonia polyisoprenivorans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylothermus hellenicus
+0.000133623,1.45E-06,9,pt1_day3.bam-centrifuge_report,Patient1,3,Achromobacter xylosoxidans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Bacillus weihenstephanensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pandoraea norimbergensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Shewanella sp. ANA-3
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Anaerobaculum mobile
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Calothrix sp. PCC 7507
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Stanieria cyanosphaera
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Sulfolobus tokodaii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Bathymodiolus septemdierum thioautotrophic gill symbiont
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Geoglobus ahangari
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudothermotoga thermarum
+0,8.08E-07,5,pt1_day3.bam-centrifuge_report,Patient1,3,Stenotrophomonas acidaminiphila
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Leisingera methylohalidivorans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,secondary endosymbiont of Heteropsylla cubana
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Filifactor alocis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Carnobacterium inhibens
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lactobacillus kunkeei
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,[Mannheimia] succiniciproducens
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudomonas cremoricolorata
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Enterobacter hormaechei
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Collimonas fungivorans
+0.60757,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Human endogenous retrovirus K113
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Thermobaculum terrenum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Thermodesulfatator indicus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Thermococcus sibiricus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Thalassolituus oleivorans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pedobacter cryoconitis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Fluviicola taffensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Deferribacter desulfuricans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Alkaliphilus metalliredigens
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Carnobacterium sp. 17-4
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Escherichia albertii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Spiroplasma culicicola
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Methanobrevibacter millerae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Belliella baltica
+1.83E-16,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Klebsiella variicola
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus equorum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Glutamicibacter arilaitensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus pseudopneumoniae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Campylobacter insulaenigrae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Sphingopyxis granuli
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Chlorobaculum limnaeum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudoalteromonas sp. Bsw20308
+7.62E-23,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus pseudintermedius
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,[Clostridium] clariflavum
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Flavobacterium indicum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Emticicia oligotrophica
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Polaribacter sp. MED152
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Synechococcus sp. CC9902
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Trichoplusia ni ascovirus 2c
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudomonas phage F10
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Oscillibacter valericigenes
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Xenorhabdus doucetiae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Streptomyces vietnamensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pelosinus fermentans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Gallionella capsiferriformans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Rivularia sp. PCC 7116
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Halotalea alkalilenta
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Echinicola vietnamensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium taeniosporum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Zunongwangia profunda
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Marinomonas sp. MWYL1
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Caldicellulosiruptor kronotskyensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Geobacter sp. M18
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pelosinus sp. UFO1
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Campylobacter peloridis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Burkholderia diffusa
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Campylobacter subantarcticus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Cyanothece sp. PCC 7822
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Candidatus Azobacteroides pseudotrichonymphae
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Flavobacteriaceae bacterium 3519-10
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Phycisphaera mikurensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Bacillus cytotoxicus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudomonas chlororaphis
+0,1.62E-06,10,pt1_day3.bam-centrifuge_report,Patient1,3,Prevotella fusca
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Arsenophonus symbiont of Lipoptena fortisetosa
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Hoyosella subflava
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Candidatus Koribacter versatilis
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Propionibacterium sp. oral taxon 193
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Candidatus Babela massiliensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Leptotrichia sp. oral taxon 212
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Streptococcus sp. oral taxon 431
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,alpha proteobacterium HIMB59
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,alpha proteobacterium HIMB5
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Thermincola potens
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Methanobacterium lacus
+3.55E-16,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus argenteus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Defluviitoga tunisiensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Rhodococcus sp. WB1
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Persicobacter sp. JZB09
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Chromobacterium vaccinii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Elizabethkingia anophelis
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Klebsiella michiganensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lysinibacillus varians
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus phage SMSAP5
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Gloeocapsa sp. PCC 7428
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Blattabacterium sp. (Blaberus giganteus)
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Geobacillus sp. GHH01
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Candidatus Pantoea carbekii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Janthinobacterium sp. B9-8
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Campylobacter iguaniorum
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Candidatus Endolissoclinum faulkneri
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Acanthamoeba polyphaga moumouvirus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Staphylococcus phage StauST398-2
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Photobacterium gaetbulicola
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Thermodesulfobacterium geofontis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Methanocaldococcus bathoardescens
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Flavobacterium sp. PK15
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,bacterium L21-Spi-D4
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Bordetella pseudohinzii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Acinetobacter sp. TGL-Y2
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Hymenobacter sp. DG5B
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Methanosarcina sp. MTP4
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Methanosarcina sp. WH1
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Vibrio tritonius
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Hymenobacter swuensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Paenibacillus yonginensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lentibacillus amyloliquefaciens
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Martelella endophytica
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Corynebacterium sp. ATCC 6931
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lawsonella clevelandensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Sphingobacterium sp. ML3W
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Clostridium phage phiCT19406C
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Fusobacterium hwasookii
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Helicobacter himalayensis
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Citromicrobium sp. JL477
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Propionibacterium phage Enoki
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Bacillus glycinifermentans
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Labrenzia sp. CP4
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Oblitimonas alkaliphila
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Massilia sp. WG5
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Turicibacter sp. H121
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Chryseobacterium sp. IHB B 17019
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Golden mussel marseillevirus
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Fischerella sp. NIES-3754
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Paenibacillus sp. LPB0068
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Polaribacter vadi
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Candidatus Hoaglandella endobia
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Gemella sp. oral taxon 928
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Pseudomonas sp. L10.10
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Gammaproteobacteria bacterium TR3.2
+0,4.85E-07,3,pt1_day3.bam-centrifuge_report,Patient1,3,Enterobacter cloacae complex 'Hoffmann cluster IV'
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Tokyovirus A1
+0,1.62E-07,1,pt1_day3.bam-centrifuge_report,Patient1,3,Lachnoclostridium sp. YL32
+0,9.69E-07,6,pt1_day3.bam-centrifuge_report,Patient1,3,Enterobacter cloacae complex sp. 35734
+0,3.23E-07,2,pt1_day3.bam-centrifuge_report,Patient1,3,Spiroplasma sp. TU-14
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Buchnera aphidicola
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Planctopirus limnophila
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Isosphaera pallida
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Brachyspira hyodysenteriae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Campylobacter fetus
+0,2.42E-06,6,pt2_day1.bam-centrifuge_report,Patient2,1,Campylobacter jejuni
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Campylobacter lari
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Helicobacter pylori
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Comamonas testosteroni
+5.34E-07,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas aeruginosa
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas fluorescens
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas stutzeri
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas syringae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Burkholderia glumae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Xanthomonas citri
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Sinorhizobium meliloti
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Rhizobium phaseoli
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Neorhizobium galegae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Methylobacillus flagellatus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Methylomonas methanica
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Acetobacter pasteurianus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Gluconobacter oxydans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Legionella pneumophila
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Tatlockia micdadei
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Acinetobacter baumannii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Moraxella catarrhalis
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Neisseria gonorrhoeae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Kingella kingae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Beijerinckia indica
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Chromobacterium violaceum
+2.98E-74,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Citrobacter koseri
+1.14E-21,3.06E-05,76,pt2_day1.bam-centrifuge_report,Patient2,1,Citrobacter freundii
+0.056132,0.092862277,230476,pt2_day1.bam-centrifuge_report,Patient2,1,Klebsiella arogenes
+0,3.63E-06,9,pt2_day1.bam-centrifuge_report,Patient2,1,Pantoea agglomerans
+9.03E-38,0.000111205,276,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter cloacae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Erwinia amylovora
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Pantoea ananatis
+2.47E-06,7.25E-06,18,pt2_day1.bam-centrifuge_report,Patient2,1,Pectobacterium carotovorum
+1.03E-06,0.000163986,407,pt2_day1.bam-centrifuge_report,Patient2,1,Escherichia coli
+4.07E-88,6.45E-06,16,pt2_day1.bam-centrifuge_report,Patient2,1,Shimwellia blattae
+7.39E-82,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Escherichia fergusonii
+0,1.45E-05,36,pt2_day1.bam-centrifuge_report,Patient2,1,Hafnia alvei
+8.78E-06,0.00025988,645,pt2_day1.bam-centrifuge_report,Patient2,1,Klebsiella oxytoca
+0.000135072,0.001027837,2551,pt2_day1.bam-centrifuge_report,Patient2,1,Klebsiella pneumoniae
+3.36E-94,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Morganella morganii
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Providencia stuartii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Serratia liquefaciens
+9.18E-101,3.22E-06,8,pt2_day1.bam-centrifuge_report,Patient2,1,Serratia marcescens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Shigella dysenteriae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Shigella flexneri
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Xenorhabdus nematophila
+4.41E-18,3.34E-05,83,pt2_day1.bam-centrifuge_report,Patient2,1,Yersinia enterocolitica
+5.05E-06,6.04E-06,15,pt2_day1.bam-centrifuge_report,Patient2,1,Yersinia pestis
+4.55E-18,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Edwardsiella tarda
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Aeromonas hydrophila
+2.50E-06,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Aeromonas media
+0,3.63E-06,9,pt2_day1.bam-centrifuge_report,Patient2,1,Aeromonas veronii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Vibrio cholerae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Vibrio parahaemolyticus
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Vibrio vulnificus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Grimontia hollisae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Vibrio mimicus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Vibrio campbellii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Vibrio natriegens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Aggregatibacter actinomycetemcomitans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Actinobacillus pleuropneumoniae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Actinobacillus suis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Haemophilus influenzae
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Haemophilus parainfluenzae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,[Haemophilus] ducreyi
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Aggregatibacter aphrophilus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,[Haemophilus] parasuis
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Pasteurella multocida
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ehrlichia ruminantium
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bacteroides fragilis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Campylobacter gracilis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Wolinella succinogenes
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Fusobacterium nucleatum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Desulfovibrio africanus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Megasphaera elsdenii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ehrlichia canis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Selenomonas ruminantium
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Flavobacterium columnare
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Flexibacter litoralis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Marivirga tractuosa
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Saprospira grandis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Halorhodospira halophila
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Rhodopseudomonas palustris
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Blastochloris viridis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Synechocystis sp. PCC 6714
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Trichodesmium erythraeum
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Prochlorococcus marinus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Piscirickettsia salmonis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Leuconostoc gelidum
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Leuconostoc mesenteroides
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pediococcus pentosaceus
+0,3.63E-06,9,pt2_day1.bam-centrifuge_report,Patient2,1,Finegoldia magna
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ruminococcus albus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Micrococcus luteus
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Kytococcus sedentarius
+0.260848,0.249561225,619389,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus aureus
+4.01E-35,4.43E-06,11,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus carnosus
+7.46E-06,0.000110399,274,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus epidermidis
+3.29E-05,6.08E-05,151,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus haemolyticus
+7.38E-35,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus hyicus
+1.26E-31,5.24E-06,13,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus simulans
+5.73E-06,1.57E-05,39,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus xylosus
+4.78E-06,1.01E-05,25,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus warneri
+2.92E-44,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus schleiferi
+1.13E-05,4.03E-05,100,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus gordonii
+0.000116953,0.000522178,1296,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus oralis
+0,1.45E-05,36,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus salivarius
+2.84E-15,8.06E-06,20,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus sanguinis
+0,4.83E-06,12,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus suis
+0,6.04E-06,15,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus thermophilus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus mutans
+4.57E-16,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus agalactiae
+5.43E-05,0.000130142,323,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus pneumoniae
+0,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus pyogenes
+2.37E-05,7.82E-05,194,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus parasanguinis
+7.84E-17,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus anginosus
+1.07E-19,4.43E-06,11,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus dysgalactiae
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus equi
+0.000242517,8.46E-05,210,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus intermedius
+2.01E-19,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus iniae
+1.13E-19,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus parauberis
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Enterococcus faecalis
+1.90E-71,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Enterococcus faecium
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Enterococcus hirae
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Lactococcus lactis
+2.90E-85,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Lactococcus piscium
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Planococcus kocurii
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Aerococcus viridans
+0,3.63E-06,9,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus anthracis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Brevibacillus brevis
+0,3.63E-06,9,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus cereus
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus coagulans
+0,4.03E-06,10,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus megaterium
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus mycoides
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Paenibacillus polymyxa
+0,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus pumilus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Lysinibacillus sphaericus
+0,4.83E-06,12,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus subtilis
+0,7.25E-06,18,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus thuringiensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Amphibacillus xylanus
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus methanolicus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Sporosarcina psychrophila
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus smithii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium acetobutylicum
+0,4.43E-06,11,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium botulinum
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium butyricum
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium cellulovorans
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridioides difficile
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium formicaceticum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium pasteurianum
+0,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium perfringens
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium tetani
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ruminiclostridium thermocellum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Thermoanaerobacterium thermosaccharolyticum
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium tyrobutyricum
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium beijerinckii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium novyi
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium baratii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Desulfotomaculum nigrificans
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Halobacillus halophilus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus brevis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus casei
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus helveticus
+0,2.42E-06,6,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus plantarum
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus gasseri
+4.40E-45,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus reuteri
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus acetotolerans
+5.69E-06,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus fermentum
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus salivarius
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Listeria ivanovii
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Listeria monocytogenes
+2.15E-59,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Erysipelothrix rhusiopathiae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Trueperella pyogenes
+0,0.000105564,262,pt2_day1.bam-centrifuge_report,Patient2,1,Corynebacterium pseudotuberculosis
+7.13E-06,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Propionibacterium acnes
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Acidipropionibacterium acidipropionici
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Amycolatopsis methanolica
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Saccharopolyspora erythraea
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Frankia alni
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Actinoplanes missouriensis
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Streptomyces albus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Streptomyces hygroscopicus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Streptomyces lincolnensis
+0,1.77E-05,44,pt2_day1.bam-centrifuge_report,Patient2,1,Rothia dentocariosa
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma capricolum
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma genitalium
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma hyorhinis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma mycoides
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma synoviae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma arthritidis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma californicum
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma mobile
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma putrefaciens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma flocculare
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Spiroplasma taiwanense
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Methanosarcina barkeri
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Methanosarcina mazei
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylothermus marinus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Flexistipes sinusarabici
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Xylella fastidiosa
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Thermosipho africanus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Fervidobacterium nodosum
+6.17E-22,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Gardnerella vaginalis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Marinobacter hydrocarbonoclasticus
+0,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Carnobacterium maltaromaticum
+0.00153505,0.641635562,1592483,pt2_day1.bam-centrifuge_report,Patient2,1,Homo sapiens
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus phage EJ-1
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Bifidobacterium animalis
+1.41E-15,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Lysinibacillus fusiformis
+2.44E-05,4.03E-05,100,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus lugdunensis
+9.26E-05,0.000352551,875,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus mitis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus curvatus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Neisseria weaveri
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Bacteroides ovatus
+8.49E-06,1.21E-05,30,pt2_day1.bam-centrifuge_report,Patient2,1,Cronobacter sakazakii
+5.32E-99,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Serratia proteamaculans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Capnocytophaga canimorsus
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Arcobacter butzleri
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Arcobacter nitrofigilis
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Ornithobacterium rhinotracheale
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Clavibacter michiganensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Burkholderia pseudomallei
+9.85E-06,0.000140617,349,pt2_day1.bam-centrifuge_report,Patient2,1,Salmonella enterica
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Cellulosilyticum lentocellum
+3.87E-31,6.49E-05,161,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus saprophyticus
+4.65E-34,9.27E-06,23,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus capitis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Legionella oakridgensis
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Rhizobium etli
+3.37E-05,0.00011604,288,pt2_day1.bam-centrifuge_report,Patient2,1,Veillonella parvula
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pectobacterium atrosepticum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Yersinia aldovae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Yersinia frederiksenii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Yersinia ruckeri
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Photorhabdus luminescens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycoplasma canis
+0,0.003557338,8829,pt2_day1.bam-centrifuge_report,Patient2,1,Taylorella equigenitalis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Amycolatopsis orientalis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Achromobacter denitrificans
+8.82E-05,0.002683012,6659,pt2_day1.bam-centrifuge_report,Patient2,1,synthetic construct
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Parvimonas micra
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Sphingopyxis macrogoltabida
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Amycolatopsis mediterranei
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Geobacillus thermodenitrificans
+2.24E-40,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus johnsonii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Melissococcus plutonius
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Liberibacter africanus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Streptobacillus moniliformis
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Acholeplasma oculi
+3.97E-39,1.77E-05,44,pt2_day1.bam-centrifuge_report,Patient2,1,Citrobacter amalonaticus
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium saccharoperbutylacetonicum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycobacterium abscessus
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Nocardia brasiliensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Nocardia seriolae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Sinomonas atrocyanea
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bartonella henselae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Acholeplasma palmae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Methanococcus maripaludis
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,[Eubacterium] eligens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Erythrobacter litoralis
+2.57E-06,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Aliivibrio salmonicida
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Stenotrophomonas maltophilia
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Leptotrichia buccalis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Actinosynnema mirum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Xenorhabdus bovienii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Xenorhabdus poinarii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Halobacteroides halobius
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ammonifex degensii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas alcaligenes
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas denitrificans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Kutzneria albida
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Paenarthrobacter aurescens
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Jonesia denitrificans
+0.00138859,0.003727771,9252,pt2_day1.bam-centrifuge_report,Patient2,1,Rothia mucilaginosa
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Rhodococcus equi
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Corynebacterium urealyticum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Caldicellulosiruptor saccharolyticus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Capnocytophaga haemolytica
+0,5.24E-06,13,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus cristatus
+2.59E-14,5.64E-06,14,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus pasteuri
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Spiroplasma kunkelii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Novosphingobium aromaticivorans
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Wigglesworthia glossinidia
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Aerococcus urinaeequi
+0,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Tetragenococcus halophilus
+0,3.63E-06,9,pt2_day1.bam-centrifuge_report,Patient2,1,Enterococcus durans
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Enterococcus mundtii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Nocardiopsis alba
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Acidimicrobium ferrooxidans
+7.20E-06,0.000107175,266,pt2_day1.bam-centrifuge_report,Patient2,1,Raoultella ornithinolytica
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Streptomyces venezuelae
+1.21E-17,2.42E-06,6,pt2_day1.bam-centrifuge_report,Patient2,1,Salmonella bongori
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Deinococcus proteolyticus
+6.04E-98,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pectobacterium wasabiae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Xanthomonas sacchari
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Colwellia sp. MT41
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus macedonicus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Dehalococcoides mccartyi
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Acholeplasma brassicae
+5.68E-06,0.000166001,412,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter asburiae
+3.75E-87,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Lelliottia amnigena
+0.000311716,0.000155525,386,pt2_day1.bam-centrifuge_report,Patient2,1,Pluralibacter gergoviae
+1.13E-82,4.03E-06,10,pt2_day1.bam-centrifuge_report,Patient2,1,Kluyvera intermedia
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Borreliella valaisiana
+0,4.83E-06,12,pt2_day1.bam-centrifuge_report,Patient2,1,Shewanella baltica
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Zobellia galactanivorans
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Sodalis glossinidius
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Cyanothece sp. PCC 7424
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Lachnoclostridium phytofermentans
+1.67E-81,1.33E-05,33,pt2_day1.bam-centrifuge_report,Patient2,1,Citrobacter rodentium
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Deinococcus geothermalis
+3.07E-75,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Macrococcus caseolyticus
+0,4.03E-06,10,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus condimenti
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Shewanella pealeana
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage PVL
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Waddlia chondrophila
+0,2.42E-06,6,pt2_day1.bam-centrifuge_report,Patient2,1,Kocuria palustris
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas balearica
+0,3.63E-06,9,pt2_day1.bam-centrifuge_report,Patient2,1,Mannheimia haemolytica
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Roseateles depolymerans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas monteilii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Myroides odoratimimus
+0,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Solibacillus silvestris
+1.39E-05,4.03E-06,10,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus constellatus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Erwinia pyrifoliae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Wolbachia endosymbiont of Brugia malayi
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Moritella viscosa
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Acidovorax citrulli
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pragia fontium
+1.83E-06,1.09E-05,27,pt2_day1.bam-centrifuge_report,Patient2,1,Serratia plymuthica
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Chlamydia felis
+1.58E-80,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Leclercia adecarboxylata
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium autoethanogenum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Cryptobacterium curtum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Brachyspira murdochii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Synechococcus sp. WH 8102
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Taylorella asinigenitalis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Beutenbergia cavernae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudarthrobacter chlorophenolicus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mannheimia varigena
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,[Bacillus] selenitireducens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,endosymbiont of Acanthamoeba sp. UWC8
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Paracaedibacter acanthamoebae
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Portiera aleyrodidarum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Edwardsiella hoshinae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Dyadobacter fermentans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ferroplasma acidarmanus
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus sp. OxB-1
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Calothrix sp. PCC 7507
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Onion yellows phytoplasma
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ralstonia mannitolilytica
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Cupriavidus necator
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Thioalkalivibrio versutus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Acinetobacter nosocomialis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycobacterium vanbaalenii
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Methylobacterium nodulans
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Aerococcus sanguinicola
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus prophage phiPV83
+1.44E-14,1.49E-05,37,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage Slt
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Kineococcus radiotolerans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Olsenella uli
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,secondary endosymbiont of Heteropsylla cubana
+0,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus endophyticus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Blastococcus saxobsidens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Desulfitobacterium metallireducens
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,[Eubacterium] sulci
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudopedobacter saltans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Chloroflexus aggregans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Methanothermococcus okinawensis
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,[Mannheimia] succiniciproducens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Chromohalobacter salexigens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Hahella chejuensis
+1.51E-06,1.45E-05,36,pt2_day1.bam-centrifuge_report,Patient2,1,Cedecea neteri
+0.00014779,0.000332808,826,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter hormaechei
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Paenibacillus terrae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Planococcus antarcticus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Paenibacillus naphthalenovorans
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Weissella koreensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,uncultured Termite group 1 bacterium
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium saccharobutylicum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Elizabethkingia miricola
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Leptospirillum ferriphilum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Erwinia billingiae
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Oceanobacillus iheyensis
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Thermodesulfobium narugense
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage Phi12
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Sneathia amnii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Acidaminococcus intestini
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Pediococcus claussenii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Thalassolituus oleivorans
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Ralstonia insidiosa
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Vibrio coralliilyticus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Nocardioides sp. JS614
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Deferribacter desulfuricans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas koreensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Dickeya dadantii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Dickeya zeae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Alkaliphilus metalliredigens
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Carnobacterium sp. 17-4
+1.75E-85,6.85E-06,17,pt2_day1.bam-centrifuge_report,Patient2,1,Escherichia albertii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycobacterium sp. JS623
+6.06E-06,6.85E-06,17,pt2_day1.bam-centrifuge_report,Patient2,1,Erwinia sp. Ejp617
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Spiroplasma helicoides
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium carboxidivorans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Methanobrevibacter millerae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Belliella baltica
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Desulfitobacterium dichloroeliminans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Midichloria mitochondrii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus paracollinoides
+3.66E-05,0.000190982,474,pt2_day1.bam-centrifuge_report,Patient2,1,Klebsiella variicola
+9.45E-48,4.83E-06,12,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus equorum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mahella australiensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Paraburkholderia phenoliruptrix
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ethanoligenens harbinense
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Fictibacillus arsenicus
+0,2.42E-06,6,pt2_day1.bam-centrifuge_report,Patient2,1,Klebsiella phage phiKO2
+0,2.42E-06,6,pt2_day1.bam-centrifuge_report,Patient2,1,Glutamicibacter arilaitensis
+1.30E-05,6.77E-05,168,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus pseudopneumoniae
+0,1.41E-05,35,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage 77
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Campylobacter insulaenigrae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Psychrobacter alimentarius
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Paraburkholderia phytofirmans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Collimonas arenae
+6.71E-06,1.81E-05,45,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus pseudintermedius
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Arthrobacter sp. FB24
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Flavonifractor plautii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Methanobrevibacter olleyae
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Anoxybacillus amylolyticus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Frankia sp. EAN1pec
+1.09E-43,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter ludwigii
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus lehensis
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Persephonella marina
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Advenella kashmirensis
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Polaribacter sp. MED152
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Psychromonas sp. CNPT3
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Spiroplasma eriocheiris
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus gallolyticus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Syntrophus aciditrophicus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Nostoc sp. PCC 7107
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Cyclobacterium amurskyense
+0,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage 42E
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage 47
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage 29
+0,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage 52A
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Nonlabens dokdonensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Solibacter usitatus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Thermovirga lienii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Erwinia tasmaniensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Micavibrio aeruginosavorus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage Pvl108
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Exiguobacterium sp. AT1b
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Spiroplasma cantharicola
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pelosinus fermentans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Paenibacillus sabinae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Rivularia sp. PCC 7116
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Synechococcus sp. PCC 73109
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Thermobacillus composti
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Cyanobacterium aponinum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Glossina pallidipes salivary gland hypertrophy virus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Cycloclasticus sp. P1
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage phiNM3
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ehrlichia sp. HF
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Sphingomonas sanxanigenens
+1.85E-42,4.03E-06,10,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter sp. 638
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Marinomonas sp. MWYL1
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Virgibacillus sp. SK37
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Alicyclobacillus acidocaldarius
+8.63E-06,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Salinicoccus halodurans
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Gramella forsetii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Microterricola viridarii
+6.67E-79,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Cronobacter dublinensis
+4.12E-92,4.43E-06,11,pt2_day1.bam-centrifuge_report,Patient2,1,Cronobacter muytjensii
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Cronobacter turicensis
+2.65E-06,1.61E-05,40,pt2_day1.bam-centrifuge_report,Patient2,1,Cronobacter malonaticus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Caldicellulosiruptor hydrothermalis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudoxanthomonas spadix
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Elusimicrobium minutum
+1.01E-16,7.66E-06,19,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage phi2958PVL
+0,4.83E-06,12,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage tp310-2
+1.25E-41,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage tp310-3
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Kocuria flava
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Desulfarculus baarsii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Agromyces sp. AR33
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Bdellovibrio exovorus
+0,6.45E-06,16,pt2_day1.bam-centrifuge_report,Patient2,1,Pantoea vagans
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Nitrosococcus watsonii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Pelosinus sp. UFO1
+4.23E-98,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Serratia sp. SCBI
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus velezensis
+4.52E-06,6.85E-06,17,pt2_day1.bam-centrifuge_report,Patient2,1,Kosakonia oryzae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Eggerthella sp. YY7918
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Rhodoluna lacicola
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Cronobacter universalis
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus phage PH15
+0,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Actinomyces oris
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Aromatoleum aromaticum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Luteipulveratus mongoliensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Corynebacterium mustelae
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Thermoanaerobacter sp. X513
+0,1.17E-05,29,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage Ipla35
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus cytotoxicus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Terribacillus aidingensis
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas chlororaphis
+5.48E-101,5.24E-06,13,pt2_day1.bam-centrifuge_report,Patient2,1,Pantoea sp. At-9b
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Allofrancisella guangzhouensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus koreensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Burkholderia sp. CCGE1001
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus phage PH10
+0.000273196,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage phiPVL-CN125
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Kosmotoga olearia
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Arthrobacter alpinus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Halanaerobium hydrogeniformans
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus oceanisediminis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Rhodanobacter denitrificans
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus sp. 1NLA3E
+0,9.67E-06,24,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage P954
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Cryobacterium arcticum
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Caldisericum exile
+2.52E-06,1.13E-05,28,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacteriaceae bacterium strain FGI 57
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Escherichia phage K1-dep(1)
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Leptotrichia sp. oral taxon 212
+3.61E-05,2.86E-05,71,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus sp. oral taxon 431
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Selenomonas sp. oral taxon 136
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Caldicellulosiruptor obsidiansis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,cyanobacterium endosymbiont of Epithemia turgida
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Sphingobacterium sp. 21
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Burkholderia sp. RPE67
+0,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Weissella ceti
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Serratia sp. AS12
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Cupriavidus sp. USMAA2-4
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Methanobacterium lacus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mageeibacillus indolicus
+4.84E-16,6.85E-06,17,pt2_day1.bam-centrifuge_report,Patient2,1,Plautia stali symbiont
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Granulicella tundricola
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Leuconostoc sp. C2
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Glaciecola sp. 4H-3-7+YE-5
+5.59E-05,0.000172448,428,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus argenteus
+2.63E-34,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus agnetis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Kinetoplastibacterium desouzaii
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Defluviitoga tunisiensis
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus ginsenosidimutans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Moranella endobia
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Gullanella endobia
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Corynebacterium uterequi
+4.30E-06,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus heilongjiangensis
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Pantoea rwandensis
+0,5.56E-05,138,pt2_day1.bam-centrifuge_report,Patient2,1,Klebsiella michiganensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lysinibacillus varians
+1.48E-05,4.43E-06,11,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus sp. I-G2
+6.74E-12,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus sp. I-P16
+5.48E-86,6.85E-06,17,pt2_day1.bam-centrifuge_report,Patient2,1,Kosakonia sacchari
+1.60E-92,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Cronobacter condimenti
+0,1.05E-05,26,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage phi7401PVL
+1.01E-43,3.22E-06,8,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter sp. R4-368
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Draconibacterium orientale
+0.195974,1.01E-05,25,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage SMSAP5
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Paenibacillus swuensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Deinococcus swuensis
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Mesotoga prima
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus hokkaidonensis
+0,4.83E-06,12,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage StauST398-3
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Gilliamella apicola
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,secondary endosymbiont of Ctenarytaina eucalypti
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Planococcus halocryophilus
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Clostridium bornimense
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Fictibacillus phosphorivorans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Corynebacterium humireducens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,endosymbiont of unidentified scaly snail isolate Monju
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudohongiella spirulinae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas sp. FGI182
+0,9.67E-06,24,pt2_day1.bam-centrifuge_report,Patient2,1,Edwardsiella piscicida
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Endolissoclinum faulkneri
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage JS01
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bradyrhizobium icense
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage StauST398-2
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas sp. URMO17WK12:I11
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Photobacterium gaetbulicola
+2.59E-06,4.43E-06,11,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter xiangfangensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Myxococcus hansupus
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage StauST398-4
+5.03E-06,1.81E-05,45,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter lignolyticus
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Defluviimonas alba
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage SA12
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudoalteromonas sp. OCN003
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Aureimonas sp. AU20
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Hymenobacter sp. APR13
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Cupriavidus sp. USMAHM13
+0,3.63E-06,9,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage YMC/09/04/R1988
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bacteroidales bacterium CF
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Geosporobacter ferrireducens
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mannheimia sp. USDA-ARS-USMARC-1261
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Methanosarcina sp. Kolksee
+0,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Vibrio tritonius
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Symbiobacter mobilis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Ectothiorhodospira sp. BSL-9
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus phage IC1
+6.72E-06,2.62E-05,65,pt2_day1.bam-centrifuge_report,Patient2,1,Klebsiella quasipneumoniae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Zhongshania aliphaticivorans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Hymenobacter sp. PAMC 26554
+2.41E-06,2.01E-05,50,pt2_day1.bam-centrifuge_report,Patient2,1,Pantoea sp. PSNIH2
+3.78E-96,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Candidatus Sodalis pierantonius
+0,2.42E-06,6,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage phiSa119
+0.477366,9.27E-05,230,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage 23MRA
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Jeotgalibacillus malaysiensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Erysipelothrix sp. LV19
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage phiBU01
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Paenibacillus sp. FSL P4-0081
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Treponema sp. OMZ 838
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Lactobacillus sp. wkB8
+2.73E-43,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter sp. E20
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Sphingomonas panacis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Mycobacterium sp. QIA-37
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Fermentimonas caenicola
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Carnobacterium sp. CP1
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Edwardsiella sp. EA181011
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Fusobacterium hwasookii
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas cerasi
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Erwinia gerundensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Lutibacter sp. LP1
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Maribacter sp. 1_2014MBL_MicDiv
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Acinetobacter sp. TTH0-4
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Anabaena sp. wa102
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas sp. CCOS 191
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Arthrobacter sp. YC-RL1
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage vB_SauS_phi2
+4.62E-44,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter sp. FY-07
+6.29E-15,1.53E-05,38,pt2_day1.bam-centrifuge_report,Patient2,1,Citrobacter sp. FDAARGOS_156
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Arthrobacter sp. ERGS1:01
+0,3.63E-06,9,pt2_day1.bam-centrifuge_report,Patient2,1,Turicibacter sp. H121
+1.44E-52,1.97E-05,49,pt2_day1.bam-centrifuge_report,Patient2,1,Klebsiella sp. G5
+6.66E-06,1.17E-05,29,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus sp. AntiMn-1
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Chryseobacterium sp. IHB B 17019
+5.13E-14,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Staphylococcus phage SPbeta-like
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Burkholderia sp. Bp7605
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Marinobacter sp. LQ44
+0,1.21E-06,3,pt2_day1.bam-centrifuge_report,Patient2,1,Kurthia sp. 11kri321
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Streptomyces sp. 4F
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Serinicoccus sp. JLT9
+2.79E-17,6.85E-06,17,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus sp. A12
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Thalassotalea sp. LPB0090
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Paenibacillus sp. LPB0068
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Pseudomonas sp. MS586
+2.71E-05,8.06E-05,200,pt2_day1.bam-centrifuge_report,Patient2,1,Gemella sp. oral taxon 928
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Acinetobacter sp. BRTC-1
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Microbacterium sp. PAMC 28756
+1.17E-42,2.82E-06,7,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter cloacae complex 'Hoffmann cluster IV'
+0,8.06E-07,2,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus halotolerans
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Edwardsiella anguillarum
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus marmotae
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus sp. IHB B 7164
+5.34E-06,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter sp. ODB01
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Burkholderiales bacterium YL45
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus sp. FJAT-14266
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Opitutaceae bacterium IG16b
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Streptomyces sp. RTd22
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Blastomonas sp. RAC04
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Arthrobacter sp. U41
+1.28E-43,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter sp. HK169
+1.23E-05,1.17E-05,29,pt2_day1.bam-centrifuge_report,Patient2,1,Enterobacter cloacae complex sp. 35734
+0,1.61E-06,4,pt2_day1.bam-centrifuge_report,Patient2,1,Streptococcus himalayensis
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Sulfolobus sp. A20
+0,4.03E-07,1,pt2_day1.bam-centrifuge_report,Patient2,1,Bacillus sp. ABP14
+7.90E-06,6.85E-06,17,pt2_day1.bam-centrifuge_report,Patient2,1,Klebsiella sp. LTGPAF-6F
+0,2.01E-06,5,pt2_day1.bam-centrifuge_report,Patient2,1,Pectobacterium parmentieri
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Runella slithyformis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Treponema denticola
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Treponema succinifaciens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Leptospira biflexa
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Leptospira interrogans
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Campylobacter fetus
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Campylobacter concisus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Pseudoalteromonas haloplanktis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Francisella tularensis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Pseudoalteromonas atlantica
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Bradyrhizobium japonicum
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Neorhizobium galegae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methylobacillus flagellatus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methylobacterium extorquens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Legionella longbeachae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Tatlockia micdadei
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Kingella kingae
+3.46E-18,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Citrobacter koseri
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Citrobacter freundii
+0.0803953,0.001551509,3369,pt2_day3.bam-centrifuge_report,Patient2,3,Klebsiella arogenes
+0,3.22E-06,7,pt2_day3.bam-centrifuge_report,Patient2,3,Enterobacter cloacae
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Pectobacterium carotovorum
+3.06E-20,2.76E-06,6,pt2_day3.bam-centrifuge_report,Patient2,3,Escherichia coli
+0,5.99E-06,13,pt2_day3.bam-centrifuge_report,Patient2,3,Klebsiella oxytoca
+0.000462371,1.84E-05,40,pt2_day3.bam-centrifuge_report,Patient2,3,Klebsiella pneumoniae
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Yersinia enterocolitica
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Aeromonas veronii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Grimontia hollisae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Haemophilus parainfluenzae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Aggregatibacter aphrophilus
+0,1.38E-06,3,pt2_day3.bam-centrifuge_report,Patient2,3,Bacteroides fragilis
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Bacteroides thetaiotaomicron
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Parabacteroides distasonis
+5.10E-13,4.61E-06,10,pt2_day3.bam-centrifuge_report,Patient2,3,Porphyromonas gingivalis
+0,1.84E-06,4,pt2_day3.bam-centrifuge_report,Patient2,3,Prevotella ruminicola
+0,1.38E-06,3,pt2_day3.bam-centrifuge_report,Patient2,3,Fusobacterium nucleatum
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Cellulophaga lytica
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Cytophaga hutchinsonii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Flavobacterium johnsoniae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Marivirga tractuosa
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Rhodobacter capsulatus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Rhodospirillum rubrum
+0,3.22E-06,7,pt2_day3.bam-centrifuge_report,Patient2,3,Finegoldia magna
+0.0184887,0.000217368,472,pt2_day3.bam-centrifuge_report,Patient2,3,Staphylococcus aureus
+0.000611233,4.61E-06,10,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus oralis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus thermophilus
+0,1.84E-06,4,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus pneumoniae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus pyogenes
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus parasanguinis
+0,1.38E-06,3,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus anginosus
+0.00365838,2.35E-05,51,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus intermedius
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus uberis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Enterococcus faecalis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Lactococcus lactis
+0,1.84E-06,4,pt2_day3.bam-centrifuge_report,Patient2,3,Atopobium parvulum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Bacillus cereus
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Bacillus mycoides
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Paenibacillus polymyxa
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Bacillus thuringiensis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium acetobutylicum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium cellulovorans
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridioides difficile
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium formicaceticum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium pasteurianum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium perfringens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium kluyveri
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium scatologenes
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Gottschalkia acidurici
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium baratii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Lactobacillus gasseri
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Lactobacillus reuteri
+0,0.000105921,230,pt2_day3.bam-centrifuge_report,Patient2,3,Corynebacterium pseudotuberculosis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Thermodesulfobacterium commune
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Streptomyces reticuli
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methanococcus voltae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methanosarcina barkeri
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methanosarcina mazei
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methanosarcina thermophila
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Archaeoglobus fulgidus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Halanaerobium praevalens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Thermosipho africanus
+0,1.38E-06,3,pt2_day3.bam-centrifuge_report,Patient2,3,Gardnerella vaginalis
+0.207787,0.991502854,2152984,pt2_day3.bam-centrifuge_report,Patient2,3,Homo sapiens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Staphylococcus lugdunensis
+0.000769805,2.76E-06,6,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus mitis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Alteromonas macleodii
+0.00389263,1.06E-05,23,pt2_day3.bam-centrifuge_report,Patient2,3,Tannerella forsythia
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Bacteroides ovatus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Porphyromonas asaccharolytica
+0.00140533,3.78E-05,82,pt2_day3.bam-centrifuge_report,Patient2,3,Prevotella denticola
+0.000880839,2.67E-05,58,pt2_day3.bam-centrifuge_report,Patient2,3,Prevotella intermedia
+0.000377875,7.60E-05,165,pt2_day3.bam-centrifuge_report,Patient2,3,Prevotella melaninogenica
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Cronobacter sakazakii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Arcobacter nitrofigilis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Ornithobacterium rhinotracheale
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Thermodesulfovibrio yellowstonii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clavibacter michiganensis
+1.93E-12,4.14E-06,9,pt2_day3.bam-centrifuge_report,Patient2,3,Salmonella enterica
+0.000561509,2.76E-06,6,pt2_day3.bam-centrifuge_report,Patient2,3,Veillonella parvula
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Photorhabdus luminescens
+0,0.003389003,7359,pt2_day3.bam-centrifuge_report,Patient2,3,Taylorella equigenitalis
+0.000272249,0.002757163,5987,pt2_day3.bam-centrifuge_report,Patient2,3,synthetic construct
+0,2.30E-06,5,pt2_day3.bam-centrifuge_report,Patient2,3,Anaerococcus prevotii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Riemerella anatipestifer
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Streptobacillus moniliformis
+2.06E-17,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Citrobacter amalonaticus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium saccharoperbutylacetonicum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methanosarcina siciliae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,[Eubacterium] eligens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,[Eubacterium] rectale
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Kutzneria albida
+0,3.68E-06,8,pt2_day3.bam-centrifuge_report,Patient2,3,Rothia mucilaginosa
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Psychrobacter urativorans
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Cercopithecine herpesvirus 5
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Wigglesworthia glossinidia
+0,8.29E-06,18,pt2_day3.bam-centrifuge_report,Patient2,3,Prevotella dentalis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Caldicellulosiruptor lactoaceticus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Pyrococcus horikoshii
+0,1.84E-06,4,pt2_day3.bam-centrifuge_report,Patient2,3,Raoultella ornithinolytica
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Psychroflexus torquis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Cellulophaga algicola
+0,2.30E-06,5,pt2_day3.bam-centrifuge_report,Patient2,3,Enterobacter asburiae
+0.00043617,1.84E-06,4,pt2_day3.bam-centrifuge_report,Patient2,3,Pluralibacter gergoviae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Desulfurobacterium thermolithotrophum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Halothece sp. PCC 7418
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Mycoplasma wenyonii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Lachnoclostridium phytofermentans
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methanocaldococcus vulcanius
+0,2.30E-06,5,pt2_day3.bam-centrifuge_report,Patient2,3,Mannheimia haemolytica
+0.00048283,2.58E-05,56,pt2_day3.bam-centrifuge_report,Patient2,3,Prevotella enoeca
+0,1.38E-06,3,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus constellatus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Helicobacter typhlonius
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Chitinophaga pinensis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Bacillus pseudofirmus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Aminobacterium colombiense
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Serratia plymuthica
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Archaeoglobus profundus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Brachyspira murdochii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Fervidobacterium pennivorans
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Burkholderia cenocepacia
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Flavobacterium psychrophilum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Opitutus terrae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Thermoanaerobacter italicus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Rickettsia monacensis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Leptolyngbya sp. PCC 7376
+0,1.38E-06,3,pt2_day3.bam-centrifuge_report,Patient2,3,Mycoplasma haemocanis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Lactobacillus kunkeei
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Pseudoalteromonas issachenkonii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Kozakia baliensis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,[Mannheimia] succiniciproducens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Cedecea neteri
+0,3.22E-06,7,pt2_day3.bam-centrifuge_report,Patient2,3,Enterobacter hormaechei
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Paenibacillus terrae
+0.67698,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Human endogenous retrovirus K113
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Thermobaculum terrenum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Elizabethkingia miricola
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Pedobacter cryoconitis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Deferribacter desulfuricans
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Polaromonas naphthalenivorans
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methanobrevibacter millerae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Rummeliibacillus stabekisii
+0.000111105,1.84E-06,4,pt2_day3.bam-centrifuge_report,Patient2,3,Klebsiella variicola
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Bacteroides cellulosilyticus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Fictibacillus arsenicus
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Streptococcus pseudopneumoniae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Bacillus muralis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Shewanella halifaxensis
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Nostoc punctiforme
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Pseudoalteromonas sp. Bsw20308
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Flavonifractor plautii
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Emticicia oligotrophica
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Croceibacter atlanticus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Dokdonia sp. MED134
+0.000901796,4.14E-06,9,pt2_day3.bam-centrifuge_report,Patient2,3,Bacteroides dorei
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Exiguobacterium sp. AT1b
+0.000277863,2.30E-06,5,pt2_day3.bam-centrifuge_report,Patient2,3,Bacteroides salanitronis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Protochlamydia naegleriophila
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Zunongwangia profunda
+0,1.38E-06,3,pt2_day3.bam-centrifuge_report,Patient2,3,Pontibacter korlensis
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Pedobacter steynii
+0,1.38E-06,3,pt2_day3.bam-centrifuge_report,Patient2,3,Bdellovibrio exovorus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Steroidobacter denitrificans
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Paenibacillus sp. Y412MC10
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Kosakonia oryzae
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methylacidiphilum infernorum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Rufibacter tibetensis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Bacillus cytotoxicus
+0.00124712,4.65E-05,101,pt2_day3.bam-centrifuge_report,Patient2,3,Prevotella fusca
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Ignavibacterium album
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Mesorhizobium opportunistum
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Burkholderia sp. CCGE1003
+0,2.30E-05,50,pt2_day3.bam-centrifuge_report,Patient2,3,Prevotella sp. oral taxon 299
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Candidatus Profftella armatura
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Tannerella sp. oral taxon HOT-286
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Winogradskyella sp. PG-2
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Clostridium sp. BNL1100
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,alpha proteobacterium HIMB5
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Arcobacter sp. L
+0,2.30E-06,5,pt2_day3.bam-centrifuge_report,Patient2,3,Dokdonia sp. 4H-3-7-5
+7.33E-13,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Staphylococcus argenteus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Pusillimonas sp. T7-7
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Lactobacillus heilongjiangensis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Sphaerochaeta pleomorpha
+0,1.38E-06,3,pt2_day3.bam-centrifuge_report,Patient2,3,Klebsiella michiganensis
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Lysinibacillus varians
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Moorea producens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Cronobacter condimenti
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Microcoleus sp. PCC 7113
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Flammeovirga sp. MY04
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Janthinobacterium sp. B9-8
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Flammeovirgaceae bacterium 311
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Methanocaldococcus bathoardescens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Sphingobium sp. TKS
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Enterobacter lignolyticus
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Bradyrhizobium diazoefficiens
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Mycobacterium phage Phelemich
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Geosporobacter ferrireducens
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Gynuella sunshinyii
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Pantoea sp. PSNIH1
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Staphylococcus phage 23MRA
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Francisella sp. FSC1006
+0,9.21E-07,2,pt2_day3.bam-centrifuge_report,Patient2,3,Bacillus sp. X1(2014)
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Sulfurospirillum sp. UCH001
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Geminocystis sp. NIES-3708
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Petrimonas mucosa
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Pseudomonas sp. CCOS 191
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Leptospirillum sp. Group II 'CF-1'
+0,1.84E-06,4,pt2_day3.bam-centrifuge_report,Patient2,3,Citrobacter sp. FDAARGOS_156
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Algibacter alginolytica
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Nostoc sp. NIES-3756
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Fischerella sp. NIES-3754
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Gemella sp. oral taxon 928
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Wenyingzhuangia fucanilytica
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Erysipelotrichaceae bacterium I46
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Sulfolobus sp. A20
+0,4.61E-07,1,pt2_day3.bam-centrifuge_report,Patient2,3,Actinomyces sp. VUL4_3

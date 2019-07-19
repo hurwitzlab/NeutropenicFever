@@ -20,17 +20,22 @@ torque_data$tax_name <- 'Torque teno virus'
 torque_data
 
 Pseudo_data <- data_host %>% filter(grepl("Pseudomonas", tax_name, fixed = TRUE) & 
-                                      !grepl("Pseudomonas phage", tax_name, fixed = TRUE)) %>% group_by(sample, technique) %>% summarise(abundance = sum(abundance), pct=sum(pct))
+                               !grepl("Pseudomonas phage", tax_name, fixed = TRUE)) %>% group_by(sample, technique) %>% summarise(abundance = sum(abundance), pct=sum(pct))
 Pseudo_data$tax_name <- 'Pseudomonas sp.'
 
 other_hits<- data_host %>% filter(!grepl("Pseudomonas", tax_name, fixed = TRUE) & 
-                                    !grepl("Torque teno", tax_name, fixed = TRUE)) %>% select(sample,technique,
-                                                                                              abundance, tax_name, pct)
+                             !grepl("Torque teno", tax_name, fixed = TRUE)) %>% select(sample,technique,
+                                                                                       abundance, tax_name, pct)
 
 
 some_data<-bind_rows(Pseudo_data, torque_data)
 plot_data<-bind_rows(other_hits, some_data)
-filter_nf <-plot_data %>% filter(abundance >= 0.01 & pct >=0.002)
+
+fp <- c("Taylorella equigenitalis","synthetic construct",
+        "Streptococcus thermophilus","Lactococcus lactis",
+        "Propionibacterium acnes")
+filter_nf <-plot_data %>% filter(abundance >= 0.01 & pct >=0.0001)%>%mutate(proportion=abundance*100) %>% filter(!tax_name %in% fp)
+
 
 
 bplot_host = ggplot(filter_nf, aes(x=sample, y=tax_name)) + 
@@ -52,6 +57,7 @@ panel <- bplot_host +
   facet_grid(. ~ technique, scales="free_y",space="free")
 panel
 
-out_file="S1File_Fig1B.png"
+out_file="S1File_Fig1.png"
 ggsave(out_file, width = 30, height = 15, units = "cm")
+
 
